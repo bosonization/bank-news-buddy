@@ -19,6 +19,9 @@ import feedparser
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "news.json"
 JST = timezone(timedelta(hours=9))
+RECENT_DAYS = 2
+MAX_AGE_HOURS = RECENT_DAYS * 24
+
 
 QUERIES = {
     "メガバンク": [
@@ -115,14 +118,28 @@ def clean_html(text: str) -> str:
     return text
 
 
-def parse_date(entry: Any) -> str:
+def parse_datetime(entry: Any) -> datetime | None:
     raw = getattr(entry, "published", "") or getattr(entry, "updated", "")
     if not raw:
-        return ""
+        return None
     try:
-        return parsedate_to_datetime(raw).astimezone(JST).strftime("%Y-%m-%d %H:%M")
+        return parsedate_to_datetime(raw).astimezone(JST)
     except Exception:
-        return raw
+        return None
+
+
+def parse_date(entry: Any) -> str:
+    dt = parse_datetime(entry)
+    if dt:
+        return dt.strftime("%Y-%m-%d %H:%M")
+    return getattr(entry, "published", "") or getattr(entry, "updated", "") or ""
+
+
+def age_hours(dt: datetime | None, now: datetime | None = None) -> float | None:
+    if not dt:
+        return None
+    now = now or datetime.now(JST)
+    return max(0.0, (now - dt).total_seconds() / 3600)
 
 
 def get_source(entry: Any) -> str:
@@ -242,6 +259,93 @@ def build_analysis(signals: List[str], category: str) -> Dict[str, str]:
     }
 
 
+def normalize_topic_title(title: str) -> str:
+    text = title.lower()
+    text = re.sub(r"（[^）]*）|\([^)]*\)|【[^】]*】|\"[^\"]*\"", " ", text)
+    text = re.sub(r"[｜|].*$", " ", text)
+    text = re.sub(r"(ニュース|速報|発表|開始|実証|導入|検討|提供|サービス|について|株式会社|銀行|日本|国内|向け)", " ", text)
+    text = re.sub(r"[^0-9a-zぁ-んァ-ン一-龥]+", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def topic_tokens(title: str) -> set[str]:
+    text = normalize_topic_title(title)
+    tokens = {t for t in text.split() if len(t) >= 2}
+    compact = text.replace(" ", "")
+    for n in (2, 3, 4):
+        for i in range(max(0, len(compact) - n + 1)):
+            gram = compact[i:i+n]
+            if re.search(r"[一-龥ァ-ンぁ-んa-z0-9]", gram):
+                tokens.add(gram)
+    return tokens
+
+
+def similarity(a: str, b: str) -> float:
+    ta, tb = topic_tokens(a), topic_tokens(b)
+    if not ta or not tb:
+        return 0.0
+    return len(ta & tb) / max(1, len(ta | tb))
+
+
+def item_datetime(item: Dict[str, Any]) -> datetime | None:
+    raw = item.get("published") or ""
+    try:
+        return datetime.strptime(raw, "%Y-%m-%d %H:%M").replace(tzinfo=JST)
+    except Exception:
+        return None
+
+
+def mark_and_keep_recent(item: Dict[str, Any], now: datetime) -> bool:
+    dt = item_datetime(item)
+    if dt is None:
+        item["age_hours"] = None
+        item["is_recent"] = True
+        return True
+    age = age_hours(dt, now)
+    item["age_hours"] = round(age, 1)
+    item["is_recent"] = age <= MAX_AGE_HOURS
+    return item["is_recent"]
+
+
+def merge_duplicate_topics(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    groups: List[Dict[str, Any]] = []
+    for item in items:
+        norm = normalize_topic_title(item["title"])
+        placed = False
+        for group in groups:
+            if norm == group["norm"] or similarity(item["title"], group["items"][0]["title"]) >= 0.42:
+                group["items"].append(item)
+                placed = True
+                break
+        if not placed:
+            groups.append({"norm": norm, "items": [item]})
+
+    merged = []
+    for group in groups:
+        candidates = group["items"]
+        candidates.sort(key=lambda x: (x.get("published", ""), x.get("importance", 0)), reverse=True)
+        main = candidates[0]
+        if len(candidates) > 1:
+            sources, tags, signals = [], [], []
+            for c in candidates:
+                if c.get("source") and c["source"] not in sources:
+                    sources.append(c["source"])
+                tags.extend(c.get("tags", []))
+                signals.extend(c.get("signals", []))
+            main["duplicate_count"] = len(candidates)
+            main["related_sources"] = sources[:5]
+            main["tags"] = list(dict.fromkeys(tags))[:8]
+            main["signals"] = list(dict.fromkeys(signals))
+            main["importance"] = max(c.get("importance", 0) for c in candidates)
+        else:
+            main["duplicate_count"] = 1
+            main["related_sources"] = [main.get("source", "")] if main.get("source") else []
+        merged.append(main)
+    return merged
+
+
+
 def item_id(title: str, url: str) -> str:
     return hashlib.sha1((title + url).encode("utf-8")).hexdigest()[:16]
 
@@ -276,24 +380,36 @@ def fetch_category(category: str, queries: List[str], limit_per_query: int = 8) 
 
 def main() -> None:
     all_items = []
+    now = datetime.now(JST)
     for category, queries in QUERIES.items():
         all_items.extend(fetch_category(category, queries))
 
-    # de-duplicate by title/url id; keep highest importance/category occurrence
+    # Exact duplicate removal by id first.
     by_id: Dict[str, Dict[str, Any]] = {}
     for item in all_items:
         old = by_id.get(item["id"])
-        if old is None or item["importance"] > old.get("importance", 0):
+        if old is None or item.get("published", "") > old.get("published", ""):
             by_id[item["id"]] = item
 
-    items = list(by_id.values())
-    items.sort(key=lambda x: (x.get("importance", 0), x.get("published", "")), reverse=True)
+    # Only show recent topics. Important but old articles should not rise to the top.
+    recent_items = [item for item in by_id.values() if mark_and_keep_recent(item, now)]
+
+    # Merge near-duplicate topics from different sources / slightly different titles.
+    items = merge_duplicate_topics(recent_items)
+
+    # Freshness first, then publish time, then importance.
+    items.sort(key=lambda x: (x.get("is_recent") is True, x.get("published", ""), x.get("importance", 0)), reverse=True)
     items = items[:60]
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     payload = {
-        "generated_at": datetime.now(JST).strftime("%Y-%m-%d %H:%M JST"),
-        "version": "v2-free-ai-logic",
+        "generated_at": now.strftime("%Y-%m-%d %H:%M JST"),
+        "version": "v3-ops-ready-search-dedupe-freshness",
+        "policy": {
+            "recent_days": RECENT_DAYS,
+            "dedupe": "similar-title topic clustering",
+            "search": "button-based IME-safe search",
+        },
         "items": items,
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")

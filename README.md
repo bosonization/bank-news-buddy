@@ -1,20 +1,44 @@
-# 地銀トークナビ v2 - 無料ロジックAI判定版
+# 地銀トークナビ v3
 
-地銀営業マン向けに、メガバンク・地銀・最新AI技術・NTTデータ・その他のニュースを集め、ニュースごとに営業トークへ変換する静的ダッシュボードです。
+GitHubにアップロードしてVercelでImportすれば動く、静的ニュースダッシュボードです。
 
-## v2のポイント
+## v3の改善点
 
-- 外部LLM APIなし
-- APIキー不要
-- GitHub Actionsだけで無料運用しやすい
-- ニュースごとにタイトル・RSS要約を判定
-- キーワードシグナルから重要度・営業トーク・お客様質問を生成
-- JST 6:00 / 12:00 / 18:00 に自動更新
+### 1. 検索UIの修正
 
-## ファイル構成
+v2では入力のたびに画面全体を再描画していたため、日本語入力の変換中にinputが作り直され、1文字で入力が止まる問題がありました。
 
-```text
-bank-news-buddy-v2-free-ai/
+v3では以下に変更しています。
+
+- 入力中は再描画しない
+- 「検索」ボタンを押した時だけ検索実行
+- Enterキーでも検索可能
+- 「クリア」ボタンを追加
+- 検索対象をタイトル、要約、営業トーク、質問、タグ、媒体名まで拡張
+
+### 2. 同じネタの集約
+
+`fetch_news.py` に、タイトル正規化＋類似度判定によるトピック集約を追加しました。
+
+- 完全一致URL/ID重複を削除
+- タイトルから媒体差分・記号・汎用語を除去
+- 2〜4文字n-gramで類似度を計算
+- 同じネタと判断した記事は1件に集約
+- カードに「似た記事◯件を集約」と表示
+
+### 3. 古い記事の上位表示を抑制
+
+v3では基本的に直近2日以内の記事だけを表示対象にしています。
+
+- `RECENT_DAYS = 2`
+- 48時間超の記事は原則除外
+- 重要度が高くても古い記事は上に出さない
+- カードに「◯h前」を表示
+
+## 構成
+
+```txt
+bank-news-buddy-v3-ops-ready/
 ├─ index.html
 ├─ style.css
 ├─ app.js
@@ -28,40 +52,19 @@ bank-news-buddy-v2-free-ai/
 └─ .github/workflows/update-news.yml
 ```
 
-## 使い方
+## 更新時間
+
+GitHub ActionsでJST 6:00 / 12:00 / 18:00に更新します。
+
+```yaml
+- cron: "0 21 * * *" # JST 06:00
+- cron: "0 3 * * *"  # JST 12:00
+- cron: "0 9 * * *"  # JST 18:00
+```
+
+## 公開方法
 
 1. このフォルダの中身をGitHubリポジトリにアップロード
-2. GitHubの Actions を有効化
-3. Settings → Actions → General → Workflow permissions を `Read and write permissions` にする
-4. Actions → Update news → Run workflow で手動実行
-5. VercelでGitHubリポジトリをImport
-
-## 判定ロジック
-
-`scripts/fetch_news.py` がニュースごとに以下のシグナルを判定します。
-
-- generative_ai
-- regional_bank
-- megabank
-- nttdata
-- core_banking
-- cyber
-- operations
-- lending
-- governance
-- cashless
-
-その組み合わせから、以下を生成します。
-
-- なぜ地銀営業に関係あるか
-- 営業トーク
-- お客様に聞くなら
-- NTTデータ文脈
-- 注意点
-- 重要度
-- 判定信頼度
-- タグ
-
-## 注意
-
-ニュース本文は転載せず、RSSから取得できるタイトル・概要・リンクを表示します。重要な事実確認は必ず元記事で行ってください。
+2. VercelでImport
+3. GitHub ActionsのWorkflow permissionsをRead and writeにする
+4. Actionsから `Update news` を手動実行して確認
