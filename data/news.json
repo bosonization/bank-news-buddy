@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29 21:36 JST",
+  "generated_at": "2026-04-30 06:55 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,7 +26,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 30.5,
+      "age_hours": 39.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -58,7 +58,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 35.7,
+      "age_hours": 45.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -87,7 +87,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 35.7,
+      "age_hours": 45.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -95,38 +95,32 @@
       ]
     },
     {
-      "id": "ad3bf1bc5cbd309e",
+      "id": "7857632edcb355fe",
       "category": "地銀",
-      "title": "NEC、地域金融機関向け「サイバーセキュリティ共同センター」を提供開始 12行がユーザー会に参加 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tSGE1eS1ZX3ZJQ3o2Qzh4U2tqa3E2Tmtxd0NkblVuaXY1R2diRXJjaTdEWVk1T0xDV0c2OGVObjNURnRpRExIdGEydldEV3hycG52Y2NR?oc=5",
-      "source": "EnterpriseZine",
-      "published": "2026-04-28 05:08",
-      "summary": "NEC、地域金融機関向け「サイバーセキュリティ共同センター」を提供開始 12行がユーザー会に参加 &nbsp;&nbsp; EnterpriseZine",
+      "title": "地域金融力強化に向けた「本業支援エコシステム」実装 ～千葉興業銀行様の事例～ - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ETU1EYXBoZEVmV0FrRUYxOHVxZHBJZ2E2aVdaVFVlLTZlNDRrN2g1eS1RV21ySnRib19kcDA3UDlqRU1FWEUzMXQ1U0hiNkU?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-04-28 07:00",
+      "summary": "地域金融力強化に向けた「本業支援エコシステム」実装 ～千葉興業銀行様の事例～ &nbsp;&nbsp; ビジネス+IT",
       "tags": [
         "地銀",
-        "地域金融",
-        "勘定系",
-        "システム更改",
-        "サイバー",
-        "リスク管理"
+        "地域金融"
       ],
       "signals": [
-        "regional_bank",
-        "core_banking",
-        "cyber"
+        "regional_bank"
       ],
-      "importance": 95,
-      "confidence": "中",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 勘定系・基幹系の話題は、安定運用、柔軟性、コスト、将来の拡張性をセットで話せます。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 基幹系は『変える/変えない』ではなく、周辺業務から柔軟性を高める選択肢として話せます。",
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "共同センター、勘定系周辺、クラウド/モダナイゼーションの論点としてNTTデータの金融基盤知見に接続できます。",
-      "risk_note": "基幹系は可用性、移行リスク、ベンダーロックイン、長期コストの確認が必要です。 不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 40.5,
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 47.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "EnterpriseZine"
+        "ビジネス+IT"
       ]
     }
   ]
