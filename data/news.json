@@ -1,24 +1,133 @@
 {
-  "generated_at": "サンプルデータ",
-  "version": "v2-free-ai-logic",
+  "generated_at": "2026-04-29 21:36 JST",
+  "version": "v3-ops-ready-search-dedupe-freshness",
+  "policy": {
+    "recent_days": 2,
+    "dedupe": "similar-title topic clustering",
+    "search": "button-based IME-safe search"
+  },
   "items": [
     {
-      "id": "sample-ai-regional-bank",
+      "id": "f2c6a865889c2e5e",
       "category": "最新AI技術",
-      "title": "生成AIの業務活用、金融機関で検討広がる",
-      "url": "https://example.com/sample-ai",
-      "source": "Sample News",
-      "published": "",
-      "summary": "金融機関で生成AIを業務効率化や行内照会に活用する検討が広がっているというサンプル記事です。",
-      "tags": ["生成AI", "業務効率化", "ガバナンス"],
-      "signals": ["generative_ai", "operations", "governance"],
-      "importance": 88,
+      "title": "NEC、Anthropicと戦略協業 「Claude Code」をグループ3万人へ展開、日本企業向けAI開発とBluStellar統合を加速 - Ledge.ai",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa25fZnlhb0lyTGpRVmZfSEc4U0MyMUNoVFRtOEo1VEVQU2JUN3VWMmtQNy1WMmppNHpWcV9rUHU0QXdFYnNBb1pwUTVUWFFWUjRHVzh4YlFCNkV4cU55V2xIZzRsVk9EY3M1V0luZzVramk0MWpCQ0M2cUQ5TjFZSkRwbjFVMVk?oc=5",
+      "source": "Ledge.ai",
+      "published": "2026-04-28 15:07",
+      "summary": "NEC、Anthropicと戦略協業 「Claude Code」をグループ3万人へ展開、日本企業向けAI開発とBluStellar統合を加速 &nbsp;&nbsp; Ledge.ai",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 30.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Ledge.ai"
+      ]
+    },
+    {
+      "id": "f6db3b4a82ee37d9",
+      "category": "地銀",
+      "title": "【横浜銀行 石川氏インタビュー】生成AI活用から共同基盤の価値まで。地域金融の枠を超える技術革新の全貌 - グッドウェイ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kbC1OenB4b212MkFHVHh5OWduY0Y4YXkzUWpjbVdINmQyNXlpMUJ2elY3LXBHYzVPZng0Z3R6c0d2aXF6SGxjT1ktTHN2TkVvQWI4?oc=5",
+      "source": "グッドウェイ",
+      "published": "2026-04-28 09:55",
+      "summary": "【横浜銀行 石川氏インタビュー】生成AI活用から共同基盤の価値まで。地域金融の枠を超える技術革新の全貌 &nbsp;&nbsp; グッドウェイ",
+      "tags": [
+        "地銀",
+        "生成AI",
+        "AI活用",
+        "地域金融"
+      ],
+      "signals": [
+        "generative_ai",
+        "regional_bank"
+      ],
+      "importance": 93,
       "confidence": "中",
-      "why_matters": "地銀では人手不足、営業店事務、行内照会対応の効率化につなげやすいテーマです。",
-      "talk": "生成AIを一気に全社導入する話ではなく、まず行内文書検索や稟議ドラフトなど低リスク領域から話すと会話化しやすいです。",
-      "question": "御行では、生成AIを試すなら営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "NTTデータ文脈では、金融システムの安全性を担保しながらAI活用範囲を段階的に広げる話に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理をどう設計するかを確認したいテーマです。"
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 35.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "グッドウェイ"
+      ]
+    },
+    {
+      "id": "c37d0bcf5547ab17",
+      "category": "その他",
+      "title": "金融庁、「ミトス」を巡る金融リスクについて官民連携協議 日本版プロジェクトグラスウィング立ち上げへ - PlusWeb3",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCMzRKTkF6dFFneFF3TXBZX0c5MUs0N1I4ODBxaU5QVnpmMEFoZDFDQmJSWUl6SW5lUjc4aWNDV2ZpY3VvcjZWdnh3cVVHbXR4MGdEWGZwbVVxck9RRVE?oc=5",
+      "source": "PlusWeb3",
+      "published": "2026-04-28 09:54",
+      "summary": "金融庁、「ミトス」を巡る金融リスクについて官民連携協議 日本版プロジェクトグラスウィング立ち上げへ &nbsp;&nbsp; PlusWeb3",
+      "tags": [
+        "その他",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 35.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PlusWeb3"
+      ]
+    },
+    {
+      "id": "ad3bf1bc5cbd309e",
+      "category": "地銀",
+      "title": "NEC、地域金融機関向け「サイバーセキュリティ共同センター」を提供開始 12行がユーザー会に参加 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tSGE1eS1ZX3ZJQ3o2Qzh4U2tqa3E2Tmtxd0NkblVuaXY1R2diRXJjaTdEWVk1T0xDV0c2OGVObjNURnRpRExIdGEydldEV3hycG52Y2NR?oc=5",
+      "source": "EnterpriseZine",
+      "published": "2026-04-28 05:08",
+      "summary": "NEC、地域金融機関向け「サイバーセキュリティ共同センター」を提供開始 12行がユーザー会に参加 &nbsp;&nbsp; EnterpriseZine",
+      "tags": [
+        "地銀",
+        "地域金融",
+        "勘定系",
+        "システム更改",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "regional_bank",
+        "core_banking",
+        "cyber"
+      ],
+      "importance": 95,
+      "confidence": "中",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 勘定系・基幹系の話題は、安定運用、柔軟性、コスト、将来の拡張性をセットで話せます。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 基幹系は『変える/変えない』ではなく、周辺業務から柔軟性を高める選択肢として話せます。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "共同センター、勘定系周辺、クラウド/モダナイゼーションの論点としてNTTデータの金融基盤知見に接続できます。",
+      "risk_note": "基幹系は可用性、移行リスク、ベンダーロックイン、長期コストの確認が必要です。 不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 40.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "EnterpriseZine"
+      ]
     }
   ]
 }
