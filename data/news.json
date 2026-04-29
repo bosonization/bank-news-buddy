@@ -1,0 +1,24 @@
+{
+  "generated_at": "サンプルデータ",
+  "version": "v2-free-ai-logic",
+  "items": [
+    {
+      "id": "sample-ai-regional-bank",
+      "category": "最新AI技術",
+      "title": "生成AIの業務活用、金融機関で検討広がる",
+      "url": "https://example.com/sample-ai",
+      "source": "Sample News",
+      "published": "",
+      "summary": "金融機関で生成AIを業務効率化や行内照会に活用する検討が広がっているというサンプル記事です。",
+      "tags": ["生成AI", "業務効率化", "ガバナンス"],
+      "signals": ["generative_ai", "operations", "governance"],
+      "importance": 88,
+      "confidence": "中",
+      "why_matters": "地銀では人手不足、営業店事務、行内照会対応の効率化につなげやすいテーマです。",
+      "talk": "生成AIを一気に全社導入する話ではなく、まず行内文書検索や稟議ドラフトなど低リスク領域から話すと会話化しやすいです。",
+      "question": "御行では、生成AIを試すなら営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "NTTデータ文脈では、金融システムの安全性を担保しながらAI活用範囲を段階的に広げる話に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理をどう設計するかを確認したいテーマです。"
+    }
+  ]
+}
