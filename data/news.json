@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30 06:55 JST",
+  "generated_at": "2026-04-30 14:58 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,34 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "d892c3721893bfd1",
+      "category": "メガバンク",
+      "title": "みずほ証券が自律型AIエンジニア「Devin」でIT人材不足解消へ 国内大手金融初の大規模導入に (1/3) - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HTWNWQ3Z2MjJwRk1LN2N6enJ5YjVMR214THY1bURqQnVGV2FaYWVpUDE4Q2YtZDF0QVZ4dWIyNnhaY0FpWTV0TFdRZFJoc2JLRlNPOEkyLWRIZw?oc=5",
+      "source": "EnterpriseZine",
+      "published": "2026-04-30 05:25",
+      "summary": "みずほ証券が自律型AIエンジニア「Devin」でIT人材不足解消へ 国内大手金融初の大規模導入に (1/3) &nbsp;&nbsp; EnterpriseZine",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 9.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "EnterpriseZine"
+      ]
+    },
     {
       "id": "f2c6a865889c2e5e",
       "category": "最新AI技術",
@@ -26,101 +54,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 39.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Ledge.ai"
-      ]
-    },
-    {
-      "id": "f6db3b4a82ee37d9",
-      "category": "地銀",
-      "title": "【横浜銀行 石川氏インタビュー】生成AI活用から共同基盤の価値まで。地域金融の枠を超える技術革新の全貌 - グッドウェイ",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kbC1OenB4b212MkFHVHh5OWduY0Y4YXkzUWpjbVdINmQyNXlpMUJ2elY3LXBHYzVPZng0Z3R6c0d2aXF6SGxjT1ktTHN2TkVvQWI4?oc=5",
-      "source": "グッドウェイ",
-      "published": "2026-04-28 09:55",
-      "summary": "【横浜銀行 石川氏インタビュー】生成AI活用から共同基盤の価値まで。地域金融の枠を超える技術革新の全貌 &nbsp;&nbsp; グッドウェイ",
-      "tags": [
-        "地銀",
-        "生成AI",
-        "AI活用",
-        "地域金融"
-      ],
-      "signals": [
-        "generative_ai",
-        "regional_bank"
-      ],
-      "importance": 93,
-      "confidence": "中",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 45.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "グッドウェイ"
-      ]
-    },
-    {
-      "id": "c37d0bcf5547ab17",
-      "category": "その他",
-      "title": "金融庁、「ミトス」を巡る金融リスクについて官民連携協議 日本版プロジェクトグラスウィング立ち上げへ - PlusWeb3",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCMzRKTkF6dFFneFF3TXBZX0c5MUs0N1I4ODBxaU5QVnpmMEFoZDFDQmJSWUl6SW5lUjc4aWNDV2ZpY3VvcjZWdnh3cVVHbXR4MGdEWGZwbVVxck9RRVE?oc=5",
-      "source": "PlusWeb3",
-      "published": "2026-04-28 09:54",
-      "summary": "金融庁、「ミトス」を巡る金融リスクについて官民連携協議 日本版プロジェクトグラスウィング立ち上げへ &nbsp;&nbsp; PlusWeb3",
-      "tags": [
-        "その他",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 45.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PlusWeb3"
-      ]
-    },
-    {
-      "id": "7857632edcb355fe",
-      "category": "地銀",
-      "title": "地域金融力強化に向けた「本業支援エコシステム」実装 ～千葉興業銀行様の事例～ - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ETU1EYXBoZEVmV0FrRUYxOHVxZHBJZ2E2aVdaVFVlLTZlNDRrN2g1eS1RV21ySnRib19kcDA3UDlqRU1FWEUzMXQ1U0hiNkU?oc=5",
-      "source": "ビジネス+IT",
-      "published": "2026-04-28 07:00",
-      "summary": "地域金融力強化に向けた「本業支援エコシステム」実装 ～千葉興業銀行様の事例～ &nbsp;&nbsp; ビジネス+IT",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
       "age_hours": 47.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ビジネス+IT"
+        "Ledge.ai"
       ]
     }
   ]
