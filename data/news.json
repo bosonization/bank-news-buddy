@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30 14:58 JST",
+  "generated_at": "2026-04-30 19:54 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -28,37 +28,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 9.6,
+      "age_hours": 14.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "EnterpriseZine"
-      ]
-    },
-    {
-      "id": "f2c6a865889c2e5e",
-      "category": "最新AI技術",
-      "title": "NEC、Anthropicと戦略協業 「Claude Code」をグループ3万人へ展開、日本企業向けAI開発とBluStellar統合を加速 - Ledge.ai",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa25fZnlhb0lyTGpRVmZfSEc4U0MyMUNoVFRtOEo1VEVQU2JUN3VWMmtQNy1WMmppNHpWcV9rUHU0QXdFYnNBb1pwUTVUWFFWUjRHVzh4YlFCNkV4cU55V2xIZzRsVk9EY3M1V0luZzVramk0MWpCQ0M2cUQ5TjFZSkRwbjFVMVk?oc=5",
-      "source": "Ledge.ai",
-      "published": "2026-04-28 15:07",
-      "summary": "NEC、Anthropicと戦略協業 「Claude Code」をグループ3万人へ展開、日本企業向けAI開発とBluStellar統合を加速 &nbsp;&nbsp; Ledge.ai",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 47.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Ledge.ai"
       ]
     }
   ]
