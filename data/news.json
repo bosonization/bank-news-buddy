@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01 19:22 JST",
+  "generated_at": "2026-05-02 06:47 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,31 +8,33 @@
   },
   "items": [
     {
-      "id": "d892c3721893bfd1",
+      "id": "355b6066e32522c7",
       "category": "メガバンク",
-      "title": "みずほ証券が自律型AIエンジニア「Devin」でIT人材不足解消へ 国内大手金融初の大規模導入に (1/3) - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HTWNWQ3Z2MjJwRk1LN2N6enJ5YjVMR214THY1bURqQnVGV2FaYWVpUDE4Q2YtZDF0QVZ4dWIyNnhaY0FpWTV0TFdRZFJoc2JLRlNPOEkyLWRIZw?oc=5",
-      "source": "EnterpriseZine",
-      "published": "2026-04-30 05:25",
-      "summary": "みずほ証券が自律型AIエンジニア「Devin」でIT人材不足解消へ 国内大手金融初の大規模導入に (1/3) &nbsp;&nbsp; EnterpriseZine",
+      "title": "（お知らせ）金融庁、三菱UFJ銀行が登壇 「FIT AIサミット2026春」申し込み受け付け中！ - nikkinonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UdWJsX2d5TEJUbldBbm51OFpRZnFGOEw0bXNJUXVrS3o1R0tMMU9KT1YwYkxJNlJ4b21TbDhqNjROdzg4WUZlY1l0Ui1PZTdwdXFVZHFn?oc=5",
+      "source": "nikkinonline.com",
+      "published": "2026-05-02 04:20",
+      "summary": "（お知らせ）金融庁、三菱UFJ銀行が登壇 「FIT AIサミット2026春」申し込み受け付け中！ &nbsp;&nbsp; nikkinonline.com",
       "tags": [
-        "メガバンク"
+        "メガバンク",
+        "ガバナンス"
       ],
       "signals": [
-        "megabank"
+        "megabank",
+        "governance"
       ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "importance": 61,
+      "confidence": "中",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 38.0,
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 2.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "EnterpriseZine"
+        "nikkinonline.com"
       ]
     }
   ]
