@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02 06:47 JST",
+  "generated_at": "2026-05-02 14:36 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,11 +30,40 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 2.5,
+      "age_hours": 10.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "nikkinonline.com"
+      ]
+    },
+    {
+      "id": "0d906163645bb632",
+      "category": "その他",
+      "title": "片山さつき金融相、AI「Claude Mythos」を「今そこにある危機」と認識 日銀・大手銀行と官民会議開催、対策検討を進める方針を確認 - Ledge.ai",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0FRVzluY0lXX0ZfSmVMcXpubGZhTTVMMkFrVXJJTkxHNXlhckRDZzdSTjBUbG9xYkNYMVhOR3J3dTZzZFU1MUVfQ0Z4RFI4N0lZSFlwcnA5Y2dZbWJOaEtJcTFHdU1MVmx6SF9PZmJCbWxNWHprSjJlc0JEaS1KWDZB?oc=5",
+      "source": "Ledge.ai",
+      "published": "2026-04-30 15:59",
+      "summary": "片山さつき金融相、AI「Claude Mythos」を「今そこにある危機」と認識 日銀・大手銀行と官民会議開催、対策検討を進める方針を確認 &nbsp;&nbsp; Ledge.ai",
+      "tags": [
+        "その他",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 46.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Ledge.ai"
       ]
     }
   ]
