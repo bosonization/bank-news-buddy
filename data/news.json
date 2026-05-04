@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04 20:04 JST",
+  "generated_at": "2026-05-05 06:55 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -31,7 +31,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 22.9,
+      "age_hours": 33.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
