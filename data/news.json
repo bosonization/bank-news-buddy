@@ -1,10 +1,73 @@
 {
-  "generated_at": "2026-05-06 20:06 JST",
+  "generated_at": "2026-05-07 06:52 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": []
+  "items": [
+    {
+      "id": "d73ff7f781ca20e1",
+      "category": "その他",
+      "title": "新型AI「ミトス」のサイバー攻撃対策は喫緊の課題、金融機関や病院など重要インフラの被害は深刻に - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zdnJSSFdXQWF0clB0Qk11WWF5ZWNFSzg5UF9aRHk2WGI0M1h2S1pmT00tYUY2RUdDMkdUYlE2Z0hoUS1VeWhEdEt1VUfSAU9BVV95cUxQNHRaTU1fVVJLdnVETGwyS0Zrd1pjV3ZtNnJGVG4xb3JoN0tLWUI0U2FQZ3BuLTM3dEZuY0R4U2pIY3JqRWlHVnVsYndJUjhB?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-05-07 06:15",
+      "summary": "新型AI「ミトス」のサイバー攻撃対策は喫緊の課題、金融機関や病院など重要インフラの被害は深刻に &nbsp;&nbsp; ダイヤモンド・オンライン",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "cyber"
+      ],
+      "importance": 51,
+      "confidence": "低",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 0.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ダイヤモンド・オンライン"
+      ]
+    },
+    {
+      "id": "303df6a807634ca2",
+      "category": "最新AI技術",
+      "title": "生成AIで進む業務効率化 人員削減する米国、仕事が減らない日本 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4aHlTSm82RktzekdRVWxyTmNGRjhqcHRZbTg0YnhXc1hCQXE2aTRONjVqMi1zaDBjX05EeXVvbTZENjc1eUwtX0tiZVZTdU5ySDZXeThxenRoMzVSeENwWWVSbVBfRlVyWTRadg?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-05-07 05:00",
+      "summary": "生成AIで進む業務効率化 人員削減する米国、仕事が減らない日本 &nbsp;&nbsp; 日経クロステック",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "業務効率化"
+      ],
+      "signals": [
+        "generative_ai",
+        "operations"
+      ],
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 1.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日経クロステック"
+      ]
+    }
+  ]
 }
