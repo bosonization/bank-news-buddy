@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07 06:52 JST",
+  "generated_at": "2026-05-07 15:09 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,12 +8,96 @@
   },
   "items": [
     {
+      "id": "5a91e69edcca868c",
+      "category": "メガバンク",
+      "title": "三菱UFJ、GoogleとAI利用で戦略提携 個人向け金融で顧客囲い込み - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZnUxd1hWbFBuNnlKaUowSlVib1c2dXF4c1pRTlpIZW9mbjZkZWVZZ3g3aUVqNkh1ZzN3NExSZmhUUmw4U2otZ2h3eUNHTHU5a1pyNkRYdUwtYjdfck9rMEpXSy1HNzdtbF9jNQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-05-07 15:02",
+      "summary": "三菱UFJ、GoogleとAI利用で戦略提携 個人向け金融で顧客囲い込み &nbsp;&nbsp; 日本経済新聞",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 0.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日本経済新聞"
+      ]
+    },
+    {
+      "id": "405eed5263d4df6c",
+      "category": "NTTデータ",
+      "title": "金融機関向けAI導入コンサルティングサービスの提供開始について - nttdata-strategy.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EYS1aV1RoWTZZbDVuckhLSWtzSmpUa25tb0Roa0pST2RqYlVleTJ6VnI5M3czVG9kU25LQWx6TmV5aG9fZUFhTVd1Unhtb3o4THltSnNPX3c5TWphY3ZDdDJR?oc=5",
+      "source": "nttdata-strategy.com",
+      "published": "2026-05-07 14:59",
+      "summary": "金融機関向けAI導入コンサルティングサービスの提供開始について &nbsp;&nbsp; nttdata-strategy.com",
+      "tags": [
+        "NTTデータ"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 0.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "nttdata-strategy.com"
+      ]
+    },
+    {
+      "id": "e11ff9952c536dbf",
+      "category": "メガバンク",
+      "title": "MUFGとグーグル、AIコマース・決済で戦略提携 エムット「非金融」強化へ（Impress Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BYXNZMzV6WFAzV3ZCOFFlWGJQQ1UzWFJRTHVKTHloNkRfSURSQ3Z3bGlOVU9odWVwWUM2ZkxHMTVuUzhyeEh3anFLaXVyY0RpWUNfV1VMdVM3TzE5QVRDa1JLN3RlMERJZEMwbDV6N05taXBYeFZlblRFM280eFU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-05-07 14:30",
+      "summary": "MUFGとグーグル、AIコマース・決済で戦略提携 エムット「非金融」強化へ（Impress Watch） &nbsp;&nbsp; Yahoo!ニュース",
+      "tags": [
+        "メガバンク",
+        "決済"
+      ],
+      "signals": [
+        "megabank",
+        "cashless"
+      ],
+      "importance": 58,
+      "confidence": "中",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 決済・キャッシュレスは、個人顧客接点と地域加盟店支援の両方につながります。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 地域店舗の決済データや顧客接点を、取引先支援やマーケティングにどう活かすかの会話にできます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 0.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Yahoo!ニュース"
+      ]
+    },
+    {
       "id": "d73ff7f781ca20e1",
       "category": "その他",
       "title": "新型AI「ミトス」のサイバー攻撃対策は喫緊の課題、金融機関や病院など重要インフラの被害は深刻に - ダイヤモンド・オンライン",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zdnJSSFdXQWF0clB0Qk11WWF5ZWNFSzg5UF9aRHk2WGI0M1h2S1pmT00tYUY2RUdDMkdUYlE2Z0hoUS1VeWhEdEt1VUfSAU9BVV95cUxQNHRaTU1fVVJLdnVETGwyS0Zrd1pjV3ZtNnJGVG4xb3JoN0tLWUI0U2FQZ3BuLTM3dEZuY0R4U2pIY3JqRWlHVnVsYndJUjhB?oc=5",
       "source": "ダイヤモンド・オンライン",
-      "published": "2026-05-07 06:15",
+      "published": "2026-05-07 13:01",
       "summary": "新型AI「ミトス」のサイバー攻撃対策は喫緊の課題、金融機関や病院など重要インフラの被害は深刻に &nbsp;&nbsp; ダイヤモンド・オンライン",
       "tags": [
         "その他",
@@ -30,7 +114,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 0.6,
+      "age_hours": 2.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -62,7 +146,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 1.9,
+      "age_hours": 10.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
