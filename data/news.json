@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10 15:11 JST",
+  "generated_at": "2026-05-10 19:13 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,7 +26,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 34.3,
+      "age_hours": 38.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -55,7 +55,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 43.5,
+      "age_hours": 47.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -85,70 +85,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 43.6,
+      "age_hours": 47.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "SHIFT AI"
-      ]
-    },
-    {
-      "id": "6f3b3aa04528d341",
-      "category": "地銀",
-      "title": "福岡銀行が地方銀行初のAIプラットフォーム「Ai Workforce」を導入し業務効率化を実現 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dnhQa0p2MnpvU1puN2FMNWVoRmd5N09ueXJsNTg2cjBwYWpmclJnNGZBWFQyc3FpZVFrYjZhcW9xMjU3ZzRpVDIybzdYY2pucXdsRHRDVTNMV25nLUw5dWhEQVBBbmxrWC1TMlFSWQ?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-05-08 15:43",
-      "summary": "福岡銀行が地方銀行初のAIプラットフォーム「Ai Workforce」を導入し業務効率化を実現 &nbsp;&nbsp; ニュースメディアVOIX",
-      "tags": [
-        "地銀",
-        "地域金融",
-        "業務効率化"
-      ],
-      "signals": [
-        "regional_bank",
-        "operations"
-      ],
-      "importance": 77,
-      "confidence": "中",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 47.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニュースメディアVOIX"
-      ]
-    },
-    {
-      "id": "aaec8e9135f20b51",
-      "category": "メガバンク",
-      "title": "三菱UFJ銀行、対話型AIロールプレイで保険販売の提案力を強化 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBQ3lTd09KenRYeVktbzFBOE5JVjB4NmluREYzVWVwVV90MnZSSFk3N3M4c1J3VG1iVkx3dEFRTF9ZUGU5TnNIYXB5YW9yUC1TcEFV?oc=5",
-      "source": "ZDNET Japan",
-      "published": "2026-05-08 15:29",
-      "summary": "三菱UFJ銀行、対話型AIロールプレイで保険販売の提案力を強化 &nbsp;&nbsp; ZDNET Japan",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 47.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ZDNET Japan"
       ]
     }
   ]
