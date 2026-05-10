@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10 19:13 JST",
+  "generated_at": "2026-05-11 06:42 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,68 +8,13 @@
   },
   "items": [
     {
-      "id": "fbdfab914b79645f",
+      "id": "f90cae6fd8e0cf33",
       "category": "最新AI技術",
-      "title": "第5回：「作業の担い手」から「判断の担い手」へ - nikkinonline.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45QklzWFNEZGt1UzV1QmVKYjNQaHFYQTd3VUo5eGFaUW9rUndVVWxBUkVwWTRZR05IaGFKbExuT00yXzJTN3lYYmU0a1Vad2RUaE40djNFeDZmODU2YWJjOA?oc=5",
-      "source": "nikkinonline.com",
-      "published": "2026-05-09 04:55",
-      "summary": "第5回：「作業の担い手」から「判断の担い手」へ &nbsp;&nbsp; nikkinonline.com",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 38.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "nikkinonline.com"
-      ]
-    },
-    {
-      "id": "e4b6f8b91ea21ebe",
-      "category": "NTTデータ",
-      "title": "ＮＴＴデータ経営研究所、金融AIの導入支援を開始 全18サービスで規制対応とガバナンスを両立 - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pTm5VdTZWSklQZXZLaUdGcDJ6Qjk2aWNCb1BSb29SamlWMDdhb2phcGlhMmgwYjFsNGhBMHZfaHJCVl9NMVFEcEZ5Sk8?oc=5",
-      "source": "DXマガジン",
-      "published": "2026-05-08 19:42",
-      "summary": "ＮＴＴデータ経営研究所、金融AIの導入支援を開始 全18サービスで規制対応とガバナンスを両立 &nbsp;&nbsp; DXマガジン",
-      "tags": [
-        "NTTデータ",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 55,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 47.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "DXマガジン"
-      ]
-    },
-    {
-      "id": "de0322bc5b742c2b",
-      "category": "最新AI技術",
-      "title": "AIエージェントを駆使して1人で起業する時代がやって来た －生成AI／AIエージェントを活用した個人ビジネス成功事例集 - SHIFT AI",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9peXRyNzg2UmJYOHBiR0hSelhwZTdIQWxub0FtZ3RYZW9VQTVMR0wyLUN1Z0FUa3Q4RW5yc0JEZmU0OVUtMDR0TmhyQkNIR2lkekQ1RGpYYw?oc=5",
-      "source": "SHIFT AI",
-      "published": "2026-05-08 19:36",
-      "summary": "AIエージェントを駆使して1人で起業する時代がやって来た －生成AI／AIエージェントを活用した個人ビジネス成功事例集 &nbsp;&nbsp; SHIFT AI",
+      "title": "LINEヤフーのAIエージェント「Agent i」、日本での強みを生かせるか - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVU5VSVFTa25Yd2dwaEh2MWI3dzdHaGNUWkRVNEZVVS0wem1vczBOTkdfX29ELS1qRUNYUGlNcTY1bHh3dGxwTzJuTWxDODEwSUlnSGNKMGR0dmRKMkh6VUkyT2VwRUU?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-05-11 05:00",
+      "summary": "LINEヤフーのAIエージェント「Agent i」、日本での強みを生かせるか &nbsp;&nbsp; 日経クロステック",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -85,11 +30,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 47.6,
+      "age_hours": 1.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "SHIFT AI"
+        "日経クロステック"
       ]
     }
   ]
