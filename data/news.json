@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-05-11 06:42 JST",
+  "generated_at": "2026-05-11 15:39 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": [
-    {
-      "id": "f90cae6fd8e0cf33",
-      "category": "最新AI技術",
-      "title": "LINEヤフーのAIエージェント「Agent i」、日本での強みを生かせるか - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVU5VSVFTa25Yd2dwaEh2MWI3dzdHaGNUWkRVNEZVVS0wem1vczBOTkdfX29ELS1qRUNYUGlNcTY1bHh3dGxwTzJuTWxDODEwSUlnSGNKMGR0dmRKMkh6VUkyT2VwRUU?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-05-11 05:00",
-      "summary": "LINEヤフーのAIエージェント「Agent i」、日本での強みを生かせるか &nbsp;&nbsp; 日経クロステック",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 1.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経クロステック"
-      ]
-    }
-  ]
+  "items": []
 }
