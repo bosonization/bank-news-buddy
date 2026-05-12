@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12 20:21 JST",
+  "generated_at": "2026-05-13 07:07 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,7 +30,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 12.4,
+      "age_hours": 23.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -60,7 +60,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 12.4,
+      "age_hours": 23.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -90,7 +90,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 20.4,
+      "age_hours": 31.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -123,7 +123,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 27.7,
+      "age_hours": 38.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -157,7 +157,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 29.7,
+      "age_hours": 40.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -190,7 +190,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 29.7,
+      "age_hours": 40.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -219,7 +219,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 29.8,
+      "age_hours": 40.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -247,7 +247,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 32.0,
+      "age_hours": 42.8,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
@@ -280,75 +280,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 33.8,
+      "age_hours": 44.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "山陽新聞"
-      ]
-    },
-    {
-      "id": "76b13d8d957b6bf6",
-      "category": "地銀",
-      "title": "金融庁、地方銀行へClaude Mythos（クロード・ミュトス）サイバー攻撃への悪用 対策整備へ要請 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdm43Q2NQVUItY0xOekpUNTlWb2JOdU1DSVZJWU1vLW9vTmRTWC1nREpLZjBHb3ZrLVlHbE41bE5RNW1PbGtyU2pIUVh6QW5VOTZPY3BvNkpKcHpnMUJpdW5DZE1QNGpTbVFibHN3dDNQaFRnbFhZMmRtOWdNSmlzN0t2RUJwR00xc1ctd1RFY3dHTUY4RWtuMnY4RQ?oc=5",
-      "source": "合同会社ロケットボーイズ",
-      "published": "2026-05-11 07:00",
-      "summary": "金融庁、地方銀行へClaude Mythos（クロード・ミュトス）サイバー攻撃への悪用 対策整備へ要請 &nbsp;&nbsp; 合同会社ロケットボーイズ",
-      "tags": [
-        "地銀",
-        "地域金融",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
-      ],
-      "signals": [
-        "regional_bank",
-        "cyber",
-        "governance"
-      ],
-      "importance": 91,
-      "confidence": "中",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 37.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "合同会社ロケットボーイズ"
-      ]
-    },
-    {
-      "id": "f90cae6fd8e0cf33",
-      "category": "最新AI技術",
-      "title": "LINEヤフーのAIエージェント「Agent i」、日本での強みを生かせるか - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVU5VSVFTa25Yd2dwaEh2MWI3dzdHaGNUWkRVNEZVVS0wem1vczBOTkdfX29ELS1qRUNYUGlNcTY1bHh3dGxwTzJuTWxDODEwSUlnSGNKMGR0dmRKMkh6VUkyT2VwRUU?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-05-11 05:00",
-      "summary": "LINEヤフーのAIエージェント「Agent i」、日本での強みを生かせるか &nbsp;&nbsp; 日経クロステック",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 39.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経クロステック"
       ]
     }
   ]
