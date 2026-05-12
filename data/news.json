@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12 07:01 JST",
+  "generated_at": "2026-05-12 15:14 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,66 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "a9f6f6517309ec3f",
+      "category": "メガバンク",
+      "title": "MUFGの「エムット」がGoogleとの連携によって目指す未来の購買・決済の形とは？ - ペイメントナビ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRQlBmRkFtaTNIVk5MMndSbmM0SE9MXzBCSHJtVDV5RldfUDN0SEJ6eHFpWDlwRDBMVkNrdjMzUXJJTTlhaUJaMHJRUGxNdTBmQ21Kb21XUHMyQ3M?oc=5",
+      "source": "ペイメントナビ",
+      "published": "2026-05-12 08:00",
+      "summary": "MUFGの「エムット」がGoogleとの連携によって目指す未来の購買・決済の形とは？ &nbsp;&nbsp; ペイメントナビ",
+      "tags": [
+        "メガバンク",
+        "決済"
+      ],
+      "signals": [
+        "megabank",
+        "cashless"
+      ],
+      "importance": 58,
+      "confidence": "中",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 決済・キャッシュレスは、個人顧客接点と地域加盟店支援の両方につながります。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 地域店舗の決済データや顧客接点を、取引先支援やマーケティングにどう活かすかの会話にできます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 7.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ペイメントナビ"
+      ]
+    },
+    {
+      "id": "abb5ba1df8225be8",
+      "category": "最新AI技術",
+      "title": "人とAIエージェント協働は企業業務もソフトウェアと同パターンに MS調査 - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ibC05dndsY1FYOU9uaFc4OWdKekJGcWt0WmxKS09qM1VtSEViZTRaWDlYN2czbU1ucVNFdU14VlRNX1BCbzVpWkFHR3A5bVZVOWZUZkNHWEdWVjVVc2tlY2dNb0I?oc=5",
+      "source": "Impress Watch",
+      "published": "2026-05-12 08:00",
+      "summary": "人とAIエージェント協働は企業業務もソフトウェアと同パターンに MS調査 &nbsp;&nbsp; Impress Watch",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 7.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Impress Watch"
+      ]
+    },
     {
       "id": "7762afdca7a3dbc6",
       "category": "最新AI技術",
@@ -30,7 +90,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 7.0,
+      "age_hours": 15.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -63,7 +123,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 14.4,
+      "age_hours": 22.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -91,7 +151,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 15.0,
+      "age_hours": 23.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -125,7 +185,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 16.3,
+      "age_hours": 24.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -154,7 +214,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 16.5,
+      "age_hours": 24.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -182,12 +242,12 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 18.7,
+      "age_hours": 26.9,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
         "千葉テレビ放送",
-        "Yahoo!ニュース"
+        "クラウド Watch"
       ]
     },
     {
@@ -215,7 +275,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 20.4,
+      "age_hours": 28.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -249,7 +309,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 24.0,
+      "age_hours": 32.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -279,7 +339,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 26.0,
+      "age_hours": 34.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
