@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17 15:22 JST",
+  "generated_at": "2026-05-17 19:21 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,38 +8,33 @@
   },
   "items": [
     {
-      "id": "d4af484d6ec0b071",
-      "category": "メガバンク",
-      "title": "金融庁と3メガバンクが「最凶AI」を手にする日…ミュトス導入で変わるサイバー防衛 - au Webポータル",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EcnhuRC1jN1dZUDBEUGFJbmlibGl5aTk1WE44cWxmbnpUMmZJRVBBVDBLQ19rX0d4WUs3ZGFQQWlJMEh4UFRKcGVCSm1xQVc0T216dDJ0a0xyOUtIaFpQVUZpbUxiWVpzaFlGcEhaS1pXVUdOY0FpQ216MA?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-05-17 06:11",
-      "summary": "金融庁と3メガバンクが「最凶AI」を手にする日…ミュトス導入で変わるサイバー防衛 &nbsp;&nbsp; au Webポータル",
+      "id": "c71a18d369807e45",
+      "category": "最新AI技術",
+      "title": "ログイット、サイオニックAIと提携 企業のAIエージェント構築を加速させる「STORM Platform」の販売開始 - 日本ネット経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sNWhNTEhkcURDZFgxSlZLd2ZvQXF3UlBDblpJN2NTd2FrTWNpWGkxZE1KV01zMkd6djkwMHgta19VREdjVWE4WmlZUEtmQ3hDdW9sRlF6cFBRd1hHZG1Ka3BuYTI?oc=5",
+      "source": "日本ネット経済新聞",
+      "published": "2026-05-17 06:41",
+      "summary": "ログイット、サイオニックAIと提携 企業のAIエージェント構築を加速させる「STORM Platform」の販売開始 &nbsp;&nbsp; 日本ネット経済新聞",
       "tags": [
-        "メガバンク",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス",
-        "その他"
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
       ],
       "signals": [
-        "megabank",
-        "cyber",
-        "governance"
+        "generative_ai"
       ],
-      "importance": 77,
-      "confidence": "中",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 9.2,
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 12.7,
       "is_recent": true,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "related_sources": [
-        "au Webポータル",
-        "ビジネスジャーナル"
+        "日本ネット経済新聞"
       ]
     },
     {
@@ -67,11 +62,75 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 10.7,
+      "age_hours": 14.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "オルタナティブ・ブログ"
+      ]
+    },
+    {
+      "id": "b1517c6b6dd8bc3f",
+      "category": "その他",
+      "title": "金融庁と3メガバンクが「最凶AI」を手にする日…ミュトス導入で変わるサイバー防衛 - ビジネスジャーナル",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxOWlkUEdRRERhaFRMUkFJdGVBTHBkcmRuamx1VUtXRUdfZmlpem9xYlJzM09HeGgxTm9hMGpsd2p4WnRqcGNxV1ZxNzdhUzNsRTJ2QQ?oc=5",
+      "source": "ビジネスジャーナル",
+      "published": "2026-05-16 06:00",
+      "summary": "金融庁と3メガバンクが「最凶AI」を手にする日…ミュトス導入で変わるサイバー防衛 &nbsp;&nbsp; ビジネスジャーナル",
+      "tags": [
+        "その他",
+        "メガバンク",
+        "サイバー",
+        "リスク管理",
+        "ガバナンス"
+      ],
+      "signals": [
+        "megabank",
+        "cyber",
+        "governance"
+      ],
+      "importance": 77,
+      "confidence": "中",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 37.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ビジネスジャーナル"
+      ]
+    },
+    {
+      "id": "da7a2469ba7d3354",
+      "category": "最新AI技術",
+      "title": "【AIエージェント時代】日本企業とエンジニアのこれから - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTnhxS1FGSHc2OEhDNmhiTzR3TjVHTWo5QmlDTnM2Q2RPUEhJOFZnbFR4MXVuSkpMbFNlUlBsY0k5MG9KTlJaSVV0RQ?oc=5",
+      "source": "thinkit.co.jp",
+      "published": "2026-05-16 01:49",
+      "summary": "【AIエージェント時代】日本企業とエンジニアのこれから &nbsp;&nbsp; thinkit.co.jp",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 41.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "thinkit.co.jp"
       ]
     },
     {
@@ -100,68 +159,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 42.1,
+      "age_hours": 46.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "DXマガジン"
-      ]
-    },
-    {
-      "id": "bf1acd5f64bd9b29",
-      "category": "メガバンク",
-      "title": "三菱UFJ銀行頭取・大澤正和が進める、 AI活用で安定した金融インフラ整備 - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ITkVianFQNlpwS3N0ZXJpNG5zUUdGREVoUVJoSUJKeENOdm0wMnpyNjJRdHNXeDNNdUNrR3ZKYlZkNGNGaHItY1RMLVl0WkVnLXF0bEVrNUhVSldZQ1dibEwzRnpyUnRH?oc=5",
-      "source": "マイナビニュース",
-      "published": "2026-05-15 18:30",
-      "summary": "三菱UFJ銀行頭取・大澤正和が進める、 AI活用で安定した金融インフラ整備 &nbsp;&nbsp; マイナビニュース",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 44.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "マイナビニュース"
-      ]
-    },
-    {
-      "id": "88cd75d6dbcd2dd7",
-      "category": "地銀",
-      "title": "日立、千葉銀らと合弁会社--金融機関のバックオフィス業務を共同化 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hM0FJRmFsc3dRODlXM0NrUmUzNVl6Q3UyTFoxYUQwSnF0OUtDX0t5UjgtaGxaT1lSTF9ha094UjZJOWIwelVWcUQycU1wTTlIc2dv?oc=5",
-      "source": "ZDNET Japan",
-      "published": "2026-05-15 16:31",
-      "summary": "日立、千葉銀らと合弁会社--金融機関のバックオフィス業務を共同化 &nbsp;&nbsp; ZDNET Japan",
-      "tags": [
-        "地銀",
-        "業務効率化"
-      ],
-      "signals": [
-        "operations"
-      ],
-      "importance": 57,
-      "confidence": "低",
-      "why_matters": "業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
-      "talk": "『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
-      "question": "営業店の中で、行員の時間を一番奪っている事務は何だと感じますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 46.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ZDNET Japan"
       ]
     }
   ]
