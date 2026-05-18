@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18 21:28 JST",
+  "generated_at": "2026-05-19 06:59 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -28,11 +28,42 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 6.9,
+      "age_hours": 16.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "Ledge.ai"
+      ]
+    },
+    {
+      "id": "814c07d99139c447",
+      "category": "メガバンク",
+      "title": "最新AI｢ミュトス｣のアクセス権､日本の3メガバンクが確保できる見通し…日米間の連携を深めてサイバー攻撃に備える狙い - 東洋経済オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ydGVabjI5YnB5bXlpeVRjYk9KZml0Sllza1ZUUHFKTkZEYkhab1JTOWxoUkdFZTUxdk9CenptYTZKbWN6QkVUbnYwSnNzMjY0U0E?oc=5",
+      "source": "東洋経済オンライン",
+      "published": "2026-05-18 09:30",
+      "summary": "最新AI｢ミュトス｣のアクセス権､日本の3メガバンクが確保できる見通し…日米間の連携を深めてサイバー攻撃に備える狙い &nbsp;&nbsp; 東洋経済オンライン",
+      "tags": [
+        "メガバンク",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "megabank",
+        "cyber"
+      ],
+      "importance": 65,
+      "confidence": "中",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 21.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "東洋経済オンライン"
       ]
     },
     {
@@ -56,7 +87,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.5,
+      "age_hours": 30.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -86,43 +117,11 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 32.5,
+      "age_hours": 42.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "9e920759e7c14d3f",
-      "category": "その他",
-      "title": "3大メガバンクのパニック対策：クロード・ミュトスを「敵」が使い始めた時に対処するのに不可欠な「自律型サイバー防衛システム」の実装について：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔 - オルタナティブ・ブログ",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82TUdSVlJMVFZKTnRhLXBLRm9qVEJYLVEzUDAzVURUekhDanBxRmRUTXZJRldtSzVYVUpxOE1yY0JDMlQyLVJJNzNLS2EyRVVMNVNLMGlmV1ducDBDMHc?oc=5",
-      "source": "オルタナティブ・ブログ",
-      "published": "2026-05-17 04:42",
-      "summary": "3大メガバンクのパニック対策：クロード・ミュトスを「敵」が使い始めた時に対処するのに不可欠な「自律型サイバー防衛システム」の実装について：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔 &nbsp;&nbsp; オルタナティブ・ブログ",
-      "tags": [
-        "その他",
-        "メガバンク",
-        "サイバー",
-        "リスク管理"
-      ],
-      "signals": [
-        "megabank",
-        "cyber"
-      ],
-      "importance": 65,
-      "confidence": "中",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 40.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "オルタナティブ・ブログ"
       ]
     }
   ]
