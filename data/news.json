@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22 15:49 JST",
+  "generated_at": "2026-05-22 20:44 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "e40569b96a4dbf82",
+      "id": "bd4be61310bcf1af",
       "category": "その他",
-      "title": "先端AI 金融機関に当面の対応を要請 金融庁 - テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoMXhIb1FhT0ZmdTRhUlBZSXc5MFRqQVVXdlVfd1dmZnlfNXBOenFOZmVRSGhUd1ByMHkxaDJLSVFtRGJvcXhjc0t3N0FtSlZ0SEI0U0lXN1ZyeVNWRndQd3JNYUdZQlR6LTFVNG1EMkhyZw?oc=5",
-      "source": "テレ朝NEWS",
-      "published": "2026-05-22 12:58",
-      "summary": "先端AI 金融機関に当面の対応を要請 金融庁 &nbsp;&nbsp; テレ朝NEWS",
+      "title": "ミュトスへの「短期的対応」要請 金融機関、システム能動停止も―金融庁 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53TU1XWWVwMmQ0MkNPZzdjekQ3VXA0UTUwRHJ6WG54VmVEN2JUblh4bDFnRU5ncXhuU1VpYnRBU1RYTlhSUnNMVTVOUEFYNTBuaC1BMjdUb1ByZjZmbWU4NHFKQQ?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-05-22 17:15",
+      "summary": "ミュトスへの「短期的対応」要請 金融機関、システム能動停止も―金融庁 &nbsp;&nbsp; 時事ドットコム",
       "tags": [
         "その他",
         "ガバナンス"
@@ -29,12 +29,99 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 2.9,
+      "age_hours": 3.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "時事ドットコム"
+      ]
+    },
+    {
+      "id": "202a6fa70a82c952",
+      "category": "その他",
+      "title": "「フロンティアAI」悪用に警戒 金融庁と日銀、金融機関に緊急要請 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXSi03UEFmem52N3BtdmFXYTNsR3dBRFBPS1pnVDJrSXhmaDBzbzBkUkRneDNxa2hLUUp1LXRCSWFQS01mZV8xRnVwb1ktUnhUMnRycQ?oc=5",
+      "source": "ASCII.jp",
+      "published": "2026-05-22 17:05",
+      "summary": "「フロンティアAI」悪用に警戒 金融庁と日銀、金融機関に緊急要請 &nbsp;&nbsp; ASCII.jp",
+      "tags": [
+        "その他",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 3.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ASCII.jp"
+      ]
+    },
+    {
+      "id": "987fd8424ae93642",
+      "category": "その他",
+      "title": "「クロード・ミュトス」など高性能AIの“悪用”対策 金融庁が金融機関に要請（2026年5月21日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SY3hYOUVjN1M0ZVlJWFVMak9WX2JLYk1FZV9ZZjkxbVZ2VUxRTDREZDNPUkxEN0NlbjVVT2c1MnNWZk81aS1tbTh5YzAzZUJqYUlrak5uM0ZOazJhc0F2X1NtT0xObG5lLXpBUGVydVRwVXJzNGZHakZ5ejk?oc=5",
+      "source": "日テレNEWS NNN",
+      "published": "2026-05-22 15:24",
+      "summary": "「クロード・ミュトス」など高性能AIの“悪用”対策 金融庁が金融機関に要請（2026年5月21日掲載）｜日テレNEWS NNN &nbsp;&nbsp; 日テレNEWS NNN",
+      "tags": [
+        "その他",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 5.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日テレNEWS NNN"
+      ]
+    },
+    {
+      "id": "663eb45d9758e087",
+      "category": "その他",
+      "title": "先端AI 金融機関に当面の対応を要請 金融庁 - 最新の経済ニュース【随時更新】 (ニュース) | 無料動画・見逃し配信を見るなら - ABEMA",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKUl9lQWxJSUd3VDdqQkl4TUhGeTQ4TWdvVzA3dW5XVlhIYW1CVWpXRVdLYkFPN2gwMEFKdlp6SnFoVTNqUS1va3RNVndaVnlXM2NWX0NOeWFubGM?oc=5",
+      "source": "ABEMA",
+      "published": "2026-05-22 15:18",
+      "summary": "先端AI 金融機関に当面の対応を要請 金融庁 - 最新の経済ニュース【随時更新】 (ニュース) | 無料動画・見逃し配信を見るなら &nbsp;&nbsp; ABEMA",
+      "tags": [
+        "その他",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 5.4,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
-        "テレ朝NEWS",
-        "ｄメニューニュース"
+        "ABEMA",
+        "HOME広島ホームテレビ"
       ]
     },
     {
@@ -62,7 +149,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 3.2,
+      "age_hours": 8.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -70,13 +157,13 @@
       ]
     },
     {
-      "id": "fba3f5a141118e48",
+      "id": "88b82cf14f8f55ad",
       "category": "その他",
-      "title": "金融庁・日銀、「ミュトス」対策で緊急点検要請 経営トップ主導で予算・人員確保を - nikkinonline.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GaGpGUUpiVnBxWjIzX3FOMFRLakVTNl9RTE9YUWl2VnYzTXlrcWFOV2ZkLVR2MEs3QTlac0NjSGJXbFJ5d1NwTGtiaUVnWjJqd0VQZHhIMA?oc=5",
-      "source": "nikkinonline.com",
-      "published": "2026-05-22 12:31",
-      "summary": "金融庁・日銀、「ミュトス」対策で緊急点検要請 経営トップ主導で予算・人員確保を &nbsp;&nbsp; nikkinonline.com",
+      "title": "金融庁、最先端ＡＩ対策を要請 脆弱性管理など - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWhpd2oxVVBHLTVtUlhaTV9BNU1jVjhlY3B2aHp1bTYxaEpGdTJVSHNOcmwzMjM5ZzQ4SUJEckNZTzdSUnFBRXJKaFU1NkZVQjlyQ1ZsRTdZdU1lZjVWVTNqQWNrdE1CcVRtdXdtVjdIZ01hc2RFZEcyMVp5OHFLSA?oc=5",
+      "source": "Reuters",
+      "published": "2026-05-22 11:40",
+      "summary": "金融庁、最先端ＡＩ対策を要請 脆弱性管理など &nbsp;&nbsp; Reuters",
       "tags": [
         "その他",
         "ガバナンス"
@@ -91,40 +178,11 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 3.3,
+      "age_hours": 9.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "nikkinonline.com"
-      ]
-    },
-    {
-      "id": "446e837ef38087a1",
-      "category": "その他",
-      "title": "【速報】金融庁、最新AIの対策要請 - 47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0S0VWLUU3NWlzaWVScy0yZGJFOUFaUGVHUjhIb3E3MXJGRjl4bFdaTlZTSU5LdTBiYk44MU5rNXlRVU9qekFfdVoybw?oc=5",
-      "source": "47NEWS",
-      "published": "2026-05-22 11:35",
-      "summary": "【速報】金融庁、最新AIの対策要請 &nbsp;&nbsp; 47NEWS",
-      "tags": [
-        "その他",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 4.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "47NEWS"
+        "Reuters"
       ]
     },
     {
@@ -148,7 +206,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 4.4,
+      "age_hours": 9.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -176,41 +234,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 5.1,
+      "age_hours": 10.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "PlusWeb3"
-      ]
-    },
-    {
-      "id": "96ceaa307a664346",
-      "category": "NTTデータ",
-      "title": "みずほ銀行に住宅ローンDXプラットフォーム「Mortgage One®」を提供開始 - NTT Data",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hcjdBS2l1eWg4REl6QlZyS2pkNjc0RE53ZktkTEp2NnRhNnQxV21JTjE1U3haUlVUVWJIeWRQSHlPWnMtMk9yenAtSE10Um9UbnJkMUF0QW5LbzlsT0dDTEZiZUJxVVBmY0E?oc=5",
-      "source": "NTT Data",
-      "published": "2026-05-22 10:00",
-      "summary": "みずほ銀行に住宅ローンDXプラットフォーム「Mortgage One®」を提供開始 &nbsp;&nbsp; NTT Data",
-      "tags": [
-        "NTTデータ",
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank",
-        "nttdata"
-      ],
-      "importance": 79,
-      "confidence": "中",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 5.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "NTT Data"
       ]
     },
     {
@@ -239,7 +267,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 9.0,
+      "age_hours": 13.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -271,7 +299,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 10.8,
+      "age_hours": 15.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -299,7 +327,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 26.2,
+      "age_hours": 31.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -332,7 +360,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 32.8,
+      "age_hours": 37.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -362,41 +390,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 32.8,
+      "age_hours": 37.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ZDNET Japan"
-      ]
-    },
-    {
-      "id": "1bfde123d18c5bbe",
-      "category": "NTTデータ",
-      "title": "金融庁の指針もクリア！ NTTデータが仕掛ける、複数の金融機関でシェアする『共同利用型AI基盤』がもたらす金融維新 - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XdFk3YUZMZWx6UmhSTWt2enVFbk5qa0RqYWxNMTJzOXhjai1MdURkMXZqM2syVEtXaVM1STJlVmtTbkJlV3MwREFnTmxOZw?oc=5",
-      "source": "DXマガジン",
-      "published": "2026-05-20 16:49",
-      "summary": "金融庁の指針もクリア！ NTTデータが仕掛ける、複数の金融機関でシェアする『共同利用型AI基盤』がもたらす金融維新 &nbsp;&nbsp; DXマガジン",
-      "tags": [
-        "NTTデータ",
-        "ガバナンス"
-      ],
-      "signals": [
-        "nttdata",
-        "governance"
-      ],
-      "importance": 77,
-      "confidence": "中",
-      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
-      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 47.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "DXマガジン"
       ]
     }
   ]
