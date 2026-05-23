@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 19:25 JST",
+  "generated_at": "2026-05-24 06:49 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,98 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "4683f61cf551e9c6",
+      "category": "最新AI技術",
+      "title": "日本政府、重要15分野のサイバー防御にAI活用「プロジェクト・ヤタ・シールド」を発足 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBacjRXRERoZGI1VTlrZGt2S1NWWUUzZzRJZ0FxQmRNZ2E2aGdUZUVFejczY0VBS1dJWXdKaDZBTjl4Q2o4dVF5b2h2ZUk1c3VQSGdv?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-05-23 22:00",
+      "summary": "日本政府、重要15分野のサイバー防御にAI活用「プロジェクト・ヤタ・シールド」を発足 &nbsp;&nbsp; ビジネス+IT",
+      "tags": [
+        "最新AI技術",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "cyber"
+      ],
+      "importance": 51,
+      "confidence": "低",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 8.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ビジネス+IT"
+      ]
+    },
+    {
+      "id": "5deeed8a2be858cb",
+      "category": "その他",
+      "title": "最新ＡＩ対応急げ＝サイバー攻撃対策要請 金融庁、所管全金融機関に システム停止も選択肢｜四国新聞WEB朝刊 - 四国新聞",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeTlobUlaMUk3Q0pXWDNoeUNqZzBYRkZNOGNIYUpQZzhIZU4xRE5leHRFdHJNOEFRZTBuQzI1SWd1cVBVTV9jV0RjRU5iVnkwLU11OXRJdThmNElEMzNtQ0pDcmwyRHdZUFBCanRnMTA0cFpZUzg40gF8QVVfeXFMUGxhR3dmam1UTlZnLWxmblRNNElUXzB2Y091ZTZodGJNWjNJZjczaXQxQ3M4MW00dkpqOThFRThpRUltZDZFUDdIQTJvZVN6RURzYUtJU0Uyel82Tzduelg4YXNWdWJiRjVad1lfaVFhNjhUSFgxRE1JT3pwUQ?oc=5",
+      "source": "四国新聞",
+      "published": "2026-05-23 21:55",
+      "summary": "最新ＡＩ対応急げ＝サイバー攻撃対策要請 金融庁、所管全金融機関に システム停止も選択肢｜四国新聞WEB朝刊 &nbsp;&nbsp; 四国新聞",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理",
+        "ガバナンス"
+      ],
+      "signals": [
+        "cyber",
+        "governance"
+      ],
+      "importance": 63,
+      "confidence": "中",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 8.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "四国新聞"
+      ]
+    },
+    {
+      "id": "1c5c9305ba88b485",
+      "category": "地銀",
+      "title": "地銀、政府の産業集積構想参画へ - 京都新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kMko3aTg3WVE0ZlNVa2tYbjViYlpyR2xWN0R0cUdwOE1Xb1lDbmM2ck5rWDZ1RDdEQzlKR2tTY3VMOHhjZngwcmsxY0ZFcFhWT2xyc0JaN08?oc=5",
+      "source": "京都新聞デジタル",
+      "published": "2026-05-23 16:11",
+      "summary": "地銀、政府の産業集積構想参画へ &nbsp;&nbsp; 京都新聞デジタル",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 14.6,
+      "is_recent": true,
+      "duplicate_count": 2,
+      "related_sources": [
+        "京都新聞デジタル",
+        "山陰中央新報デジタル"
+      ]
+    },
     {
       "id": "24c00316c028654b",
       "category": "その他",
@@ -29,7 +121,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 12.8,
+      "age_hours": 24.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -55,41 +147,12 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.4,
+      "age_hours": 24.8,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
         "財界オンライン",
         "Yahoo!ファイナンス"
-      ]
-    },
-    {
-      "id": "bd4be61310bcf1af",
-      "category": "その他",
-      "title": "ミュトスへの「短期的対応」要請 金融機関、システム能動停止も―金融庁 - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53TU1XWWVwMmQ0MkNPZzdjekQ3VXA0UTUwRHJ6WG54VmVEN2JUblh4bDFnRU5ncXhuU1VpYnRBU1RYTlhSUnNMVTVOUEFYNTBuaC1BMjdUb1ByZjZmbWU4NHFKQQ?oc=5",
-      "source": "時事ドットコム",
-      "published": "2026-05-22 22:27",
-      "summary": "ミュトスへの「短期的対応」要請 金融機関、システム能動停止も―金融庁 &nbsp;&nbsp; 時事ドットコム",
-      "tags": [
-        "その他",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 21.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "時事ドットコム"
       ]
     },
     {
@@ -113,7 +176,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 22.3,
+      "age_hours": 33.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -145,7 +208,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 24.3,
+      "age_hours": 35.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -174,7 +237,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 25.0,
+      "age_hours": 36.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -203,7 +266,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 26.3,
+      "age_hours": 37.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -232,7 +295,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 28.0,
+      "age_hours": 39.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -261,7 +324,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 30.5,
+      "age_hours": 41.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -293,7 +356,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 30.8,
+      "age_hours": 42.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -322,7 +385,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 31.8,
+      "age_hours": 43.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -351,7 +414,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 31.9,
+      "age_hours": 43.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -379,7 +442,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 32.0,
+      "age_hours": 43.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -387,68 +450,32 @@
       ]
     },
     {
-      "id": "fa77a01f6786c723",
-      "category": "最新AI技術",
-      "title": "生成AIに「置き換えてOK」な金融業務は？融資稟議Before/Afterで完全解説（ビジネス＋IT） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92aHowYzhmNGpWTS0yZTBFZ1JSVjdQaUZ6bkt2dDE2VUUyc25lc2VmRm9aQkNiem9HbjduYXl2YkpQOUllazZEcXl2NUlVVVlVTnZJN19uaDV3XzRjcW9NdUlHRkx4MFozZFZrRXZ3eDFoRVF6Y0QtYmFMMDMtVjg?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-05-22 06:40",
-      "summary": "生成AIに「置き換えてOK」な金融業務は？融資稟議Before/Afterで完全解説（ビジネス＋IT） &nbsp;&nbsp; Yahoo!ニュース",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用",
-        "融資",
-        "法人営業"
-      ],
-      "signals": [
-        "generative_ai",
-        "lending"
-      ],
-      "importance": 66,
-      "confidence": "中",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 36.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "e458855ea72d84bc",
+      "id": "ac860f0967417bb6",
       "category": "地銀",
-      "title": "IT大手、地銀にセキュリティー総合サービス相次ぎ提供 Mythosで高まる需要（2ページ目） - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sUUwzNTh4MzhSNWJYd3BYSkVDZHFac2xOLXNScE5NbnBGZkt2Zk1EYjlnQ2lYUjBXZDd0X0hqdVJ0MW9EMVZhTU1qYXdGZ3JzTXNVLWNGRjVsV0pTWktRUkVZM19MRFZCR3hHUA?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-05-22 05:00",
-      "summary": "IT大手、地銀にセキュリティー総合サービス相次ぎ提供 Mythosで高まる需要（2ページ目） &nbsp;&nbsp; 日経クロステック",
+      "title": "クラス、常陽銀行より資金調達を実施。地域金融機関との連携を強化し、循環型エコシステムのさらなる拡大へ - 福島民友新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTSURtcnVhWkcwZ2hIUzYwOWhPOWZfSnlSWWFYMXk2SUV4bUJ1bDByc2RLbmpHOW9kcnprUDBjVFFvLUNwTWxZcGt0R0lDbTlRVm80bG1zVDJpeUtGMUQyeVRscUw?oc=5",
+      "source": "福島民友新聞社",
+      "published": "2026-05-22 09:22",
+      "summary": "クラス、常陽銀行より資金調達を実施。地域金融機関との連携を強化し、循環型エコシステムのさらなる拡大へ &nbsp;&nbsp; 福島民友新聞社",
       "tags": [
         "地銀",
-        "地域金融",
-        "サイバー",
-        "リスク管理"
+        "地域金融"
       ],
       "signals": [
-        "regional_bank",
-        "cyber"
+        "regional_bank"
       ],
-      "importance": 79,
-      "confidence": "中",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 38.4,
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 45.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "日経クロステック"
+        "福島民友新聞社"
       ]
     }
   ]
