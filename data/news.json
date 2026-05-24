@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 19:41 JST",
+  "generated_at": "2026-05-25 06:51 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,32 +8,59 @@
   },
   "items": [
     {
-      "id": "2764408d530aa83c",
-      "category": "その他",
-      "title": "フロンティアAIが脆弱性を大量発見する時代へ—金融庁・日銀、Project YATA-Shieldに沿う1ヶ月対応を全金融機関に要請 - innovaTopia",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlNmFaMVlhejlUeW9YQ2JwWEhuZjFzTVczT2lfUU4ydjAwel9TVGlpTHJubHFpcFdtVEEyTDB0NHdNaDgwWGlfd01kZEN2NnBVSjItQ3N4Q1pkaGxmRjRkaGR4VHB3TkU5ZGZPcEo0MXZlRW8?oc=5",
-      "source": "innovaTopia",
-      "published": "2026-05-24 14:00",
-      "summary": "フロンティアAIが脆弱性を大量発見する時代へ—金融庁・日銀、Project YATA-Shieldに沿う1ヶ月対応を全金融機関に要請 &nbsp;&nbsp; innovaTopia",
+      "id": "ddad0ef1fd71a512",
+      "category": "最新AI技術",
+      "title": "第2回：バンカーの仕事は生成AIに代替されるのか？ - nikkinonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWNGM3OG1UbGt6YlVkYWxncENzOWNuUi1JeS1oSF9TRnRQYWUxckE1Sm83c1R1Wk5uaFJMNHRVYjlrSHVfN0t3YWVmdEVLZUp4QUEycUxZNA?oc=5",
+      "source": "nikkinonline.com",
+      "published": "2026-05-25 04:50",
+      "summary": "第2回：バンカーの仕事は生成AIに代替されるのか？ &nbsp;&nbsp; nikkinonline.com",
       "tags": [
-        "その他",
-        "ガバナンス"
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
       ],
       "signals": [
-        "governance"
+        "generative_ai"
       ],
-      "importance": 47,
+      "importance": 53,
       "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 5.7,
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 2.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "innovaTopia"
+        "nikkinonline.com"
+      ]
+    },
+    {
+      "id": "e33dfb8b9083a032",
+      "category": "その他",
+      "title": "アンソロピックの最強AI「ミュトス」、1万件超の脆弱性を発見 日本政府・金融機関にもアクセス権付与へ - finance.biggo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aUGlldlRWcjdZeTNGV0YzZlJYNTg2cExBTXExOXJJTVJaeWNhMWx6WXFYRXlQU2lMVDd2WjBvNE9Jb3RpNEtNVmZRNUlTNlNYZzV2TERnWFVWX0F1bzEw?oc=5",
+      "source": "finance.biggo.jp",
+      "published": "2026-05-24 20:25",
+      "summary": "アンソロピックの最強AI「ミュトス」、1万件超の脆弱性を発見 日本政府・金融機関にもアクセス権付与へ &nbsp;&nbsp; finance.biggo.jp",
+      "tags": [
+        "その他"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 10.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "finance.biggo.jp"
       ]
     },
     {
@@ -59,7 +86,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 21.7,
+      "age_hours": 32.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -88,124 +115,12 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 27.5,
+      "age_hours": 38.7,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
         "京都新聞デジタル",
         "山陰中央新報デジタル"
-      ]
-    },
-    {
-      "id": "24c00316c028654b",
-      "category": "その他",
-      "title": "新型AI悪用に備え金融システム停止も選択肢、金融庁と日銀が異例の緊急要請 - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uTXg0Mk1FSFhQdnotSXE4R2V4MHNFRG9DbEVKTUIyUlVrb1BjeEtvcXRXamVsQ2o2MXRPS1Y1eDI3dmpoVTdfQXBub1l3enMxWFBwaVZhZlpmVkJTR1BJ?oc=5",
-      "source": "finance.biggo.jp",
-      "published": "2026-05-23 06:35",
-      "summary": "新型AI悪用に備え金融システム停止も選択肢、金融庁と日銀が異例の緊急要請 &nbsp;&nbsp; finance.biggo.jp",
-      "tags": [
-        "その他",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 37.1,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "finance.biggo.jp"
-      ]
-    },
-    {
-      "id": "b470814a9eb7ee19",
-      "category": "地銀",
-      "title": "SBIホールディングス会長兼社長・北尾吉孝、AI活用、地方創生など金融の枠を超える事業の展開は？ - 財界オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6UXBmV3NqZUZQV3U5bkRxQk5ZRVJJeXBrNjdTWHFRcVQ5OXlsRmliSXdqdHZ4bDVMX1JscTNzdnhMdF8xaFdlSkZxa0Rfbnk4NlpZNzRneWowMVRX?oc=5",
-      "source": "財界オンライン",
-      "published": "2026-05-23 06:03",
-      "summary": "SBIホールディングス会長兼社長・北尾吉孝、AI活用、地方創生など金融の枠を超える事業の展開は？ &nbsp;&nbsp; 財界オンライン",
-      "tags": [
-        "地銀"
-      ],
-      "signals": [],
-      "importance": 43,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 37.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "財界オンライン"
-      ]
-    },
-    {
-      "id": "bd4be61310bcf1af",
-      "category": "その他",
-      "title": "ミュトスへの「短期的対応」要請 金融機関、システム能動停止も―金融庁 - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53TU1XWWVwMmQ0MkNPZzdjekQ3VXA0UTUwRHJ6WG54VmVEN2JUblh4bDFnRU5ncXhuU1VpYnRBU1RYTlhSUnNMVTVOUEFYNTBuaC1BMjdUb1ByZjZmbWU4NHFKQQ?oc=5",
-      "source": "時事ドットコム",
-      "published": "2026-05-22 22:27",
-      "summary": "ミュトスへの「短期的対応」要請 金融機関、システム能動停止も―金融庁 &nbsp;&nbsp; 時事ドットコム",
-      "tags": [
-        "その他",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 45.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "時事ドットコム"
-      ]
-    },
-    {
-      "id": "4ac68cebd8016fb1",
-      "category": "メガバンク",
-      "title": "メガバンク、最新AI「ミュトス」導入で脆弱性対応急増に身構え - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fSzFwdWVxWWQ4SUs5S2l6UnViUzkxcXdpeDZSdThmNE9sdnE2ZHNSN2MwUDRIaDNFdE9xQ3YxeUlmb0hUMldBT1lFU3EzT0JoOTB2VGV3Y29rNXRwd3E4?oc=5",
-      "source": "finance.biggo.jp",
-      "published": "2026-05-22 21:05",
-      "summary": "メガバンク、最新AI「ミュトス」導入で脆弱性対応急増に身構え &nbsp;&nbsp; finance.biggo.jp",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 46.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "finance.biggo.jp"
       ]
     }
   ]
