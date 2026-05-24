@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 15:37 JST",
+  "generated_at": "2026-05-24 19:41 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,35 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "2764408d530aa83c",
+      "category": "その他",
+      "title": "フロンティアAIが脆弱性を大量発見する時代へ—金融庁・日銀、Project YATA-Shieldに沿う1ヶ月対応を全金融機関に要請 - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlNmFaMVlhejlUeW9YQ2JwWEhuZjFzTVczT2lfUU4ydjAwel9TVGlpTHJubHFpcFdtVEEyTDB0NHdNaDgwWGlfd01kZEN2NnBVSjItQ3N4Q1pkaGxmRjRkaGR4VHB3TkU5ZGZPcEo0MXZlRW8?oc=5",
+      "source": "innovaTopia",
+      "published": "2026-05-24 14:00",
+      "summary": "フロンティアAIが脆弱性を大量発見する時代へ—金融庁・日銀、Project YATA-Shieldに沿う1ヶ月対応を全金融機関に要請 &nbsp;&nbsp; innovaTopia",
+      "tags": [
+        "その他",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 5.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "innovaTopia"
+      ]
+    },
     {
       "id": "4683f61cf551e9c6",
       "category": "最新AI技術",
@@ -30,43 +59,11 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 17.6,
+      "age_hours": 21.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ビジネス+IT"
-      ]
-    },
-    {
-      "id": "5deeed8a2be858cb",
-      "category": "その他",
-      "title": "最新ＡＩ対応急げ＝サイバー攻撃対策要請 金融庁、所管全金融機関に システム停止も選択肢｜四国新聞WEB朝刊 - 四国新聞",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeTlobUlaMUk3Q0pXWDNoeUNqZzBYRkZNOGNIYUpQZzhIZU4xRE5leHRFdHJNOEFRZTBuQzI1SWd1cVBVTV9jV0RjRU5iVnkwLU11OXRJdThmNElEMzNtQ0pDcmwyRHdZUFBCanRnMTA0cFpZUzg40gF8QVVfeXFMUGxhR3dmam1UTlZnLWxmblRNNElUXzB2Y091ZTZodGJNWjNJZjczaXQxQ3M4MW00dkpqOThFRThpRUltZDZFUDdIQTJvZVN6RURzYUtJU0Uyel82Tzduelg4YXNWdWJiRjVad1lfaVFhNjhUSFgxRE1JT3pwUQ?oc=5",
-      "source": "四国新聞",
-      "published": "2026-05-23 21:55",
-      "summary": "最新ＡＩ対応急げ＝サイバー攻撃対策要請 金融庁、所管全金融機関に システム停止も選択肢｜四国新聞WEB朝刊 &nbsp;&nbsp; 四国新聞",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
-      ],
-      "signals": [
-        "cyber",
-        "governance"
-      ],
-      "importance": 63,
-      "confidence": "中",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 17.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "四国新聞"
       ]
     },
     {
@@ -91,7 +88,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 23.4,
+      "age_hours": 27.5,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
@@ -121,7 +118,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 33.0,
+      "age_hours": 37.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -147,12 +144,40 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 33.6,
+      "age_hours": 37.6,
       "is_recent": true,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "related_sources": [
-        "財界オンライン",
-        "Yahoo!ファイナンス"
+        "財界オンライン"
+      ]
+    },
+    {
+      "id": "bd4be61310bcf1af",
+      "category": "その他",
+      "title": "ミュトスへの「短期的対応」要請 金融機関、システム能動停止も―金融庁 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53TU1XWWVwMmQ0MkNPZzdjekQ3VXA0UTUwRHJ6WG54VmVEN2JUblh4bDFnRU5ncXhuU1VpYnRBU1RYTlhSUnNMVTVOUEFYNTBuaC1BMjdUb1ByZjZmbWU4NHFKQQ?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-05-22 22:27",
+      "summary": "ミュトスへの「短期的対応」要請 金融機関、システム能動停止も―金融庁 &nbsp;&nbsp; 時事ドットコム",
+      "tags": [
+        "その他",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 45.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "時事ドットコム"
       ]
     },
     {
@@ -176,101 +201,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 42.5,
+      "age_hours": 46.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "finance.biggo.jp"
-      ]
-    },
-    {
-      "id": "ee551e89387ad3dc",
-      "category": "その他",
-      "title": "金融庁と日銀、AI悪用のサイバー攻撃に備え金融機関に要請 - Impress Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3TlVkcWtPZWMxMkE0akFXUzFxeC1oM2NjMmJhTTEtX1ZTeDZWNjZMOWFsVEFTNTlxNGE5Tk5ZQUdjRVlGcENoS1dkTHZaaHQtLUhiN3Jya1QxRlUxTDhGel9RR2Q?oc=5",
-      "source": "Impress Watch",
-      "published": "2026-05-22 19:07",
-      "summary": "金融庁と日銀、AI悪用のサイバー攻撃に備え金融機関に要請 &nbsp;&nbsp; Impress Watch",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
-      ],
-      "signals": [
-        "cyber",
-        "governance"
-      ],
-      "importance": 63,
-      "confidence": "中",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 44.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Impress Watch"
-      ]
-    },
-    {
-      "id": "1b7880fd1e202830",
-      "category": "その他",
-      "title": "金融庁・日銀が異例の緊急要請、「フロンティアAI」悪用リスクで金融機関にシステム能動停止も視野に - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91ak1QOTA2OW5iQmtTYjlWSEpKdkhjT2pkWGpoemd0SXVjamhpczNlcnN2QVNFOFRiY1ZidC1RTDlsQ0ZiTkllVkNPT1Q4YVNDQndHT2JmNm1CSjZfb1RJ?oc=5",
-      "source": "finance.biggo.jp",
-      "published": "2026-05-22 18:25",
-      "summary": "金融庁・日銀が異例の緊急要請、「フロンティアAI」悪用リスクで金融機関にシステム能動停止も視野に &nbsp;&nbsp; finance.biggo.jp",
-      "tags": [
-        "その他",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 45.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "finance.biggo.jp"
-      ]
-    },
-    {
-      "id": "202a6fa70a82c952",
-      "category": "その他",
-      "title": "「フロンティアAI」悪用に警戒 金融庁と日銀、金融機関に緊急要請 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXSi03UEFmem52N3BtdmFXYTNsR3dBRFBPS1pnVDJrSXhmaDBzbzBkUkRneDNxa2hLUUp1LXRCSWFQS01mZV8xRnVwb1ktUnhUMnRycQ?oc=5",
-      "source": "ASCII.jp",
-      "published": "2026-05-22 17:05",
-      "summary": "「フロンティアAI」悪用に警戒 金融庁と日銀、金融機関に緊急要請 &nbsp;&nbsp; ASCII.jp",
-      "tags": [
-        "その他",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 46.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ASCII.jp"
       ]
     }
   ]
