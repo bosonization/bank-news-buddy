@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 16:03 JST",
+  "generated_at": "2026-05-27 21:19 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -29,7 +29,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 8.5,
+      "age_hours": 13.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -59,7 +59,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 9.1,
+      "age_hours": 14.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -88,7 +88,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 25.7,
+      "age_hours": 31.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -117,7 +117,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 26.3,
+      "age_hours": 31.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -152,7 +152,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 27.1,
+      "age_hours": 32.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -184,7 +184,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 27.3,
+      "age_hours": 32.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -214,102 +214,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 28.7,
+      "age_hours": 34.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "毎日新聞"
-      ]
-    },
-    {
-      "id": "6c9841948b87ec2d",
-      "category": "最新AI技術",
-      "title": "Workato株式会社、一般社団法人生成AI活用普及協会（GUGA）にシニアパートナー会員として加盟 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5heWI1ckxpbjZtV1lzeDAwampUbGNYT2wtc2dMYmNoclRZdGlnMWh5X1BNRmltSlZPX0UwMUZpNkhlYTNHZ0V6U05tWWk4TWY2emhPbmh1Y1loUHNzWk5BVjhJOW1CRzhzclE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-05-26 09:40",
-      "summary": "Workato株式会社、一般社団法人生成AI活用普及協会（GUGA）にシニアパートナー会員として加盟 &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 30.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
-      ]
-    },
-    {
-      "id": "96429a0d78e80b70",
-      "category": "その他",
-      "title": "なぜ金融庁と日銀は全金融機関に緊急対応を要請したのか フロンティアAIが根本から変えるサイバー攻撃 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0RnNCbnhyX3NfN1FrOE94alhzb0F3MUtBd0lESEllVEVEcjlTRV91MXhhRmdseUhsSUZZZm1WXzIyRzVmQmlEU3pHd3JqUjBLVk1SamtOYlNwX2ZvcEdtbF9BYXpMdGJHZ2dJYQ?oc=5",
-      "source": "ITmedia",
-      "published": "2026-05-26 05:00",
-      "summary": "なぜ金融庁と日銀は全金融機関に緊急対応を要請したのか フロンティアAIが根本から変えるサイバー攻撃 &nbsp;&nbsp; ITmedia",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
-      ],
-      "signals": [
-        "cyber",
-        "governance"
-      ],
-      "importance": 63,
-      "confidence": "中",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 35.1,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ITmedia"
-      ]
-    },
-    {
-      "id": "377d12b660886840",
-      "category": "その他",
-      "title": "脆弱性管理クラウド「yamory」、金融庁・日本銀行の「フロンティア AIによる脅威変化を踏まえた短期的な対応」要請を受け、「金融機関向け緊急対応プラン」の提供開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TRXV1TmdoY3hzMlhGMGVINXJpOTJXN05fdURqYmRTYWwxd2k2TnZ0SHQza1hWaHhZcXBWeGRuamg0dVJTdGEwemxoVVpRWE4xWmZLeHpFUjBVcHRMNHFnNGtQTEp4NHNINnc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-05-25 18:03",
-      "summary": "脆弱性管理クラウド「yamory」、金融庁・日本銀行の「フロンティア AIによる脅威変化を踏まえた短期的な対応」要請を受け、「金融機関向け緊急対応プラン」の提供開始 &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "その他",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 46.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
       ]
     }
   ]
