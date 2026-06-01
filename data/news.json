@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:19 JST",
+  "generated_at": "2026-06-02 07:59 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,66 +30,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 3.0,
+      "age_hours": 10.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "EnterpriseZine"
-      ]
-    },
-    {
-      "id": "dce11d77824826e7",
-      "category": "地銀",
-      "title": "三井物産デジタル・アセットマネジメントと北洋銀行が新たな資産運用の連携を開始 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZTjZfLTNZRTY4dmdvbUJKWlQtU0tSVnpxSmRpN2dqcW1VRDY4MkY1THdIcDlyVVg1X2dlV2pTU0lRa2pEbWN6Mk90RjFHYkpRb2xYUGhiREhROURfcU9Cd3lwM09xcU9lbTVxbElpYw?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-06-01 17:51",
-      "summary": "三井物産デジタル・アセットマネジメントと北洋銀行が新たな資産運用の連携を開始 &nbsp;&nbsp; ニュースメディアVOIX",
-      "tags": [
-        "地銀"
-      ],
-      "signals": [],
-      "importance": 43,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 6.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニュースメディアVOIX"
-      ]
-    },
-    {
-      "id": "1ac27ed574b27a71",
-      "category": "その他",
-      "title": "Cloudbase、金融庁・日銀の「フロンティアAI対応要請」に関するホワイトペーパーを公開 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TZkJIaDczQmtxYkxQdllXdEMtcy1KM3dkakZZSEFwelZIekJYUjgxRXlmMTRmRkJmQ09Uem03TjJULVBvdlV2OVQyZ3ZFMjFTZkxuRmVDT0hBUHJhaERVY2lLS0VtUEVf?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-06-01 11:00",
-      "summary": "Cloudbase、金融庁・日銀の「フロンティアAI対応要請」に関するホワイトペーパーを公開 &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "その他",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 13.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
       ]
     },
     {
@@ -111,7 +56,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 15.3,
+      "age_hours": 23.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
