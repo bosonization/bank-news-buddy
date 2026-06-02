@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 07:59 JST",
+  "generated_at": "2026-06-02 16:23 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "3fb7f74c7345f8e0",
+      "id": "af872366b75f1177",
       "category": "最新AI技術",
-      "title": "増殖する「シャドーAI」から企業を守るには？ AIエージェントを安全に活用する4つのステップ - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTZzFacXlVR3lJMWdTZGtVSGxqMmRPY20xX1plMDcxeUh5aXJUVXZielNLMm1QX3A2b3l3UTlOdXNXTjUxQmd5SmZidmFwcTlxaFhkeWIwdm5TUQ?oc=5",
-      "source": "EnterpriseZine",
-      "published": "2026-06-01 21:18",
-      "summary": "増殖する「シャドーAI」から企業を守るには？ AIエージェントを安全に活用する4つのステップ &nbsp;&nbsp; EnterpriseZine",
+      "title": "AIを学ぶ人から、AIを使って任す人へ。Zenmetry、60日間の超・伴走型AIエージェント化プログラムを6月より開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ycVc5SzNOU1E2X1dqZTNiYWNjZVZROGx5V1ZhcmFfNjVSRXdqVm9KTmJPT2JyTjBlNm95Z2FNUzVabHlHcTI5RTc2SDhMbFBBUnRENjNHbmNKWUdES3J6cVlXbHBxdlhHVVE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-06-02 12:07",
+      "summary": "AIを学ぶ人から、AIを使って任す人へ。Zenmetry、60日間の超・伴走型AIエージェント化プログラムを6月より開始 &nbsp;&nbsp; PR TIMES",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -30,11 +30,42 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 10.7,
+      "age_hours": 4.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "EnterpriseZine"
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "41dd416f7f2da0f0",
+      "category": "メガバンク",
+      "title": "MUFG、Moneytree連携でChatGPT上の金融データ確認を開始 残高・明細・出費カテゴリを会話で整理 - Ledge.ai",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaeDVSZlFSd3NnTUtRbXJiV295MFNtWHJGbUZlUU5pTEl2YWV4RFBmRDJKOTI5MmxwNjFraTEyTS1uRjlLNkkya0d3SnpVMFBmRlVBR1dtMjN6WWs0UGJjOWdNVGQ1ZXBzQXY5N1FzTXI?oc=5",
+      "source": "Ledge.ai",
+      "published": "2026-06-02 10:02",
+      "summary": "MUFG、Moneytree連携でChatGPT上の金融データ確認を開始 残高・明細・出費カテゴリを会話で整理 &nbsp;&nbsp; Ledge.ai",
+      "tags": [
+        "メガバンク",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai",
+        "megabank"
+      ],
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 6.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Ledge.ai"
       ]
     },
     {
@@ -56,7 +87,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 23.0,
+      "age_hours": 31.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
