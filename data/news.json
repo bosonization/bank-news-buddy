@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 15:29 JST",
+  "generated_at": "2026-06-06 19:52 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,69 +26,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 8.5,
+      "age_hours": 12.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ｄメニューニュース"
-      ]
-    },
-    {
-      "id": "0134c82d253eb157",
-      "category": "メガバンク",
-      "title": "最強AI「ミュトス」日本上陸へ。3メガバンクを待ち受ける壁と、アクセス権なき企業の生存戦略 (cIEeZinEZj) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Zemx3Z2hQQXYtQkhpWjUyQlVveGxZZ3JwWGpQV2VGWURUeDNXUnpRTlVDZEROd19PakdRU0pJU2ppd0kyUGpDSFM2SHRldkpFOVlielFUSG9YZ2JZUllFc3lVTTZFdjZyWTZwSkdDaVk?oc=5",
-      "source": "Fathom Journal",
-      "published": "2026-06-05 23:54",
-      "summary": "最強AI「ミュトス」日本上陸へ。3メガバンクを待ち受ける壁と、アクセス権なき企業の生存戦略 (cIEeZinEZj) &nbsp;&nbsp; Fathom Journal",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 15.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Fathom Journal"
-      ]
-    },
-    {
-      "id": "b111763028f74465",
-      "category": "その他",
-      "title": "ミュトスがあれば安全なのか LayerXが語るAIサイバー防御 - Impress Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53VlNGa2NYWGttX0J4ZzJsazQxY0pSTi1BYUYwRFpKTnBITzNJNDhYaGx5d0hOWU1hbC1ZVjJyLXZzR0k4Z0JYMUxJTXZnc09rS1lxSnZfb0lVekNhVlp3bDhEQVc?oc=5",
-      "source": "Impress Watch",
-      "published": "2026-06-05 18:16",
-      "summary": "ミュトスがあれば安全なのか LayerXが語るAIサイバー防御 &nbsp;&nbsp; Impress Watch",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理"
-      ],
-      "signals": [
-        "cyber"
-      ],
-      "importance": 51,
-      "confidence": "低",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 21.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Impress Watch"
       ]
     },
     {
@@ -114,7 +56,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 23.8,
+      "age_hours": 28.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -143,7 +85,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 28.5,
+      "age_hours": 32.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -151,12 +93,12 @@
       ]
     },
     {
-      "id": "8404ed50598e9783",
+      "id": "cd3990788b53537b",
       "category": "最新AI技術",
       "title": "AIエージェント、企業の利用安全に メテリクスが新サービス - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPODNPb2JZWUlfelBUcXFBbWhSMkhvVURuTDRKZ3NzZmt2S0ljUGlqYlpIUnZUbEdpUzlrZHlQbUNiTGRNSndSTXdySzk5dXp0WVViNUhSVTNZZGtfSnA2ZDRwTnhBQjNHbGh6cjRtT2t2Tnc1RGFjanZfWndPdHZ6bUwtR2JRb0hCeWJyY1d5UHBEQkxUQm92TVhSakFtOUJCWUtldDln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVC0yb1VoMkpnajdUbzFVbWYxYXlDeDNkSkxmeWs2UHZSVzM5S1JnV1huSDRxeHFoWEdxcXFUak5tNUM0X3BOajQ4WUJIRWtKeTR1enlMWHUwY0lmVWJHWWEzazJ4WFFENzlMUWU5aExBb3NsNWVaTmJPU3hYWm50cVl2RjVhQWZtMkRyUmdyVVpqX1JoQ3BQQ1hjT19Takp0dThMS2Rn?oc=5",
       "source": "日本経済新聞",
-      "published": "2026-06-05 02:04",
+      "published": "2026-06-05 02:06",
       "summary": "AIエージェント、企業の利用安全に メテリクスが新サービス &nbsp;&nbsp; 日本経済新聞",
       "tags": [
         "最新AI技術",
@@ -173,7 +115,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 37.4,
+      "age_hours": 41.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
