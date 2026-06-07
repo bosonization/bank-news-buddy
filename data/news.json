@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 06:59 JST",
+  "generated_at": "2026-06-07 16:05 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,36 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "3639a30f5f61bc73",
+      "category": "最新AI技術",
+      "title": "ソースネクスト、法人向けAIエージェント「Genspark Team」国内販売を開始 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVHlzUE5PZHdrWTBFd0xsNHJwNWJhTWpTcjRQMjhybXRRLWNzTzBlMWlOZXhZUkJOdjd5bXpsVGgzcFhRU3g1bEZlc1UxUmJTS05UeWQ3Y2NScGxRTTdHa2tzcDlLXzBzOE5UeVdTS3YzWDlROXFQSnNBOGhsSjTSAYQBQVVfeXFMTVo4TE1kVVdJdXltVHo1OUxjWG9VM09mMW1LXzMxV1oyOWo3Rm1UaG53ZHc1aFV4SjJFZlhrd3JXZjlRaEZjdVJlSm9Wb2ttM3dhbFpGTlM0TXRGbmltendOMklHY0dtZUFUYlZIVDg2cHd5WlRKRWh1dlJhcmQwclFwNS12?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-06-07 14:00",
+      "summary": "ソースネクスト、法人向けAIエージェント「Genspark Team」国内販売を開始 &nbsp;&nbsp; ｄメニューニュース",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 2.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ｄメニューニュース"
+      ]
+    },
     {
       "id": "6926a9a47bfaaf14",
       "category": "その他",
@@ -32,11 +62,71 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 3.4,
+      "age_hours": 12.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "finance.biggo.jp"
+      ]
+    },
+    {
+      "id": "3fb7f74c7345f8e0",
+      "category": "最新AI技術",
+      "title": "増殖する「シャドーAI」から企業を守るには？ AIエージェントを安全に活用する4つのステップ - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTZzFacXlVR3lJMWdTZGtVSGxqMmRPY20xX1plMDcxeUh5aXJUVXZielNLMm1QX3A2b3l3UTlOdXNXTjUxQmd5SmZidmFwcTlxaFhkeWIwdm5TUQ?oc=5",
+      "source": "EnterpriseZine",
+      "published": "2026-06-07 00:10",
+      "summary": "増殖する「シャドーAI」から企業を守るには？ AIエージェントを安全に活用する4つのステップ &nbsp;&nbsp; EnterpriseZine",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 15.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "EnterpriseZine"
+      ]
+    },
+    {
+      "id": "da7a2469ba7d3354",
+      "category": "最新AI技術",
+      "title": "【AIエージェント時代】日本企業とエンジニアのこれから - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTnhxS1FGSHc2OEhDNmhiTzR3TjVHTWo5QmlDTnM2Q2RPUEhJOFZnbFR4MXVuSkpMbFNlUlBsY0k5MG9KTlJaSVV0RQ?oc=5",
+      "source": "thinkit.co.jp",
+      "published": "2026-06-06 07:34",
+      "summary": "【AIエージェント時代】日本企業とエンジニアのこれから &nbsp;&nbsp; thinkit.co.jp",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 32.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "thinkit.co.jp"
       ]
     },
     {
@@ -58,70 +148,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 24.0,
+      "age_hours": 33.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ｄメニューニュース"
-      ]
-    },
-    {
-      "id": "c3b2b86932d62f61",
-      "category": "最新AI技術",
-      "title": "「BoxはAIエージェントが機能するコンテンツ基盤」--レヴィCEOが会見 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PTVAwSmNMenFTcGVmdC1CcTR0Mm9NWUdid05kLWZhODlVQWdEb01UcHVNYW4zUVpieENuUmJWZi04WHFwd0VaeVU1bExfdmlJVl9N?oc=5",
-      "source": "ZDNET Japan",
-      "published": "2026-06-05 15:43",
-      "summary": "「BoxはAIエージェントが機能するコンテンツ基盤」--レヴィCEOが会見 &nbsp;&nbsp; ZDNET Japan",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 39.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ZDNET Japan"
-      ]
-    },
-    {
-      "id": "26601202379a57cf",
-      "category": "その他",
-      "title": "「フロンティアAIによる脅威変化を踏まえた金融機関等の短期的な対応」（金融庁及び日本銀行から公表）に対応する支援サービスを提供開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlLWMtRGFWcFF4REFaa2xuQU5FeVAtSEVMano2LWM4eTBTbmk0UWFSdFlaZkxuNzJDRjNYOTA0WkVEckxiSm5YNU00Uk5TdFlwcml1cm50Ql9JVVN5MHN5MzVGVVVNY3dHMWc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-05 11:00",
-      "summary": "「フロンティアAIによる脅威変化を踏まえた金融機関等の短期的な対応」（金融庁及び日本銀行から公表）に対応する支援サービスを提供開始 &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "その他",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 44.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
       ]
     }
   ]
