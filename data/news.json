@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 22:06 JST",
+  "generated_at": "2026-06-09 07:21 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,35 +8,36 @@
   },
   "items": [
     {
-      "id": "c92b21edc59a46ce",
-      "category": "その他",
-      "title": "【 金融庁 】『ミュトスショック』が迫る 異次元のサイバー防衛策 - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11RExZRTlwZS1HWUZDQndpTjFBWUpiYUVCX3RKTDV1X202TGtpQ1ByQVE3WlI1UW51M2dXV3pEbXpMQ2NjYmxmNWZVR1o3NUhNWXp6V2thN3dHZzBFU3JNazJaUUtnNkst?oc=5",
-      "source": "マイナビニュース",
-      "published": "2026-06-08 18:00",
-      "summary": "【 金融庁 】『ミュトスショック』が迫る 異次元のサイバー防衛策 &nbsp;&nbsp; マイナビニュース",
+      "id": "c5f8bc65186c073c",
+      "category": "メガバンク",
+      "title": "AIエージェントが銀行を変える——みずほフィナンシャルグループが描く「AIネイティブ」な金融の未来（ダイヤモンド・オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wT2JZMVNIeE5NQnJLbW03LWNxSkFNRmJpVHQxTVhRTTdtRzRFYTNQRjZabVV2NzdraXh5OWhocHV0dUVGc1VzNlBpOHJPTmFiNkNIYzJ5S1ZQYzVfUXZzV2s1MVBjVEUwSUIybFBGVFl5MzY4SlpkY3BEaFNMLUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-06-09 07:06",
+      "summary": "AIエージェントが銀行を変える——みずほフィナンシャルグループが描く「AIネイティブ」な金融の未来（ダイヤモンド・オンライン） &nbsp;&nbsp; Yahoo!ニュース",
       "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
+        "メガバンク",
+        "生成AI",
+        "AI活用",
+        "最新AI技術"
       ],
       "signals": [
-        "cyber",
-        "governance"
+        "generative_ai",
+        "megabank"
       ],
-      "importance": 63,
+      "importance": 67,
       "confidence": "中",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 4.1,
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 0.3,
       "is_recent": true,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "related_sources": [
-        "マイナビニュース"
+        "Yahoo!ニュース",
+        "ダイヤモンド・オンライン"
       ]
     },
     {
@@ -61,7 +62,7 @@
       "question": "営業店の中で、行員の時間を一番奪っている事務は何だと感じますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 8.4,
+      "age_hours": 17.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -90,7 +91,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 8.6,
+      "age_hours": 17.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -119,7 +120,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 9.1,
+      "age_hours": 18.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -147,7 +148,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.1,
+      "age_hours": 22.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -176,7 +177,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 15.1,
+      "age_hours": 24.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -206,43 +207,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 32.1,
+      "age_hours": 41.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日本ネット経済新聞"
-      ]
-    },
-    {
-      "id": "6926a9a47bfaaf14",
-      "category": "その他",
-      "title": "金融庁・日銀が異例の共同要請、AI「Mythos」が変えるサイバー攻防の最前線 - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15NERaMGZrVjNCNzIzVUJHVnpDMGd3TjJmUzAzVFlUa2JjLWFuWERHc0hCd0UtM2hvd3lqYkFXb2NoMXdUa2YzeVZ2V2JnRDR5RlFyVi1EVWFRV0tLQko0?oc=5",
-      "source": "finance.biggo.jp",
-      "published": "2026-06-07 03:35",
-      "summary": "金融庁・日銀が異例の共同要請、AI「Mythos」が変えるサイバー攻防の最前線 &nbsp;&nbsp; finance.biggo.jp",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
-      ],
-      "signals": [
-        "cyber",
-        "governance"
-      ],
-      "importance": 63,
-      "confidence": "中",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 42.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "finance.biggo.jp"
       ]
     }
   ]
