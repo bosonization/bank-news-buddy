@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12 16:22 JST",
+  "generated_at": "2026-06-12 21:18 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "5743e30542bafdda",
+      "id": "81eec30b86b74f4a",
       "category": "最新AI技術",
-      "title": "BIPROGYの社内AI活用事例が日本マイクロソフト「Microsoft AI Tour」で紹介 のお知らせ - rbbtoday.com",
+      "title": "BIPROGYの社内AI活用事例が日本マイクロソフト「Microsoft AI Tour」で紹介 のお知らせ - RBB TODAY",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15ZmpHZFBiNUl0R3FhWFJ6NTJSSTE2cXF1SUxVX0NmRWJDai1QT0lWc09COHJhSzhJOUIyX0xzTGpRQ3hubnRoVjBaNVVrZmVnMGFQcHFZenJaOGlScW1fUU5XZlR5cDdibHVJZDVRX0c1QzFYZXd6dw?oc=5",
-      "source": "rbbtoday.com",
+      "source": "RBB TODAY",
       "published": "2026-06-12 13:15",
-      "summary": "BIPROGYの社内AI活用事例が日本マイクロソフト「Microsoft AI Tour」で紹介 のお知らせ &nbsp;&nbsp; rbbtoday.com",
+      "summary": "BIPROGYの社内AI活用事例が日本マイクロソフト「Microsoft AI Tour」で紹介 のお知らせ &nbsp;&nbsp; RBB TODAY",
       "tags": [
         "最新AI技術"
       ],
@@ -26,11 +26,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 3.1,
+      "age_hours": 8.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "rbbtoday.com"
+        "RBB TODAY"
       ]
     },
     {
@@ -54,7 +54,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 6.7,
+      "age_hours": 11.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -84,7 +84,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 8.9,
+      "age_hours": 13.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -114,7 +114,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 9.4,
+      "age_hours": 14.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -142,7 +142,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 11.4,
+      "age_hours": 16.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -172,95 +172,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.2,
+      "age_hours": 25.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "JinaCoin"
-      ]
-    },
-    {
-      "id": "4b14b9cf737cc435",
-      "category": "メガバンク",
-      "title": "三井住友FGなど金融大手 アンソロピック・NECとAI連携を発表 - NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RZzB3WVpBMmJCMi01aWpfaWxQMUxCdDhZS0UxLV94bjEtRDBValYycDJZZDVETmpVQTBxeTR1aFRNT2UxS0NOYXM2c0ZiQmRKRmRkRlhLS2pfNFpPMVpV?oc=5",
-      "source": "NHKニュース",
-      "published": "2026-06-11 19:09",
-      "summary": "三井住友FGなど金融大手 アンソロピック・NECとAI連携を発表 &nbsp;&nbsp; NHKニュース",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 21.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "NHKニュース"
-      ]
-    },
-    {
-      "id": "1696c4bd740994b9",
-      "category": "メガバンク",
-      "title": "NECとAnthropic、三井住友FGなど金融8社と協業 金融業界のAI実装拡大へ - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhT2U0dk1Wb3pCRXhLVTBBUXBpSVNoNUc5Y21aaktweklYNXNIbmJZV1c5bjNOV0lZY2hmUzJJeWtZU1lDckZ5N2VUaDczdHBBdWI3WU9xbGVHaG5w?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-06-11 19:00",
-      "summary": "NECとAnthropic、三井住友FGなど金融8社と協業 金融業界のAI実装拡大へ &nbsp;&nbsp; 日経クロステック",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 21.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経クロステック"
-      ]
-    },
-    {
-      "id": "895abfbf5ae2b6c4",
-      "category": "メガバンク",
-      "title": "NEC・アンソロピック、三井住友FGや明治安田など金融8社と連携 AI活用で新たな価値創出へ - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FWkxZUkpjejB3amRDZ1pReFhxVVBTNWwzSDZ0ci1DM0tXeGRrQjNUX0JYZXg0NEV1V2JZVl9VZmU2UzJsX2hsbGRyU1UwazV5TWlZTEJ0ZHhLSmRvb3FraGtfc2NkNWdXeXJ1Wg?oc=5",
-      "source": "ITmedia",
-      "published": "2026-06-11 19:00",
-      "summary": "NEC・アンソロピック、三井住友FGや明治安田など金融8社と連携 AI活用で新たな価値創出へ &nbsp;&nbsp; ITmedia",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 21.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ITmedia"
       ]
     },
     {
@@ -284,11 +200,40 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 22.1,
+      "age_hours": 27.0,
+      "is_recent": true,
+      "duplicate_count": 2,
+      "related_sources": [
+        "Reuters",
+        "Yahoo!ファイナンス"
+      ]
+    },
+    {
+      "id": "2521717ea6a800eb",
+      "category": "メガバンク",
+      "title": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQmFYNXNJNEg2cVhjQWhrZEJONDNJRDN1aERJQUZLZm9DdGdia2hoZWhGUXhldkRXSHgtV3BrNXFac3J6NVdiNWszOFBTSXVobmZ1Z1lqVF9zUW16M2RsM1ltOC1JQnZseVQ1eg?oc=5",
+      "source": "ITmedia",
+      "published": "2026-06-11 16:31",
+      "summary": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など &nbsp;&nbsp; ITmedia",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 28.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "Reuters"
+        "ITmedia"
       ]
     },
     {
@@ -314,7 +259,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 25.2,
+      "age_hours": 30.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -343,11 +288,43 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 30.9,
+      "age_hours": 35.8,
+      "is_recent": true,
+      "duplicate_count": 2,
+      "related_sources": [
+        "日本経済新聞"
+      ]
+    },
+    {
+      "id": "c5bcdea71af9f83b",
+      "category": "地銀",
+      "title": "IT大手、地銀セキュリティーに照準 総合サービスを相次ぎ投入 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRc0M3Wk1JYUt4bF90aG1BV3ZHdGdlWjV3b3M1bDkzb1phTkcwbkdZMkx0TlZ6cEVvLUFIVHBXNkhpTVFkMXdfMFhGYUIxWnhib0x5ZkZPcTBOeHM4ZmVudktrelpYNmJrbDktdEF0NG9zQQ?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-06-11 07:05",
+      "summary": "IT大手、地銀セキュリティーに照準 総合サービスを相次ぎ投入 &nbsp;&nbsp; 日経クロステック",
+      "tags": [
+        "地銀",
+        "地域金融",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "regional_bank",
+        "cyber"
+      ],
+      "importance": 79,
+      "confidence": "中",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 38.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "日本経済新聞"
+        "日経クロステック"
       ]
     }
   ]
