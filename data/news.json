@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14 16:22 JST",
+  "generated_at": "2026-06-14 20:29 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,31 +8,65 @@
   },
   "items": [
     {
-      "id": "2521717ea6a800eb",
-      "category": "メガバンク",
-      "title": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQmFYNXNJNEg2cVhjQWhrZEJONDNJRDN1aERJQUZLZm9DdGdia2hoZWhGUXhldkRXSHgtV3BrNXFac3J6NVdiNWszOFBTSXVobmZ1Z1lqVF9zUW16M2RsM1ltOC1JQnZseVQ1eg?oc=5",
-      "source": "ITmedia",
-      "published": "2026-06-12 20:20",
-      "summary": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など &nbsp;&nbsp; ITmedia",
+      "id": "ea2d57686b8c583a",
+      "category": "最新AI技術",
+      "title": "AIエージェントの基本構造と論点整理：ビジネス活用の現状と従来AIとの違い、リスクの本質 - PwC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXF1R3pna2lGYWNyYzFzb09XS2c2dUREa1daOGpROW9qd3piaENuZjRyZ21NWE1ma29vUDg1ODhDRFBtT2RxOGYtU1djSElCNlgzaHNhV0FNcWJjamw0NkNOdlEwbUdBY3d4MTRNSDFxTDdzMFNJcTlFeXEzUGU0Yy1uZkN3YTJDZmJIdlVaeEU1eWJoV0p5eVg1THhVOFZBcm5ZLVNfTVI5amV5bUtiZWdZMWhjZ2tmaDdReU0xdw?oc=5",
+      "source": "PwC",
+      "published": "2026-06-14 20:22",
+      "summary": "AIエージェントの基本構造と論点整理：ビジネス活用の現状と従来AIとの違い、リスクの本質 &nbsp;&nbsp; PwC",
       "tags": [
-        "メガバンク"
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
       ],
       "signals": [
-        "megabank"
+        "generative_ai"
       ],
-      "importance": 49,
+      "importance": 53,
       "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 44.0,
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 0.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ITmedia"
+        "PwC"
+      ]
+    },
+    {
+      "id": "e35e9da235350dbe",
+      "category": "最新AI技術",
+      "title": "AIエージェントが拡張する個の圧倒的な生産性と、次世代組織に向けた「オーグメンテッド・エンタープライズ」への転換 - PwC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSUd4SUVqN2JhckdISGhtcTZtZENoWTQtOVFLcWotNTM2MFJQY0d2SEFEb3VvZFhXWmdyZC1TS3RpUjN3WmZLNXd6b0ZqVGE4TENmTE16LWpadktfbVVFQjE5QXRJcmNRQ2stWkRMQ2F3amFtNDJTMlFHZnhvM3V5RE8tSDFzSHBTSzk3Mzdfc3JpQjFLLUFodnh6amx5Zw?oc=5",
+      "source": "PwC",
+      "published": "2026-06-14 17:13",
+      "summary": "AIエージェントが拡張する個の圧倒的な生産性と、次世代組織に向けた「オーグメンテッド・エンタープライズ」への転換 &nbsp;&nbsp; PwC",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "業務効率化"
+      ],
+      "signals": [
+        "generative_ai",
+        "operations"
+      ],
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 3.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PwC"
       ]
     }
   ]
