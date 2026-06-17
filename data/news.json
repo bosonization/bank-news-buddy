@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17 17:27 JST",
+  "generated_at": "2026-06-17 21:50 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,10 +8,10 @@
   },
   "items": [
     {
-      "id": "bc4639eaa026e708",
+      "id": "19ed6eff457bcd7d",
       "category": "NTTデータ",
       "title": "金融機関のサイバー防御を「個」から「共助」へ - NTT Data",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfRGR0TUxvaldBUzd6YXV4ano1aF9lNXYyRnlZQU1tN05mbDlJWWwzUGtvVXVOTF94TmJSR0RtTFQ5MlFPX250TTdXR21JSEQ0RzJfeDZjbVBVMnBqci1saFZ6UUtxXzdKbXBz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1cXF2eTlnVGNJS1k2V2NWN3VRM1RYN295bGR3YU5Yalp4a3pldm9xb3VBbnJmOXcxNGVMWDFMMExGNkMwLUdhSEV4U0RiNUsxRUZuSjRPUS1WajgzQWxHblhqcEd5amY2X3JQSg?oc=5",
       "source": "NTT Data",
       "published": "2026-06-17 01:00",
       "summary": "金融機関のサイバー防御を「個」から「共助」へ &nbsp;&nbsp; NTT Data",
@@ -31,7 +31,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 16.5,
+      "age_hours": 20.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -59,7 +59,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.8,
+      "age_hours": 25.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -87,12 +87,42 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 24.1,
+      "age_hours": 28.5,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
         "TBS NEWS DIG",
         "Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "1d32285f4494adb5",
+      "category": "その他",
+      "title": "ユニアデックス 金融分野向けサイバーセキュリティーアセスメント拡充のお知らせ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlOS1yMjh4cDRsTHFsbWNINWFFTnJhdkE0Ymp1amFsZXR0SGdra3liaWtFTXJXbE5oVk53WXhMZ0pHTzh0X0VVRjdtU3ViVHl2RTRja2N3YWNieldSXy1rSExOdlhMSmZRanc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-06-16 15:31",
+      "summary": "ユニアデックス 金融分野向けサイバーセキュリティーアセスメント拡充のお知らせ &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "cyber"
+      ],
+      "importance": 51,
+      "confidence": "低",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 30.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
       ]
     },
     {
@@ -118,7 +148,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 27.1,
+      "age_hours": 31.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -148,11 +178,41 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 34.5,
+      "age_hours": 38.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ITmedia"
+      ]
+    },
+    {
+      "id": "7b33749db4ae284b",
+      "category": "その他",
+      "title": "第2回 サイバー対応の実効性を高める実践的アプローチとは - PwC",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHA2MGFscTdJbVpMWVpheHZycVgtMVlVR01BNml4c1JlcjJKUHdMMXZyejExQ0J4Rkh6VEdCRHlqaUR4ZHRDSGhTZnZfQkxKQjVLRTFaa2E0YzJxeFpOUzU0bkNtSkFmekIxMGJrZWMzazA3dUFwc0V2WC1EbFZBZGVDc0VDdEIzcHFlVnU3Y0lJUmNwMnlPLXYyd3RQS2hiVV9taTJOQnBGcmwxU3gyaTJGa1NVclgycnl3dkVWSTNhTjFYc1E?oc=5",
+      "source": "PwC",
+      "published": "2026-06-16 06:21",
+      "summary": "第2回 サイバー対応の実効性を高める実践的アプローチとは &nbsp;&nbsp; PwC",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "cyber"
+      ],
+      "importance": 51,
+      "confidence": "低",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 39.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PwC"
       ]
     },
     {
@@ -178,7 +238,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 43.5,
+      "age_hours": 47.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
