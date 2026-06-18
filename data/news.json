@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18 21:24 JST",
+  "generated_at": "2026-06-19 07:53 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,37 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "a01420d1e30661af",
+      "category": "メガバンク",
+      "title": "MUFG・SBIも参戦、「AIエージェント」で激変する金融、勝敗分ける“責任の境界”とは - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DNWdickFObmxkaVY0dXFDcDlOaERkZlBwcUQ3dzdOOEZ4SnpNVDRINTZYR25UMG1CbXd1S3JneGhqa05JUmNrOFNKZG1KbWM?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-06-19 06:30",
+      "summary": "MUFG・SBIも参戦、「AIエージェント」で激変する金融、勝敗分ける“責任の境界”とは &nbsp;&nbsp; ビジネス+IT",
+      "tags": [
+        "メガバンク",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai",
+        "megabank"
+      ],
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 1.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ビジネス+IT"
+      ]
+    },
     {
       "id": "63c3609b4be00a67",
       "category": "最新AI技術",
@@ -26,7 +57,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 5.6,
+      "age_hours": 16.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -34,59 +65,31 @@
       ]
     },
     {
-      "id": "a472ce4075c6a0d0",
-      "category": "最新AI技術",
-      "title": "金融機関向けAI FAQサービス「SAF（サフ）」が西中国信用金庫にて利用開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xcEJtUEFHNHhpZC1icm54c0ZvcjQzcWlGMWMydjFpbGpCVmZ3ZVVuRzFzbGwxWm1Sb0Q1VU1lUG1rdUFFREFPcnByNjlMdi05cjhwOWRkRnZvY2lfdWNfNDNJTURxOGxvejRTd1ZsMnc5azlhYW1HMDNIQQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-06-18 10:48",
-      "summary": "金融機関向けAI FAQサービス「SAF（サフ）」が西中国信用金庫にて利用開始 &nbsp;&nbsp; ニコニコニュース",
+      "id": "ebf91022c1de918c",
+      "category": "メガバンク",
+      "title": "【業界の裏側ラジオリーダーズ・インサイトK】元メガバンク常務・乗松文夫さんが登場！地域DXと通信インフラの未来に迫る戦略トーク - valuepress",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80WGVfb1FRZmotYkx6RWRwaDhCWV8xOU16dFNMODR0SE5SNkc0RW5KSS13dGQyLTdsMkNYQ1E1UkVjM3hqWXd4c3pxRkEtUWdmVTdtSXBIR0NhMFU?oc=5",
+      "source": "valuepress",
+      "published": "2026-06-18 12:00",
+      "summary": "【業界の裏側ラジオリーダーズ・インサイトK】元メガバンク常務・乗松文夫さんが登場！地域DXと通信インフラの未来に迫る戦略トーク &nbsp;&nbsp; valuepress",
       "tags": [
-        "最新AI技術",
-        "地銀",
-        "地域金融"
+        "メガバンク"
       ],
       "signals": [
-        "regional_bank"
+        "megabank"
       ],
-      "importance": 55,
+      "importance": 49,
       "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 10.6,
+      "age_hours": 19.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ニコニコニュース"
-      ]
-    },
-    {
-      "id": "4e7d3f905782b551",
-      "category": "最新AI技術",
-      "title": "AI時代の新職種「FDE」は日本で定着するか - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GMEVRWnlYU24yX0hoY3hRREpPSThMMWdZd0pCV2tDZEs1cGFVSlB2Qlo5ZnB0SnpJdTEwUGZURHBKZXRKWHpBM0dOakdIUnE3SVdj?oc=5",
-      "source": "ZDNET Japan",
-      "published": "2026-06-18 10:00",
-      "summary": "AI時代の新職種「FDE」は日本で定着するか &nbsp;&nbsp; ZDNET Japan",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 11.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ZDNET Japan"
+        "valuepress"
       ]
     }
   ]
