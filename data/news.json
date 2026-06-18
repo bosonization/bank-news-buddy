@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18 07:42 JST",
+  "generated_at": "2026-06-18 17:07 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,62 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "63c3609b4be00a67",
+      "category": "最新AI技術",
+      "title": "アリババクラウド、日本で5拠点目のデータセンター開設 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BanhrUi03eFhVbFNpWnp1RVhiNk55anJ2elNEVlUwX1FYSjhqTFZ1UUhQUDVsdkhkaUk4czhpUU1yWGtPakxXQ01RTXo2X1NHS0NZ?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-06-18 15:47",
+      "summary": "アリババクラウド、日本で5拠点目のデータセンター開設 &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 1.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "a472ce4075c6a0d0",
+      "category": "最新AI技術",
+      "title": "金融機関向けAI FAQサービス「SAF（サフ）」が西中国信用金庫にて利用開始 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xcEJtUEFHNHhpZC1icm54c0ZvcjQzcWlGMWMydjFpbGpCVmZ3ZVVuRzFzbGwxWm1Sb0Q1VU1lUG1rdUFFREFPcnByNjlMdi05cjhwOWRkRnZvY2lfdWNfNDNJTURxOGxvejRTd1ZsMnc5azlhYW1HMDNIQQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-06-18 10:48",
+      "summary": "金融機関向けAI FAQサービス「SAF（サフ）」が西中国信用金庫にて利用開始 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "最新AI技術",
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 55,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 6.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
     {
       "id": "19ed6eff457bcd7d",
       "category": "NTTデータ",
@@ -31,7 +87,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 30.7,
+      "age_hours": 40.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -59,7 +115,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 35.0,
+      "age_hours": 44.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -87,102 +143,12 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 38.3,
+      "age_hours": 47.8,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
         "TBS NEWS DIG",
         "Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "c774b44fee602ce0",
-      "category": "地銀",
-      "title": "フューチャー、群馬銀行と生成AI基盤を稼働開始 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1WUhZTHpLMkNqOVY5Ykd3VWNsT3BtR3J1dmFrU2xFMDN4emFkNFZxdWZiN2FxNWxuVGdQc0tOR2tDOHVjVHh2X00zc3prb0UtenRDdDlBcWwxMXNwZTN2aDhwNnBCdw?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-06-16 15:47",
-      "summary": "フューチャー、群馬銀行と生成AI基盤を稼働開始 &nbsp;&nbsp; ニュースメディアVOIX",
-      "tags": [
-        "地銀",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 61,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 39.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニュースメディアVOIX"
-      ]
-    },
-    {
-      "id": "1d32285f4494adb5",
-      "category": "その他",
-      "title": "ユニアデックス 金融分野向けサイバーセキュリティーアセスメント拡充のお知らせ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlOS1yMjh4cDRsTHFsbWNINWFFTnJhdkE0Ymp1amFsZXR0SGdra3liaWtFTXJXbE5oVk53WXhMZ0pHTzh0X0VVRjdtU3ViVHl2RTRja2N3YWNieldSXy1rSExOdlhMSmZRanc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-16 15:31",
-      "summary": "ユニアデックス 金融分野向けサイバーセキュリティーアセスメント拡充のお知らせ &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理"
-      ],
-      "signals": [
-        "cyber"
-      ],
-      "importance": 51,
-      "confidence": "低",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 40.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
-      ]
-    },
-    {
-      "id": "e7b69127125cea1b",
-      "category": "最新AI技術",
-      "title": "AIエージェントが日本円ステーブルコインJPYCを活用し、健康経営® における行動変容の実践を「バイブコーディング」する。 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQ1RuU1hELXRZTEtmWVBqLTBZVWdEWEw0SlNrNjFES0ExM25pc0FBX3FfYUJ6MmhJMllsM2pWOW1teHEtOS03VlVfWEJvMkRReFhTWHpnM3huSUdRaFljaHNPb25kamtrR2c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-16 14:20",
-      "summary": "AIエージェントが日本円ステーブルコインJPYCを活用し、健康経営® における行動変容の実践を「バイブコーディング」する。 &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 41.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
       ]
     }
   ]
