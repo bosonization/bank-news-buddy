@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18 17:07 JST",
+  "generated_at": "2026-06-18 21:24 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,7 +26,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 1.3,
+      "age_hours": 5.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -56,7 +56,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 6.3,
+      "age_hours": 10.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -64,91 +64,29 @@
       ]
     },
     {
-      "id": "19ed6eff457bcd7d",
-      "category": "NTTデータ",
-      "title": "金融機関のサイバー防御を「個」から「共助」へ - NTT Data",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1cXF2eTlnVGNJS1k2V2NWN3VRM1RYN295bGR3YU5Yalp4a3pldm9xb3VBbnJmOXcxNGVMWDFMMExGNkMwLUdhSEV4U0RiNUsxRUZuSjRPUS1WajgzQWxHblhqcEd5amY2X3JQSg?oc=5",
-      "source": "NTT Data",
-      "published": "2026-06-17 01:00",
-      "summary": "金融機関のサイバー防御を「個」から「共助」へ &nbsp;&nbsp; NTT Data",
+      "id": "4e7d3f905782b551",
+      "category": "最新AI技術",
+      "title": "AI時代の新職種「FDE」は日本で定着するか - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GMEVRWnlYU24yX0hoY3hRREpPSThMMWdZd0pCV2tDZEs1cGFVSlB2Qlo5ZnB0SnpJdTEwUGZURHBKZXRKWHpBM0dOakdIUnE3SVdj?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-06-18 10:00",
+      "summary": "AI時代の新職種「FDE」は日本で定着するか &nbsp;&nbsp; ZDNET Japan",
       "tags": [
-        "NTTデータ",
-        "サイバー",
-        "リスク管理"
+        "最新AI技術"
       ],
-      "signals": [
-        "nttdata",
-        "cyber"
-      ],
-      "importance": 81,
-      "confidence": "中",
-      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
-      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 40.1,
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 11.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "NTT Data"
-      ]
-    },
-    {
-      "id": "75c931ec1e918d9f",
-      "category": "メガバンク",
-      "title": "デジタル相、停止中のミュトス級AIについて「今あるもので最大限」 3メガバンクなども同様 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54Q0tBb01vLWFhcnlVVDFyS3NzUWEzcF83RDZlc19lcUFETVlxRVlBQzgxa09KWHJ2bF9ISEFhZEF2ZWlxcUdlRFZKcUl0S2tfSlpTT19tQXZkMTRDazdKalJzaEx4VG15dUhxRg?oc=5",
-      "source": "ITmedia",
-      "published": "2026-06-16 20:40",
-      "summary": "デジタル相、停止中のミュトス級AIについて「今あるもので最大限」 3メガバンクなども同様 &nbsp;&nbsp; ITmedia",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 44.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ITmedia"
-      ]
-    },
-    {
-      "id": "6f06b5d8f02d90bd",
-      "category": "メガバンク",
-      "title": "片山さつき財務大臣が孫正義氏やオープンAI・メガバンクの幹部と会談 新型AIのリスクで対応策を議論「徹底的に防御策を」孫正義氏 - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90VzdGVnUwUkwzTWwyNWF5R3V5eERCaXdWbDgzcE9LT3dldFVYZ0VJQUNIVkFQY3YtVno0WnAxLWVhWkZDTEYtNkZJRFlBdGRUNFRKN3pURQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "published": "2026-06-16 17:22",
-      "summary": "片山さつき財務大臣が孫正義氏やオープンAI・メガバンクの幹部と会談 新型AIのリスクで対応策を議論「徹底的に防御策を」孫正義氏 &nbsp;&nbsp; TBS NEWS DIG",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 47.8,
-      "is_recent": true,
-      "duplicate_count": 2,
-      "related_sources": [
-        "TBS NEWS DIG",
-        "Yahoo!ニュース"
+        "ZDNET Japan"
       ]
     }
   ]
