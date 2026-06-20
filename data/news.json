@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20 07:00 JST",
+  "generated_at": "2026-06-20 16:00 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,35 +8,29 @@
   },
   "items": [
     {
-      "id": "e35e9da235350dbe",
-      "category": "最新AI技術",
-      "title": "AIエージェントが拡張する個の圧倒的な生産性と、次世代組織に向けた「オーグメンテッド・エンタープライズ」への転換 - PwC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSUd4SUVqN2JhckdISGhtcTZtZENoWTQtOVFLcWotNTM2MFJQY0d2SEFEb3VvZFhXWmdyZC1TS3RpUjN3WmZLNXd6b0ZqVGE4TENmTE16LWpadktfbVVFQjE5QXRJcmNRQ2stWkRMQ2F3amFtNDJTMlFHZnhvM3V5RE8tSDFzSHBTSzk3Mzdfc3JpQjFLLUFodnh6amx5Zw?oc=5",
-      "source": "PwC",
-      "published": "2026-06-20 02:08",
-      "summary": "AIエージェントが拡張する個の圧倒的な生産性と、次世代組織に向けた「オーグメンテッド・エンタープライズ」への転換 &nbsp;&nbsp; PwC",
+      "id": "ebf82e5f13193a8b",
+      "category": "その他",
+      "title": "日本の銀行、AI脅威でATM停止も。全銀協会長「資産保護を優先」（あたらしい経済） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WWTk5TEczbVV6VTJCQUplY1JVVm9aSVV5bmtVV3J1UlJwbTJnbjIzZnJ3UDBfbUNSN3lPZl9KaHhTQzM2ZS1TQ1dJUmoyN3RLNGNmLVh0aHJZUnF1ellsRDk1Z2ZKMTI4RmQ2TFZPdEFIWUhvWVBnREx2bU05SkU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-06-19 13:04",
+      "summary": "日本の銀行、AI脅威でATM停止も。全銀協会長「資産保護を優先」（あたらしい経済） &nbsp;&nbsp; Yahoo!ニュース",
       "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用",
-        "業務効率化"
+        "その他"
       ],
-      "signals": [
-        "generative_ai",
-        "operations"
-      ],
-      "importance": 67,
-      "confidence": "中",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 4.9,
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 26.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "PwC"
+        "Yahoo!ニュース"
       ]
     },
     {
@@ -60,7 +54,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 22.3,
+      "age_hours": 31.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -91,7 +85,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 24.5,
+      "age_hours": 33.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -119,65 +113,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 27.1,
+      "age_hours": 36.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "EnterpriseZine"
-      ]
-    },
-    {
-      "id": "63c3609b4be00a67",
-      "category": "最新AI技術",
-      "title": "アリババクラウド、日本で5拠点目のデータセンター開設 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BanhrUi03eFhVbFNpWnp1RVhiNk55anJ2elNEVlUwX1FYSjhqTFZ1UUhQUDVsdkhkaUk4czhpUU1yWGtPakxXQ01RTXo2X1NHS0NZ?oc=5",
-      "source": "ZDNET Japan",
-      "published": "2026-06-18 15:47",
-      "summary": "アリババクラウド、日本で5拠点目のデータセンター開設 &nbsp;&nbsp; ZDNET Japan",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 39.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ZDNET Japan"
-      ]
-    },
-    {
-      "id": "d8802a7c81bce75e",
-      "category": "メガバンク",
-      "title": "【業界の裏側ラジオリーダーズ・インサイトK】元メガバンク常務・乗松文夫さんが登場！地域DXと通信インフラの未来に迫る戦略トーク - ValuePress!",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80WGVfb1FRZmotYkx6RWRwaDhCWV8xOU16dFNMODR0SE5SNkc0RW5KSS13dGQyLTdsMkNYQ1E1UkVjM3hqWXd4c3pxRkEtUWdmVTdtSXBIR0NhMFU?oc=5",
-      "source": "ValuePress!",
-      "published": "2026-06-18 12:00",
-      "summary": "【業界の裏側ラジオリーダーズ・インサイトK】元メガバンク常務・乗松文夫さんが登場！地域DXと通信インフラの未来に迫る戦略トーク &nbsp;&nbsp; ValuePress!",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 43.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ValuePress!"
       ]
     }
   ]
