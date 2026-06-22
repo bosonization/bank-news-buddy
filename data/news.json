@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22 17:57 JST",
+  "generated_at": "2026-06-22 23:38 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "c0e52fbce9f7e8fa",
+      "id": "8663d26f533f99a8",
       "category": "最新AI技術",
-      "title": "Trupeer AI、日本における企業向け事業拡大を率いるため、UiPathの元APAC社長兼CEOであるRaghu Subramanian氏を任命 - 秋田魁新報電子版",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBseTQ2LWd2TFJ2c3pVT2RnRE5KLXZ3RlVaMkRqeGx4MnZTT3pJbno2R2p2RThtZ1pxNkY3V1hKZHVFN3dZU29OQVR6VVk5Y2VIWFoyX3RkZE5WcUFKdXE2RXFn?oc=5",
-      "source": "秋田魁新報電子版",
+      "title": "Trupeer AI、日本における企業向け事業拡大を率いるため、UiPathの元APAC社長兼CEOであるRaghu Subramanian氏を任命 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIdlY5M2NvTHl6TE5ER1VpMGRCc1ZaY19KOXZkbzBYaGRqVElvT0lHazQwbjE5aGg5YXBlbElqOGVERHFFTG1MeUhtUQ?oc=5",
+      "source": "47NEWS",
       "published": "2026-06-22 09:55",
-      "summary": "Trupeer AI、日本における企業向け事業拡大を率いるため、UiPathの元APAC社長兼CEOであるRaghu Subramanian氏を任命 &nbsp;&nbsp; 秋田魁新報電子版",
+      "summary": "Trupeer AI、日本における企業向け事業拡大を率いるため、UiPathの元APAC社長兼CEOであるRaghu Subramanian氏を任命 &nbsp;&nbsp; 47NEWS",
       "tags": [
         "最新AI技術"
       ],
@@ -26,11 +26,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 8.0,
+      "age_hours": 13.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "秋田魁新報電子版"
+        "47NEWS"
       ]
     },
     {
@@ -54,7 +54,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 26.2,
+      "age_hours": 31.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
