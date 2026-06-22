@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22 23:38 JST",
+  "generated_at": "2026-06-23 07:43 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,60 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "b371ab6295fc897d",
+      "category": "最新AI技術",
+      "title": "変革期にある企業経営 組織と業務のリ・デザインを | 日本経済新聞 電子版特集（PR） - ps.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DMGJick12VUFMUHpXYXgxQlhEQjYyeS1RekowSXpfVkxtbVhPNTdUSVdqUnhvUVV1U2hYUk1wallLQXRnLVpHdXlxTGh0dw?oc=5",
+      "source": "ps.nikkei.com",
+      "published": "2026-06-23 00:15",
+      "summary": "変革期にある企業経営 組織と業務のリ・デザインを | 日本経済新聞 電子版特集（PR） &nbsp;&nbsp; ps.nikkei.com",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 7.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ps.nikkei.com"
+      ]
+    },
+    {
+      "id": "a8ee28a7a831ecb6",
+      "category": "メガバンク",
+      "title": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnVVh0TEllYUthc2RaQUR1cUgxdFFybFVheVNSWjJYWHdiaHY3RnZSb282aVdubmhyNU5rS3lwSHlZSHZfa2I4SGJOTmZZOHk3Wl9LUkZ0Rll2QQ?oc=5",
+      "source": "EnterpriseZine",
+      "published": "2026-06-22 14:03",
+      "summary": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 &nbsp;&nbsp; EnterpriseZine",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 17.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "EnterpriseZine"
+      ]
+    },
     {
       "id": "8663d26f533f99a8",
       "category": "最新AI技術",
@@ -26,39 +80,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.7,
+      "age_hours": 21.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "47NEWS"
-      ]
-    },
-    {
-      "id": "a8ee28a7a831ecb6",
-      "category": "メガバンク",
-      "title": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnVVh0TEllYUthc2RaQUR1cUgxdFFybFVheVNSWjJYWHdiaHY3RnZSb282aVdubmhyNU5rS3lwSHlZSHZfa2I4SGJOTmZZOHk3Wl9LUkZ0Rll2QQ?oc=5",
-      "source": "EnterpriseZine",
-      "published": "2026-06-21 15:48",
-      "summary": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 &nbsp;&nbsp; EnterpriseZine",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 31.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "EnterpriseZine"
       ]
     }
   ]
