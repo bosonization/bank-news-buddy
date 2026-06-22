@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22 07:08 JST",
+  "generated_at": "2026-06-22 17:57 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,12 +8,38 @@
   },
   "items": [
     {
+      "id": "c0e52fbce9f7e8fa",
+      "category": "最新AI技術",
+      "title": "Trupeer AI、日本における企業向け事業拡大を率いるため、UiPathの元APAC社長兼CEOであるRaghu Subramanian氏を任命 - 秋田魁新報電子版",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBseTQ2LWd2TFJ2c3pVT2RnRE5KLXZ3RlVaMkRqeGx4MnZTT3pJbno2R2p2RThtZ1pxNkY3V1hKZHVFN3dZU29OQVR6VVk5Y2VIWFoyX3RkZE5WcUFKdXE2RXFn?oc=5",
+      "source": "秋田魁新報電子版",
+      "published": "2026-06-22 09:55",
+      "summary": "Trupeer AI、日本における企業向け事業拡大を率いるため、UiPathの元APAC社長兼CEOであるRaghu Subramanian氏を任命 &nbsp;&nbsp; 秋田魁新報電子版",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 8.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "秋田魁新報電子版"
+      ]
+    },
+    {
       "id": "a8ee28a7a831ecb6",
       "category": "メガバンク",
       "title": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 - EnterpriseZine",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnVVh0TEllYUthc2RaQUR1cUgxdFFybFVheVNSWjJYWHdiaHY3RnZSb282aVdubmhyNU5rS3lwSHlZSHZfa2I4SGJOTmZZOHk3Wl9LUkZ0Rll2QQ?oc=5",
       "source": "EnterpriseZine",
-      "published": "2026-06-20 11:46",
+      "published": "2026-06-21 15:48",
       "summary": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 &nbsp;&nbsp; EnterpriseZine",
       "tags": [
         "メガバンク"
@@ -28,7 +54,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 43.4,
+      "age_hours": 26.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
