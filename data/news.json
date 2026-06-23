@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23 21:05 JST",
+  "generated_at": "2026-06-24 07:08 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,66 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "1ad6b20ca626d854",
+      "category": "最新AI技術",
+      "title": "日本IBM、AIを活用した間接業務の変革と共創を推進 AIファーストBPOの提供拠点「AIエージェント・オペレーション・ハブ」を新設 - RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmQXNHTktjU0hGWng5UFRERE9ieGpYaUE4emwzaXZKdWhqeHNqZVBTY2sxTWk2bVhVQXFKVERxYUE3eFFFdUVuMVBfQkdjeVV5S2NxeElTZldLOHBIVUZOQjFNUmFsWGdXb1gydWtjdVZMU0s1VjF2QQ?oc=5",
+      "source": "RBB TODAY",
+      "published": "2026-06-24 01:10",
+      "summary": "日本IBM、AIを活用した間接業務の変革と共創を推進 AIファーストBPOの提供拠点「AIエージェント・オペレーション・ハブ」を新設 &nbsp;&nbsp; RBB TODAY",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "業務効率化"
+      ],
+      "signals": [
+        "generative_ai",
+        "operations"
+      ],
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 6.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "RBB TODAY"
+      ]
+    },
+    {
+      "id": "a8ee28a7a831ecb6",
+      "category": "メガバンク",
+      "title": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnVVh0TEllYUthc2RaQUR1cUgxdFFybFVheVNSWjJYWHdiaHY3RnZSb282aVdubmhyNU5rS3lwSHlZSHZfa2I4SGJOTmZZOHk3Wl9LUkZ0Rll2QQ?oc=5",
+      "source": "EnterpriseZine",
+      "published": "2026-06-24 00:14",
+      "summary": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 &nbsp;&nbsp; EnterpriseZine",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 6.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "EnterpriseZine"
+      ]
+    },
     {
       "id": "2941056af04ca547",
       "category": "最新AI技術",
@@ -29,7 +89,7 @@
       "question": "営業店の中で、行員の時間を一番奪っている事務は何だと感じますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 3.2,
+      "age_hours": 13.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -59,7 +119,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 5.0,
+      "age_hours": 15.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -67,10 +127,10 @@
       ]
     },
     {
-      "id": "b50f31b277d40037",
+      "id": "d9d44a20ceb42dfd",
       "category": "最新AI技術",
       "title": "日本AIセンター、企業向け「AIエージェント導入支援事業」を開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpTHRCSGZkZVJLVE1kQjdfdi00eWRiUldDT3JOb2ROUkVnSmwyYlkzU0NEZ2dVak1DMmZKRUdnQnhiSkdtQVlzZm5yZUxNYmxEZElyLVVYLVJkWXFDVzdnbnJ4S1JRYUJmbGVJbWt3MllsaVVFYzFYcTg4Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14Y3h6ZWlPbFJZYTNJcU5qNmVoT0J1WDVaQTdGMEt2dmtBeTBGWmFuTlBScm1GUHI1aGg1aU9yUE5remJXM0dfZTYtb0QyNFdJelBwdEVybGpCMnE2YVVwSnJoUzFlWkhOcHpDTHVxbTdZV0RQWUxpTjZtcw?oc=5",
       "source": "ニコニコニュース",
       "published": "2026-06-23 12:48",
       "summary": "日本AIセンター、企業向け「AIエージェント導入支援事業」を開始 &nbsp;&nbsp; ニコニコニュース",
@@ -89,7 +149,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 8.3,
+      "age_hours": 18.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -115,7 +175,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 11.6,
+      "age_hours": 21.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -141,65 +201,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.8,
+      "age_hours": 30.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ps.nikkei.com"
-      ]
-    },
-    {
-      "id": "a8ee28a7a831ecb6",
-      "category": "メガバンク",
-      "title": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnVVh0TEllYUthc2RaQUR1cUgxdFFybFVheVNSWjJYWHdiaHY3RnZSb282aVdubmhyNU5rS3lwSHlZSHZfa2I4SGJOTmZZOHk3Wl9LUkZ0Rll2QQ?oc=5",
-      "source": "EnterpriseZine",
-      "published": "2026-06-22 14:03",
-      "summary": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 &nbsp;&nbsp; EnterpriseZine",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 31.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "EnterpriseZine"
-      ]
-    },
-    {
-      "id": "8663d26f533f99a8",
-      "category": "最新AI技術",
-      "title": "Trupeer AI、日本における企業向け事業拡大を率いるため、UiPathの元APAC社長兼CEOであるRaghu Subramanian氏を任命 - 47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIdlY5M2NvTHl6TE5ER1VpMGRCc1ZaY19KOXZkbzBYaGRqVElvT0lHazQwbjE5aGg5YXBlbElqOGVERHFFTG1MeUhtUQ?oc=5",
-      "source": "47NEWS",
-      "published": "2026-06-22 09:55",
-      "summary": "Trupeer AI、日本における企業向け事業拡大を率いるため、UiPathの元APAC社長兼CEOであるRaghu Subramanian氏を任命 &nbsp;&nbsp; 47NEWS",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 35.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "47NEWS"
       ]
     }
   ]
