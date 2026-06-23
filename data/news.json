@@ -1,10 +1,206 @@
 {
-  "generated_at": "2026-06-23 15:50 JST",
+  "generated_at": "2026-06-23 21:05 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": []
+  "items": [
+    {
+      "id": "2941056af04ca547",
+      "category": "最新AI技術",
+      "title": "日本IBM、AIファーストBPO拠点を北九州に新設--間接業務の変革と共創を加速 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fbjZ2ZW9TN1N6SFlrdTlPak5XUmlJeC14T2JNQ3FtNVdSdlBlZXBmdmNjRXV6SXI4cTh5RVgwZllqZHVuSWRHWG1UdEJSTW9TbHdF?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-06-23 17:56",
+      "summary": "日本IBM、AIファーストBPO拠点を北九州に新設--間接業務の変革と共創を加速 &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術",
+        "業務効率化"
+      ],
+      "signals": [
+        "operations"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
+      "talk": "『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
+      "question": "営業店の中で、行員の時間を一番奪っている事務は何だと感じますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "da7a2469ba7d3354",
+      "category": "最新AI技術",
+      "title": "【AIエージェント時代】日本企業とエンジニアのこれから - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTnhxS1FGSHc2OEhDNmhiTzR3TjVHTWo5QmlDTnM2Q2RPUEhJOFZnbFR4MXVuSkpMbFNlUlBsY0k5MG9KTlJaSVV0RQ?oc=5",
+      "source": "thinkit.co.jp",
+      "published": "2026-06-23 16:08",
+      "summary": "【AIエージェント時代】日本企業とエンジニアのこれから &nbsp;&nbsp; thinkit.co.jp",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 5.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "thinkit.co.jp"
+      ]
+    },
+    {
+      "id": "b50f31b277d40037",
+      "category": "最新AI技術",
+      "title": "日本AIセンター、企業向け「AIエージェント導入支援事業」を開始 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpTHRCSGZkZVJLVE1kQjdfdi00eWRiUldDT3JOb2ROUkVnSmwyYlkzU0NEZ2dVak1DMmZKRUdnQnhiSkdtQVlzZm5yZUxNYmxEZElyLVVYLVJkWXFDVzdnbnJ4S1JRYUJmbGVJbWt3MllsaVVFYzFYcTg4Zw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-06-23 12:48",
+      "summary": "日本AIセンター、企業向け「AIエージェント導入支援事業」を開始 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 8.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "c36241241e9138ab",
+      "category": "最新AI技術",
+      "title": "世界初「AI資本主義」始動 山形大学発のAGI研究でユニコーン企業創出へ - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EWG9BaTB5Q01rZWRMY0U5dmlNNUFUVUF1cU1JQjN6VjhOZ0x0bDFUZXp0SEJIZTlJcXFvVHNxRDhzLWlLUEw1QVktVE1TQQ?oc=5",
+      "source": "アットプレス",
+      "published": "2026-06-23 09:30",
+      "summary": "世界初「AI資本主義」始動 山形大学発のAGI研究でユニコーン企業創出へ &nbsp;&nbsp; アットプレス",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 11.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "アットプレス"
+      ]
+    },
+    {
+      "id": "b371ab6295fc897d",
+      "category": "最新AI技術",
+      "title": "変革期にある企業経営 組織と業務のリ・デザインを | 日本経済新聞 電子版特集（PR） - ps.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DMGJick12VUFMUHpXYXgxQlhEQjYyeS1RekowSXpfVkxtbVhPNTdUSVdqUnhvUVV1U2hYUk1wallLQXRnLVpHdXlxTGh0dw?oc=5",
+      "source": "ps.nikkei.com",
+      "published": "2026-06-23 00:15",
+      "summary": "変革期にある企業経営 組織と業務のリ・デザインを | 日本経済新聞 電子版特集（PR） &nbsp;&nbsp; ps.nikkei.com",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 20.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ps.nikkei.com"
+      ]
+    },
+    {
+      "id": "a8ee28a7a831ecb6",
+      "category": "メガバンク",
+      "title": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnVVh0TEllYUthc2RaQUR1cUgxdFFybFVheVNSWjJYWHdiaHY3RnZSb282aVdubmhyNU5rS3lwSHlZSHZfa2I4SGJOTmZZOHk3Wl9LUkZ0Rll2QQ?oc=5",
+      "source": "EnterpriseZine",
+      "published": "2026-06-22 14:03",
+      "summary": "「データ主権」と「精度」を両立する──大和総研、京都大学、みずほFG、KDDIの金融AI実践報告 &nbsp;&nbsp; EnterpriseZine",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 31.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "EnterpriseZine"
+      ]
+    },
+    {
+      "id": "8663d26f533f99a8",
+      "category": "最新AI技術",
+      "title": "Trupeer AI、日本における企業向け事業拡大を率いるため、UiPathの元APAC社長兼CEOであるRaghu Subramanian氏を任命 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIdlY5M2NvTHl6TE5ER1VpMGRCc1ZaY19KOXZkbzBYaGRqVElvT0lHazQwbjE5aGg5YXBlbElqOGVERHFFTG1MeUhtUQ?oc=5",
+      "source": "47NEWS",
+      "published": "2026-06-22 09:55",
+      "summary": "Trupeer AI、日本における企業向け事業拡大を率いるため、UiPathの元APAC社長兼CEOであるRaghu Subramanian氏を任命 &nbsp;&nbsp; 47NEWS",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 35.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "47NEWS"
+      ]
+    }
+  ]
 }
