@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28 06:58 JST",
+  "generated_at": "2026-06-28 16:01 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -28,67 +28,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 33.2,
+      "age_hours": 42.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "EnterpriseZine"
-      ]
-    },
-    {
-      "id": "6542196f4d22937a",
-      "category": "地銀",
-      "title": "AI金融時代における光州銀行の挑戦 - jp.ajunews.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sMkpKaHRGSmlkdkVQWlFDbEFmQmpWdThkRm9yLU8xTXhLTnlpS2hxYS05eUQtRkZCallua0JvdElLalgtMWpjR0JKUi1MMUNVQ0JzN0szRmhKUzg?oc=5",
-      "source": "jp.ajunews.com",
-      "published": "2026-06-26 15:20",
-      "summary": "AI金融時代における光州銀行の挑戦 &nbsp;&nbsp; jp.ajunews.com",
-      "tags": [
-        "地銀"
-      ],
-      "signals": [],
-      "importance": 43,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 39.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "jp.ajunews.com"
-      ]
-    },
-    {
-      "id": "16dc12f8da5f1a60",
-      "category": "最新AI技術",
-      "title": "AWS、AIエージェントで革新の歯車加速 OpenAIと提携、日本に3.8兆円投資へ - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DdG9LVUlBSG1pRjE5RFdYdHV4WDNUQ3ZlY1pUUVFaQWItTmxjLUFfM01nYllVMjVPbENwRGVwaVJKMzV6SkNLRVNsOWg4RTFoVFRqNkpETjlkZERMMzlXSDJaajRLZ3FvYUFIRDdyNXliUUI5?oc=5",
-      "source": "finance.biggo.jp",
-      "published": "2026-06-26 15:06",
-      "summary": "AWS、AIエージェントで革新の歯車加速 OpenAIと提携、日本に3.8兆円投資へ &nbsp;&nbsp; finance.biggo.jp",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 39.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "finance.biggo.jp"
       ]
     }
   ]
