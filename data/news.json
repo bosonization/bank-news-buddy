@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29 17:11 JST",
+  "generated_at": "2026-06-29 22:05 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,70 @@
   },
   "items": [
     {
-      "id": "d107011599f2a9b5",
+      "id": "412351d184b09b20",
+      "category": "最新AI技術",
+      "title": "日本企業のDX推進状況調査結果【2026年度版】を公表 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yN1o5SWVLYXIxY2NOZUxGTUZmTl9tc0RuN3NpcHp5cGxncktuMU1YQkE0OFFDUkVFcjJRcGlvWWdJbk5SMHhvMENNalliNWZadnAxSzJHUXdNSGFjN3YwbXFqdGktZGpTYUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-06-29 14:00",
+      "summary": "日本企業のDX推進状況調査結果【2026年度版】を公表 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 8.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "8bc6a4ec4767a911",
+      "category": "NTTデータ",
+      "title": "NTTデータ、金融機関向け法人ポータル「BizSOL_Square」に融資・預かり資産情報を一元化するダッシュボードオプションを追加 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tR1FjZ09WSUFCT09nZS0xQURPcVA5RHNoY1VPQmJSbERLUE1vMUU3YnJvSXRwQWhRVVlnZ3NyR2FkcDI4UFhMbEJOMkUxTVRyQWNiMDhoZ3VrWXBsMEdKV0hYZWxsTzQ?oc=5",
+      "source": "クラウド Watch",
+      "published": "2026-06-29 12:21",
+      "summary": "NTTデータ、金融機関向け法人ポータル「BizSOL_Square」に融資・預かり資産情報を一元化するダッシュボードオプションを追加 &nbsp;&nbsp; クラウド Watch",
+      "tags": [
+        "NTTデータ",
+        "融資",
+        "法人営業"
+      ],
+      "signals": [
+        "nttdata",
+        "lending"
+      ],
+      "importance": 78,
+      "confidence": "中",
+      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
+      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
+      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
+      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 9.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "クラウド Watch"
+      ]
+    },
+    {
+      "id": "deb0ddabb8eac33b",
       "category": "その他",
-      "title": "「フロンティアAIによる脅威」を踏まえた金融庁・日銀の要請に対応するサイバー攻撃の監視・検知・対応サービスを強化 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzMEZuYlVaakNjUktFYlQ1cjc0UVJWeW5GWWJZeUYwVEFmZVV1MTRyZTEzU1RyajJxdUJmRzkwLVJqckRjOGtHbDFCc1BMMFkxTVNpdVBINkFaeGtYVm9SYUFfdk1SX3N0UkN4Z1F6bWVlU24xcE1YRkZCWQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-06-29 14:15",
-      "summary": "「フロンティアAIによる脅威」を踏まえた金融庁・日銀の要請に対応するサイバー攻撃の監視・検知・対応サービスを強化 &nbsp;&nbsp; ニコニコニュース",
+      "title": "「フロンティアAIによる脅威」を踏まえた金融庁・日銀の要請に対応するサイバー攻撃の監視・検知・対応サービスを強化 投稿日時： 2026/06/29 10:30[適時開示] - みんかぶ",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42S0hQT2xqM2wtUmM0UlhGTy1kMXlCZHdUaGZvX18ybHJicHBJeXl1TXNwcXBGc2J5Y0tMcS1lU2VIb3BJdkE?oc=5",
+      "source": "みんかぶ",
+      "published": "2026-06-29 10:30",
+      "summary": "「フロンティアAIによる脅威」を踏まえた金融庁・日銀の要請に対応するサイバー攻撃の監視・検知・対応サービスを強化 投稿日時： 2026/06/29 10:30[適時開示] &nbsp;&nbsp; みんかぶ",
       "tags": [
         "その他",
         "サイバー",
@@ -32,38 +89,38 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 2.9,
+      "age_hours": 11.6,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
-        "ニコニコニュース",
-        "みんかぶ"
+        "みんかぶ",
+        "イザ！"
       ]
     },
     {
-      "id": "7d2be9a1de6cc6ab",
-      "category": "最新AI技術",
-      "title": "日本企業のDX推進状況調査結果【2026年度版】を公表 - イザ！",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Wb2NtNUdzRm80T1RlNGs5RnZYWVAtcEotUXZfcFRvWERZUVRkSGlRZllqa2dReXdDQjI4bUIyU1haZXY5MTJNby1nXzhfU2QxeTNVNmZ3TTBfQURqTEdVQUZGLVJUcS1TdWwyN2J1OEdab0Q5VFlPcjRB?oc=5",
-      "source": "イザ！",
-      "published": "2026-06-29 14:00",
-      "summary": "日本企業のDX推進状況調査結果【2026年度版】を公表 &nbsp;&nbsp; イザ！",
+      "id": "8896f3acd0f8372b",
+      "category": "地銀",
+      "title": "AI CFOの誕生、企業の経営パートナーとなる - jp.ajunews.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NOXZNT2JVWDF2bjdzU09qYng0TEwyRWozcUtqUmM1Q2dSTXJ4LTBMV2dtRFV2V3piU2MwNkF4Nm15NkZjeDJwbHh4SXBLZEI0YjRjYWZMUG5jNzQ?oc=5",
+      "source": "jp.ajunews.com",
+      "published": "2026-06-28 14:08",
+      "summary": "AI CFOの誕生、企業の経営パートナーとなる &nbsp;&nbsp; jp.ajunews.com",
       "tags": [
-        "最新AI技術"
+        "地銀"
       ],
       "signals": [],
-      "importance": 35,
+      "importance": 43,
       "confidence": "低",
       "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
       "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 3.2,
+      "age_hours": 32.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "イザ！"
+        "jp.ajunews.com"
       ]
     }
   ]
