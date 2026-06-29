@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-06-29 06:58 JST",
+  "generated_at": "2026-06-29 17:11 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": []
+  "items": [
+    {
+      "id": "d107011599f2a9b5",
+      "category": "その他",
+      "title": "「フロンティアAIによる脅威」を踏まえた金融庁・日銀の要請に対応するサイバー攻撃の監視・検知・対応サービスを強化 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzMEZuYlVaakNjUktFYlQ1cjc0UVJWeW5GWWJZeUYwVEFmZVV1MTRyZTEzU1RyajJxdUJmRzkwLVJqckRjOGtHbDFCc1BMMFkxTVNpdVBINkFaeGtYVm9SYUFfdk1SX3N0UkN4Z1F6bWVlU24xcE1YRkZCWQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-06-29 14:15",
+      "summary": "「フロンティアAIによる脅威」を踏まえた金融庁・日銀の要請に対応するサイバー攻撃の監視・検知・対応サービスを強化 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理",
+        "ガバナンス"
+      ],
+      "signals": [
+        "cyber",
+        "governance"
+      ],
+      "importance": 63,
+      "confidence": "中",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 2.9,
+      "is_recent": true,
+      "duplicate_count": 2,
+      "related_sources": [
+        "ニコニコニュース",
+        "みんかぶ"
+      ]
+    },
+    {
+      "id": "7d2be9a1de6cc6ab",
+      "category": "最新AI技術",
+      "title": "日本企業のDX推進状況調査結果【2026年度版】を公表 - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Wb2NtNUdzRm80T1RlNGs5RnZYWVAtcEotUXZfcFRvWERZUVRkSGlRZllqa2dReXdDQjI4bUIyU1haZXY5MTJNby1nXzhfU2QxeTNVNmZ3TTBfQURqTEdVQUZGLVJUcS1TdWwyN2J1OEdab0Q5VFlPcjRB?oc=5",
+      "source": "イザ！",
+      "published": "2026-06-29 14:00",
+      "summary": "日本企業のDX推進状況調査結果【2026年度版】を公表 &nbsp;&nbsp; イザ！",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "イザ！"
+      ]
+    }
+  ]
 }
