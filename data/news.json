@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02 15:40 JST",
+  "generated_at": "2026-07-02 20:32 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,36 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "5d64da67ce8883db",
+      "category": "最新AI技術",
+      "title": "「データ戦略なくしてAI戦略なし」--Snowflake、エージェント本格化へ事業展開 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12STNTZ1cySXoyUFdqaDBIbGxkb2p6b2pwZVIycnJ6Nnd6bm9DN3FsQkVQd1ZGemFsMWdDcmJHdUh1eWw4eTlDUEhORUlHWmh5cUhV?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-07-02 15:35",
+      "summary": "「データ戦略なくしてAI戦略なし」--Snowflake、エージェント本格化へ事業展開 &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 5.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
+      ]
+    },
     {
       "id": "74c80c9d4a329df9",
       "category": "メガバンク",
@@ -31,7 +61,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 4.7,
+      "age_hours": 9.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -61,7 +91,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 8.2,
+      "age_hours": 13.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -91,7 +121,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 8.7,
+      "age_hours": 13.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -99,13 +129,43 @@
       ]
     },
     {
-      "id": "ca8e2e5a441709e4",
+      "id": "a8e0d5d84ba712a9",
+      "category": "最新AI技術",
+      "title": "CopilotからAIエージェントへ マイクロソフトは企業と組織をどう変えるのか - 日経BOOKプラス",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4c0IwS0xrMF9zUFFUWnB3cEhmRHVQdzRtb1JDdm03X0VaVy12aUktdlVvN2lEWGVfNWFTSnAyUFo5SThuTkdHcnc1VXVvV0hHNlZrUHpWeHhMM1cxcm9PYVlySnBRVEJXcWhfQw?oc=5",
+      "source": "日経BOOKプラス",
+      "published": "2026-07-02 05:00",
+      "summary": "CopilotからAIエージェントへ マイクロソフトは企業と組織をどう変えるのか &nbsp;&nbsp; 日経BOOKプラス",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 15.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日経BOOKプラス"
+      ]
+    },
+    {
+      "id": "960c4406dadedf89",
       "category": "メガバンク",
-      "title": "みずほの新金融サービス「UPSIDER BANK」始動。傘下のAI与信モデルで億単位の与信を提供 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jTThBVUFyaGpJR3ZOdGMydlNPRzhVMlNtWXNRSHdkX2lIZlhXNkkwbHNMeGZJM2NjMG9OLWw2MnRuS1VGSUt4eURHLTlsTjZhcTUyUjh0QUlKdEx2eWQyQ2Y0MlZOSnE0WmFlZHl4WnhYODhSOTRxNE8xaWFDNjA?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-01 11:15",
-      "summary": "みずほの新金融サービス「UPSIDER BANK」始動。傘下のAI与信モデルで億単位の与信を提供 &nbsp;&nbsp; Yahoo!ニュース",
+      "title": "みずほの新金融サービス「UPSIDER BANK」始動。傘下のAI与信モデルで億単位の与信を提供 - Business Insider Japan",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55VEVqTGU3ejB0bEFpWjhrSnFNU3hLWVg1Q3FaNGZPZW5ZcXJzRmRHY2J3LWR4V2pHakk3TkJwTk1oMTNSYkNGUG1rUUtMM3hBTkVFWXVFNnpRWHE3U2psRU54RDJFdDhjNm1laWk3dkRvMlYyS1BxMENWaw?oc=5",
+      "source": "Business Insider Japan",
+      "published": "2026-07-01 10:20",
+      "summary": "みずほの新金融サービス「UPSIDER BANK」始動。傘下のAI与信モデルで億単位の与信を提供 &nbsp;&nbsp; Business Insider Japan",
       "tags": [
         "メガバンク",
         "融資",
@@ -122,43 +182,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 28.4,
+      "age_hours": 34.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "47e6648cdb16dc18",
-      "category": "地銀",
-      "title": "伊予銀行・日立製作所システム開発紛争と和解金60億円支払いの全貌~地銀勘定系「OpenStage」頓挫 - london3.jp",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03czNDSmZ0X0VSZHhJd3JISVZqOXduRzZjbmlDdmQxaU94TldfNlhxdEdzejVOLXZ0ZHlHaTZQOUxEYzBnQTdZOVktNmtUWVpJ?oc=5",
-      "source": "london3.jp",
-      "published": "2026-07-01 11:10",
-      "summary": "伊予銀行・日立製作所システム開発紛争と和解金60億円支払いの全貌~地銀勘定系「OpenStage」頓挫 &nbsp;&nbsp; london3.jp",
-      "tags": [
-        "地銀",
-        "地域金融",
-        "勘定系",
-        "システム更改"
-      ],
-      "signals": [
-        "regional_bank",
-        "core_banking"
-      ],
-      "importance": 79,
-      "confidence": "中",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 勘定系・基幹系の話題は、安定運用、柔軟性、コスト、将来の拡張性をセットで話せます。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 基幹系は『変える/変えない』ではなく、周辺業務から柔軟性を高める選択肢として話せます。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "共同センター、勘定系周辺、クラウド/モダナイゼーションの論点としてNTTデータの金融基盤知見に接続できます。",
-      "risk_note": "基幹系は可用性、移行リスク、ベンダーロックイン、長期コストの確認が必要です。",
-      "age_hours": 28.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "london3.jp"
+        "Business Insider Japan"
       ]
     },
     {
@@ -185,7 +213,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 29.4,
+      "age_hours": 34.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -216,73 +244,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 30.7,
+      "age_hours": 35.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "Impress Watch"
-      ]
-    },
-    {
-      "id": "6f691272a8c389d6",
-      "category": "メガバンク",
-      "title": "みずほＦＧ、中小企業向けに新金融サービス 融資をＡＩで審査 - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WRzFCeENvS1lNX2kzRGt2UkhoNE9qUnlVLXhRZlBzZ3MyZEFlTnExRTA4amVEeFJjdXIyQjQwZTBXWXF4QWhDQXU0amdDMURFWGJIb2VuZzZyX2RoU2txNVdfaw?oc=5",
-      "source": "時事ドットコム",
-      "published": "2026-06-30 18:59",
-      "summary": "みずほＦＧ、中小企業向けに新金融サービス 融資をＡＩで審査 &nbsp;&nbsp; 時事ドットコム",
-      "tags": [
-        "メガバンク",
-        "融資",
-        "法人営業"
-      ],
-      "signals": [
-        "megabank",
-        "lending"
-      ],
-      "importance": 62,
-      "confidence": "中",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 44.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "時事ドットコム"
-      ]
-    },
-    {
-      "id": "6a12f9aaddd9fa03",
-      "category": "メガバンク",
-      "title": "みずほ、新興開拓へ法人金融サービス AI与信で資金調達も支援 - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1USlc3MGdic3R3Tlo4S0JRaXZ4Z1B2dy1pWUlfNzdKdnVPQlhQN3pLekhkYVlGQmtUb3o5TEl1N1BxUDFyLXlCdFp0dVRpWVozVXUxT2l0U0JKNzZIYkFkamlWOWxCUjZ5eDNJMg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-06-30 17:59",
-      "summary": "みずほ、新興開拓へ法人金融サービス AI与信で資金調達も支援 &nbsp;&nbsp; 日本経済新聞",
-      "tags": [
-        "メガバンク",
-        "融資",
-        "法人営業"
-      ],
-      "signals": [
-        "megabank",
-        "lending"
-      ],
-      "importance": 62,
-      "confidence": "中",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 45.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日本経済新聞"
       ]
     }
   ]
