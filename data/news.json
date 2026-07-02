@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02 07:14 JST",
+  "generated_at": "2026-07-02 15:40 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,15 +8,46 @@
   },
   "items": [
     {
-      "id": "6e84d2e9ec8f4ef7",
+      "id": "74c80c9d4a329df9",
       "category": "メガバンク",
-      "title": "パナソニック コネクト、金融商品を取引するAIエージェントの課題を共同で検討 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BME9EelRkU2VGZGNScF9iRkRLS3o1M081YTZXRE9kVElDMjU1VmxKQ01kNWZkamoyWXBWOC0wSWFSTXhYMDlYQTBpdkI5a2g0X1ZF?oc=5",
-      "source": "ZDNET Japan",
-      "published": "2026-07-01 14:30",
-      "summary": "パナソニック コネクト、金融商品を取引するAIエージェントの課題を共同で検討 &nbsp;&nbsp; ZDNET Japan",
+      "title": "MUFGなど28社、AIエージェント時代へ始動 「DID/VC共創コンソーシアム AIエージェント×金融取引分科会」発足 - PlusWeb3",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aemRLeVY2VUZ3eHMwMlM4VWtxUzRheWNjN0FjOVBlbWpOVkNHS1F6YjI4aU9QRXlaRXdzYkpMZG0yTngwLWZ3dWdZY0NCZVhDMDhGWUhqZDF0TWQ0SVE?oc=5",
+      "source": "PlusWeb3",
+      "published": "2026-07-02 10:57",
+      "summary": "MUFGなど28社、AIエージェント時代へ始動 「DID/VC共創コンソーシアム AIエージェント×金融取引分科会」発足 &nbsp;&nbsp; PlusWeb3",
       "tags": [
         "メガバンク",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai",
+        "megabank"
+      ],
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 4.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PlusWeb3"
+      ]
+    },
+    {
+      "id": "bec834620ba1267f",
+      "category": "最新AI技術",
+      "title": "クラダシ、独自AIエージェント「蔵之助」をSlackに導入 - 日本ネット経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EbFlCQjNIVGhCR0FhWkh0dTAxNEc1MnZEUDJZdDR2dlpEVmNXWWNtam04ekgxWkpRMnJ2THB2bFpDUjh5cW1pVmxSNHpIM0lac0FlNk13?oc=5",
+      "source": "日本ネット経済新聞",
+      "published": "2026-07-02 07:30",
+      "summary": "クラダシ、独自AIエージェント「蔵之助」をSlackに導入 &nbsp;&nbsp; 日本ネット経済新聞",
+      "tags": [
+        "最新AI技術",
         "生成AI",
         "AI活用"
       ],
@@ -30,11 +61,72 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 16.7,
+      "age_hours": 8.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ZDNET Japan"
+        "日本ネット経済新聞"
+      ]
+    },
+    {
+      "id": "e8fc5ef785cfc3d6",
+      "category": "最新AI技術",
+      "title": "Anthropicの営業はAIエージェントをこう使う！ 日本法人メンバーが明かす手の内：AWS Summit Japan 2026（1/2 ページ） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lNlhCbXZIYnlIRXpyM0ctQUVfS3BfYmYwa2RFX09yRFlHM3NMOGY5ZVl1di1wWXhWLXU5SWJ0Y0FxZ2tzbFBzc0MwcjBtczJOclpFd0xZQjAxRDE0QlA2Zmh5SnJtM3pxbVBEUA?oc=5",
+      "source": "ITmedia",
+      "published": "2026-07-02 07:00",
+      "summary": "Anthropicの営業はAIエージェントをこう使う！ 日本法人メンバーが明かす手の内：AWS Summit Japan 2026（1/2 ページ） &nbsp;&nbsp; ITmedia",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 8.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ITmedia"
+      ]
+    },
+    {
+      "id": "ca8e2e5a441709e4",
+      "category": "メガバンク",
+      "title": "みずほの新金融サービス「UPSIDER BANK」始動。傘下のAI与信モデルで億単位の与信を提供 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jTThBVUFyaGpJR3ZOdGMydlNPRzhVMlNtWXNRSHdkX2lIZlhXNkkwbHNMeGZJM2NjMG9OLWw2MnRuS1VGSUt4eURHLTlsTjZhcTUyUjh0QUlKdEx2eWQyQ2Y0MlZOSnE0WmFlZHl4WnhYODhSOTRxNE8xaWFDNjA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-01 11:15",
+      "summary": "みずほの新金融サービス「UPSIDER BANK」始動。傘下のAI与信モデルで億単位の与信を提供 &nbsp;&nbsp; Yahoo!ニュース",
+      "tags": [
+        "メガバンク",
+        "融資",
+        "法人営業"
+      ],
+      "signals": [
+        "megabank",
+        "lending"
+      ],
+      "importance": 62,
+      "confidence": "中",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 28.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Yahoo!ニュース"
       ]
     },
     {
@@ -62,94 +154,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "共同センター、勘定系周辺、クラウド/モダナイゼーションの論点としてNTTデータの金融基盤知見に接続できます。",
       "risk_note": "基幹系は可用性、移行リスク、ベンダーロックイン、長期コストの確認が必要です。",
-      "age_hours": 20.1,
+      "age_hours": 28.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "london3.jp"
-      ]
-    },
-    {
-      "id": "4ccfd3c07641c906",
-      "category": "最新AI技術",
-      "title": "FPTとマイクロソフト、アジアでAI導入支援を拡大 日本・ASEAN・韓国企業の業務変革を加速 - PlusWeb3",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CYktTTGpqSEhVbUJwSnhFeVhrMGdLNHVpZkJfenlFQXgwSm5yQjVHQUNQWmRrek1qcmZCdWU2WEZjZjd2aElWTGUxSW9LV2sydUVndnhMYm1STEZpU0E?oc=5",
-      "source": "PlusWeb3",
-      "published": "2026-07-01 10:54",
-      "summary": "FPTとマイクロソフト、アジアでAI導入支援を拡大 日本・ASEAN・韓国企業の業務変革を加速 &nbsp;&nbsp; PlusWeb3",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PlusWeb3"
-      ]
-    },
-    {
-      "id": "cc288581e6dea8d1",
-      "category": "最新AI技術",
-      "title": "AI活用を支えるセルフホスト基盤「ABLENET AIセルフホストVPS」を提供開始 - newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KWEZlWlFLdDlrSFFWa0pfU0ZpT01CYzM0NGlQb2h5dFRUZTVVY1JxSW5nb0hWT2dVaFBPNWhncC1YcUxkRlhReVlUVDdKZUk?oc=5",
-      "source": "newscast.jp",
-      "published": "2026-07-01 10:21",
-      "summary": "AI活用を支えるセルフホスト基盤「ABLENET AIセルフホストVPS」を提供開始 &nbsp;&nbsp; newscast.jp",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "newscast.jp"
-      ]
-    },
-    {
-      "id": "960c4406dadedf89",
-      "category": "メガバンク",
-      "title": "みずほの新金融サービス「UPSIDER BANK」始動。傘下のAI与信モデルで億単位の与信を提供 - Business Insider Japan",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55VEVqTGU3ejB0bEFpWjhrSnFNU3hLWVg1Q3FaNGZPZW5ZcXJzRmRHY2J3LWR4V2pHakk3TkJwTk1oMTNSYkNGUG1rUUtMM3hBTkVFWXVFNnpRWHE3U2psRU54RDJFdDhjNm1laWk3dkRvMlYyS1BxMENWaw?oc=5",
-      "source": "Business Insider Japan",
-      "published": "2026-07-01 10:20",
-      "summary": "みずほの新金融サービス「UPSIDER BANK」始動。傘下のAI与信モデルで億単位の与信を提供 &nbsp;&nbsp; Business Insider Japan",
-      "tags": [
-        "メガバンク",
-        "融資",
-        "法人営業"
-      ],
-      "signals": [
-        "megabank",
-        "lending"
-      ],
-      "importance": 62,
-      "confidence": "中",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Business Insider Japan"
       ]
     },
     {
@@ -176,7 +185,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 21.0,
+      "age_hours": 29.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -207,7 +216,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 22.2,
+      "age_hours": 30.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -238,7 +247,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 36.3,
+      "age_hours": 44.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -269,100 +278,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 37.3,
+      "age_hours": 45.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日本経済新聞"
-      ]
-    },
-    {
-      "id": "7d4b776298435dc5",
-      "category": "メガバンク",
-      "title": "みずほが中小に総合金融サービス、融資にＡＩ活用 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORzdLRnBNbHRYcFBtQm1MV3hfWjdxbnVMdVhoTHYtRS10ZUNXN2NJTUFUWm5PNng2ejdrSHVGVTEzNG1nVi1nTHR6dXJJMENEWnpiMlh0RzMwVkhHSFhOeTlOTnVDVHVadlRsZkwtTXBaSXhNa2lZVkhXY0Y0WXhnT3FXZU11TVZvTW5Neg?oc=5",
-      "source": "Reuters",
-      "published": "2026-06-30 15:23",
-      "summary": "みずほが中小に総合金融サービス、融資にＡＩ活用 &nbsp;&nbsp; Reuters",
-      "tags": [
-        "メガバンク",
-        "融資",
-        "法人営業"
-      ],
-      "signals": [
-        "megabank",
-        "lending"
-      ],
-      "importance": 62,
-      "confidence": "中",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 39.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Reuters"
-      ]
-    },
-    {
-      "id": "d706079eb69421a1",
-      "category": "NTTデータ",
-      "title": "24時間365日、金融インフラを止めない。NTTデータが切り拓く「止まらない金融」の未来 - ZUU online",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TUE4zdk9aY0JiQ3Q3MmdOYnVoQ0FjRXJYMjNIVmsxVFlxUFhnNVpxTHhyT3FWSDJ5OTJkNll4WFozOFBwUzJfdk9jRHZPUQ?oc=5",
-      "source": "ZUU online",
-      "published": "2026-06-30 13:00",
-      "summary": "24時間365日、金融インフラを止めない。NTTデータが切り拓く「止まらない金融」の未来 &nbsp;&nbsp; ZUU online",
-      "tags": [
-        "NTTデータ"
-      ],
-      "signals": [
-        "nttdata"
-      ],
-      "importance": 65,
-      "confidence": "低",
-      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
-      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
-      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
-      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 42.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ZUU online"
-      ]
-    },
-    {
-      "id": "bb47f7fd2d4a9fb1",
-      "category": "メガバンク",
-      "title": "「DID/VC共創コンソーシアム AIエージェント×金融取引分科会」の発足について - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvVkc1N2VpNnU5NGxkRUQ2N3BzY0xiTHRsNkNjaWFndDFyTUJOWXVOMFRtSFpEZlZyZFcwVHlmcVJIQ3pRcnRqcWxWSFNJaDMyYjVDUHV2RDR4OWlLZndfcjlvRW9PYzd2NFE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-30 10:32",
-      "summary": "「DID/VC共創コンソーシアム AIエージェント×金融取引分科会」の発足について &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "メガバンク",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 44.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
       ]
     }
   ]
