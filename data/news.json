@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04 19:53 JST",
+  "generated_at": "2026-07-05 06:52 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,7 +30,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 23.5,
+      "age_hours": 34.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -60,7 +60,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 30.7,
+      "age_hours": 41.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -90,7 +90,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 32.4,
+      "age_hours": 43.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -116,40 +116,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 36.7,
+      "age_hours": 47.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "時事ドットコム"
-      ]
-    },
-    {
-      "id": "0c6826effd763324",
-      "category": "地銀",
-      "title": "地銀、生き残りへ｢AI行員｣活用 石川のCCIは30年までに2000人分導入 - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Kb3FrMjMySGxTeHhTdzNkR1NfZzJaU2lqZVVBdjZYd1IySFZaMDh2WGJpNGtWdHNtSl9FT0VMQ0ttWjliT3drZ1JSTFJneVpwcXlVUi1SX04zOEY2TC1pZUpGSkZqVlVDSnlReA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-03 02:00",
-      "summary": "地銀、生き残りへ｢AI行員｣活用 石川のCCIは30年までに2000人分導入 &nbsp;&nbsp; 日本経済新聞",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 41.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日本経済新聞"
       ]
     }
   ]
