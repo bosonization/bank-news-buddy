@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04 07:00 JST",
+  "generated_at": "2026-07-04 15:18 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,36 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "d34170d78dbd1305",
+      "category": "最新AI技術",
+      "title": "AIエージェント、大企業の約半数で本番運用 民間調査 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OWEVTdjVwaFFvUGZSdW1HMVZCRGpVZVd5R2ZfWUZRTFVqY1hYTnlBSS1qYmg5MW41c19mSjAtV1lMN3piNkI4NURwRTJJb2Q5dXlDUXFsQTNCRVVMbVN2X0hFSWJqTVlEbHFWYg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-07-03 20:21",
+      "summary": "AIエージェント、大企業の約半数で本番運用 民間調査 &nbsp;&nbsp; 日本経済新聞",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 19.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日本経済新聞"
+      ]
+    },
     {
       "id": "96698503072e561d",
       "category": "NTTデータ",
@@ -30,37 +60,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 17.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
-      ]
-    },
-    {
-      "id": "c766c04c1e599c1c",
-      "category": "最新AI技術",
-      "title": "日本初のAIタレント動画サービス「AvaMo」 資料から説明動画完成までを自律実行するAIエージェント機能を提供開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZMzN1ZTRuelhVU1VEaThRcDNab2ljbXE3bWdGaWE2VTNVYnBUd2thRHFfRTk4UGtxaDNTSmpUdUlVU0ZQR1JqR3Z4NFJGYW5wOHdYMmxjOW90alYtT0E4ck85am9TZF9zcGc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-03 11:30",
-      "summary": "日本初のAIタレント動画サービス「AvaMo」 資料から説明動画完成までを自律実行するAIエージェント機能を提供開始 &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 19.5,
+      "age_hours": 26.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -86,7 +86,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 23.9,
+      "age_hours": 32.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -115,11 +115,41 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 29.0,
+      "age_hours": 37.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日本経済新聞"
+      ]
+    },
+    {
+      "id": "5d64da67ce8883db",
+      "category": "最新AI技術",
+      "title": "「データ戦略なくしてAI戦略なし」--Snowflake、エージェント本格化へ事業展開 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12STNTZ1cySXoyUFdqaDBIbGxkb2p6b2pwZVIycnJ6Nnd6bm9DN3FsQkVQd1ZGemFsMWdDcmJHdUh1eWw4eTlDUEhORUlHWmh5cUhV?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-07-02 15:35",
+      "summary": "「データ戦略なくしてAI戦略なし」--Snowflake、エージェント本格化へ事業展開 &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 47.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
       ]
     }
   ]
