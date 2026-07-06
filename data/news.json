@@ -1,10 +1,129 @@
 {
-  "generated_at": "2026-07-06 06:56 JST",
+  "generated_at": "2026-07-06 16:12 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": []
+  "items": [
+    {
+      "id": "bc25a3426580d9b5",
+      "category": "最新AI技術",
+      "title": "『AIの核心 AI時代の自動化技術とAIエージェント 理論編』 電子版・ペーパーバック版 発売開始 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRbmxTUV8zR1llVE0tUEsyUW95OUZDUDRxZlpRQ3pIaEZ6N3AyMkRTTGxSdnBrbXFkUE9GYldwa3NheHlZcnhyR1V5SWNHOWhCS3lyMF9hNXBYUWlOdjlLd2Q4V2ZLRUlO?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-07-06 13:15",
+      "summary": "『AIの核心 AI時代の自動化技術とAIエージェント 理論編』 電子版・ペーパーバック版 発売開始 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "業務効率化"
+      ],
+      "signals": [
+        "generative_ai",
+        "operations"
+      ],
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 3.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "030fdcb7ea17f724",
+      "category": "メガバンク",
+      "title": "ニュース 三菱UFJと日本IBMら4社が戦略提携、AIで金融システム開発・運用を変革 - 株式会社インプレス",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsUnRKS3RlT25GY1VNampRVjZqa1FxTWtTVVRCTWpOcHQ5YzhwSUhXcVVRSk9yc3Vja3BBbVNQWTJ0MUlEampTMzRNdmJJNF9LUVJkbGxWOXJ1Y0k5UE10RnVfUQ?oc=5",
+      "source": "株式会社インプレス",
+      "published": "2026-07-06 12:43",
+      "summary": "ニュース 三菱UFJと日本IBMら4社が戦略提携、AIで金融システム開発・運用を変革 &nbsp;&nbsp; 株式会社インプレス",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "株式会社インプレス"
+      ]
+    },
+    {
+      "id": "a669be1475577649",
+      "category": "メガバンク",
+      "title": "三菱UFJ銀行、レッドハット、日本IBMとAI駆動型開発で協業強化--金融システム全体の変革へ - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkanpuNzNNWEZjdVlJWm5UemROMWRLOV9CNVF2MW45ZUJIRDhhTm03UzRRd0w1dE92ODRSdVB4RmFpQWxHa2ZQSUZFeVRCVFJDc1Zv?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-07-06 11:22",
+      "summary": "三菱UFJ銀行、レッドハット、日本IBMとAI駆動型開発で協業強化--金融システム全体の変革へ &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 4.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "93f143d230959e17",
+      "category": "最新AI技術",
+      "title": "地域金融の未来を創る「AI１０００人プロジェクト」始動 ！！ - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uQllkbi1vcFpnNE9kY3hFdXhvRWFWZm80TTRVR1dTUWNYZG1GbnNHZWJUcU5kcC1VTzJFN2w0VmhPbW5LbU8yZjVUWktFQkpzbjlreXc3LUlXOTJ1VUJCRFh1N2ZvQjNhaFlXSkZvd2hhNHVfOGQwTHRR?oc=5",
+      "source": "イザ！",
+      "published": "2026-07-06 10:50",
+      "summary": "地域金融の未来を創る「AI１０００人プロジェクト」始動 ！！ &nbsp;&nbsp; イザ！",
+      "tags": [
+        "最新AI技術",
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 55,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 5.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "イザ！"
+      ]
+    }
+  ]
 }
