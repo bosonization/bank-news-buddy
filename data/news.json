@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 07:09 JST",
+  "generated_at": "2026-07-07 15:45 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,317 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "86b8dc47d45a38ba",
+      "category": "最新AI技術",
+      "title": "日本のSaaS事業者、オラクルのテクノロジーで次世代のAI搭載サービスを構築 - Oracle",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUk9nSUhXUW1WZnBLeUxROTA5clZVdDV0MlN6MGU3aU9RbU9TM2l5MXBTUXpVcWlNM0tKZzJ6YThlcUZXZ2N0aWtXdHNvY1BxbUZ6TXZQUGRrVlByUzFrcVp1MUN5M19DTDlpVFVibTk2X3pTVWtYS2tTVTVIejducElaMWphVUl1ZFZJSEhqS1VqLWl5alZkZnh4MUlrcUtldWFJdUg1S3BpNmh4ZUN1ZTFwejRya2x3cERuUFhNVGFxSG5oYW9sYUp1cm5hNUVmUDZV?oc=5",
+      "source": "Oracle",
+      "published": "2026-07-07 13:32",
+      "summary": "日本のSaaS事業者、オラクルのテクノロジーで次世代のAI搭載サービスを構築 &nbsp;&nbsp; Oracle",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 2.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Oracle"
+      ]
+    },
+    {
+      "id": "11eb3ce7ec161cbc",
+      "category": "メガバンク",
+      "title": "三菱UFJ銀行、日本IBMなど4社、金融メインフレーム含むAI駆動型開発で提携 - projectdesign.jp",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXBfVXFyMTBpdjhrZzVod1BzblFoX0cxZWFPU0dLU0pNNmlfb2hZbE9VZnJPdFVETGR0V2FGQTF3VzM3dVB6RXQ1YU56OHhzdlZDcUpTZERGdVp4TTZ5bk8wVElKUWNFSmZTQm9tWEhERURxbURtVzIxMFNaR2hTZjFYUTRiZw?oc=5",
+      "source": "projectdesign.jp",
+      "published": "2026-07-07 12:53",
+      "summary": "三菱UFJ銀行、日本IBMなど4社、金融メインフレーム含むAI駆動型開発で提携 &nbsp;&nbsp; projectdesign.jp",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 2.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "projectdesign.jp"
+      ]
+    },
+    {
+      "id": "1734c114dea3c027",
+      "category": "最新AI技術",
+      "title": "【7/28ウェビナー開催】世界は「AIエージェント自走」へ。なぜ日本企業のAI活用は失速するのか？ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhalNjWEtJUnVfbVQxRGJyUTlQblZrQ2xZYlVEUGZEczZ4QzJWTHRqS2duMFFIWGx0VFdKbjVMQzlpeHl5ZVlaalM1emdwZ2lKREtBNnJvMmlrVzBQNkt4OUpqSnZyZk9xY3c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-07 11:00",
+      "summary": "【7/28ウェビナー開催】世界は「AIエージェント自走」へ。なぜ日本企業のAI活用は失速するのか？ &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 4.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "56958db5b9c64f9a",
+      "category": "メガバンク",
+      "title": "金融システム全工程にAI駆動開発を適用へ、三菱UFJ銀行、日本IBMなど4社が提携 - IT Leaders",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XVk1HamNWa0otT2N4aXJheUE2aTNVOEZ2Nlh2enZMMGhMN0lIYTNmTDBhazJacjMtaTRBRzAzc2t1bkZvY3k5RnVjclpMQWI5V3VN?oc=5",
+      "source": "IT Leaders",
+      "published": "2026-07-07 10:00",
+      "summary": "金融システム全工程にAI駆動開発を適用へ、三菱UFJ銀行、日本IBMなど4社が提携 &nbsp;&nbsp; IT Leaders",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 5.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "IT Leaders"
+      ]
+    },
+    {
+      "id": "29d3a78029a59c19",
+      "category": "最新AI技術",
+      "title": "金融機関向けAI FAQサービス「SAF（サフ）」が滋賀中央信用金庫にて利用開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82aTJma2cxVjJxNG9Za3ZjLUN1NjRnUUd1blVDWUFJclpkbjk3Q1pYUEcxR29TQXZOZUVENjYxWU5jWW1rMHZEa2VwRGRLQmY5Uk50ZGNid1RQUDd5bEdaOEpWakNPbWRTaHc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-07 09:00",
+      "summary": "金融機関向けAI FAQサービス「SAF（サフ）」が滋賀中央信用金庫にて利用開始 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術",
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 55,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 6.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "87c0264060daf72e",
+      "category": "メガバンク",
+      "title": "三菱UFJ銀行、レッドハット、日本IBMなど4社、AI駆動型開発の金融システムへの適用に向けた戦略的パートナーシップを締結 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PQjN1Ymp5U2Vkd2FKRWNWd21VYUYwVEN1cUdIQVdBQ0VRaWQtZVVPYkJLa2xpdUdTc0J5N3NZUnFtc0lUcVJyOW5ROEZabVpUU3VxX0FLbEprVEVJZTJadlFBV09uUmh5TmllWUpQaG1BMkJtNWNrTnkwWTg5aUk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-07 08:40",
+      "summary": "三菱UFJ銀行、レッドハット、日本IBMなど4社、AI駆動型開発の金融システムへの適用に向けた戦略的パートナーシップを締結 &nbsp;&nbsp; Yahoo!ニュース",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 7.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "80321b6c33d7a4ef",
+      "category": "メガバンク",
+      "title": "三菱UFJ銀行、レッドハットら4者が協業 「AI駆動型開発」を金融システム全体に本格適用へ - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DOTZzNW5mc3lnWnBzT3JQcFloQVk5Yl9HY3RxZ2FuNTFZbXh4SFVmMV8yTTlnN1VHdFUzQlhucXNocGxPTFhseW00dHBIZkRaWlJHSDhB?oc=5",
+      "source": "EnterpriseZine",
+      "published": "2026-07-07 08:02",
+      "summary": "三菱UFJ銀行、レッドハットら4者が協業 「AI駆動型開発」を金融システム全体に本格適用へ &nbsp;&nbsp; EnterpriseZine",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 7.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "EnterpriseZine"
+      ]
+    },
+    {
+      "id": "6b563f0d2164c7a6",
+      "category": "メガバンク",
+      "title": "三菱UFJFGがAI戦略で「GoogleとOpenAI」両方と組む理由、半沢社長が語る国内成長と顧客接点拡大“次の一手” - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BR3VsUmpfZXozNjhLVmRLUTBmbExjTzBSYmx2OEJWRmR1N1NmUUFJcnNURHpfeUlZbEYwM1pHNlBGb1E4cTBidGZDVUjSAU9BVV95cUxNRGFUMUFkWW56RWstWmI0WHFmcDVJUlQ5QUxDMEpRQ25hT2g4eG15QVhld29xYVB3UDJ2cGVtYXlnVWlON05jT0xZZU1SX1pn?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-07-07 04:40",
+      "summary": "三菱UFJFGがAI戦略で「GoogleとOpenAI」両方と組む理由、半沢社長が語る国内成長と顧客接点拡大“次の一手” &nbsp;&nbsp; ダイヤモンド・オンライン",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 11.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ダイヤモンド・オンライン"
+      ]
+    },
+    {
+      "id": "00ee0fcf003e06ad",
+      "category": "地銀",
+      "title": "三菱UFJ銀・日本IBMなど4社、AI駆動開発で金融システム刷新へ、開発期間を2カ月から1.5日に短縮 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBySGpHdXIxd2RGMEhWV1pRSExrUWVEdHdidThkX2pVcDg0ZDE0Q2dNOXJCR2hGNGdKbHpncmVIZ0Vud1hId2Qtb1Q4WDFuUVRwSVl5MnNYWXA0M1FvS01FcHFZT0k2dTUwcHJrcnJuRy01ZkVB?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-06 23:45",
+      "summary": "三菱UFJ銀・日本IBMなど4社、AI駆動開発で金融システム刷新へ、開発期間を2カ月から1.5日に短縮 &nbsp;&nbsp; BigGo ファイナンス",
+      "tags": [
+        "地銀",
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 57,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 16.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "BigGo ファイナンス"
+      ]
+    },
+    {
+      "id": "2ed203142b0d88df",
+      "category": "メガバンク",
+      "title": "三菱UFJ銀行や日本IBMなど4社、AI駆動開発による金融システム変革に向けた戦略提携 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSRzR6VzQ1S2V3OGRYTkJrOWZ5ZTZsNTlVcGpkcEZPTzMyVE5TY2tzNzQzdWJuZmtOdUQzWXd0N2ZCTF9uUG54S3VlZTMyOXM?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-07-06 22:00",
+      "summary": "三菱UFJ銀行や日本IBMなど4社、AI駆動開発による金融システム変革に向けた戦略提携 &nbsp;&nbsp; ビジネス+IT",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 17.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ビジネス+IT"
+      ]
+    },
+    {
+      "id": "d2a5eb2812d894cd",
+      "category": "メガバンク",
+      "title": "日本IBMと三菱UFJ銀行が提携 金融システム開発や運用でAI活用 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGdhcDVlQWVNZDhtd0FQcks5NmNzT3k2VVlSQWVUN2tBSjZLZDA0a3p3V1hsQW1RVVBnc3dDUzlJaVZfWmo5aXJXbUhCcGdPUUdnclNaVDk4eGYtTXpZZ1dQX3pJQnVKY0d0ZExBU2E1WWd3eG42LTZ5aGJvSE5taVNmMHh2NnFWcDRmOWlQZ3I2Qmx6U0ZxSTZBYTdSMnU2dDZPRFJ0d1A?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-07-06 17:07",
+      "summary": "日本IBMと三菱UFJ銀行が提携 金融システム開発や運用でAI活用 &nbsp;&nbsp; 日本経済新聞",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 22.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日本経済新聞"
+      ]
+    },
     {
       "id": "1c38005bd262c6e4",
       "category": "メガバンク",
@@ -31,11 +342,39 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 19.6,
+      "age_hours": 28.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "BigGo ファイナンス"
+      ]
+    },
+    {
+      "id": "a669be1475577649",
+      "category": "メガバンク",
+      "title": "三菱UFJ銀行、レッドハット、日本IBMとAI駆動型開発で協業強化--金融システム全体の変革へ - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkanpuNzNNWEZjdVlJWm5UemROMWRLOV9CNVF2MW45ZUJIRDhhTm03UzRRd0w1dE92ODRSdVB4RmFpQWxHa2ZQSUZFeVRCVFJDc1Zv?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-07-06 11:22",
+      "summary": "三菱UFJ銀行、レッドハット、日本IBMとAI駆動型開発で協業強化--金融システム全体の変革へ &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 28.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
       ]
     },
     {
@@ -61,7 +400,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.3,
+      "age_hours": 28.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
