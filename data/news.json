@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11 19:12 JST",
+  "generated_at": "2026-07-12 06:42 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,7 +30,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 13.0,
+      "age_hours": 24.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -61,7 +61,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 23.1,
+      "age_hours": 34.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -93,12 +93,14 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 23.9,
+      "age_hours": 35.4,
       "is_recent": true,
-      "duplicate_count": 3,
+      "duplicate_count": 5,
       "related_sources": [
         "Yahoo!ニュース",
+        "西日本新聞me",
         "nippon.com",
+        "佐賀新聞",
         "au Webポータル"
       ]
     },
@@ -126,12 +128,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 23.9,
+      "age_hours": 35.4,
       "is_recent": true,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "related_sources": [
-        "日本海新聞 NetNihonkai",
-        "琉球新報デジタル"
+        "日本海新聞 NetNihonkai"
       ]
     },
     {
@@ -153,7 +154,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 23.9,
+      "age_hours": 35.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -179,7 +180,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 30.6,
+      "age_hours": 42.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -209,7 +210,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 33.0,
+      "age_hours": 44.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
