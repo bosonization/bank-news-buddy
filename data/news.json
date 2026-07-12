@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12 06:42 JST",
+  "generated_at": "2026-07-12 14:56 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,36 +7,6 @@
     "search": "button-based IME-safe search"
   },
   "items": [
-    {
-      "id": "09e2978403595d1e",
-      "category": "最新AI技術",
-      "title": "日本IBM、九州DXセンターに「AIエージェント・オペレーション・ハブ」新設 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55d0djNFk3LWhZY0tadWdhejg5dEJ3dlE1T25VRWt4cXJrdWR4MmNPcmNNOW8yQ3hxX3pNUjd6NnZCVWNiSG9GU1lDSDlSdUd5Tmtia0NB?oc=5",
-      "source": "EnterpriseZine",
-      "published": "2026-07-11 06:13",
-      "summary": "日本IBM、九州DXセンターに「AIエージェント・オペレーション・ハブ」新設 &nbsp;&nbsp; EnterpriseZine",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 24.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "EnterpriseZine"
-      ]
-    },
     {
       "id": "4d52412b4fdcde5c",
       "category": "メガバンク",
@@ -61,7 +31,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 34.6,
+      "age_hours": 42.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -93,13 +63,13 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 35.4,
+      "age_hours": 43.7,
       "is_recent": true,
       "duplicate_count": 5,
       "related_sources": [
         "Yahoo!ニュース",
-        "西日本新聞me",
         "nippon.com",
+        "西日本新聞me",
         "佐賀新聞",
         "au Webポータル"
       ]
@@ -128,7 +98,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 35.4,
+      "age_hours": 43.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -154,7 +124,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 35.4,
+      "age_hours": 43.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -162,59 +132,33 @@
       ]
     },
     {
-      "id": "ca727022c923739c",
-      "category": "地銀",
-      "title": "AIにお金を任せる時代へ？銀行アプリ利用者の56%が「資産運用の代行」まで期待【アイリッジ調査】 - 株式会社ヴァリューズ",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WZ1NId3l1NF9XUjBQZ3gybzF6T21qVldibmdWNVBhVkRKcHFGUmREVVh6ZzVxeXFVS3dXeU1Xb2FQYU5ZT0JSU3JHWlg5VTUyVmZaVjc5dw?oc=5",
-      "source": "株式会社ヴァリューズ",
-      "published": "2026-07-10 12:36",
-      "summary": "AIにお金を任せる時代へ？銀行アプリ利用者の56%が「資産運用の代行」まで期待【アイリッジ調査】 &nbsp;&nbsp; 株式会社ヴァリューズ",
-      "tags": [
-        "地銀"
-      ],
-      "signals": [],
-      "importance": 43,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 42.1,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "株式会社ヴァリューズ"
-      ]
-    },
-    {
-      "id": "882e4ec3124b317a",
+      "id": "fe4ea9753592aff3",
       "category": "最新AI技術",
-      "title": "大手企業の「AIエージェント活用」に関する実態調査 - 日本の人事部",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54QmxiTFhNUDZ1bGJCbEhiWFNMVlByYzhweWFfNFRBSHAzVGF5V2pRWTJDa0FtaUoxbC1FcmdmdzRmYndpTnRHcEFIb254WVZn?oc=5",
-      "source": "日本の人事部",
-      "published": "2026-07-10 10:15",
-      "summary": "大手企業の「AIエージェント活用」に関する実態調査 &nbsp;&nbsp; 日本の人事部",
+      "title": "金融機関向けAI FAQサービス「SAF（サフ）」が滋賀中央信用金庫にて利用開始 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kcVB5SGVWcVNrRm5QMVlRVFRXVUcydXloY1BfMWhEYnpPLVpUcjZRUFJHSS1TT2MwdlpESjR6RTA3MTgyak5mSkI3Tml3U0IyX1E?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-07-10 16:00",
+      "summary": "金融機関向けAI FAQサービス「SAF（サフ）」が滋賀中央信用金庫にて利用開始 &nbsp;&nbsp; 山陽新聞",
       "tags": [
         "最新AI技術",
-        "生成AI",
-        "AI活用"
+        "地銀",
+        "地域金融"
       ],
       "signals": [
-        "generative_ai"
+        "regional_bank"
       ],
-      "importance": 53,
+      "importance": 55,
       "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 44.5,
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 46.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "日本の人事部"
+        "山陽新聞"
       ]
     }
   ]
