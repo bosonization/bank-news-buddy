@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13 06:42 JST",
+  "generated_at": "2026-07-13 15:16 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,43 @@
   },
   "items": [
     {
-      "id": "80321b6c33d7a4ef",
+      "id": "b6e7748e2568674e",
+      "category": "最新AI技術",
+      "title": "日立、「KubeCon + CloudNativeCon Japan 2026」にてAI活用に不可欠なセキュリティ技術について最新の取り組みを紹介 - クレアウェブ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hYWxzdEJaVVBIc2xfV0hkN0MxMWFlS1FrM2tZOTlseHc1dTByWGhLcEJqSl9reGtvQ1MtQzZtbGRMS1owU2VmMGJQOTI2dm5CQk96T3V1WUZGTkNjOXJXQ3pzSjFZdXB1LVNFZW1SemxEdw?oc=5",
+      "source": "クレアウェブ",
+      "published": "2026-07-13 14:22",
+      "summary": "日立、「KubeCon + CloudNativeCon Japan 2026」にてAI活用に不可欠なセキュリティ技術について最新の取り組みを紹介 &nbsp;&nbsp; クレアウェブ",
+      "tags": [
+        "最新AI技術",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "cyber"
+      ],
+      "importance": 51,
+      "confidence": "低",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 0.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "クレアウェブ"
+      ]
+    },
+    {
+      "id": "adc09cfd2a59ecf4",
       "category": "メガバンク",
-      "title": "三菱UFJ銀行、レッドハットら4者が協業 「AI駆動型開発」を金融システム全体に本格適用へ - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DOTZzNW5mc3lnWnBzT3JQcFloQVk5Yl9HY3RxZ2FuNTFZbXh4SFVmMV8yTTlnN1VHdFUzQlhucXNocGxPTFhseW00dHBIZkRaWlJHSDhB?oc=5",
-      "source": "EnterpriseZine",
-      "published": "2026-07-11 11:05",
-      "summary": "三菱UFJ銀行、レッドハットら4者が協業 「AI駆動型開発」を金融システム全体に本格適用へ &nbsp;&nbsp; EnterpriseZine",
+      "title": "日経平均770円安 AI相場に買い疲れ感、メガバンク株にマネー流入 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52UU4yQU91WjdYRFVfZkRiRG5rMHpla1JXRWFCZHN5ZExUMUIwYzlDT0loalJvZDZEU0dseUhBU05xU0h1bUlGU1BURm9GVmxfTGtyeG1POVY1SFRoSlhBdllEdmxVdFpGS0pIbQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-07-13 11:52",
+      "summary": "日経平均770円安 AI相場に買い疲れ感、メガバンク株にマネー流入 &nbsp;&nbsp; 日本経済新聞",
       "tags": [
         "メガバンク"
       ],
@@ -28,11 +58,188 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 43.6,
+      "age_hours": 3.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "EnterpriseZine"
+        "日本経済新聞"
+      ]
+    },
+    {
+      "id": "770a73595905cb62",
+      "category": "地銀",
+      "title": "「銀行アプリ」利用率は8割、AIにお金の管理や悩み相談を任せてみたい人の割合は? - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TakFmaEl4MW93ZUxCU2xyQVpZSHEzR0JJelFiS25fLUpYRW9wUk9CSzhLY2hGcWRxMGNGTjgtcVRLUUVfSzhrOWM2d0JfOGJJaGpGZFYwVGpQUFROWGpXXzhhYjAtZ2hiVHdSY2ZHeW5aaldLVEh6eDhuaGY?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-07-13 10:33",
+      "summary": "「銀行アプリ」利用率は8割、AIにお金の管理や悩み相談を任せてみたい人の割合は? &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "地銀"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 4.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "a06f38cd1075dc8c",
+      "category": "メガバンク",
+      "title": "3メガバンク、AIによるサイバー攻撃に備えシステム停止時の相互代替|セキュリティと金融のニュース-セキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWVyc05MblpPNFZKUmJiS0lWTzRRRjFUZnBkcHNJWGJTeDllMkEzMVpZbnZ1M0ZrdjVIWDhjbWpHeEpRU1NXZVFVZUxzWFRWMTduNGtqQm52SEczbjlxcHdmclI5WU5JRTR4eWFieTZLWlE1VDVJRUVzVWV2SllRV2IzNjd5LXV5eE5nVFB5Y0xhTjQ?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published": "2026-07-13 07:00",
+      "summary": "3メガバンク、AIによるサイバー攻撃に備えシステム停止時の相互代替|セキュリティと金融のニュース-セキュリティ対策Lab &nbsp;&nbsp; 合同会社ロケットボーイズ",
+      "tags": [
+        "メガバンク",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "megabank",
+        "cyber"
+      ],
+      "importance": 65,
+      "confidence": "中",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 8.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "合同会社ロケットボーイズ"
+      ]
+    },
+    {
+      "id": "d5ecd9d92145ecc0",
+      "category": "最新AI技術",
+      "title": "日本のAIエージェント自律稼働は世界最多 でも「心理的安全性」は世界最下位 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QT2w2UEJkRXdkaEcweGxpcVFFYXNEOE9mLW1nSlRoYTNqa1pGWUVjX1NvYzBjeUFmdnFQVnl0a2pNT2xKZXVlRVN5VGJIa3VieWVCWDIwMndyYWZaRXNkNUVhNkowbVRnTnNwVElBYTVYaVpN?oc=5",
+      "source": "ITmedia",
+      "published": "2026-07-13 07:00",
+      "summary": "日本のAIエージェント自律稼働は世界最多 でも「心理的安全性」は世界最下位 &nbsp;&nbsp; ITmedia",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 8.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ITmedia"
+      ]
+    },
+    {
+      "id": "43016ec24b3b0ca9",
+      "category": "最新AI技術",
+      "title": "日本オラクルが基幹業務へのAIエージェント導入を促進、変わるERPの競争軸（2ページ目） - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeUo4WGhhNlozcElGX2lqd09KTTFlNXhLdUhFZFBTY0ViMnM0ZktOblJtTi1OQWtEVlpQMS1iVWdERXhQQVdsZ2lidjFZUGVmRlVNRTFNQkQ5VVIxYjNSOFJCQk81Mkxrb3p2MERRN2dyaVVuVGJ0bzd3TDhtNnlTRmR2T1ZzSmltSzRVZDBVeksydXBN?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-07-13 05:00",
+      "summary": "日本オラクルが基幹業務へのAIエージェント導入を促進、変わるERPの競争軸（2ページ目） &nbsp;&nbsp; 日経クロステック",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 10.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日経クロステック"
+      ]
+    },
+    {
+      "id": "141a846ca3d4965f",
+      "category": "最新AI技術",
+      "title": "LINEヤフーのAIエージェント「Agent i」、日本での強みを生かせるか - 日経クロステック Active",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JUEo2aWoyNzQ3OGU3TFo3UkdIZ0oxSmhfaHZJc0Z4Si0tUFhVMEZySG92ZjJDdlVWeUp1b2N1UGpCRmpCYUh4ZHFxamhJTGplWWduRThVamoyLWdlVEpMUHI0c1VVUEdSZUE?oc=5",
+      "source": "日経クロステック Active",
+      "published": "2026-07-13 05:00",
+      "summary": "LINEヤフーのAIエージェント「Agent i」、日本での強みを生かせるか &nbsp;&nbsp; 日経クロステック Active",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 10.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日経クロステック Active"
+      ]
+    },
+    {
+      "id": "fe4ea9753592aff3",
+      "category": "最新AI技術",
+      "title": "金融機関向けAI FAQサービス「SAF（サフ）」が滋賀中央信用金庫にて利用開始 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kcVB5SGVWcVNrRm5QMVlRVFRXVUcydXloY1BfMWhEYnpPLVpUcjZRUFJHSS1TT2MwdlpESjR6RTA3MTgyak5mSkI3Tml3U0IyX1E?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-07-11 16:00",
+      "summary": "金融機関向けAI FAQサービス「SAF（サフ）」が滋賀中央信用金庫にて利用開始 &nbsp;&nbsp; 山陽新聞",
+      "tags": [
+        "最新AI技術",
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 55,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 47.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "山陽新聞"
       ]
     }
   ]
