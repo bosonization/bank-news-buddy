@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18 19:17 JST",
+  "generated_at": "2026-07-19 06:43 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,35 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "7a063c53f2d5f573",
+      "category": "地銀",
+      "title": "「こどもまんなかリーディングバンク」始動！ 全国14の地域金融機関が参画 - 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWnFpME8xSXY1MEV3c01Fc2tOa2NWNzRXdld6OGUtNXNhOWlOX3FXXzV2azFVLWJ5Ui1BbWw0N0haVEtURGd1NHNQOTJscXR0bWlKdDgyXzYyMUJmWDJrUVppZWdTaU5BSlU3bHhXenQ5Z1kwNmdyX3hwWlZRZVBZWG12eGRVTEw5?oc=5",
+      "source": "北海道新聞デジタル",
+      "published": "2026-07-18 18:56",
+      "summary": "「こどもまんなかリーディングバンク」始動！ 全国14の地域金融機関が参画 &nbsp;&nbsp; 北海道新聞デジタル",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 11.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "北海道新聞デジタル"
+      ]
+    },
     {
       "id": "4fab34953bc36378",
       "category": "最新AI技術",
@@ -30,7 +59,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 10.9,
+      "age_hours": 22.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -58,7 +87,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 33.3,
+      "age_hours": 44.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -84,7 +113,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 34.0,
+      "age_hours": 45.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -112,7 +141,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 34.1,
+      "age_hours": 45.6,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
@@ -143,68 +172,11 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 34.3,
+      "age_hours": 45.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "dir.co.jp"
-      ]
-    },
-    {
-      "id": "b4ed8a064c11d8bd",
-      "category": "メガバンク",
-      "title": "日本有数のメガバンクは、いかにして「AI-Ready」な組織へ変わるのか。大手金融機関が挑むデータ基盤再設計のリアル - type転職サイト",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ybmVEM1FkU0JLaFMzcHVYOS14Z3RLenY4X19BMmtBekl6ZFFqN1V6Vm5hSmxaWWxkRHRlZnE3d0pORVU0cFhuNQ?oc=5",
-      "source": "type転職サイト",
-      "published": "2026-07-17 00:04",
-      "summary": "日本有数のメガバンクは、いかにして「AI-Ready」な組織へ変わるのか。大手金融機関が挑むデータ基盤再設計のリアル &nbsp;&nbsp; type転職サイト",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 43.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "type転職サイト"
-      ]
-    },
-    {
-      "id": "c37e910570773bdb",
-      "category": "地銀",
-      "title": "「こどもまんなかリーディングバンク」始動！ 全国14の地域金融機関が参画 - 北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaDRzSzJtb2gtTXc3cF9jbThBMGZoX0RNSGhLX2dYVXhvVFBXaHRwWFNUdmk2QW1WRnhRRllzc2s4TGYtSE5fQ1B6aHNDSy1vSV9QeXlYWEFlUQ?oc=5",
-      "source": "北海道新聞デジタル",
-      "published": "2026-07-16 20:18",
-      "summary": "「こどもまんなかリーディングバンク」始動！ 全国14の地域金融機関が参画 &nbsp;&nbsp; 北海道新聞デジタル",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 47.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "北海道新聞デジタル"
       ]
     }
   ]
