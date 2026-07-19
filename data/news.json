@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19 06:43 JST",
+  "generated_at": "2026-07-19 14:50 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -29,11 +29,39 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 11.8,
+      "age_hours": 19.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "北海道新聞デジタル"
+      ]
+    },
+    {
+      "id": "f582c64e3387464e",
+      "category": "メガバンク",
+      "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XN2QxaHU1TGU1TlcyNDk4a1FjWkhWd2laQ056bGUxSDdsY0NMbGJKQk5vWmhKTEowQVUxQ19MeU16bHctUmxGdHhSWHFYS05PN3RpWHl5MHBLQ21fLVg2R0tveDRZVUk?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-07-18 10:29",
+      "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; 日経クロステック",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 28.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日経クロステック"
       ]
     },
     {
@@ -59,124 +87,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 22.4,
+      "age_hours": 30.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "newspicks.com"
-      ]
-    },
-    {
-      "id": "f582c64e3387464e",
-      "category": "メガバンク",
-      "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XN2QxaHU1TGU1TlcyNDk4a1FjWkhWd2laQ056bGUxSDdsY0NMbGJKQk5vWmhKTEowQVUxQ19MeU16bHctUmxGdHhSWHFYS05PN3RpWHl5MHBLQ21fLVg2R0tveDRZVUk?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-07-17 10:00",
-      "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; 日経クロステック",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 44.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経クロステック"
-      ]
-    },
-    {
-      "id": "6e474c6c6bcb363b",
-      "category": "最新AI技術",
-      "title": "日本企業、AI投資は世界平均超す SAPジャパン調査（電波新聞デジタル） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1bTZVQ20zaTdia0JuQmRjZzdOblJsU2JiU1VkVlcySmp3VFAyUUtTV0VXTHppMUZSbnU0UmRLMTZfd1Zxb3dUZXgzYnpsZERneWVuanpSTU9lT0VadnB2TmdWM0ZBbFFLU0JQNU9wSnlVbVJKNXp2N1RweXJhaUE?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-17 09:18",
-      "summary": "日本企業、AI投資は世界平均超す SAPジャパン調査（電波新聞デジタル） &nbsp;&nbsp; Yahoo!ニュース",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 45.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "6fdf2e8080347a5b",
-      "category": "メガバンク",
-      "title": "みずほFG、NVIDIAと協業し金融機関向けAI基盤の高度化に向けた技術検証を開始 (ビジネス＋IT) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0RpeWg1RE9tazU0ZE9KU1hzbFk5eW1WczBCYUZkMjFNaTJpcEY0T2w5aFFJM21RTTVHS3kydW5UYXdPS1NzZ294Sk5VNXNBVjI2Tm5wVVJNdTA2NXNBVDcxQVdtOU51SzVUSHFBYTNQVHdVVk53dmJ1Ml9GdGlHTjJpS013dGIyZDJMSll3?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-17 09:10",
-      "summary": "みずほFG、NVIDIAと協業し金融機関向けAI基盤の高度化に向けた技術検証を開始 (ビジネス＋IT) &nbsp;&nbsp; Yahoo!ニュース",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 45.6,
-      "is_recent": true,
-      "duplicate_count": 2,
-      "related_sources": [
-        "Yahoo!ニュース",
-        "ビジネス+IT"
-      ]
-    },
-    {
-      "id": "180c8a62fcb27c63",
-      "category": "その他",
-      "title": "AI時代に自社のサイバー対策は正解なのか？ - dir.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DWldiV1ROeXptdDl5bVRqTlNsSFEwamR6cDlqS00zdGFxNU1FNnhYREU5U19MdXNOMUh3SHBBQUFlVGxMLTI1WGRVaWFrYVJGdXJSRFFwTGlTME93Y1JPYjZWeFZNTmpYVXBhU084bkJHcVBQbXFz?oc=5",
-      "source": "dir.co.jp",
-      "published": "2026-07-17 08:58",
-      "summary": "AI時代に自社のサイバー対策は正解なのか？ &nbsp;&nbsp; dir.co.jp",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理"
-      ],
-      "signals": [
-        "cyber"
-      ],
-      "importance": 51,
-      "confidence": "低",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 45.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "dir.co.jp"
       ]
     }
   ]
