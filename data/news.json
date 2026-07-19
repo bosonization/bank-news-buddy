@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19 14:50 JST",
+  "generated_at": "2026-07-19 19:26 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,35 +7,6 @@
     "search": "button-based IME-safe search"
   },
   "items": [
-    {
-      "id": "7a063c53f2d5f573",
-      "category": "地銀",
-      "title": "「こどもまんなかリーディングバンク」始動！ 全国14の地域金融機関が参画 - 北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWnFpME8xSXY1MEV3c01Fc2tOa2NWNzRXdld6OGUtNXNhOWlOX3FXXzV2azFVLWJ5Ui1BbWw0N0haVEtURGd1NHNQOTJscXR0bWlKdDgyXzYyMUJmWDJrUVppZWdTaU5BSlU3bHhXenQ5Z1kwNmdyX3hwWlZRZVBZWG12eGRVTEw5?oc=5",
-      "source": "北海道新聞デジタル",
-      "published": "2026-07-18 18:56",
-      "summary": "「こどもまんなかリーディングバンク」始動！ 全国14の地域金融機関が参画 &nbsp;&nbsp; 北海道新聞デジタル",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 19.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "北海道新聞デジタル"
-      ]
-    },
     {
       "id": "f582c64e3387464e",
       "category": "メガバンク",
@@ -57,7 +28,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 28.4,
+      "age_hours": 33.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -87,7 +58,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 30.5,
+      "age_hours": 35.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
