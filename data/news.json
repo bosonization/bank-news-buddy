@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21 14:49 JST",
+  "generated_at": "2026-07-21 20:05 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,39 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "130caa33a14e4174",
+      "category": "メガバンク",
+      "title": "みずほ、機密データを守りながらAIエージェント活用へ。情報収集や資料作成を安全に自動化 - DXマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zQjhSUUpHRmdtMTNWb2ZjdDJFc2YtS21qTWkyR2dxX1pSSm5DOVE0bnVrQmctcy1RU3kzUDc5MXNuc3RyeVRvd2FNeWpNdU0?oc=5",
+      "source": "DXマガジン",
+      "published": "2026-07-21 19:12",
+      "summary": "みずほ、機密データを守りながらAIエージェント活用へ。情報収集や資料作成を安全に自動化 &nbsp;&nbsp; DXマガジン",
+      "tags": [
+        "メガバンク",
+        "生成AI",
+        "AI活用",
+        "業務効率化"
+      ],
+      "signals": [
+        "generative_ai",
+        "megabank",
+        "operations"
+      ],
+      "importance": 81,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 0.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "DXマガジン"
+      ]
+    },
     {
       "id": "0440f655d9be83c2",
       "category": "最新AI技術",
@@ -26,7 +59,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 0.5,
+      "age_hours": 5.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -52,7 +85,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 2.0,
+      "age_hours": 7.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -82,7 +115,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 3.8,
+      "age_hours": 9.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -112,7 +145,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 4.8,
+      "age_hours": 10.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -138,7 +171,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 6.8,
+      "age_hours": 12.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -169,7 +202,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 7.8,
+      "age_hours": 13.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -197,7 +230,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 40.7,
+      "age_hours": 46.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
