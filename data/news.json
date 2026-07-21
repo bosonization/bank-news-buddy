@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21 06:56 JST",
+  "generated_at": "2026-07-21 14:49 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,175 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "0440f655d9be83c2",
+      "category": "最新AI技術",
+      "title": "プレスリリース：BLUEISH、「Oracle Japan Award 2026」にて「Best Cloud AI Partner of the Year (Tech)」を受賞（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWZ25aSmNUYjBOdHF0YWJZdXhaLUZTMXk1aV9tOUZDemFXTmlwdWRpVnFPQnZQWHBadmx2N2J5cTJKMXZkeDFWSVNHTVdtek5oaF93M2NDOHQ3SGpJaHZEMlEyazJrbW9E?oc=5",
+      "source": "毎日新聞",
+      "published": "2026-07-21 14:21",
+      "summary": "プレスリリース：BLUEISH、「Oracle Japan Award 2026」にて「Best Cloud AI Partner of the Year (Tech)」を受賞（PR TIMES） &nbsp;&nbsp; 毎日新聞",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 0.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "毎日新聞"
+      ]
+    },
+    {
+      "id": "3a50e0e2ebd7fc6b",
+      "category": "最新AI技術",
+      "title": "NVIDIA、日本企業と共同でNemotron活用の業界特化型AI開発を推進 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ibnFZYTJDYzgwZEJBcHpyR1NCbk1kRDM4bUhyeXJWWHFhVXNhTVZrM3ZxN1UzVVF0czJOaFpyRVlLNjJSb19TQkNZaG5fZw?oc=5",
+      "source": "CodeZine",
+      "published": "2026-07-21 12:50",
+      "summary": "NVIDIA、日本企業と共同でNemotron活用の業界特化型AI開発を推進 &nbsp;&nbsp; CodeZine",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 2.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "CodeZine"
+      ]
+    },
+    {
+      "id": "6231b3e948a2ce13",
+      "category": "最新AI技術",
+      "title": "JDSC、公益社団法人日本ロジスティクスシステム協会（JILS）に加盟～データサイエンス・AIエージェント・Physical AIの知見を物流業界へ～ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sY3RuTF9LQWpxdnZIdzRSVGZ3NmZacFkzcEgtbW1wQVlZOE9EaTZ2Yzl3cTVaTmpCXzRjbm5GdHhPRGhpeGpyS1gzdXRVcEZ2VkhBUVAyQVZZc0c1UzVmcXRjcUVtaUtBd2c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-21 11:00",
+      "summary": "JDSC、公益社団法人日本ロジスティクスシステム協会（JILS）に加盟～データサイエンス・AIエージェント・Physical AIの知見を物流業界へ～ &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 3.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "e58663a94babf740",
+      "category": "最新AI技術",
+      "title": "開発工数を95％削減 散在データを「AI Ready」に変える、ソフトバンク×BoxによるAIエージェントの変革 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wV2lzaFBJbzZnZWlFc1Zzd2ljYzdXMmJTWUx3WllQZWhLT2pUTmkyZUtzNk12TTQzQWMyWW1KSDdPaHMwY0RfS0xteDlENnZSUFJXQUtmSjhOZkd0ZVZkVFd5N0h3UXViNm1uYQ?oc=5",
+      "source": "ITmedia",
+      "published": "2026-07-21 10:00",
+      "summary": "開発工数を95％削減 散在データを「AI Ready」に変える、ソフトバンク×BoxによるAIエージェントの変革 &nbsp;&nbsp; ITmedia",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 4.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ITmedia"
+      ]
+    },
+    {
+      "id": "3c68151bb2d53bcf",
+      "category": "最新AI技術",
+      "title": "IT技術者の8割超「AI生成コードには人間のレビューが必要」／「偽・誤情報を見破れる」と自信を持つ人はICTリテラシーテストの正答率が低い、ほか (1/2) - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMRU5mUTJnX3RuTm9SMFNTQkZiWC03MHRyTTU2X05VNFo3NHhjcldiXzhrNzVqZ2xDWi1FYmNEQVZ2SW9HaVFLMUp5aGFHSkwtSzVLLQ?oc=5",
+      "source": "ASCII.jp",
+      "published": "2026-07-21 08:02",
+      "summary": "IT技術者の8割超「AI生成コードには人間のレビューが必要」／「偽・誤情報を見破れる」と自信を持つ人はICTリテラシーテストの正答率が低い、ほか (1/2) &nbsp;&nbsp; ASCII.jp",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 6.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ASCII.jp"
+      ]
+    },
+    {
+      "id": "5bb216aee245b420",
+      "category": "メガバンク",
+      "title": "みずほFGがスタートアップと連携 AI活用の中小企業向け融資 - 財界オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUWW1rZXF3RDFJS2NrYi1LRGdCNjF3V0ZtSmJieU1Db090T3BZb0tuZEVya01VQ2RWZEtFZ2RmdnpGMGh6a0hQc2JDT0gtanhwWlVueA?oc=5",
+      "source": "財界オンライン",
+      "published": "2026-07-21 07:00",
+      "summary": "みずほFGがスタートアップと連携 AI活用の中小企業向け融資 &nbsp;&nbsp; 財界オンライン",
+      "tags": [
+        "メガバンク",
+        "融資",
+        "法人営業"
+      ],
+      "signals": [
+        "megabank",
+        "lending"
+      ],
+      "importance": 62,
+      "confidence": "中",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 7.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "財界オンライン"
+      ]
+    },
     {
       "id": "f582c64e3387464e",
       "category": "メガバンク",
@@ -28,7 +197,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 32.8,
+      "age_hours": 40.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
