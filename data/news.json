@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23 14:51 JST",
+  "generated_at": "2026-07-23 20:07 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,29 +8,144 @@
   },
   "items": [
     {
-      "id": "83d91a0ff240b8ab",
-      "category": "最新AI技術",
-      "title": "「AI博覧会 Summer 2026」カンファレンス第1弾スピーカーを発表！二足歩行ヒューマノイドのドーナッツロボティクス、国産LLM「PLaMo」のPreferred Networksが登壇 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hZTR4WFhjblRoX3NRMWwwLXBrQXJkdDQ2TXN2blYxZGNmQVdQd1pOcUwta25wWFpyb1BPXzhoM1FSM1Noend1ajBpaEJ2S0J4MkkxYTVvY2xYWWY2eUlhSlNtSVNkVDExem5LVWFiRnFvcGtWSXc?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-07-23 13:03",
-      "summary": "「AI博覧会 Summer 2026」カンファレンス第1弾スピーカーを発表！二足歩行ヒューマノイドのドーナッツロボティクス、国産LLM「PLaMo」のPreferred Networksが登壇 &nbsp;&nbsp; ニコニコニュース",
+      "id": "f1fc3b8006f6b77a",
+      "category": "メガバンク",
+      "title": "みずほFG、金融機関向けAI活用基盤高度化の検討を開始。AIエージェント活用拡大に向けNVIDIA技術を活用 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SWU45NXBvZUlTQUtzNUo5enR4ZmZSSUNHc1dPWnRjekEtMDk0Mzc4RGpXTlRPY21Sam05ekROeU9oV3AwMVM5V0dWTHJwOC1iZHctQTIyRk9mZi1pWktoSjBudmpyaUhQVmtVdjdQSnM?oc=5",
+      "source": "AIsmiley",
+      "published": "2026-07-23 18:18",
+      "summary": "みずほFG、金融機関向けAI活用基盤高度化の検討を開始。AIエージェント活用拡大に向けNVIDIA技術を活用 &nbsp;&nbsp; AIsmiley",
       "tags": [
-        "最新AI技術",
+        "メガバンク",
         "生成AI",
         "AI活用"
       ],
       "signals": [
-        "generative_ai"
+        "generative_ai",
+        "megabank"
       ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
       "age_hours": 1.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "AIsmiley"
+      ]
+    },
+    {
+      "id": "c623e1609081e3b6",
+      "category": "地銀",
+      "title": "みずほ信託銀行が地域金融機関向けに提供するオンライン研修サービス「みずほ承継学習ポータル ～チエシル～」の構築を支援 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RcVQ5TjVQdmNaanRBNHkwdElrcnBEV1ZZZjhJU2JEa19aNTE4ZV84czZvVWxmcnp2MkktTE5YSTRuM0lsU1lyRGRmanIzTTRWLWxCeklSX3RPVDR6Q1dNUXlDcmJDdDV6eks0?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-07-23 17:16",
+      "summary": "みずほ信託銀行が地域金融機関向けに提供するオンライン研修サービス「みずほ承継学習ポータル ～チエシル～」の構築を支援 &nbsp;&nbsp; 時事ドットコム",
+      "tags": [
+        "地銀",
+        "地域金融",
+        "メガバンク"
+      ],
+      "signals": [
+        "regional_bank",
+        "megabank"
+      ],
+      "importance": 77,
+      "confidence": "中",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 2.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "時事ドットコム"
+      ]
+    },
+    {
+      "id": "6af8d8ce955b5ec6",
+      "category": "地銀",
+      "title": "みずほ信託銀行が地域金融機関向けに提供するオンライン研修サービスの新たなデジタル基盤構築 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tUTdhNnFJRHliZ0J1X1ZZWE02VlBKWGtsZ3U3ZExrZk8tV21mMFR2UmEyR0ZCejE0dlJXREJMTkZ0RXhUUXJIVjh6czJvRzJIT2RqQXR0bC1kWVZkcC1KX2dEWEJiQmpnT3czTlY2c0RrbFpuUVE?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-07-23 17:06",
+      "summary": "みずほ信託銀行が地域金融機関向けに提供するオンライン研修サービスの新たなデジタル基盤構築 &nbsp;&nbsp; ニュースメディアVOIX",
+      "tags": [
+        "地銀",
+        "地域金融",
+        "メガバンク"
+      ],
+      "signals": [
+        "regional_bank",
+        "megabank"
+      ],
+      "importance": 77,
+      "confidence": "中",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニュースメディアVOIX"
+      ]
+    },
+    {
+      "id": "9341cd9972b861c5",
+      "category": "最新AI技術",
+      "title": "おい本当にDXはどうしてしまったんだ 今やAIだけとなった日本企業の愚かさ - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SNjZISkJZN1hLMUhGaUJxY1lic1FiLTF2NVd4ZHNRT3Y4Wm9IME9Ld204MEJKSFpQay1mVWt1ZkpBWWtERmhSSnVLN0d2NUJvTjNTdFg3WkkxZ3pUeV80NF9xVE1jZDg?oc=5",
+      "source": "日経ビジネス電子版",
+      "published": "2026-07-23 17:00",
+      "summary": "おい本当にDXはどうしてしまったんだ 今やAIだけとなった日本企業の愚かさ &nbsp;&nbsp; 日経ビジネス電子版",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日経ビジネス電子版"
+      ]
+    },
+    {
+      "id": "14af2f3f9fc687b6",
+      "category": "最新AI技術",
+      "title": "エンタープライズ企業向けAIのリーディングカンパニーFelo、「AI・人工知能EXPO NEO 2026」に出展 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WXzR2RFBNTEVMb3U1bnBLQktha3FtU2VxQXozVEVQd25UNXdfd1VSS0ExZzlEQmJWNklEN2lTV0pLRXRxZV90cFZTZGxuUllTX1Y3dmRUYmlNbDg4clhNNUhWLWRfXzU3VElrYUU0dUhXY2M1bzVOQWZmNA?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-07-23 14:45",
+      "summary": "エンタープライズ企業向けAIのリーディングカンパニーFelo、「AI・人工知能EXPO NEO 2026」に出展 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 5.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -56,7 +171,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 10.9,
+      "age_hours": 16.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -86,7 +201,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 19.6,
+      "age_hours": 24.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -94,13 +209,13 @@
       ]
     },
     {
-      "id": "0f63eecf44e2ac98",
+      "id": "285ca9812a9d9644",
       "category": "最新AI技術",
-      "title": "オートデスク、「2026 年度版 デザインと創造の業界動向調査：AI 動向」日本語版を公開 ― AI 活用は「導入」から「成果創出」のフェーズへ - 沖縄タイムス社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YNk1vbGhUd05qMmRvM2pyRjVQMjR1dndSd0ZxNVVmOGhaaUVkX2E5ZnoyZk9aQTFubFlJRGxaMXQ4UHpoZEx6TVlzQmVYSXNfT3ZHVmtrNlY3TmxyYUE?oc=5",
-      "source": "沖縄タイムス社",
+      "title": "オートデスク、「2026 年度版 デザインと創造の業界動向調査：AI 動向」日本語版を公開 ― AI 活用は「導入」から「成果創出」のフェーズへ - 紀伊民報AGARA",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LZTRBRjJSRDBIa1hheU91Rk9RYTRhakxfb2NsOWpTSWR2eU9TU0dTenlxT25tX05DZkhSUFdEdmg1N1lFMmJtZEsxaW8zbWs?oc=5",
+      "source": "紀伊民報AGARA",
       "published": "2026-07-22 13:00",
-      "summary": "オートデスク、「2026 年度版 デザインと創造の業界動向調査：AI 動向」日本語版を公開 ― AI 活用は「導入」から「成果創出」のフェーズへ &nbsp;&nbsp; 沖縄タイムス社",
+      "summary": "オートデスク、「2026 年度版 デザインと創造の業界動向調査：AI 動向」日本語版を公開 ― AI 活用は「導入」から「成果創出」のフェーズへ &nbsp;&nbsp; 紀伊民報AGARA",
       "tags": [
         "最新AI技術"
       ],
@@ -112,11 +227,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 25.9,
+      "age_hours": 31.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "沖縄タイムス社"
+        "紀伊民報AGARA"
       ]
     },
     {
@@ -140,39 +255,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 37.1,
+      "age_hours": 42.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日経クロステック"
-      ]
-    },
-    {
-      "id": "17b134c4324390f1",
-      "category": "メガバンク",
-      "title": "日経平均株価は下値メドの「75日移動平均線」を割り込むと調整がさらに深まるリスクあり！ AI･半導体株を避け、メガバンクなど内需系バリュー株を狙おう！ - ダイヤモンド・オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFRldLcWwxQWkzdG53OTNDNkFTdkZhOWxQNUJuWDJCZy1HOFFHWWY4aVZvMWpUSE1MaHJoX3FNcGdNdV8zZldObHMyOEdyd21wS0sw?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-07-21 18:30",
-      "summary": "日経平均株価は下値メドの「75日移動平均線」を割り込むと調整がさらに深まるリスクあり！ AI･半導体株を避け、メガバンクなど内需系バリュー株を狙おう！ &nbsp;&nbsp; ダイヤモンド・オンライン",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 44.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ダイヤモンド・オンライン"
       ]
     }
   ]
