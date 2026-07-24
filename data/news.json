@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 07:00 JST",
+  "generated_at": "2026-07-24 14:49 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,35 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "08a08e948222125a",
+      "category": "地銀",
+      "title": "AI時代の人的資本経営を考える 地方銀行人事エグゼクティブ会議2026開催レポート - PwC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90ZDNjWkZadTk3MmFiV3paS3BSOXJnNFRmaDVmNjBZYTQtOTlFTThNYWFZMmtYSjMxRHF1NC1nZWo1eGNqY0J5ZVhoVEQ4VkpFMEY0c0tmSHAwOGZacVNTdHUxd0g1VWMyR0U1NEwxcENTSFF2bzlV?oc=5",
+      "source": "PwC",
+      "published": "2026-07-24 12:36",
+      "summary": "AI時代の人的資本経営を考える 地方銀行人事エグゼクティブ会議2026開催レポート &nbsp;&nbsp; PwC",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 2.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PwC"
+      ]
+    },
     {
       "id": "f1fc3b8006f6b77a",
       "category": "メガバンク",
@@ -31,7 +60,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 12.7,
+      "age_hours": 20.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -62,7 +91,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.7,
+      "age_hours": 21.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -93,7 +122,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.9,
+      "age_hours": 21.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -119,7 +148,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 14.0,
+      "age_hours": 21.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -145,7 +174,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 27.1,
+      "age_hours": 34.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -175,37 +204,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 35.7,
+      "age_hours": 43.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ビジネス+IT"
-      ]
-    },
-    {
-      "id": "0f63eecf44e2ac98",
-      "category": "最新AI技術",
-      "title": "オートデスク、「2026 年度版 デザインと創造の業界動向調査：AI 動向」日本語版を公開 ― AI 活用は「導入」から「成果創出」のフェーズへ - 沖縄タイムス社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YNk1vbGhUd05qMmRvM2pyRjVQMjR1dndSd0ZxNVVmOGhaaUVkX2E5ZnoyZk9aQTFubFlJRGxaMXQ4UHpoZEx6TVlzQmVYSXNfT3ZHVmtrNlY3TmxyYUE?oc=5",
-      "source": "沖縄タイムス社",
-      "published": "2026-07-22 13:00",
-      "summary": "オートデスク、「2026 年度版 デザインと創造の業界動向調査：AI 動向」日本語版を公開 ― AI 活用は「導入」から「成果創出」のフェーズへ &nbsp;&nbsp; 沖縄タイムス社",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 42.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "沖縄タイムス社"
       ]
     }
   ]
