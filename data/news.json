@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26 06:48 JST",
+  "generated_at": "2026-07-26 15:03 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -34,7 +34,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 1.3,
+      "age_hours": 9.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -66,7 +66,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 19.3,
+      "age_hours": 27.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -94,40 +94,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 33.0,
+      "age_hours": 41.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日経クロステック"
-      ]
-    },
-    {
-      "id": "08a08e948222125a",
-      "category": "地銀",
-      "title": "AI時代の人的資本経営を考える 地方銀行人事エグゼクティブ会議2026開催レポート - PwC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90ZDNjWkZadTk3MmFiV3paS3BSOXJnNFRmaDVmNjBZYTQtOTlFTThNYWFZMmtYSjMxRHF1NC1nZWo1eGNqY0J5ZVhoVEQ4VkpFMEY0c0tmSHAwOGZacVNTdHUxd0g1VWMyR0U1NEwxcENTSFF2bzlV?oc=5",
-      "source": "PwC",
-      "published": "2026-07-24 12:36",
-      "summary": "AI時代の人的資本経営を考える 地方銀行人事エグゼクティブ会議2026開催レポート &nbsp;&nbsp; PwC",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 42.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PwC"
       ]
     }
   ]
