@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27 06:53 JST",
+  "generated_at": "2026-07-27 15:28 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,100 @@
   },
   "items": [
     {
-      "id": "447ff3359fd5757c",
+      "id": "83420e5277a09a3a",
+      "category": "地銀",
+      "title": "ふくいのデジタル「ふくアプリ」が、金融庁「地域活性化取組辞典」取組事例に選定 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80dktSTkl2UXNfMGoyaEhkYmhyc0lFaGsxXzU0OXBpM2xrNlRWcEhSdXV3V0RfdHBtakhvNHJVTFJuWkpPWGFBZGlpdXA4M2RqQURRY3Jwd1ZDVkF5M0k2d3hMWHBwWUlnd0EyRQ?oc=5",
+      "source": "Excite エキサイト",
+      "published": "2026-07-27 14:05",
+      "summary": "ふくいのデジタル「ふくアプリ」が、金融庁「地域活性化取組辞典」取組事例に選定 &nbsp;&nbsp; Excite エキサイト",
+      "tags": [
+        "地銀",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 55,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 1.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Excite エキサイト"
+      ]
+    },
+    {
+      "id": "b45da8924173289a",
+      "category": "地銀",
+      "title": "BNK釜山銀行、地方銀行で初のAI音声ボット導入…365日無休の相談時代が幕開け - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00blRoanh5M1QxZFhmTE9fSWo2aWNkYmd4Mm1aVHhYb1pXcVlGUzdnOW9DeEdfLXhaXzhMRVphQ0dkdm5jLXp2UDhfaS1acUw5aDN6ejdPM3R1NlhlSUI5QmRaZE84S1dZcVdWVV9WR0dqLXpn?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-27 12:25",
+      "summary": "BNK釜山銀行、地方銀行で初のAI音声ボット導入…365日無休の相談時代が幕開け &nbsp;&nbsp; BigGo ファイナンス",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "BigGo ファイナンス"
+      ]
+    },
+    {
+      "id": "b2ea4a9d25585e8c",
+      "category": "地銀",
+      "title": "BNK釜山銀行が地方銀行としては初めて人工知能(AI)で365日24時間相談が可能なサービスを導入した。 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMNWxrSXVMem5NWk1PUXJqY21qaXNSX2JnY3FsTDlXSW1sZXg2VFVMSGwtVkNPTXhZV2FzZk9QMXl1RnRaYU9RNUhCMWdjenpHWHc?oc=5",
+      "source": "매일경제",
+      "published": "2026-07-27 11:01",
+      "summary": "BNK釜山銀行が地方銀行としては初めて人工知能(AI)で365日24時間相談が可能なサービスを導入した。 &nbsp;&nbsp; 매일경제",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 4.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "매일경제"
+      ]
+    },
+    {
+      "id": "8c952ae9f8febb75",
       "category": "メガバンク",
-      "title": "画像 | 地銀･信金の牙城｢中小企業向け｣にメガバンクとAI銀行が襲来…｢過酷な顧客争奪戦｣の全貌 - 東洋経済オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BM3hBMjFHSVQ2Wl9sZzVuUUtUcDltREFJQzZiZFlkOFU4YkdpdGpPNGl1TVpmc2t2UWlnck5YZGR2NTZaOE84eDFOc1UtRldUZW1ocDZadw?oc=5",
+      "title": "地銀･信金の牙城｢中小企業向け｣にメガバンクとAI銀行が襲来…｢過酷な顧客争奪戦｣の全貌 - 東洋経済オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TMEdaV2N3dE9KNUphZXUyWDNleWpoWG1JUDFrZ016NEZ3OS1laWM1b0hGU0c5UTZMWnotcHpGWW15aUpVSEV0SlRpVFNBdnNsYlZlbk1pQXZJTFEtT0Uw?oc=5",
       "source": "東洋経済オンライン",
-      "published": "2026-07-26 19:53",
-      "summary": "画像 | 地銀･信金の牙城｢中小企業向け｣にメガバンクとAI銀行が襲来…｢過酷な顧客争奪戦｣の全貌 &nbsp;&nbsp; 東洋経済オンライン",
+      "published": "2026-07-26 05:30",
+      "summary": "地銀･信金の牙城｢中小企業向け｣にメガバンクとAI銀行が襲来…｢過酷な顧客争奪戦｣の全貌 &nbsp;&nbsp; 東洋経済オンライン",
       "tags": [
         "メガバンク",
         "地銀",
@@ -34,43 +121,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 11.0,
+      "age_hours": 34.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "東洋経済オンライン"
-      ]
-    },
-    {
-      "id": "d527be84cced4842",
-      "category": "地銀",
-      "title": "地銀にもAIエージェント拡大へ あおぞら銀行とneoAIの提携で何が変わる？ - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43UlpsN2VSZnd3STlwcndWeEhCRnNvS3hydmNwcUQ1UFpVN3NrUUt4ZEc0SnNiVFhpSEhyWTh5aDcxSWdOUFRxSlV0TQ?oc=5",
-      "source": "DXマガジン",
-      "published": "2026-07-25 11:30",
-      "summary": "地銀にもAIエージェント拡大へ あおぞら銀行とneoAIの提携で何が変わる？ &nbsp;&nbsp; DXマガジン",
-      "tags": [
-        "地銀",
-        "生成AI",
-        "AI活用",
-        "地域金融"
-      ],
-      "signals": [
-        "generative_ai",
-        "regional_bank"
-      ],
-      "importance": 93,
-      "confidence": "中",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 43.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "DXマガジン"
       ]
     }
   ]
