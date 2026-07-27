@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27 15:28 JST",
+  "generated_at": "2026-07-27 21:21 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,32 +8,61 @@
   },
   "items": [
     {
-      "id": "83420e5277a09a3a",
-      "category": "地銀",
-      "title": "ふくいのデジタル「ふくアプリ」が、金融庁「地域活性化取組辞典」取組事例に選定 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80dktSTkl2UXNfMGoyaEhkYmhyc0lFaGsxXzU0OXBpM2xrNlRWcEhSdXV3V0RfdHBtakhvNHJVTFJuWkpPWGFBZGlpdXA4M2RqQURRY3Jwd1ZDVkF5M0k2d3hMWHBwWUlnd0EyRQ?oc=5",
-      "source": "Excite エキサイト",
-      "published": "2026-07-27 14:05",
-      "summary": "ふくいのデジタル「ふくアプリ」が、金融庁「地域活性化取組辞典」取組事例に選定 &nbsp;&nbsp; Excite エキサイト",
+      "id": "d1704061d1b835bf",
+      "category": "最新AI技術",
+      "title": "「AI使っても評価されない」の壁を崩せるか？日本マイクロソフトが描くAI協働の未来 - PC Watch",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxdjg0OVRrZVZ6MnBrVHBtcmcweVlDSFNUU29pSm5PcUcxUVpzYVZNNE8tejg3cnpuR3JfaGtQMzU4SnNTRHoyYXNGWU1xaFVlQ3ZlTkhfNEpmYzE5WlRmdS15dw?oc=5",
+      "source": "PC Watch",
+      "published": "2026-07-27 19:06",
+      "summary": "「AI使っても評価されない」の壁を崩せるか？日本マイクロソフトが描くAI協働の未来 &nbsp;&nbsp; PC Watch",
       "tags": [
-        "地銀",
-        "ガバナンス"
+        "最新AI技術"
       ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 55,
+      "signals": [],
+      "importance": 35,
       "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 1.4,
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 2.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "Excite エキサイト"
+        "PC Watch"
+      ]
+    },
+    {
+      "id": "abbb56793f627961",
+      "category": "最新AI技術",
+      "title": "日経 225 企業の 87 %が AI エージェントを活用- AI は「個人の生産性」から「組織の知識」を活かす段階へ - - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSnhydG9zS1ZWZFNUV0dGbHRaUDNKamRjSl9yVWhra01UWmNZM3VvcTMxa1RESzQxRmtDcW0wX1VVZHhseVJaQXliQVZSSmdyYVRGZTlPa2p4a1lpQ0xrSWxUNVJCNHBwYk9MSzZONkZxSlZZVktEM2hBQ1ZLc3J3T2dJM3RIaWZON3A0WWxQbTFCcUgy?oc=5",
+      "source": "Microsoft Source",
+      "published": "2026-07-27 14:40",
+      "summary": "日経 225 企業の 87 %が AI エージェントを活用- AI は「個人の生産性」から「組織の知識」を活かす段階へ - &nbsp;&nbsp; Microsoft Source",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "業務効率化"
+      ],
+      "signals": [
+        "generative_ai",
+        "operations"
+      ],
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 6.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Microsoft Source"
       ]
     },
     {
@@ -58,7 +87,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 3.1,
+      "age_hours": 8.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -87,7 +116,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 4.5,
+      "age_hours": 10.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -121,7 +150,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 34.0,
+      "age_hours": 39.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
