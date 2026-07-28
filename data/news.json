@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28 14:44 JST",
+  "generated_at": "2026-07-28 20:15 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,90 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "46c8309e3274225f",
+      "category": "最新AI技術",
+      "title": "SHIFT AI 創立3周年記念イベント「AIエージェントカンファレンス」を2026年8月22日（土）に開催決定！ - SHIFT AI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NQ3FURlF3cDdxb0prbVdHdE5abmdPckJjVWFMQ2ROWUJXWFBXTnRXRGtjX0ZaR1lFTURFU0dGb0VNdE1aWGthbW12N0NybWNVMWowdFE1TQ?oc=5",
+      "source": "SHIFT AI",
+      "published": "2026-07-28 17:12",
+      "summary": "SHIFT AI 創立3周年記念イベント「AIエージェントカンファレンス」を2026年8月22日（土）に開催決定！ &nbsp;&nbsp; SHIFT AI",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 3.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "SHIFT AI"
+      ]
+    },
+    {
+      "id": "1aa028124f3656a4",
+      "category": "地銀",
+      "title": "デジタルガレージ、京都銀行の法人向けDXサービス「京都FG with DX Connect Gate」に請求書カード払い機能を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EMFoxS0lRMjBBMFEzaEFzcF9mWE0yVWhCOUNmTWgtWFExUlZHeUlMNkdWT3hyR3h2VGE3amlkSENieUlOX2ZpN0hiTzZKM0xBSk9LZGdPd0l3a2JRVXJucVdUdUdOdkxPd0E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-28 15:46",
+      "summary": "デジタルガレージ、京都銀行の法人向けDXサービス「京都FG with DX Connect Gate」に請求書カード払い機能を提供開始 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "地銀"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 4.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "8a3cfeea4a80e2dc",
+      "category": "地銀",
+      "title": "富士通、金融機関向けに専有型AIプラットフォームの開発を開始 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WWW9vMi1tbzc0Q2U2ZjY3Y1dnR1h0dTB5RjRSLTlUeDNKX3N4ajk4N3lyeDNVM3ZKNUlHTWg0MU1NellaeHg2WUMtUkJWMUhZaVhvUS04MVhBS0JFT215Zw?oc=5",
+      "source": "Excite エキサイト",
+      "published": "2026-07-28 13:50",
+      "summary": "富士通、金融機関向けに専有型AIプラットフォームの開発を開始 &nbsp;&nbsp; Excite エキサイト",
+      "tags": [
+        "地銀",
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 6.4,
+      "is_recent": true,
+      "duplicate_count": 2,
+      "related_sources": [
+        "Excite エキサイト",
+        "Fujitsu Global"
+      ]
+    },
     {
       "id": "ec5aaeca1d5eee5b",
       "category": "最新AI技術",
@@ -30,7 +114,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 2.6,
+      "age_hours": 8.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -60,37 +144,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 3.4,
+      "age_hours": 8.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "クラウド Watch"
-      ]
-    },
-    {
-      "id": "10270b530879cd5c",
-      "category": "最新AI技術",
-      "title": "富士通、金融機関向けに専有型AIプラットフォームの開発を開始 - Fujitsu Global",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TXJXYU4wMzBqSzFla2lkTm1XMllmZWhHblZKV2NDTUNDbFhkdXMtMzdqWVY0T1liR1l6VUJFTUo5WnFPYV9jN290YUFxVTR2aUZDOVJGTjBEc1diWkww?oc=5",
-      "source": "Fujitsu Global",
-      "published": "2026-07-28 10:11",
-      "summary": "富士通、金融機関向けに専有型AIプラットフォームの開発を開始 &nbsp;&nbsp; Fujitsu Global",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 4.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Fujitsu Global"
       ]
     },
     {
@@ -112,7 +170,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 5.6,
+      "age_hours": 11.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -138,7 +196,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 7.2,
+      "age_hours": 12.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -170,7 +228,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 24.1,
+      "age_hours": 29.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -199,7 +257,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 26.3,
+      "age_hours": 31.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -228,7 +286,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 27.7,
+      "age_hours": 33.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -260,7 +318,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 31.9,
+      "age_hours": 37.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
