@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28 07:00 JST",
+  "generated_at": "2026-07-28 14:44 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,73 @@
   },
   "items": [
     {
-      "id": "d1704061d1b835bf",
+      "id": "ec5aaeca1d5eee5b",
       "category": "最新AI技術",
-      "title": "「AI使っても評価されない」の壁を崩せるか？日本マイクロソフトが描くAI協働の未来 - PC Watch",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxdjg0OVRrZVZ6MnBrVHBtcmcweVlDSFNUU29pSm5PcUcxUVpzYVZNNE8tejg3cnpuR3JfaGtQMzU4SnNTRHoyYXNGWU1xaFVlQ3ZlTkhfNEpmYzE5WlRmdS15dw?oc=5",
-      "source": "PC Watch",
-      "published": "2026-07-27 19:06",
-      "summary": "「AI使っても評価されない」の壁を崩せるか？日本マイクロソフトが描くAI協働の未来 &nbsp;&nbsp; PC Watch",
+      "title": "日経225企業の87％がAIエージェントを導入。マイクロソフトが次世代の働き方を紹介 - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJSE1fbHFxY1VMU1NVODNrYVhYSkdmLURHd3VqcER1dGViSk1Nc19lbHBYOVludHFTakIxUWZfVlFjTTlqVGViT3l0eVQyNmdHdEFYU2NQY0I1aTVLRVFhUVFIeWhWVXFV?oc=5",
+      "source": "マイナビニュース",
+      "published": "2026-07-28 12:08",
+      "summary": "日経225企業の87％がAIエージェントを導入。マイクロソフトが次世代の働き方を紹介 &nbsp;&nbsp; マイナビニュース",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 2.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "マイナビニュース"
+      ]
+    },
+    {
+      "id": "a75728a0d5407a70",
+      "category": "最新AI技術",
+      "title": "日経225企業の87％がAIエージェント活用、カギは「組織の再設計」――日本マイクロソフト - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CRkVOLUlod253eXE1eklnSkhlb1JheWZ4Umg4MldrT0hsTTZsUDc3OEFha25XbnJlTTR6X0E5SnBYZHdySnI0S2ZxTjRUVEl5Snd2TWlZQWs0SGJZcGRnTHBzS1ZiWU0?oc=5",
+      "source": "クラウド Watch",
+      "published": "2026-07-28 11:19",
+      "summary": "日経225企業の87％がAIエージェント活用、カギは「組織の再設計」――日本マイクロソフト &nbsp;&nbsp; クラウド Watch",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 3.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "クラウド Watch"
+      ]
+    },
+    {
+      "id": "10270b530879cd5c",
+      "category": "最新AI技術",
+      "title": "富士通、金融機関向けに専有型AIプラットフォームの開発を開始 - Fujitsu Global",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TXJXYU4wMzBqSzFla2lkTm1XMllmZWhHblZKV2NDTUNDbFhkdXMtMzdqWVY0T1liR1l6VUJFTUo5WnFPYV9jN290YUFxVTR2aUZDOVJGTjBEc1diWkww?oc=5",
+      "source": "Fujitsu Global",
+      "published": "2026-07-28 10:11",
+      "summary": "富士通、金融機関向けに専有型AIプラットフォームの開発を開始 &nbsp;&nbsp; Fujitsu Global",
       "tags": [
         "最新AI技術"
       ],
@@ -26,11 +86,63 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 11.9,
+      "age_hours": 4.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "PC Watch"
+        "Fujitsu Global"
+      ]
+    },
+    {
+      "id": "49ce688ef93cde83",
+      "category": "最新AI技術",
+      "title": "MSが自律型AI「Cowork」「Scout」発表、INPEXは年20億円超の効果試算 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjQXF0QkNVcGp0ZTE5ZjJYd3U1U1FMckR6akZvV1p4cHFFcHVBbG1LQmtPdUN1U2xnZmNiYlRjV1l6bzg5WGp0ZjU1UVplN0tOdzlOTUVHVzlGa0dRNXFnakdjNXMxZkpudWVPa1U4MlBLMGpD?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-28 09:06",
+      "summary": "MSが自律型AI「Cowork」「Scout」発表、INPEXは年20億円超の効果試算 &nbsp;&nbsp; BigGo ファイナンス",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 5.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "BigGo ファイナンス"
+      ]
+    },
+    {
+      "id": "61b17963879df153",
+      "category": "最新AI技術",
+      "title": "日本マイクロソフト、「Copilot」の進化でAI活用を次の段階へ - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85aWtINkFjcUc1SEpxN0hLN1ItYllrTHBXMWQ1Snc2OThtWmJGYUZYdzU2WHBQbE9MNTVSZFJQYjNHUFZ1b0kzR2pkY2Z6QUp2QS1J?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-07-28 07:30",
+      "summary": "日本マイクロソフト、「Copilot」の進化でAI活用を次の段階へ &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 7.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
       ]
     },
     {
@@ -58,7 +170,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 16.3,
+      "age_hours": 24.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -87,7 +199,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 18.6,
+      "age_hours": 26.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -116,7 +228,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.0,
+      "age_hours": 27.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -148,7 +260,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 24.2,
+      "age_hours": 31.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
