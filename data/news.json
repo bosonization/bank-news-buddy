@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30 06:54 JST",
+  "generated_at": "2026-07-30 14:39 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,15 +8,102 @@
   },
   "items": [
     {
-      "id": "e451bc26fee36771",
-      "category": "地銀",
-      "title": "銀行振込しかできない請求書もカード払い可能に 資金繰り改善につながる京都銀行の新サービス - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hWEJoSDl0X0YtVlVoS1lEdks1ZTk2dVpCZTVNRm9YUml1TnpxMkIwWGN0bFJtaVB4N1BzVUlZXzFxSGtfWlM3ME41ek14N2c?oc=5",
-      "source": "DXマガジン",
-      "published": "2026-07-29 20:02",
-      "summary": "銀行振込しかできない請求書もカード払い可能に 資金繰り改善につながる京都銀行の新サービス &nbsp;&nbsp; DXマガジン",
+      "id": "f37dbf4b83a9027f",
+      "category": "最新AI技術",
+      "title": "QueryPie AI、FDEによるAIトランスフォーメーション支援事業を日本で本格化 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aeGVFbGUycU51dWdxdlNBTTJCTFE3eFFiZkIzbGlmblVZOGx5MnBMbVc0U2U5Wk1hRm9Uc1hHX1hBYzFjMFRMNmNaTnM4UEdMSy1pSmVKem10S29aWFlnS2s2VEhQUzJhLXdn?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-07-30 13:45",
+      "summary": "QueryPie AI、FDEによるAIトランスフォーメーション支援事業を日本で本格化 &nbsp;&nbsp; 時事ドットコム",
       "tags": [
-        "地銀"
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 0.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "時事ドットコム"
+      ]
+    },
+    {
+      "id": "4898f6d768b38d84",
+      "category": "地銀",
+      "title": "千葉銀行、ダイナトレック開発「コベナンツ管理システム」を営業店で本格利用開始 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kc2JKQzdwR0F5R0NyRm9mTnpOZXFhSDhPeWdGQmtlWnlaYW9PZ0tfWGI3M2pWQWdINVhjaGc5dFhLQkZUb2hqR2owcWxFYzhCWXl0TXY1WWtRejBZTmNyV0czdjJ3Y290ME9ST0ZtSGEwOHh3aUI4M3dtUQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-07-30 13:15",
+      "summary": "千葉銀行、ダイナトレック開発「コベナンツ管理システム」を営業店で本格利用開始 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "地銀",
+        "業務効率化"
+      ],
+      "signals": [
+        "operations"
+      ],
+      "importance": 57,
+      "confidence": "低",
+      "why_matters": "業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
+      "talk": "『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
+      "question": "営業店の中で、行員の時間を一番奪っている事務は何だと感じますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 1.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "7a95d8b80618f253",
+      "category": "最新AI技術",
+      "title": "【Okta調査】AIエージェントがもたらす「ガバナンスの危機」-世界のCISOの81%が過剰なAIアクセスに危機感 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtb2V0TF9kc2tUQXY4NTlVMmRxbERNLWR6TGtmaDlPeEZnYjNCSHNKMG9sVk1mZEJrUVV3cFh5ZlZfVXFfSXZJRjlZTzJ3QTBrN09GWTRzaUtjc2kyOVc5RE55RlZzWS1KajdCaVBCSnVpX2pTYmVMUEZHUQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-07-30 11:18",
+      "summary": "【Okta調査】AIエージェントがもたらす「ガバナンスの危機」-世界のCISOの81%が過剰なAIアクセスに危機感 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "ガバナンス"
+      ],
+      "signals": [
+        "generative_ai",
+        "governance"
+      ],
+      "importance": 65,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 3.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "28958e2b0cddb14c",
+      "category": "NTTデータ",
+      "title": "株式会社岩手銀行地域創生で培ったネットワークを、地域ぐるみのサステナビリティへつなぐ - nttdata.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19jNlBjeW5Ld3pGemFPVzVUZ2FDTWU5TGlzZ1VUa1NDM2FuVzhid0ZIYXFRNUNISkxRZ0swRkZtbjBMS0w5RGVKSGFOQjZTbUg5dy1FaVdwemhoNVJNU09KM2pfUXhmM2lJZDlMMzZrT0hoazN2V1FoeUxmR0pzcQ?oc=5",
+      "source": "nttdata.com",
+      "published": "2026-07-30 10:51",
+      "summary": "株式会社岩手銀行地域創生で培ったネットワークを、地域ぐるみのサステナビリティへつなぐ &nbsp;&nbsp; nttdata.com",
+      "tags": [
+        "NTTデータ"
       ],
       "signals": [],
       "importance": 43,
@@ -26,11 +113,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 10.9,
+      "age_hours": 3.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "DXマガジン"
+        "nttdata.com"
       ]
     },
     {
@@ -39,7 +126,7 @@
       "title": "画像 | 地銀･信金の牙城｢中小企業向け｣にメガバンクとAI銀行が襲来…｢過酷な顧客争奪戦｣の全貌 - 東洋経済オンライン",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BM3hBMjFHSVQ2Wl9sZzVuUUtUcDltREFJQzZiZFlkOFU4YkdpdGpPNGl1TVpmc2t2UWlnck5YZGR2NTZaOE84eDFOc1UtRldUZW1ocDZadw?oc=5",
       "source": "東洋経済オンライン",
-      "published": "2026-07-29 13:30",
+      "published": "2026-07-30 06:10",
       "summary": "画像 | 地銀･信金の牙城｢中小企業向け｣にメガバンクとAI銀行が襲来…｢過酷な顧客争奪戦｣の全貌 &nbsp;&nbsp; 東洋経済オンライン",
       "tags": [
         "メガバンク",
@@ -60,7 +147,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 17.4,
+      "age_hours": 8.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -90,7 +177,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 18.7,
+      "age_hours": 26.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -118,7 +205,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 19.9,
+      "age_hours": 27.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -144,7 +231,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.9,
+      "age_hours": 28.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -176,7 +263,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 20.9,
+      "age_hours": 28.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -208,7 +295,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 21.9,
+      "age_hours": 29.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -237,7 +324,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 26.2,
+      "age_hours": 33.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -263,93 +350,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 38.9,
+      "age_hours": 46.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "株式会社デジタルガレージ（Digital Garage, Inc.）"
-      ]
-    },
-    {
-      "id": "a75728a0d5407a70",
-      "category": "最新AI技術",
-      "title": "日経225企業の87％がAIエージェント活用、カギは「組織の再設計」――日本マイクロソフト - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CRkVOLUlod253eXE1eklnSkhlb1JheWZ4Umg4MldrT0hsTTZsUDc3OEFha25XbnJlTTR6X0E5SnBYZHdySnI0S2ZxTjRUVEl5Snd2TWlZQWs0SGJZcGRnTHBzS1ZiWU0?oc=5",
-      "source": "クラウド Watch",
-      "published": "2026-07-28 11:19",
-      "summary": "日経225企業の87％がAIエージェント活用、カギは「組織の再設計」――日本マイクロソフト &nbsp;&nbsp; クラウド Watch",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 43.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "クラウド Watch"
-      ]
-    },
-    {
-      "id": "10270b530879cd5c",
-      "category": "最新AI技術",
-      "title": "富士通、金融機関向けに専有型AIプラットフォームの開発を開始 - Fujitsu Global",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TXJXYU4wMzBqSzFla2lkTm1XMllmZWhHblZKV2NDTUNDbFhkdXMtMzdqWVY0T1liR1l6VUJFTUo5WnFPYV9jN290YUFxVTR2aUZDOVJGTjBEc1diWkww?oc=5",
-      "source": "Fujitsu Global",
-      "published": "2026-07-28 10:37",
-      "summary": "富士通、金融機関向けに専有型AIプラットフォームの開発を開始 &nbsp;&nbsp; Fujitsu Global",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 44.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Fujitsu Global"
-      ]
-    },
-    {
-      "id": "61b17963879df153",
-      "category": "最新AI技術",
-      "title": "日本マイクロソフト、「Copilot」の進化でAI活用を次の段階へ - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85aWtINkFjcUc1SEpxN0hLN1ItYllrTHBXMWQ1Snc2OThtWmJGYUZYdzU2WHBQbE9MNTVSZFJQYjNHUFZ1b0kzR2pkY2Z6QUp2QS1J?oc=5",
-      "source": "ZDNET Japan",
-      "published": "2026-07-28 07:30",
-      "summary": "日本マイクロソフト、「Copilot」の進化でAI活用を次の段階へ &nbsp;&nbsp; ZDNET Japan",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 47.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ZDNET Japan"
       ]
     }
   ]
