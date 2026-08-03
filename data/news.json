@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03 15:21 JST",
+  "generated_at": "2026-08-03 21:20 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,7 +26,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 0.4,
+      "age_hours": 6.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -34,13 +34,13 @@
       ]
     },
     {
-      "id": "cfdf36144dcf0e74",
+      "id": "d1ffecce45762af7",
       "category": "最新AI技術",
-      "title": "日本オラクル、AI Agent Studioを強化 ノーコードとプロコードでAIエージェント開発 - news.mynavi.jp",
+      "title": "日本オラクル、AI Agent Studioを強化 ノーコードとプロコードでAIエージェント開発 - マイナビニュース",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVGN2QzNna2RRSDZIcDRYUnBOOUo4VVRFZmNsTzBRZ1ZIUFBYSGhlNUQtQkRTVlNrT2FQOF9DcHhiWWxaMWNCaFRDaVdVSGVxZWQyLTNHQW1BZTE3U2pUS2FjVks1R0xx?oc=5",
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "published": "2026-08-03 13:42",
-      "summary": "日本オラクル、AI Agent Studioを強化 ノーコードとプロコードでAIエージェント開発 &nbsp;&nbsp; news.mynavi.jp",
+      "summary": "日本オラクル、AI Agent Studioを強化 ノーコードとプロコードでAIエージェント開発 &nbsp;&nbsp; マイナビニュース",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -56,11 +56,44 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 1.7,
+      "age_hours": 7.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "news.mynavi.jp"
+        "マイナビニュース"
+      ]
+    },
+    {
+      "id": "0b1a4add40476c17",
+      "category": "最新AI技術",
+      "title": "Ippu Senkin、銚子信用金庫向けにセキュリティ強化したLocal-Chat AIを導入開始 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wdG9QNUZjanIwOVNBaXdoNWgtMUdjeDkxRkhhc2NVM2tLcllESVZRRTM0cTJwZ0kwemh0cWlmUXdUMUtpb3lEc0EySHFOTWFrdEVMTDZ6d1hwSExVSnFHRnNoamE1eVlSWVl0bkNSRjJvUQ?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-08-03 12:40",
+      "summary": "Ippu Senkin、銚子信用金庫向けにセキュリティ強化したLocal-Chat AIを導入開始 &nbsp;&nbsp; ニュースメディアVOIX",
+      "tags": [
+        "最新AI技術",
+        "地銀",
+        "地域金融",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "regional_bank",
+        "cyber"
+      ],
+      "importance": 71,
+      "confidence": "中",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 8.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニュースメディアVOIX"
       ]
     },
     {
@@ -85,7 +118,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 5.4,
+      "age_hours": 11.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -93,13 +126,13 @@
       ]
     },
     {
-      "id": "d7dd0011be6fab3d",
+      "id": "f07bab36f7bc58b3",
       "category": "最新AI技術",
-      "title": "日本オラクル、部門横断の業務を自動化するAIエージェント最新動向を発表 Oracle AI Agent Studioで企業の意思決定と開発を加速 - クラウド Watch",
+      "title": "日本オラクル、部門横断の業務を自動化するAIエージェント最新動向を発表 Oracle AI Agent Studioで企業の意思決定と開発を加速 - cloud.watch.impress.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4RzJZVXJBU2Ffb1dDM3JGNVk1R0h1M1pzSlpKVjRCNzNNQ1dLdEg2OVpSWlphdkx2c0FQYTRGQktaSjJxM2pBeDJTTEk0UkFTbFFMVnVuWnBKWkZ2STZkQWN2WnJVUG8?oc=5",
-      "source": "クラウド Watch",
+      "source": "cloud.watch.impress.co.jp",
       "published": "2026-08-03 06:15",
-      "summary": "日本オラクル、部門横断の業務を自動化するAIエージェント最新動向を発表 Oracle AI Agent Studioで企業の意思決定と開発を加速 &nbsp;&nbsp; クラウド Watch",
+      "summary": "日本オラクル、部門横断の業務を自動化するAIエージェント最新動向を発表 Oracle AI Agent Studioで企業の意思決定と開発を加速 &nbsp;&nbsp; cloud.watch.impress.co.jp",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -117,21 +150,21 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 9.1,
+      "age_hours": 15.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "クラウド Watch"
+        "cloud.watch.impress.co.jp"
       ]
     },
     {
-      "id": "001715dbc3d5e439",
+      "id": "f9151186bb490788",
       "category": "メガバンク",
-      "title": "MUFG、「後出し」のデジタル経済圏 グーグル・オープンAIと240兆円囲い込み - business.nikkei.com",
+      "title": "MUFG、「後出し」のデジタル経済圏 グーグル・オープンAIと240兆円囲い込み - 日経ビジネス電子版",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DN1p2d1VWbGxMVUl6V3B5TEN1eVgyNkhWUWZCSXhBR0s4Vlh2bE1BWXdWbi1GUTNnTk5yaHNfOEIxbWxpRDNTYTcyQnFkckpZNWxrc1k2QmNpYk1XYVVRNzVDTi0ybU0?oc=5",
-      "source": "business.nikkei.com",
+      "source": "日経ビジネス電子版",
       "published": "2026-08-03 05:00",
-      "summary": "MUFG、「後出し」のデジタル経済圏 グーグル・オープンAIと240兆円囲い込み &nbsp;&nbsp; business.nikkei.com",
+      "summary": "MUFG、「後出し」のデジタル経済圏 グーグル・オープンAIと240兆円囲い込み &nbsp;&nbsp; 日経ビジネス電子版",
       "tags": [
         "メガバンク"
       ],
@@ -145,21 +178,21 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 10.4,
+      "age_hours": 16.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "business.nikkei.com"
+        "日経ビジネス電子版"
       ]
     },
     {
-      "id": "da065af5529c24ac",
+      "id": "997df7afb5e55e77",
       "category": "メガバンク",
-      "title": "MUFG、未完の王者 時価総額1位、AI時代の金融進化論 - business.nikkei.com",
+      "title": "MUFG、未完の王者 時価総額1位、AI時代の金融進化論 - 日経ビジネス電子版",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YVVcyUW1KNDhVN21sV29HRkF3dzJSWS1YekFwZ1pVZUJmZ3A0MTJCdkpYekxrZ0tkX3JTUkpVRHNwRTMzT3c1bnFwQVgwX1B1bDZVd1lqdlhTSmZfRENWRms1ckI?oc=5",
-      "source": "business.nikkei.com",
+      "source": "日経ビジネス電子版",
       "published": "2026-08-02 22:53",
-      "summary": "MUFG、未完の王者 時価総額1位、AI時代の金融進化論 &nbsp;&nbsp; business.nikkei.com",
+      "summary": "MUFG、未完の王者 時価総額1位、AI時代の金融進化論 &nbsp;&nbsp; 日経ビジネス電子版",
       "tags": [
         "メガバンク"
       ],
@@ -173,11 +206,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 16.5,
+      "age_hours": 22.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "business.nikkei.com"
+        "日経ビジネス電子版"
       ]
     }
   ]
