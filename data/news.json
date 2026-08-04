@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04 20:21 JST",
+  "generated_at": "2026-08-05 07:06 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "326325cc13ed6ada",
+      "id": "e89c734d2c8ec462",
       "category": "最新AI技術",
-      "title": "JAPAN AI、大塚商会と資本業務提携 〜全国の中堅・中小企業へAI導入を加速〜 - サンスポ",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wblg0dDNIbHp0dlp2VmlRaGpaSG1MWDMtaGtOanpDWnNaSFRYUXFVVjI2V3FIb2pmQUhYNzhIMFd1ckMzQ21PWmI3VHgtaHZmcU5hVE5ncW4xcXB4SGUyQ21xcm9UQWhVQ3FURUQ5RnlHbzhIalRTVmZtTQ?oc=5",
-      "source": "サンスポ",
+      "title": "JAPAN AI、大塚商会と資本業務提携 〜全国の中堅・中小企業へAI導入を加速〜 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BcXB0cVdwZGhBeTBaVVVCTlFmM3c1RVdjYmFnYjZoaDBrdGI5RXh3SFRYQ0ZHc0F2ZTd2LTNpUUNtMjAyRGRKbVdKdE1KRzc2R0xLQkhEbjdhSDlCX2hVVnlUaDEtRUJXUlE?oc=5",
+      "source": "PR TIMES",
       "published": "2026-08-04 16:00",
-      "summary": "JAPAN AI、大塚商会と資本業務提携 〜全国の中堅・中小企業へAI導入を加速〜 &nbsp;&nbsp; サンスポ",
+      "summary": "JAPAN AI、大塚商会と資本業務提携 〜全国の中堅・中小企業へAI導入を加速〜 &nbsp;&nbsp; PR TIMES",
       "tags": [
         "最新AI技術",
         "融資",
@@ -30,11 +30,11 @@
       "question": "法人営業で、面談前の企業理解や提案準備にもっと時間を使えると効果が出そうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 4.4,
+      "age_hours": 15.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "サンスポ"
+        "PR TIMES"
       ]
     },
     {
@@ -56,41 +56,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 5.4,
+      "age_hours": 16.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "AGARA紀伊民報"
-      ]
-    },
-    {
-      "id": "733c069641798e19",
-      "category": "最新AI技術",
-      "title": "生成AI・AIエージェントプラットフォームを提供するAllganize、「第一回 AI・人工知能EXPO NEO」に出展。東京国際フォーラムにて8月5日～6日開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVDR6Tk04WVFDaTJMbXdmRTIwWEV0SEdyM1NlQ2VkRThIWVZ4Zm5RRmpHdWl4eDN6QUdlV0pZczJ3elNXbUIwc09GdjAyYXVCNV9xMmdKWHMzVl9GeHY2YVZIbnMxSlFtZnc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-04 14:00",
-      "summary": "生成AI・AIエージェントプラットフォームを提供するAllganize、「第一回 AI・人工知能EXPO NEO」に出展。東京国際フォーラムにて8月5日～6日開催 &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 6.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
       ]
     },
     {
@@ -118,37 +88,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 6.9,
+      "age_hours": 17.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "PlusWeb3"
-      ]
-    },
-    {
-      "id": "d8104b1c90422eb1",
-      "category": "最新AI技術",
-      "title": "「質問に答える」から「仕事を代わりに終わらせる」へ！マイクロソフトのAIで1億円の業務削減 - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oak5felZuSmpMWGgyNVUwOGNFOTBOUFlQMzdqWkVuTElJSHdsYzFPOUh4eDNKSFY1bTI3Z2lyM2g4ZWh3ME9uRGhyTWY?oc=5",
-      "source": "DXマガジン",
-      "published": "2026-08-04 06:50",
-      "summary": "「質問に答える」から「仕事を代わりに終わらせる」へ！マイクロソフトのAIで1億円の業務削減 &nbsp;&nbsp; DXマガジン",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "DXマガジン"
       ]
     },
     {
@@ -172,127 +116,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.8,
+      "age_hours": 24.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "EnterpriseZine"
-      ]
-    },
-    {
-      "id": "d7dd0011be6fab3d",
-      "category": "最新AI技術",
-      "title": "日本オラクル、部門横断の業務を自動化するAIエージェント最新動向を発表 Oracle AI Agent Studioで企業の意思決定と開発を加速 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4RzJZVXJBU2Ffb1dDM3JGNVk1R0h1M1pzSlpKVjRCNzNNQ1dLdEg2OVpSWlphdkx2c0FQYTRGQktaSjJxM2pBeDJTTEk0UkFTbFFMVnVuWnBKWkZ2STZkQWN2WnJVUG8?oc=5",
-      "source": "クラウド Watch",
-      "published": "2026-08-03 06:15",
-      "summary": "日本オラクル、部門横断の業務を自動化するAIエージェント最新動向を発表 Oracle AI Agent Studioで企業の意思決定と開発を加速 &nbsp;&nbsp; クラウド Watch",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用",
-        "業務効率化"
-      ],
-      "signals": [
-        "generative_ai",
-        "operations"
-      ],
-      "importance": 67,
-      "confidence": "中",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 38.1,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "クラウド Watch"
-      ]
-    },
-    {
-      "id": "f9151186bb490788",
-      "category": "メガバンク",
-      "title": "MUFG、「後出し」のデジタル経済圏 グーグル・オープンAIと240兆円囲い込み - 日経ビジネス電子版",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DN1p2d1VWbGxMVUl6V3B5TEN1eVgyNkhWUWZCSXhBR0s4Vlh2bE1BWXdWbi1GUTNnTk5yaHNfOEIxbWxpRDNTYTcyQnFkckpZNWxrc1k2QmNpYk1XYVVRNzVDTi0ybU0?oc=5",
-      "source": "日経ビジネス電子版",
-      "published": "2026-08-03 05:00",
-      "summary": "MUFG、「後出し」のデジタル経済圏 グーグル・オープンAIと240兆円囲い込み &nbsp;&nbsp; 日経ビジネス電子版",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 39.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経ビジネス電子版"
-      ]
-    },
-    {
-      "id": "997df7afb5e55e77",
-      "category": "メガバンク",
-      "title": "MUFG、未完の王者 時価総額1位、AI時代の金融進化論 - 日経ビジネス電子版",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YVVcyUW1KNDhVN21sV29HRkF3dzJSWS1YekFwZ1pVZUJmZ3A0MTJCdkpYekxrZ0tkX3JTUkpVRHNwRTMzT3c1bnFwQVgwX1B1bDZVd1lqdlhTSmZfRENWRms1ckI?oc=5",
-      "source": "日経ビジネス電子版",
-      "published": "2026-08-03 03:10",
-      "summary": "MUFG、未完の王者 時価総額1位、AI時代の金融進化論 &nbsp;&nbsp; 日経ビジネス電子版",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 41.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経ビジネス電子版"
-      ]
-    },
-    {
-      "id": "f582c64e3387464e",
-      "category": "メガバンク",
-      "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XN2QxaHU1TGU1TlcyNDk4a1FjWkhWd2laQ056bGUxSDdsY0NMbGJKQk5vWmhKTEowQVUxQ19MeU16bHctUmxGdHhSWHFYS05PN3RpWHl5MHBLQ21fLVg2R0tveDRZVUk?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-08-02 21:26",
-      "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; 日経クロステック",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 46.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経クロステック"
       ]
     }
   ]
