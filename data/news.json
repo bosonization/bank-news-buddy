@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 09:59 JST",
+  "generated_at": "2026-08-07 13:53 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,66 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "ee2b21aeb6de3723",
+      "category": "最新AI技術",
+      "title": "日本オラクル、エージェント型アプリケーション実現の鍵は“単一データモデル” - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PNnhUaHJPNnhkNllCZkVuWmNkOWNmT2lIbHNCSTgzRFVKMzJ2Wkw0dnozSVZ4Mk5xRkY4VVpsVTNzdlZoT1AxWU5MckRmem9peWFj?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-08-07 12:24",
+      "summary": "日本オラクル、エージェント型アプリケーション実現の鍵は“単一データモデル” &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 1.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "8e699fcd67c575aa",
+      "category": "最新AI技術",
+      "title": "AICX協会、AIエージェント専門メディア「AI Agent Now」を刷新 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LVmxhRkdsczFpMURuWjBCOFFyVEVRM0NIQUNZNkllOXhMdzZRSVBtMVJ2clJvRkM5RmhNS3BFM0I4b3VwYWw2UXAtcTgzSlNtUVJXWXNLZldHUGYzZFRHSmdaNHd4R2RMU2c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-07 10:00",
+      "summary": "AICX協会、AIエージェント専門メディア「AI Agent Now」を刷新 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 3.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
     {
       "id": "bd9d4efb2bd3aff7",
       "category": "最新AI技術",
@@ -30,7 +90,7 @@
       "question": "法人営業で、面談前の企業理解や提案準備にもっと時間を使えると効果が出そうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 1.0,
+      "age_hours": 4.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -38,13 +98,13 @@
       ]
     },
     {
-      "id": "10fcd6ee62092b14",
+      "id": "7e7f4411c5a6c3bc",
       "category": "NTTデータ",
-      "title": "NTTドコモ決算、第1四半期は増収増益 通信収入に底打ちの兆し、金融・AIを強化 - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Lb2VLTHp6cFNZVGQtOURYa1UwLUVsTk14dUZ3eDB5X2drTWQtUTQ5aHhoWXdtVU5OOWg3cXZERW5ONjJqLVlja1lEVTBIVTJUaFdXdDl6cEFWQmJxNjJsZm8xQUM1YTBYaVhZcndWQ1RCeFAyV2JJ0gF8QVVfeXFMTU1lV2pTNFlPTGV6aUJDSUM4OTJIMXpydnZxS0gxTUZ6RjBDRU52MEtPZXlwblF5UGUzQllhakNpcHp4c1JUUzVLSFpHa2hmU0w3UWdhbzFJNXdJWkt1ajE0anlaV3RMT1NLVmZyT2lNcEZRRWlURGx2dWVybw?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-08-06 20:19",
-      "summary": "NTTドコモ決算、第1四半期は増収増益 通信収入に底打ちの兆し、金融・AIを強化 &nbsp;&nbsp; ｄメニューニュース",
+      "title": "NTTドコモ決算、第1四半期は増収増益 通信収入に底打ちの兆し、金融・AIを強化 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtckIwUWJpUTRSbTh6VUJEU01SNWI1S0xXZG9pb1pYTEF5dGJPZHVxMG1pZF90SXhNS1NrRjhvY2l6VDYxU0FjMGM4TkdZQTVhU09Vem40S2E2MGZMMWdIUk9KZk94NUw4VHh1cXFFMllCTmhWR2c?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-08-06 21:27",
+      "summary": "NTTドコモ決算、第1四半期は増収増益 通信収入に底打ちの兆し、金融・AIを強化 &nbsp;&nbsp; ニコニコニュース",
       "tags": [
         "NTTデータ"
       ],
@@ -56,11 +116,40 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.7,
+      "age_hours": 16.4,
+      "is_recent": true,
+      "duplicate_count": 2,
+      "related_sources": [
+        "ニコニコニュース",
+        "ｄメニューニュース"
+      ]
+    },
+    {
+      "id": "f582c64e3387464e",
+      "category": "メガバンク",
+      "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XN2QxaHU1TGU1TlcyNDk4a1FjWkhWd2laQ056bGUxSDdsY0NMbGJKQk5vWmhKTEowQVUxQ19MeU16bHctUmxGdHhSWHFYS05PN3RpWHl5MHBLQ21fLVg2R0tveDRZVUk?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-08-06 19:44",
+      "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; 日経クロステック",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 18.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ｄメニューニュース"
+        "日経クロステック"
       ]
     },
     {
@@ -82,7 +171,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 33.9,
+      "age_hours": 37.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -112,41 +201,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 36.6,
+      "age_hours": 40.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "thinkit.co.jp"
-      ]
-    },
-    {
-      "id": "32b0f10d6dcf1e93",
-      "category": "最新AI技術",
-      "title": "日本オラクル、22種のAIエージェント型アプリを提供 「エージェントの次の世界」を提示 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44a3dMdUFRU1lvNzJKUmVsZm91dldKQWlnX0NXVzBla3NiRjNhUlRvSlh6NmtLRk5JLWNDWGJtd212bjFKZlNnTkEzSGV4X096N0w3bGtn?oc=5",
-      "source": "EnterpriseZine",
-      "published": "2026-08-05 17:11",
-      "summary": "日本オラクル、22種のAIエージェント型アプリを提供 「エージェントの次の世界」を提示 &nbsp;&nbsp; EnterpriseZine",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 40.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "EnterpriseZine"
       ]
     },
     {
@@ -172,72 +231,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 41.1,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PlusWeb3"
-      ]
-    },
-    {
-      "id": "b2f778e042aafbfa",
-      "category": "メガバンク",
-      "title": "【8/19 オンライン開催】みずほ証券の杉谷氏とともに探る、「AI駆動開発の最前線とフロンティアAIの脅威」 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YOHViYWN0VDVROVoySk92QkN3R21LQ1hfLWpHZFlqbGlkTGJVbnZrQjZ4TWlQaTZ4eVdJZktpalJWZE5CRXJTS1RZbGVPS1RTN1piN1d5ODlKS0pKb2hNcG4xbWM4azA0eVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-05 13:00",
-      "summary": "【8/19 オンライン開催】みずほ証券の杉谷氏とともに探る、「AI駆動開発の最前線とフロンティアAIの脅威」 &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
       "age_hours": 45.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "PR TIMES"
-      ]
-    },
-    {
-      "id": "01c836cd62c636c8",
-      "category": "最新AI技術",
-      "title": "JAPAN AI、大塚商会と資本業務提携 中堅・中小企業の生成AI導入へ - projectdesign.jp",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTU5zZG1mRER0VkVwWGpJMGhVM1ZoMnhLTWtlMXdpNDVpUXdMTzczV3V0aF9OZkFCR1BIaWN2c19vY0dMVEFMS0lVU3dtTFl6MHc4MEdlRnFzVkdZT3dIVGZiZjJWT3pXWmtlYjlCRDdBTVcxV25LemJnWFp4RlBKRzgyQ2pZUQ?oc=5",
-      "source": "projectdesign.jp",
-      "published": "2026-08-05 11:58",
-      "summary": "JAPAN AI、大塚商会と資本業務提携 中堅・中小企業の生成AI導入へ &nbsp;&nbsp; projectdesign.jp",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用",
-        "融資",
-        "法人営業"
-      ],
-      "signals": [
-        "generative_ai",
-        "lending"
-      ],
-      "importance": 66,
-      "confidence": "中",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 46.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "projectdesign.jp"
+        "PlusWeb3"
       ]
     }
   ]
