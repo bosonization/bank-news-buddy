@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 18:59 JST",
+  "generated_at": "2026-08-08 06:32 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,7 +26,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 3.1,
+      "age_hours": 14.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -56,7 +56,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 6.0,
+      "age_hours": 17.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -86,7 +86,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 6.6,
+      "age_hours": 18.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -116,7 +116,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 9.0,
+      "age_hours": 20.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -146,7 +146,7 @@
       "question": "法人営業で、面談前の企業理解や提案準備にもっと時間を使えると効果が出そうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 10.0,
+      "age_hours": 21.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -178,7 +178,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 21.0,
+      "age_hours": 32.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -186,13 +186,13 @@
       ]
     },
     {
-      "id": "10fcd6ee62092b14",
+      "id": "d68a11404737de7e",
       "category": "NTTデータ",
-      "title": "NTTドコモ決算、第1四半期は増収増益 通信収入に底打ちの兆し、金融・AIを強化 - ｄメニューニュース",
+      "title": "NTTドコモ決算、第1四半期は増収増益 通信収入に底打ちの兆し、金融・AIを強化 - topics.smt.docomo.ne.jp",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Lb2VLTHp6cFNZVGQtOURYa1UwLUVsTk14dUZ3eDB5X2drTWQtUTQ5aHhoWXdtVU5OOWg3cXZERW5ONjJqLVlja1lEVTBIVTJUaFdXdDl6cEFWQmJxNjJsZm8xQUM1YTBYaVhZcndWQ1RCeFAyV2JJ0gF8QVVfeXFMTU1lV2pTNFlPTGV6aUJDSUM4OTJIMXpydnZxS0gxTUZ6RjBDRU52MEtPZXlwblF5UGUzQllhakNpcHp4c1JUUzVLSFpHa2hmU0w3UWdhbzFJNXdJWkt1ajE0anlaV3RMT1NLVmZyT2lNcEZRRWlURGx2dWVybw?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "published": "2026-08-06 20:19",
-      "summary": "NTTドコモ決算、第1四半期は増収増益 通信収入に底打ちの兆し、金融・AIを強化 &nbsp;&nbsp; ｄメニューニュース",
+      "summary": "NTTドコモ決算、第1四半期は増収増益 通信収入に底打ちの兆し、金融・AIを強化 &nbsp;&nbsp; topics.smt.docomo.ne.jp",
       "tags": [
         "NTTデータ"
       ],
@@ -204,11 +204,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 22.7,
+      "age_hours": 34.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ｄメニューニュース"
+        "topics.smt.docomo.ne.jp"
       ]
     },
     {
@@ -217,7 +217,7 @@
       "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - 日経クロステック",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XN2QxaHU1TGU1TlcyNDk4a1FjWkhWd2laQ056bGUxSDdsY0NMbGJKQk5vWmhKTEowQVUxQ19MeU16bHctUmxGdHhSWHFYS05PN3RpWHl5MHBLQ21fLVg2R0tveDRZVUk?oc=5",
       "source": "日経クロステック",
-      "published": "2026-08-06 19:44",
+      "published": "2026-08-06 12:14",
       "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; 日経クロステック",
       "tags": [
         "メガバンク"
@@ -232,37 +232,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 23.3,
+      "age_hours": 42.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日経クロステック"
-      ]
-    },
-    {
-      "id": "a3884390c0c0e4aa",
-      "category": "その他",
-      "title": "【最新ICT解説】今さら聞けない「フロンティアAI」とは：教育とICT Online - 日経BP",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFd1hWNy1tTXFaWlQ4MENyaXNNRkxpekRXWW53OU5pSnA1dmRabUdZYUdqVUQ0a0E2Z3ZfNzlTRTN0Q2RqWVQ5R2FUQ0c2VXo1UTVKSlRXdWRLQ3hCMGQxeUFqX055cHp1MzEwTlo3bjB3UQ?oc=5",
-      "source": "日経BP",
-      "published": "2026-08-06 00:03",
-      "summary": "【最新ICT解説】今さら聞けない「フロンティアAI」とは：教育とICT Online &nbsp;&nbsp; 日経BP",
-      "tags": [
-        "その他"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 42.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経BP"
       ]
     }
   ]
