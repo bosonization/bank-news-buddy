@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 18:58 JST",
+  "generated_at": "2026-08-12 06:39 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -32,7 +32,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 29.3,
+      "age_hours": 41.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -62,37 +62,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 35.0,
+      "age_hours": 46.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "Ledge.ai"
-      ]
-    },
-    {
-      "id": "766462b81dcada43",
-      "category": "その他",
-      "title": "フロンティアAIの登場により金融機関に求められている対応はどのようなものか - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSUtHZGdEazEzVklwOUQySC1TcHk0VUxzdTBIZV9fYW5SQTc3WXVqWEJoWF90MEZWempMaHpGTVRfMGZTdmNkZ1RleVhOUW45WmE1RUJ6S1U2cUlLTmhDWnZ5WHJjNWJNN1VId3hFY2RiU2ZNMFNUeF9tNDQzX3VKYmxSSE0wRW4tVGl1NHp4cWMyT09HRHc?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-08-10 05:00",
-      "summary": "フロンティアAIの登場により金融機関に求められている対応はどのようなものか &nbsp;&nbsp; 日経クロステック",
-      "tags": [
-        "その他"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 38.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経クロステック"
       ]
     }
   ]
