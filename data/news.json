@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 06:35 JST",
+  "generated_at": "2026-08-11 13:17 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,43 +8,13 @@
   },
   "items": [
     {
-      "id": "4ffa18330e56cb57",
-      "category": "最新AI技術",
-      "title": "山形銀行、法人向けAIエージェントプラットフォーム 「neoAI Chat」を本格導入 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0MGN1WERXQ3JseVF2UUpZTmZTV0ZwMWpvZ0QtS0VSTDlVNnhiNHRXOVRYNFZXaWFDdUhkVFZncXZzWXJSSEJxSy1SejgxZ1haeHpJMXdfMGdBQnAyNEZTYVZleGxzYlZLbmxhWjdWUXFucTZmald3SEdQTQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-08-10 18:45",
-      "summary": "山形銀行、法人向けAIエージェントプラットフォーム 「neoAI Chat」を本格導入 &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 11.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
-      ]
-    },
-    {
-      "id": "69d530d2a36356e2",
+      "id": "57e302a073637ddd",
       "category": "その他",
-      "title": "【徹底解説】銀行の生成AI導入における7つのリスクと対策｜金融庁・FDUA指針対応 - MiiTel",
+      "title": "【徹底解説】銀行の生成AI導入における7つのリスクと対策｜金融庁・FDUA指針対応 - miitel.com",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwRGx1M2VibEd5ZVJNN2RGZElHSEtJNDc3eFNUVWtlaWtLaXVuNC1lam9zcFQ3WmFJNjA0QkV1OVhYUFRTV2ZLZjJZV01jNTlwektlMA?oc=5",
-      "source": "MiiTel",
+      "source": "miitel.com",
       "published": "2026-08-10 13:39",
-      "summary": "【徹底解説】銀行の生成AI導入における7つのリスクと対策｜金融庁・FDUA指針対応 &nbsp;&nbsp; MiiTel",
+      "summary": "【徹底解説】銀行の生成AI導入における7つのリスクと対策｜金融庁・FDUA指針対応 &nbsp;&nbsp; miitel.com",
       "tags": [
         "その他",
         "生成AI",
@@ -62,11 +32,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 16.9,
+      "age_hours": 23.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "MiiTel"
+        "miitel.com"
       ]
     },
     {
@@ -92,7 +62,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 22.6,
+      "age_hours": 29.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -124,7 +94,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 23.8,
+      "age_hours": 30.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -150,7 +120,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 25.6,
+      "age_hours": 32.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -178,7 +148,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 38.5,
+      "age_hours": 45.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
