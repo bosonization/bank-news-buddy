@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 13:45 JST",
+  "generated_at": "2026-08-12 19:01 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,35 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "196f8da402118852",
+      "category": "地銀",
+      "title": "地銀の預金流出防止を支援 - 京都新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95YVU5V0JJWjlUOVN4SWE4eFNhYzgxVDA1LUpEd21DcDRNWXFLUk94M1pLeHR2VWlEemowZXRrZjJWR1hWLTB3ckRUN2dzeFBKa3p3cGt3eHE?oc=5",
+      "source": "京都新聞デジタル",
+      "published": "2026-08-12 15:20",
+      "summary": "地銀の預金流出防止を支援 &nbsp;&nbsp; 京都新聞デジタル",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "京都新聞デジタル"
+      ]
+    },
     {
       "id": "3679480d80dc4b53",
       "category": "最新AI技術",
@@ -32,7 +61,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 1.5,
+      "age_hours": 6.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -40,10 +69,10 @@
       ]
     },
     {
-      "id": "343c5c04d819fc37",
+      "id": "51198161540ccccb",
       "category": "最新AI技術",
       "title": "AIでWebサービスを爆速開発→動作OKでもセキュリティは穴だらけ…｢AI活用｣一辺倒の日本企業が露呈する弱点とは？ - 東洋経済オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6d1FEVFlEbGlHdS1NeHBSZEp6ZTRFN1NyTjBadFJ6WDJaWE9SempjeUhVRnlRaG5FSU5oRjItTmVYZU9UZlJkMW9fRDl5QmxSQzZXNWNiYUl6Z1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9peG5sakJ1ZXdJd3hhajBkenYta2IyM2dZLWgzYko4Nk1TUTlmTG02MzdaMXd5Z0FfVWxsUG52anktSXgtV2ZSX1lhLVF6Uk9lT2RVSjREczVxRUk?oc=5",
       "source": "東洋経済オンライン",
       "published": "2026-08-12 06:00",
       "summary": "AIでWebサービスを爆速開発→動作OKでもセキュリティは穴だらけ…｢AI活用｣一辺倒の日本企業が露呈する弱点とは？ &nbsp;&nbsp; 東洋経済オンライン",
@@ -62,9 +91,9 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 7.8,
+      "age_hours": 13.0,
       "is_recent": true,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "related_sources": [
         "東洋経済オンライン"
       ]
