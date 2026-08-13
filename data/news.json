@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 13:49 JST",
+  "generated_at": "2026-08-13 19:02 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,63 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "9d803f636d8e5c44",
+      "category": "最新AI技術",
+      "title": "【AI博覧会2026 Summer】株式会社Co-Labo AIがスポンサー企業として参画｜新概念「AI転換率」を掲げ、日本企業のAI活用推進を支援 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Z3U5V0Y3Z0N4TDRzdmlyWHdnc2pLMHZsNVNMTm9IRXdiM29wV05Ea0Q0OEU5b2dGaC1aT3FncklfNngtUVo5QldCdGl3YWhFUXoxcUlza0dhVVpQa192NzhfdVg1ZU0yaVE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-13 17:21",
+      "summary": "【AI博覧会2026 Summer】株式会社Co-Labo AIがスポンサー企業として参画｜新概念「AI転換率」を掲げ、日本企業のAI活用推進を支援 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 1.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "ac810af46f1dc47a",
+      "category": "NTTデータ",
+      "title": "京都銀行、NTTデータと連携し与信管理を高度化するAI「粉飾検知モデル」を独自開発 - iotnews.jp",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWUjBMaXVFc2V0d3FfREI5V2E1S2o3OVJLdVlfZlpUc3VBWkp4LTFQMlhnZ0NmVl9WQWpHLXBVSjVsbkUzTDNBX05n0gFPQVVfeXFMTnBxVWE1WDVva2VOdlgwdWNDLW1lQnE2QlBWOUg1S19neWZXa2lOVDJGbHNoeDh3bkkxbDF6VVlWRHN1WlhQb2wxWHh5R1ZRTQ?oc=5",
+      "source": "iotnews.jp",
+      "published": "2026-08-13 11:40",
+      "summary": "京都銀行、NTTデータと連携し与信管理を高度化するAI「粉飾検知モデル」を独自開発 &nbsp;&nbsp; iotnews.jp",
+      "tags": [
+        "NTTデータ",
+        "融資",
+        "法人営業"
+      ],
+      "signals": [
+        "nttdata",
+        "lending"
+      ],
+      "importance": 78,
+      "confidence": "中",
+      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
+      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
+      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
+      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 7.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "iotnews.jp"
+      ]
+    },
     {
       "id": "25d1f24e0840f997",
       "category": "最新AI技術",
@@ -30,7 +87,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 8.8,
+      "age_hours": 14.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -59,7 +116,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 22.5,
+      "age_hours": 27.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -89,7 +146,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 31.8,
+      "age_hours": 37.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
