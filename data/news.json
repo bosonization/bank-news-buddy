@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 06:38 JST",
+  "generated_at": "2026-08-14 13:46 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "002e4a5b571fa1ac",
+      "id": "9d803f636d8e5c44",
       "category": "最新AI技術",
-      "title": "【AI博覧会2026 Summer】株式会社Co-Labo AIがスポンサー企業として参画｜新概念「AI転換率」を掲げ、日本企業のAI活用推進を支援 - prtimes.jp",
+      "title": "【AI博覧会2026 Summer】株式会社Co-Labo AIがスポンサー企業として参画｜新概念「AI転換率」を掲げ、日本企業のAI活用推進を支援 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Z3U5V0Y3Z0N4TDRzdmlyWHdnc2pLMHZsNVNMTm9IRXdiM29wV05Ea0Q0OEU5b2dGaC1aT3FncklfNngtUVo5QldCdGl3YWhFUXoxcUlza0dhVVpQa192NzhfdVg1ZU0yaVE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "published": "2026-08-13 17:21",
-      "summary": "【AI博覧会2026 Summer】株式会社Co-Labo AIがスポンサー企業として参画｜新概念「AI転換率」を掲げ、日本企業のAI活用推進を支援 &nbsp;&nbsp; prtimes.jp",
+      "summary": "【AI博覧会2026 Summer】株式会社Co-Labo AIがスポンサー企業として参画｜新概念「AI転換率」を掲げ、日本企業のAI活用推進を支援 &nbsp;&nbsp; PR TIMES",
       "tags": [
         "最新AI技術"
       ],
@@ -26,11 +26,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.3,
+      "age_hours": 20.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "prtimes.jp"
+        "PR TIMES"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 19.0,
+      "age_hours": 26.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -87,7 +87,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 25.6,
+      "age_hours": 32.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -95,13 +95,13 @@
       ]
     },
     {
-      "id": "18d15394d77f5445",
+      "id": "196f8da402118852",
       "category": "地銀",
-      "title": "地銀の預金流出防止を支援 - kyoto-np.co.jp",
+      "title": "地銀の預金流出防止を支援 - 京都新聞デジタル",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95YVU5V0JJWjlUOVN4SWE4eFNhYzgxVDA1LUpEd21DcDRNWXFLUk94M1pLeHR2VWlEemowZXRrZjJWR1hWLTB3ckRUN2dzeFBKa3p3cGt3eHE?oc=5",
-      "source": "kyoto-np.co.jp",
+      "source": "京都新聞デジタル",
       "published": "2026-08-12 15:20",
-      "summary": "地銀の預金流出防止を支援 &nbsp;&nbsp; kyoto-np.co.jp",
+      "summary": "地銀の預金流出防止を支援 &nbsp;&nbsp; 京都新聞デジタル",
       "tags": [
         "地銀",
         "地域金融"
@@ -116,11 +116,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 39.3,
+      "age_hours": 46.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "kyoto-np.co.jp"
+        "京都新聞デジタル"
       ]
     }
   ]
