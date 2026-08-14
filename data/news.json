@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 13:46 JST",
+  "generated_at": "2026-08-14 18:58 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,7 +26,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.4,
+      "age_hours": 25.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -57,7 +57,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 26.1,
+      "age_hours": 31.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -65,13 +65,13 @@
       ]
     },
     {
-      "id": "25d1f24e0840f997",
+      "id": "4389fc03ffc52044",
       "category": "最新AI技術",
-      "title": "日本は導入も統制も“最低水準”？ AIエージェントの弱点の防御策：PwCとトレンドマイクロが警鐘 - ITmedia",
+      "title": "日本は導入も統制も“最低水準”？ AIエージェントの弱点の防御策：PwCとトレンドマイクロが警鐘 - techtarget.itmedia.co.jp",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1icmdmNGF4WXlheDdtSFIwV2ZaSEFFbkdILWItdGNwVlo0cUFTSVJiUTdaS3lBclpndnN1bFBxUlllM1Y5Y2F1dm41RzViVl94dGlvRG42UWFaeDh4ME9QQTRUcmNQY3YtV0VJYQ?oc=5",
-      "source": "ITmedia",
+      "source": "techtarget.itmedia.co.jp",
       "published": "2026-08-13 05:00",
-      "summary": "日本は導入も統制も“最低水準”？ AIエージェントの弱点の防御策：PwCとトレンドマイクロが警鐘 &nbsp;&nbsp; ITmedia",
+      "summary": "日本は導入も統制も“最低水準”？ AIエージェントの弱点の防御策：PwCとトレンドマイクロが警鐘 &nbsp;&nbsp; techtarget.itmedia.co.jp",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -87,40 +87,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 32.8,
+      "age_hours": 38.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ITmedia"
-      ]
-    },
-    {
-      "id": "196f8da402118852",
-      "category": "地銀",
-      "title": "地銀の預金流出防止を支援 - 京都新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95YVU5V0JJWjlUOVN4SWE4eFNhYzgxVDA1LUpEd21DcDRNWXFLUk94M1pLeHR2VWlEemowZXRrZjJWR1hWLTB3ckRUN2dzeFBKa3p3cGt3eHE?oc=5",
-      "source": "京都新聞デジタル",
-      "published": "2026-08-12 15:20",
-      "summary": "地銀の預金流出防止を支援 &nbsp;&nbsp; 京都新聞デジタル",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 46.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "京都新聞デジタル"
+        "techtarget.itmedia.co.jp"
       ]
     }
   ]
