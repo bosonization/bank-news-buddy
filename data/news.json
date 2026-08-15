@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-08-15 18:23 JST",
+  "generated_at": "2026-08-16 06:14 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": []
+  "items": [
+    {
+      "id": "8e249290734224b9",
+      "category": "その他",
+      "title": "金融庁、先端AI悪用の攻撃対策 「経営陣主導」求める - nikkinonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MSnhtZm96Wm84N1JEZVNIcmZVTzFWMUFqdWJnODk1YzJPd3JRalV6SVl6QmduMjRJaFlYQjlGd25uSWcxeUlvTjVKM2ZzbkVfS1dVMDJB?oc=5",
+      "source": "nikkinonline.com",
+      "published": "2026-08-16 04:50",
+      "summary": "金融庁、先端AI悪用の攻撃対策 「経営陣主導」求める &nbsp;&nbsp; nikkinonline.com",
+      "tags": [
+        "その他",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 1.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "nikkinonline.com"
+      ]
+    },
+    {
+      "id": "a59ec522dd36a7d6",
+      "category": "最新AI技術",
+      "title": "【イベントレポート】AIエージェント時代、企業競争力を決めるのは『知識実装』ーー株式会社CAT.AI メディア勉強会 - ledge.ai",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bUpTWkxneUJCcTZPaDVoZEMya3JCdVNZYW5KZEZ0YUtKM0FFVjE4S0UwYkZsWWpKM0VBeW1LVWExRFEwd3hMZFNSTTdYQnRGem9DTk15ODJKQQ?oc=5",
+      "source": "ledge.ai",
+      "published": "2026-08-14 11:27",
+      "summary": "【イベントレポート】AIエージェント時代、企業競争力を決めるのは『知識実装』ーー株式会社CAT.AI メディア勉強会 &nbsp;&nbsp; ledge.ai",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 42.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ledge.ai"
+      ]
+    }
+  ]
 }
