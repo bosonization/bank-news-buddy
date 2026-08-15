@@ -1,37 +1,10 @@
 {
-  "generated_at": "2026-08-15 12:36 JST",
+  "generated_at": "2026-08-15 18:23 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": [
-    {
-      "id": "9d803f636d8e5c44",
-      "category": "最新AI技術",
-      "title": "【AI博覧会2026 Summer】株式会社Co-Labo AIがスポンサー企業として参画｜新概念「AI転換率」を掲げ、日本企業のAI活用推進を支援 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Z3U5V0Y3Z0N4TDRzdmlyWHdnc2pLMHZsNVNMTm9IRXdiM29wV05Ea0Q0OEU5b2dGaC1aT3FncklfNngtUVo5QldCdGl3YWhFUXoxcUlza0dhVVpQa192NzhfdVg1ZU0yaVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-13 17:21",
-      "summary": "【AI博覧会2026 Summer】株式会社Co-Labo AIがスポンサー企業として参画｜新概念「AI転換率」を掲げ、日本企業のAI活用推進を支援 &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 43.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
-      ]
-    }
-  ]
+  "items": []
 }
