@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 06:19 JST",
+  "generated_at": "2026-08-15 12:36 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,42 +26,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 37.0,
+      "age_hours": 43.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "PR TIMES"
-      ]
-    },
-    {
-      "id": "ac810af46f1dc47a",
-      "category": "NTTデータ",
-      "title": "京都銀行、NTTデータと連携し与信管理を高度化するAI「粉飾検知モデル」を独自開発 - iotnews.jp",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWUjBMaXVFc2V0d3FfREI5V2E1S2o3OVJLdVlfZlpUc3VBWkp4LTFQMlhnZ0NmVl9WQWpHLXBVSjVsbkUzTDNBX05n0gFPQVVfeXFMTnBxVWE1WDVva2VOdlgwdWNDLW1lQnE2QlBWOUg1S19neWZXa2lOVDJGbHNoeDh3bkkxbDF6VVlWRHN1WlhQb2wxWHh5R1ZRTQ?oc=5",
-      "source": "iotnews.jp",
-      "published": "2026-08-13 11:40",
-      "summary": "京都銀行、NTTデータと連携し与信管理を高度化するAI「粉飾検知モデル」を独自開発 &nbsp;&nbsp; iotnews.jp",
-      "tags": [
-        "NTTデータ",
-        "融資",
-        "法人営業"
-      ],
-      "signals": [
-        "nttdata",
-        "lending"
-      ],
-      "importance": 78,
-      "confidence": "中",
-      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
-      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
-      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
-      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 42.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "iotnews.jp"
       ]
     }
   ]
