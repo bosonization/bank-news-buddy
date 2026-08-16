@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 12:46 JST",
+  "generated_at": "2026-08-16 18:25 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -29,7 +29,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 7.9,
+      "age_hours": 13.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
