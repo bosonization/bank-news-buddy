@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 12:48 JST",
+  "generated_at": "2026-08-17 18:38 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,32 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "685cbdf1cb90839b",
+      "category": "最新AI技術",
+      "title": "イレブンラボ、日経BP主催「AIリーダーズ会議 2026 Autumn」に登壇 電話応対・VoC活用の最新事例を公開 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LVVRtRzVmOWx0Q0IyZVI4eW1mcHVINDYyS2xMTjE0cjFnZGFoTVFmcmttdUd5LUtTdV94b2cwRWdINzB1OVk5cGxIdTBBUHNpaUZoLWpzUlNGTWZBTS1XSW1tNFAyR2tnX3ZXWXdlWkR2ckR6TkJzQkJEWQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-08-17 13:30",
+      "summary": "イレブンラボ、日経BP主催「AIリーダーズ会議 2026 Autumn」に登壇 電話応対・VoC活用の最新事例を公開 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 5.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
     {
       "id": "7bd4fd6eb4c1732b",
       "category": "地銀",
@@ -29,7 +55,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 5.5,
+      "age_hours": 11.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -58,7 +84,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 32.0,
+      "age_hours": 37.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
