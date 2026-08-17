@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 18:38 JST",
+  "generated_at": "2026-08-18 06:19 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,66 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "8d34197d3a103b61",
+      "category": "最新AI技術",
+      "title": "NTTドコモビジネスとエクサウィザーズ、「クローズドAIエージェント」を提供開始 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBcDJ2N3dycUJLVkFxNlJBOEgySE9HLUlmQUw0TV96WWxiYnExVnJfWjV1YUxpZUlCMG94Y1hYQ3J6Y3BqeVZtV1hza2EtaEp5S0VKSTFvYy1DX3VsVkZWbWxHWGs4VzRQR2xnbGxrczd2WERJWEtQQWI3M2hwcXc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-08-17 18:41",
+      "summary": "NTTドコモビジネスとエクサウィザーズ、「クローズドAIエージェント」を提供開始 &nbsp;&nbsp; Yahoo!ニュース",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 11.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "43a776aaf26d973f",
+      "category": "最新AI技術",
+      "title": "Salesforce、AIエージェントの乱立とコスト増大に対応する「MuleSoft Agent Fabric」新機能群と「MuleSoft Omni Gateway」を日本市場で提供開始 - prtimes.jp",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVd1NmcjdQMU4ybEhlM1RoaDRZRzhEQjhRQWF1bUlPbTMzTDh3VjZQc0h1X05tRFlhZlAxYTJ3U2RGYzlwanpMTTlVUFRpS0JURWVUTFlMMHlkX3JpQVpiMUZSN0p6RXJrdFE?oc=5",
+      "source": "prtimes.jp",
+      "published": "2026-08-17 16:00",
+      "summary": "Salesforce、AIエージェントの乱立とコスト増大に対応する「MuleSoft Agent Fabric」新機能群と「MuleSoft Omni Gateway」を日本市場で提供開始 &nbsp;&nbsp; prtimes.jp",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 14.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "prtimes.jp"
+      ]
+    },
     {
       "id": "685cbdf1cb90839b",
       "category": "最新AI技術",
@@ -26,7 +86,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 5.1,
+      "age_hours": 16.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -55,7 +115,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 11.3,
+      "age_hours": 23.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -63,32 +123,31 @@
       ]
     },
     {
-      "id": "8e249290734224b9",
-      "category": "その他",
-      "title": "金融庁、先端AI悪用の攻撃対策 「経営陣主導」求める - nikkinonline.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MSnhtZm96Wm84N1JEZVNIcmZVTzFWMUFqdWJnODk1YzJPd3JRalV6SVl6QmduMjRJaFlYQjlGd25uSWcxeUlvTjVKM2ZzbkVfS1dVMDJB?oc=5",
-      "source": "nikkinonline.com",
-      "published": "2026-08-16 04:50",
-      "summary": "金融庁、先端AI悪用の攻撃対策 「経営陣主導」求める &nbsp;&nbsp; nikkinonline.com",
+      "id": "08d0adf87ec90cae",
+      "category": "メガバンク",
+      "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - xtech.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XN2QxaHU1TGU1TlcyNDk4a1FjWkhWd2laQ056bGUxSDdsY0NMbGJKQk5vWmhKTEowQVUxQ19MeU16bHctUmxGdHhSWHFYS05PN3RpWHl5MHBLQ21fLVg2R0tveDRZVUk?oc=5",
+      "source": "xtech.nikkei.com",
+      "published": "2026-08-16 15:58",
+      "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; xtech.nikkei.com",
       "tags": [
-        "その他",
-        "ガバナンス"
+        "メガバンク"
       ],
       "signals": [
-        "governance"
+        "megabank"
       ],
-      "importance": 47,
+      "importance": 49,
       "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 37.8,
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 38.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "nikkinonline.com"
+        "xtech.nikkei.com"
       ]
     }
   ]
