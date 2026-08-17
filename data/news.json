@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 06:13 JST",
+  "generated_at": "2026-08-17 12:48 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,35 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "7bd4fd6eb4c1732b",
+      "category": "地銀",
+      "title": "高性能AI対策検討の官民作業部会座長“地域金融機関を支援へ” - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vU2lteFNUQXotQ25oenpJMnp6djFzUnJ4YkE1ei1aUlpnVEdsM3hXLVREX2tjS0VVMjY1SGZVbHNXY0FHTlllT0I3eVo0dHhGTXh3cG9VVFl5QVpUUGkw?oc=5",
+      "source": "NHKニュース",
+      "published": "2026-08-17 07:19",
+      "summary": "高性能AI対策検討の官民作業部会座長“地域金融機関を支援へ” &nbsp;&nbsp; NHKニュース",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 5.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "NHKニュース"
+      ]
+    },
     {
       "id": "8e249290734224b9",
       "category": "その他",
@@ -29,7 +58,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 25.4,
+      "age_hours": 32.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
