@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 18:33 JST",
+  "generated_at": "2026-08-22 06:17 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,7 +30,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 5.0,
+      "age_hours": 16.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -58,7 +58,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 10.1,
+      "age_hours": 21.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -84,7 +84,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 12.5,
+      "age_hours": 24.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -112,7 +112,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.6,
+      "age_hours": 25.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -142,37 +142,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 30.9,
+      "age_hours": 42.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "PR TIMES"
-      ]
-    },
-    {
-      "id": "367db838a5b8e39b",
-      "category": "最新AI技術",
-      "title": "AvePoint Japan、 “見えないAIコスト”を可視化する新ソリューション「AvePoint AgentPulse」を提供開始 - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jc1dVdWFhUFlUalYxS2hGWlFxZkhiSVpaN1dWMEczTEZNZlQyZk9ka3ZWb19zQk8wclpGTjJVTFhIM2txQzM2b0t2M2RXVkpUZ2JXMmllMnJXOXpzNXNGamtzM1liVXVWM2pB?oc=5",
-      "source": "時事ドットコム",
-      "published": "2026-08-20 10:46",
-      "summary": "AvePoint Japan、 “見えないAIコスト”を可視化する新ソリューション「AvePoint AgentPulse」を提供開始 &nbsp;&nbsp; 時事ドットコム",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 31.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "時事ドットコム"
       ]
     },
     {
@@ -194,69 +168,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 35.6,
+      "age_hours": 47.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "nikkinonline.com"
-      ]
-    },
-    {
-      "id": "5ac9c05628a859ca",
-      "category": "最新AI技術",
-      "title": "日本のAIエージェント導入は遅れているのか 足踏みの理由と「慎重」戦略：Salesforce調査で判明 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RMnBEME1Ra19WNlU2aGswdmExelBCTEowbUZrVEJ0cEMtTWY2UktqRWV2ZUlKUDJXOFdCTGd2TkdPMGIwSG1LYWc1dHNUbEpYNUUwcjRJODg3Y1FUN0c5aGxydHBTd0I5M3dpTQ?oc=5",
-      "source": "ITmedia",
-      "published": "2026-08-20 05:00",
-      "summary": "日本のAIエージェント導入は遅れているのか 足踏みの理由と「慎重」戦略：Salesforce調査で判明 &nbsp;&nbsp; ITmedia",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 37.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ITmedia"
-      ]
-    },
-    {
-      "id": "9c29bc7c4cecbfe5",
-      "category": "メガバンク",
-      "title": "異業界からのメガバンク転職、企画職のニーズ後押しで採用拡大 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iczFHYnNkcW5mYjJUOFp0cjVkV1lGT2d1d2wxbDBXZXBxQnlYZ3g3bHBETHNWQXRIMTRHRW1iY2NZQUtqR3NwTmozQWxMblVEdkdnYUFpWHNhUFQ2NFpOcElzcF82NWV0eTN6WQ?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-08-20 04:37",
-      "summary": "異業界からのメガバンク転職、企画職のニーズ後押しで採用拡大 &nbsp;&nbsp; 日経クロステック",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 37.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経クロステック"
       ]
     }
   ]
