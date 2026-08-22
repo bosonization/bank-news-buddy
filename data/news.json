@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 06:17 JST",
+  "generated_at": "2026-08-22 12:39 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,7 +30,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 16.8,
+      "age_hours": 23.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -58,11 +58,41 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 21.8,
+      "age_hours": 28.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "株式会社エクサウィザーズ"
+      ]
+    },
+    {
+      "id": "66ab7afe30d53891",
+      "category": "最新AI技術",
+      "title": "企業のAIエージェント導入が3倍増加--投資対効果が明確に、顧客からも信頼 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uTC02eUs2YXRiOEpEaHNJLUw2SU1PWmpHaXg0aTBwcXhOS1NzU2s3ZWg3dnVYQUlLN21uWDI5bXpla0E5XzRkNVdHQW14VG1lb1kw?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-08-21 07:00",
+      "summary": "企業のAIエージェント導入が3倍増加--投資対効果が明確に、顧客からも信頼 &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 29.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
       ]
     },
     {
@@ -84,95 +114,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 24.3,
+      "age_hours": 30.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "デジタルクロス"
-      ]
-    },
-    {
-      "id": "d6c6529d463eb464",
-      "category": "メガバンク",
-      "title": "みずほ社内で始動した「AIパケ死」対策 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HdEtfZ1ZJeDFKdDVZTGgzWHJyNm5kanFyc3dlUjRWOF9FcGNVY2xQMmozS29fMm83dFUxYTVoNEdCYm5pUjBxc1BoUVZnSjhQSVRaZU5hNWdSV196dlMwWVBBQ0I2MENSNGc?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-08-21 05:00",
-      "summary": "みずほ社内で始動した「AIパケ死」対策 &nbsp;&nbsp; 日経クロステック",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 25.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経クロステック"
-      ]
-    },
-    {
-      "id": "d759c419f3048453",
-      "category": "最新AI技術",
-      "title": "売れるネット広告社グループ（9235）、一般社団法人日本情報技術協会とAI分野で戦略的パートナーシップを締結～AIエージェントと国際標準コードを活用、EC・広告・M&Aの高度化と企業価値向上へ～ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdHRnNHBzMS1tMHlIYlhmblF2U0tyODRTbEl6VndVNi1hMDN6ZlRxQlBuQ1ZISW9mUVhUaklFTWNzbllNZG1vQmJISW51cVBJNzZYdDBYYnV4MUY2RG9iSWthbVozZ3JxZ1E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-20 11:37",
-      "summary": "売れるネット広告社グループ（9235）、一般社団法人日本情報技術協会とAI分野で戦略的パートナーシップを締結～AIエージェントと国際標準コードを活用、EC・広告・M&amp;Aの高度化と企業価値向上へ～ &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 42.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
-      ]
-    },
-    {
-      "id": "478ae8883fa5f9ac",
-      "category": "地銀",
-      "title": "【PR】中小建設会社のAI・DX導入を成功に導く金融機関の役割 ニッキン主催のウェブ勉強会開催 - nikkinonline.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HckI1QTgtckRJY1FiaDlyUlZ5eUhieDdBMTdlTlRpUDZjeHU1UEwzLXJSRG9VMUVPSV9hcHFuWEhoelFwM1dfdm5GLWNtVVpyR0F0Vkpn?oc=5",
-      "source": "nikkinonline.com",
-      "published": "2026-08-20 07:00",
-      "summary": "【PR】中小建設会社のAI・DX導入を成功に導く金融機関の役割 ニッキン主催のウェブ勉強会開催 &nbsp;&nbsp; nikkinonline.com",
-      "tags": [
-        "地銀"
-      ],
-      "signals": [],
-      "importance": 43,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 47.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "nikkinonline.com"
       ]
     }
   ]
