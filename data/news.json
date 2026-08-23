@@ -1,10 +1,126 @@
 {
-  "generated_at": "2026-08-23 18:25 JST",
+  "generated_at": "2026-08-24 06:15 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": []
+  "items": [
+    {
+      "id": "fd1122371e26ddb0",
+      "category": "その他",
+      "title": "サイバー攻撃で悪用されるリスク、最先端の汎用モデル「フロンティアAI」 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8za3JBeFpCQzY3QmdFc1d2ZDdsenlRUlRsTm5rUk5ER3RoXzc5STFrTXNKY1FHT2EwX25NQzU5QUVFWXVwMEpRYi1hekZ5LWJBRkYybmM1UWVCUHdGVG5BbGRJaGVMMzFwdHEtOQ?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-08-24 05:00",
+      "summary": "サイバー攻撃で悪用されるリスク、最先端の汎用モデル「フロンティアAI」 &nbsp;&nbsp; 日経クロステック",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "cyber"
+      ],
+      "importance": 51,
+      "confidence": "低",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 1.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日経クロステック"
+      ]
+    },
+    {
+      "id": "0b2f091b65bcaa4f",
+      "category": "最新AI技術",
+      "title": "AI完全自律化はわずか9％ 日本は「進化に追い付けない経営陣」が足かせに：旧式のインフラがAI活用を阻む - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wbi1oWHdULW44SWFkRURPN2hqN3d3LXJiVlBOekNMazJGTkVDRkVFUS03cTZVeDBoMzV6b3dnSzZZMTg1N2lkV2FBeVhiaDYtdVd4SUt3WmF5eUZ3dEdjUWk4NkpaanFhalhWag?oc=5",
+      "source": "ITmedia",
+      "published": "2026-08-24 05:00",
+      "summary": "AI完全自律化はわずか9％ 日本は「進化に追い付けない経営陣」が足かせに：旧式のインフラがAI活用を阻む &nbsp;&nbsp; ITmedia",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 1.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ITmedia"
+      ]
+    },
+    {
+      "id": "209e368c53b127af",
+      "category": "地銀",
+      "title": "UntroD、関西拠点を開設。地域金融機関との連携を強化し、関西発ディープテック・イノベーションの創出を加速 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tS1k3bTNvYTU3ZnZxd2V2M0hUT1ozWnVZUEEtVElUNXVrS19rMjNnREJPR3o2eDNGMWVTb0hGckdxTDl0a1lwWVNhQUFIR1RIVkJ4aUxZVjE5SFU?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-08-23 22:59",
+      "summary": "UntroD、関西拠点を開設。地域金融機関との連携を強化し、関西発ディープテック・イノベーションの創出を加速 &nbsp;&nbsp; 朝日新聞",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 7.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "朝日新聞"
+      ]
+    },
+    {
+      "id": "da7a2469ba7d3354",
+      "category": "最新AI技術",
+      "title": "【AIエージェント時代】日本企業とエンジニアのこれから - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTnhxS1FGSHc2OEhDNmhiTzR3TjVHTWo5QmlDTnM2Q2RPUEhJOFZnbFR4MXVuSkpMbFNlUlBsY0k5MG9KTlJaSVV0RQ?oc=5",
+      "source": "thinkit.co.jp",
+      "published": "2026-08-22 11:01",
+      "summary": "【AIエージェント時代】日本企業とエンジニアのこれから &nbsp;&nbsp; thinkit.co.jp",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 43.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "thinkit.co.jp"
+      ]
+    }
+  ]
 }
