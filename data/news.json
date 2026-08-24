@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 18:44 JST",
+  "generated_at": "2026-08-25 06:22 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -13,7 +13,7 @@
       "title": "金融庁、27年度予算要求は過去最大400億円 中小企業支援とAI安保対策を拡充 - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wcXpDNWVLTklpaHNjcVhRc0xjbURGV2ctUzRFNjNQdmtOMzNMREwwWGVOeDdrQkVtR1lZc0Y4MUZCX29YUXZGZjAyZ0h4OGJhdXFkVmlhTEg1OW56eUVma2lINTZDUEdwWVFhYTJWYjBIQVZ6?oc=5",
       "source": "BigGo ファイナンス",
-      "published": "2026-08-24 14:40",
+      "published": "2026-08-24 14:35",
       "summary": "金融庁、27年度予算要求は過去最大400億円 中小企業支援とAI安保対策を拡充 &nbsp;&nbsp; BigGo ファイナンス",
       "tags": [
         "地銀",
@@ -32,7 +32,7 @@
       "question": "法人営業で、面談前の企業理解や提案準備にもっと時間を使えると効果が出そうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 4.1,
+      "age_hours": 15.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -40,13 +40,13 @@
       ]
     },
     {
-      "id": "0f3accb92402b79e",
+      "id": "59bed377a39224d5",
       "category": "最新AI技術",
-      "title": "日立の社員が、初代Agentic AI Foundationアンバサダーに就任し、日本初開催「AGNTCon + MCPCon Japan 2026」でキーノート登壇 - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41YXRRd3JhcEludTQxU3VQYWxwNkN5allhZkVQM3FkUDR5MWhId0VUMHdmRDBSRnFHamJjaXdMY1BxMDJVVktZVEpKZTBfQkxiWUxmSUtxbVRVV1JYc3p5b3Z0bWJHSnpTampB?oc=5",
-      "source": "時事ドットコム",
-      "published": "2026-08-24 11:46",
-      "summary": "日立の社員が、初代Agentic AI Foundationアンバサダーに就任し、日本初開催「AGNTCon + MCPCon Japan 2026」でキーノート登壇 &nbsp;&nbsp; 時事ドットコム",
+      "title": "日立の社員が、初代Agentic AI Foundationアンバサダーに就任し、日本初開催「AGNTCon + MCPCon Japan 2026」でキーノート登壇 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iQWZ1SlN6SGxBTnZHNWROZWFvcHhtYjhKMG5WVlZ6ZVJFR0M1Z1lieHVVSHk1bEJqaU1pcWl2elpVWlFid0dESzd1SDE0RTJYNlF5MXNfS2xHeGxrdmptdHBOam96OHZPbFE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-24 11:00",
+      "summary": "日立の社員が、初代Agentic AI Foundationアンバサダーに就任し、日本初開催「AGNTCon + MCPCon Japan 2026」でキーノート登壇 &nbsp;&nbsp; PR TIMES",
       "tags": [
         "最新AI技術"
       ],
@@ -58,11 +58,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 7.0,
+      "age_hours": 19.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "時事ドットコム"
+        "PR TIMES"
       ]
     },
     {
@@ -88,11 +88,37 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 13.7,
+      "age_hours": 25.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日経クロステック"
+      ]
+    },
+    {
+      "id": "0b2f091b65bcaa4f",
+      "category": "最新AI技術",
+      "title": "AI完全自律化はわずか9％ 日本は「進化に追い付けない経営陣」が足かせに：旧式のインフラがAI活用を阻む - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wbi1oWHdULW44SWFkRURPN2hqN3d3LXJiVlBOekNMazJGTkVDRkVFUS03cTZVeDBoMzV6b3dnSzZZMTg1N2lkV2FBeVhiaDYtdVd4SUt3WmF5eUZ3dEdjUWk4NkpaanFhalhWag?oc=5",
+      "source": "ITmedia",
+      "published": "2026-08-24 05:00",
+      "summary": "AI完全自律化はわずか9％ 日本は「進化に追い付けない経営陣」が足かせに：旧式のインフラがAI活用を阻む &nbsp;&nbsp; ITmedia",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 25.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ITmedia"
       ]
     },
     {
@@ -117,69 +143,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 19.8,
+      "age_hours": 31.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "朝日新聞"
-      ]
-    },
-    {
-      "id": "f582c64e3387464e",
-      "category": "メガバンク",
-      "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XN2QxaHU1TGU1TlcyNDk4a1FjWkhWd2laQ056bGUxSDdsY0NMbGJKQk5vWmhKTEowQVUxQ19MeU16bHctUmxGdHhSWHFYS05PN3RpWHl5MHBLQ21fLVg2R0tveDRZVUk?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-08-22 21:55",
-      "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; 日経クロステック",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 44.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日経クロステック"
-      ]
-    },
-    {
-      "id": "b450e916b7156dad",
-      "category": "最新AI技術",
-      "title": "日経225企業の87%がAIエージェントを導入！日本マイクロソフトが国内での急拡大と活用事例を公表 - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWWW12SGdJYkxDMWlKUkRTanRNMVFDNnpsdy1uN1oxTElZTVN4VUdaTVlNd0sxVURucEtjamZFMlk2T3lscW84RTZ3TWE?oc=5",
-      "source": "DXマガジン",
-      "published": "2026-08-22 19:29",
-      "summary": "日経225企業の87%がAIエージェントを導入！日本マイクロソフトが国内での急拡大と活用事例を公表 &nbsp;&nbsp; DXマガジン",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 47.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "DXマガジン"
       ]
     }
   ]
