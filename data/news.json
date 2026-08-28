@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 23:54 JST",
+  "generated_at": "2026-08-29 05:41 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,7 +26,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 9.9,
+      "age_hours": 15.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -34,13 +34,13 @@
       ]
     },
     {
-      "id": "1a196642a022d5fd",
+      "id": "1ee0749039bfe63c",
       "category": "最新AI技術",
-      "title": "生成AIの導入は8割超、AIエージェントの本格活用は13.3％。Asanaが日本企業のAI活用の実態を調査 - CodeZine",
+      "title": "生成AIの導入は8割超、AIエージェントの本格活用は13.3％。Asanaが日本企業のAI活用の実態を調査|ProductZine - CodeZine",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BX3dadTN4cnFuUDB5eFl5VkM1WHBqREswS3dnemp0TWlNOS04bjdpeERZS1lqZ0pwT09RQjM4WFQ3MjlsT20tYms0MlRfQQ?oc=5",
       "source": "CodeZine",
       "published": "2026-08-28 12:45",
-      "summary": "生成AIの導入は8割超、AIエージェントの本格活用は13.3％。Asanaが日本企業のAI活用の実態を調査 &nbsp;&nbsp; CodeZine",
+      "summary": "生成AIの導入は8割超、AIエージェントの本格活用は13.3％。Asanaが日本企業のAI活用の実態を調査|ProductZine &nbsp;&nbsp; CodeZine",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -56,7 +56,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 11.2,
+      "age_hours": 16.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -64,12 +64,12 @@
       ]
     },
     {
-      "id": "dc9b2e07d3b6eda1",
+      "id": "b4835ceb4d44a6ec",
       "category": "NTTデータ",
       "title": "NTTデータ、金融向け共同利用型AI基盤 挙動監視・データ統合 - 日刊工業新聞",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yTjJDRG1wU3g0eUNVTFdBMVZqaHN6dWNtbkFhbE5ObFV1UWdqUG9NQzZIQy1mbjJEM2ZxaG5nNWlZU1VqLTI1bG85OXNsVlF5WTVGUTh2VWM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuUVZNWThpOFZvTkN3VlJSTGJnWDJmQnllS0EwWm1ON2dPTmVncXBSVVZTVUtuWnJPamZydnZnalo0NVV0ZS1TeWdvWV9wanlHenZnZGFCd2VTdjR3ZjRDVklOMklkUGNzVFBXSFNnUQ?oc=5",
       "source": "日刊工業新聞",
-      "published": "2026-08-28 11:11",
+      "published": "2026-08-28 03:07",
       "summary": "NTTデータ、金融向け共同利用型AI基盤 挙動監視・データ統合 &nbsp;&nbsp; 日刊工業新聞",
       "tags": [
         "NTTデータ"
@@ -84,7 +84,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 12.7,
+      "age_hours": 26.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -112,7 +112,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 24.3,
+      "age_hours": 30.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -143,7 +143,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 25.1,
+      "age_hours": 30.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -169,7 +169,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 25.3,
+      "age_hours": 31.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -197,7 +197,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 27.3,
+      "age_hours": 33.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -225,7 +225,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 30.4,
+      "age_hours": 36.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -255,74 +255,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 31.5,
+      "age_hours": 37.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "thinkit.co.jp"
-      ]
-    },
-    {
-      "id": "c4563482536af5b8",
-      "category": "メガバンク",
-      "title": "みずほ、中小向けに総合金融 AIでカード与信 - 日刊工業新聞",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16Mm5lZUsybEd3WU9DRWgwSk5PM2tHbGVXTlpYbUZCVTE0cnBaMEcwNk1FOHN2N0dGZEU4SlpzRmVya0ZsYjdQbllhM3h6M09neElZVnpZd0hidVh6eXJVcEhwMkVOY3pEM0N5TnFucw?oc=5",
-      "source": "日刊工業新聞",
-      "published": "2026-08-27 04:54",
-      "summary": "みずほ、中小向けに総合金融 AIでカード与信 &nbsp;&nbsp; 日刊工業新聞",
-      "tags": [
-        "メガバンク",
-        "融資",
-        "法人営業"
-      ],
-      "signals": [
-        "megabank",
-        "lending"
-      ],
-      "importance": 62,
-      "confidence": "中",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 43.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日刊工業新聞"
-      ]
-    },
-    {
-      "id": "a701e26c2bf73bc1",
-      "category": "その他",
-      "title": "金融庁、大手行にサイバー監視強化を要請 データ連携先にも拡大 - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10LVlmQ2Q2SlR3SExDblF2NlRBLWMxaGVyTU1uOEtNVkt0eUFJZXJ3cEFZZHo3em15dHNUTkU0OURmY1ZkejBfQXZSV19leV9XTGZnc2Z3cjJpQlRndlByb2tJaVRmOTNRamxJNw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-27 02:00",
-      "summary": "金融庁、大手行にサイバー監視強化を要請 データ連携先にも拡大 &nbsp;&nbsp; 日本経済新聞",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
-      ],
-      "signals": [
-        "cyber",
-        "governance"
-      ],
-      "importance": 63,
-      "confidence": "中",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 45.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日本経済新聞"
       ]
     }
   ]
