@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31 08:03 JST",
+  "generated_at": "2026-08-31 18:20 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,114 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "6f77d3e53328f784",
+      "category": "メガバンク",
+      "title": "金融ニッポン2026 大転換期の金融 AIが迫る変革 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VmlDOE5hT0p1bU8zZWV6eHpuNlFNZDFseEFYM3ZIRzhfSzJJT1U0X2pnZ1BLTzJ2dTVxUkRVaEhMQ2VIXzlOdEN4LUpuODZvaTZHNW5Eckw2dw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-31 17:41",
+      "summary": "金融ニッポン2026 大転換期の金融 AIが迫る変革 &nbsp;&nbsp; 日本経済新聞",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 0.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日本経済新聞"
+      ]
+    },
+    {
+      "id": "d9b8b0e1af2fa5b2",
+      "category": "NTTデータ",
+      "title": "投資・資産運用の経験者は4割強、金融機関の使い分けと一元管理ニーズも明らかに - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tQUo1Nlh1M3JoU3pMT0NoRzNDdmpzbktvekdKOTBLcmwyem8xYmxROHFEdFpJUVBrc0tvSm12ZDZMSXkzOEdGcEhBVFF2S2h1MDNLOHF4bmNGcWhycjY2NUpIYnZGRXRpWlE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-31 15:00",
+      "summary": "投資・資産運用の経験者は4割強、金融機関の使い分けと一元管理ニーズも明らかに &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "NTTデータ"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "343bb1ca02b012b9",
+      "category": "最新AI技術",
+      "title": "QUICK、証券営業向け情報端末「Qr1」にAI新機能を搭載 - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jeHowdFNsTW5MQVBkRG1YMnd2ZWVUYThlRWNFb1J3ZFF5aUVIYTFWR2N5SFMwdUNGX0pHS1NYUWpod2lYWFAySk1feGxjV3hfamptR0d3TlpBM1lsQ3otMU1WYktON3gyS0ptSTRBclU2ZUdEemRlR3Bn?oc=5",
+      "source": "イザ！",
+      "published": "2026-08-31 15:00",
+      "summary": "QUICK、証券営業向け情報端末「Qr1」にAI新機能を搭載 &nbsp;&nbsp; イザ！",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "イザ！"
+      ]
+    },
+    {
+      "id": "3753cb7c16dc15b8",
+      "category": "最新AI技術",
+      "title": "AIエージェントを「業務を実行する存在」へ──日本初開催「AGNTCon + MCPCon Japan」で企業実装を議論 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vc3pqVHRITnVZaEp3eE5UTWNJRUJqYnlBdHdKS0s4bUFDZXA0akRVZmROQ3F1UmtqT29xTlJwUmZ0QjBIU1JyaWtCS3RRU3RXTjJSY2x4ckM4ZElFaUx3bzR0LXlvSkx1dWc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-31 13:10",
+      "summary": "AIエージェントを「業務を実行する存在」へ──日本初開催「AGNTCon + MCPCon Japan」で企業実装を議論 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 5.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
     {
       "id": "e75b17661129f7a4",
       "category": "メガバンク",
@@ -28,7 +136,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 29.2,
+      "age_hours": 39.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
