@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03 16:47 JST",
+  "generated_at": "2026-09-03 22:14 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "dbf33bc875be76d9",
+      "id": "f0e08239921dca21",
       "category": "最新AI技術",
-      "title": "ＴＯＭＡコンサルタンツグループ、JAPAN AI導入でAI活用を全社推進 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iZ01QWFJSdl8xZEtEN3VGNy1qZmR5R0hCV2ZCQjRGTmZmY096QnZSOE9xOFZKbFhWaWktQ0VQTXFoSDVDTVJuM3c4NDhsdFE?oc=5",
-      "source": "Newscast.jp",
-      "published": "2026-09-03 13:00",
-      "summary": "ＴＯＭＡコンサルタンツグループ、JAPAN AI導入でAI活用を全社推進 &nbsp;&nbsp; Newscast.jp",
+      "title": "ＴＯＭＡコンサルタンツグループ、JAPAN AI導入でAI活用を全社推進 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14R2hPeGFPLUpxRHJBNldxTktkeUJyd1MzTzN6b3FydmRNRkVza0Q1dWlNamNkOG5fQjVtU01JdUp4SHA2UnVOaVVKZUJlYlVZNXg5b0ZLSFpPNU5UTnRUbFBieXhBZTBxeVFZSExBc29vSmN5b3RiLUdRcw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-09-03 21:45",
+      "summary": "ＴＯＭＡコンサルタンツグループ、JAPAN AI導入でAI活用を全社推進 &nbsp;&nbsp; ニコニコニュース",
       "tags": [
         "最新AI技術"
       ],
@@ -26,33 +26,37 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 3.8,
+      "age_hours": 0.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "Newscast.jp"
+        "ニコニコニュース"
       ]
     },
     {
-      "id": "22d9bde95088aee2",
-      "category": "地銀",
-      "title": "紀陽銀行、Helpfeel導入により組織のAI-Ready化を推進 年間4,400時間の電話問い合わせ業務削減を達成 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GZGtOVFhRUDBPNVhPVGt6dVQ5OTVsNEdFRVA1V3pKbXhBSldvalIzSzl5eDNDQlo2c29Wa1JXdkppQVYzMXlYMzUtWmZ0djhIZXd0TURYV01GaFVFYVhHYzBuaFBhWmtDN3c?oc=5",
+      "id": "fd6a8fb06916febb",
+      "category": "最新AI技術",
+      "title": "NEC、ツルハホールディングスとAIエージェントを活用して適正在庫運用に向けた検証を実施 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tSUVNbFNfb2pOcWwwMXhjcWhJQUtReEVvN3JiWjdrSENQLVZWT0ZEWjlPNVY2U0JlajB3NzQ2WHdjMmFIbWhHQ2drNk1MOE9JalJBdldyR3BxaldhdlJoVDVKVnBsU0lNS1E?oc=5",
       "source": "PR TIMES",
-      "published": "2026-09-02 10:00",
-      "summary": "紀陽銀行、Helpfeel導入により組織のAI-Ready化を推進 年間4,400時間の電話問い合わせ業務削減を達成 &nbsp;&nbsp; PR TIMES",
+      "published": "2026-09-03 11:00",
+      "summary": "NEC、ツルハホールディングスとAIエージェントを活用して適正在庫運用に向けた検証を実施 &nbsp;&nbsp; PR TIMES",
       "tags": [
-        "地銀"
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
       ],
-      "signals": [],
-      "importance": 43,
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
       "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 30.8,
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 11.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
