@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03 07:56 JST",
+  "generated_at": "2026-09-03 16:47 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,57 +8,29 @@
   },
   "items": [
     {
-      "id": "8f4c0d646a1404f3",
-      "category": "メガバンク",
-      "title": "【三菱UFJ銀行】国際的な金融機関グループによる米ドル建てステーブルコイン事業体の設立について - グッドウェイ",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1nS1I1VjljdGltZkk3NGNyMVVZQWVwcWItSkhYanRYdGpqcFhfVXFybG42dXJEa25TdWw1dkwtb1dhS1pLSTRB?oc=5",
-      "source": "グッドウェイ",
-      "published": "2026-09-02 15:48",
-      "summary": "【三菱UFJ銀行】国際的な金融機関グループによる米ドル建てステーブルコイン事業体の設立について &nbsp;&nbsp; グッドウェイ",
+      "id": "dbf33bc875be76d9",
+      "category": "最新AI技術",
+      "title": "ＴＯＭＡコンサルタンツグループ、JAPAN AI導入でAI活用を全社推進 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iZ01QWFJSdl8xZEtEN3VGNy1qZmR5R0hCV2ZCQjRGTmZmY096QnZSOE9xOFZKbFhWaWktQ0VQTXFoSDVDTVJuM3c4NDhsdFE?oc=5",
+      "source": "Newscast.jp",
+      "published": "2026-09-03 13:00",
+      "summary": "ＴＯＭＡコンサルタンツグループ、JAPAN AI導入でAI活用を全社推進 &nbsp;&nbsp; Newscast.jp",
       "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 16.1,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "グッドウェイ"
-      ]
-    },
-    {
-      "id": "898ad32392020847",
-      "category": "地銀",
-      "title": "セイコーソリューションズの「電子交付サービス」を北日本銀行が採用 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ac1o4c2F4V0JzVGVxQlBtVWNaYUlKcE1Tc2VDUEJOakVtS3dZdTQzUlFGanFOSUZXbHVrOVMyYUp3X3lmc0JqU1ZLUWVCenlwdXVXR212TlFLTHZUSC1SSVl2eDYzak03?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-09-02 10:21",
-      "summary": "セイコーソリューションズの「電子交付サービス」を北日本銀行が採用 &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "地銀"
+        "最新AI技術"
       ],
       "signals": [],
-      "importance": 43,
+      "importance": 35,
       "confidence": "低",
       "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
       "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 21.6,
+      "age_hours": 3.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ニコニコニュース"
+        "Newscast.jp"
       ]
     },
     {
@@ -80,125 +52,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 21.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
-      ]
-    },
-    {
-      "id": "891bcdd259377678",
-      "category": "その他",
-      "title": "FSB議長、フロンティアAIのサイバーリスクを「金融システムへの最も差し迫った懸念」と警告 日本でも金融庁・日銀が対策を加速 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa05Qb1JHLTFJRDhBbUZaSkhZUDNWZng3c2xyVkpmdGkxdldyTGprQmVIQlVPdm9yN3lIZHUtVEtrUDdncHluTzFUd005QW1walM5ODIxZ1g5bXRKaVlBXzBKTGpBTzk3VEtkQ3lSVFFQNGs1N1ZjQzctVXFXN1hHUy01eFVJSGdDZ0NRREtGMA?oc=5",
-      "source": "合同会社ロケットボーイズ",
-      "published": "2026-09-02 05:00",
-      "summary": "FSB議長、フロンティアAIのサイバーリスクを「金融システムへの最も差し迫った懸念」と警告 日本でも金融庁・日銀が対策を加速 &nbsp;&nbsp; 合同会社ロケットボーイズ",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
-      ],
-      "signals": [
-        "cyber",
-        "governance"
-      ],
-      "importance": 63,
-      "confidence": "中",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 26.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "合同会社ロケットボーイズ"
-      ]
-    },
-    {
-      "id": "047bb2108fac0d79",
-      "category": "メガバンク",
-      "title": "AI-Native金融プラットフォームへ生まれ変わる。〈みずほ〉が挑む全社AI変革（MIZUHO DX） - mizuho-fg.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ea0ljTmd3TnhXUFkyNlAtVTRuWWtvdjFSQ1ZrS3ZsMnllaGFQUUpqUGdZbUo0OW5YcG5DRnNSYnVsQm1aZGxwcnZHbmRBN1BJSkZUZ0NSSmQ5UC0yVFUwcHpaY1pBUDZZMjdCUG5DTlFVdVdFcXM4YXhDd3M?oc=5",
-      "source": "mizuho-fg.co.jp",
-      "published": "2026-09-01 17:31",
-      "summary": "AI-Native金融プラットフォームへ生まれ変わる。〈みずほ〉が挑む全社AI変革（MIZUHO DX） &nbsp;&nbsp; mizuho-fg.co.jp",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 38.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "mizuho-fg.co.jp"
-      ]
-    },
-    {
-      "id": "df3219edcfb406cb",
-      "category": "メガバンク",
-      "title": "メガバンク3行 オープンAI最新モデル利用へ 日本企業で初 オープンAIの「GPT5.5」(2026年5月30日) Pauline Astier (N0XNI1564n) - Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQX3BSS3JJa1lyekJCMDI3SnZCMWNia0ZFNUlFZ0pzZ3FWal9NSFk4Tk5hQTJqelRpREJxZXRubngzSy1EN1FhZ09EZ2xGVU1GeUxlV3ZxcTluR2c?oc=5",
-      "source": "Mshale",
-      "published": "2026-09-01 12:02",
-      "summary": "メガバンク3行 オープンAI最新モデル利用へ 日本企業で初 オープンAIの「GPT5.5」(2026年5月30日) Pauline Astier (N0XNI1564n) &nbsp;&nbsp; Mshale",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 43.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Mshale"
-      ]
-    },
-    {
-      "id": "59ac2d5e09c7cac7",
-      "category": "最新AI技術",
-      "title": "JAPAN AI、CONOCと共同開発した建設業向けAIエージェント2種を提供開始 | JAPAN AI株式会社のプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lTFRtM0VSWk0xblh5SEVTejhQYVV3MkdUQktLc3hyUDRUM3Fmc25EbUl4OWhLQ2RQU0kxak1LSER2Rm9meGt1dm83UDlOcXlTVV9WNFR1bVo1ZV8xeHBJdFJFanVSRGEzd1E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-01 11:30",
-      "summary": "JAPAN AI、CONOCと共同開発した建設業向けAIエージェント2種を提供開始 | JAPAN AI株式会社のプレスリリース &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 44.4,
+      "age_hours": 30.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
