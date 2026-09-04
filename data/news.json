@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04 16:43 JST",
+  "generated_at": "2026-09-04 22:09 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,32 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "65d1f573d97cf3c4",
+      "category": "地銀",
+      "title": "【お知らせ】FIT大阪2026閉幕 2日間で4325人が来場 - nikkinonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jNW5RY1ZPeDlTZ18zNFFlZlV4U21naUJLaUswYjUwa0NDYy04dDk2bTRrNnBfUFNPcWg2T0hZY1FZd0hldVBlR2JQa19VVjBRUFgtZzB3?oc=5",
+      "source": "nikkinonline.com",
+      "published": "2026-09-04 18:36",
+      "summary": "【お知らせ】FIT大阪2026閉幕 2日間で4325人が来場 &nbsp;&nbsp; nikkinonline.com",
+      "tags": [
+        "地銀"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "nikkinonline.com"
+      ]
+    },
     {
       "id": "20fea73724b476db",
       "category": "最新AI技術",
@@ -30,7 +56,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 5.7,
+      "age_hours": 11.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -56,7 +82,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 5.7,
+      "age_hours": 11.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -82,7 +108,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 33.7,
+      "age_hours": 39.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -112,37 +138,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 36.3,
+      "age_hours": 41.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "thinkit.co.jp"
-      ]
-    },
-    {
-      "id": "88bd6590137e764b",
-      "category": "最新AI技術",
-      "title": "【解説】なぜ日本企業はAIの活用に消極的なのか - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56NC12OGtDQUVDTms0QXcwY2ZlNllCZGxnZzAzV2ROM3l2NGt2eXMyQnZZWHRvYXNFNFpwUmhfV3lGREpFV041TUJOSFBOYWpCWE80SWtMc1ItNFRTRzBN0gFkQVVfeXFMTnVzQWFLT0Z0NWc2djMzcjdOY0E1blNMeDJpN3FmUHUzZm5XZlI3VGNTV2UxeFFOZ0NHMXNaMGhmekFST2RWMDhWVHFVdUk3RDlYenZvVVEtODVoUV9ycVNsaUpwTg?oc=5",
-      "source": "BBC",
-      "published": "2026-09-02 17:24",
-      "summary": "【解説】なぜ日本企業はAIの活用に消極的なのか &nbsp;&nbsp; BBC",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 47.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "BBC"
       ]
     }
   ]
