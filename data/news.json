@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06 16:38 JST",
+  "generated_at": "2026-09-06 21:37 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "08d0adf87ec90cae",
+      "id": "f582c64e3387464e",
       "category": "メガバンク",
-      "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - xtech.nikkei.com",
+      "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - 日経クロステック",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XN2QxaHU1TGU1TlcyNDk4a1FjWkhWd2laQ056bGUxSDdsY0NMbGJKQk5vWmhKTEowQVUxQ19MeU16bHctUmxGdHhSWHFYS05PN3RpWHl5MHBLQ21fLVg2R0tveDRZVUk?oc=5",
-      "source": "xtech.nikkei.com",
+      "source": "日経クロステック",
       "published": "2026-09-05 01:53",
-      "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; xtech.nikkei.com",
+      "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; 日経クロステック",
       "tags": [
         "メガバンク"
       ],
@@ -28,37 +28,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 38.8,
+      "age_hours": 43.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "xtech.nikkei.com"
-      ]
-    },
-    {
-      "id": "65d1f573d97cf3c4",
-      "category": "地銀",
-      "title": "【お知らせ】FIT大阪2026閉幕 2日間で4325人が来場 - nikkinonline.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jNW5RY1ZPeDlTZ18zNFFlZlV4U21naUJLaUswYjUwa0NDYy04dDk2bTRrNnBfUFNPcWg2T0hZY1FZd0hldVBlR2JQa19VVjBRUFgtZzB3?oc=5",
-      "source": "nikkinonline.com",
-      "published": "2026-09-04 18:36",
-      "summary": "【お知らせ】FIT大阪2026閉幕 2日間で4325人が来場 &nbsp;&nbsp; nikkinonline.com",
-      "tags": [
-        "地銀"
-      ],
-      "signals": [],
-      "importance": 43,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 46.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "nikkinonline.com"
+        "日経クロステック"
       ]
     }
   ]
