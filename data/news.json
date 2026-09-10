@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10 22:19 JST",
+  "generated_at": "2026-09-11 07:53 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,12 +8,12 @@
   },
   "items": [
     {
-      "id": "15a2764265876172",
+      "id": "4c98afa665b50d58",
       "category": "最新AI技術",
       "title": "LangGenius、パーソルクロステクノロジー、JTPの3社、Difyエンジニア100名の育成と伴走支援を通じて企業 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Wcm1TTUJUMDVzd2xwN2REaWg1YVJIbjNpMGRENU9BdHpBeU1YYjRWcXpBOEpqeW9pRm4tY0dQRklXODZfcm1zaURXTFkyc0VHYldkM0EwZk5pMzFVU2V6dlc1SVR1d0Ji?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlQURRLXhCSUdacm5aQ1N5R2xnZEs4eUpiYzJJMWE1NlN4eER2Mk9TYm5CLUYyTVFGSVRTS2ZhYmlzSVVKdHRBaTJTcnVFUmVUYU1HektkeEJHc2hTbXpfeERFZzhnWG9uTmwxeVgxaW04R3NyRlE?oc=5",
       "source": "ニコニコニュース",
-      "published": "2026-09-10 16:03",
+      "published": "2026-09-11 04:00",
       "summary": "LangGenius、パーソルクロステクノロジー、JTPの3社、Difyエンジニア100名の育成と伴走支援を通じて企業 &nbsp;&nbsp; ニコニコニュース",
       "tags": [
         "最新AI技術"
@@ -26,7 +26,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 6.3,
+      "age_hours": 3.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -56,7 +56,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 9.7,
+      "age_hours": 19.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -64,13 +64,13 @@
       ]
     },
     {
-      "id": "d0b1009f0371e8d4",
+      "id": "f01a8f0bec9ac65b",
       "category": "最新AI技術",
-      "title": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 - PR TIMES",
+      "title": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 - prtimes.jp",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0czUyM2VvUm1NclRjZ2NkYkdrdFc5MERid2pYdE5RUFRxUGw2YmtTVzNwVWJRb290WnVhTjR0dGlMVTZEcEpGREplcG1pVnJ3NXdXbndJa080RkxEYjdNOTNzMnlPUEgxWXc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "published": "2026-09-10 11:00",
-      "summary": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 &nbsp;&nbsp; PR TIMES",
+      "summary": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 &nbsp;&nbsp; prtimes.jp",
       "tags": [
         "最新AI技術"
       ],
@@ -82,43 +82,40 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 11.3,
+      "age_hours": 20.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "PR TIMES"
+        "prtimes.jp"
       ]
     },
     {
-      "id": "ee9f0330a661de25",
+      "id": "e17ceac01e9e0c47",
       "category": "その他",
-      "title": "ダークウェブ漏洩認証情報、対策急務か 金融庁も警鐘、AI脅威増大で - サイバーセキュリティメディア",
+      "title": "ダークウェブ漏洩認証情報、対策急務か 金融庁も警鐘、AI脅威増大で - ccsi.jp",
       "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE8xOFQwZ2w5aXl0bTFWOGhBZER3Q1E2S2xIdlQ3YzZDY056eS1hS2JmcGlUb09ndEV2cmc?oc=5",
-      "source": "サイバーセキュリティメディア",
+      "source": "ccsi.jp",
       "published": "2026-09-10 10:15",
-      "summary": "ダークウェブ漏洩認証情報、対策急務か 金融庁も警鐘、AI脅威増大で &nbsp;&nbsp; サイバーセキュリティメディア",
+      "summary": "ダークウェブ漏洩認証情報、対策急務か 金融庁も警鐘、AI脅威増大で &nbsp;&nbsp; ccsi.jp",
       "tags": [
         "その他",
-        "サイバー",
-        "リスク管理",
         "ガバナンス"
       ],
       "signals": [
-        "cyber",
         "governance"
       ],
-      "importance": 63,
-      "confidence": "中",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 12.1,
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 21.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "サイバーセキュリティメディア"
+        "ccsi.jp"
       ]
     },
     {
@@ -144,7 +141,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 12.3,
+      "age_hours": 21.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -152,13 +149,41 @@
       ]
     },
     {
-      "id": "19d0d6b769e065bf",
+      "id": "f582c64e3387464e",
+      "category": "メガバンク",
+      "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XN2QxaHU1TGU1TlcyNDk4a1FjWkhWd2laQ056bGUxSDdsY0NMbGJKQk5vWmhKTEowQVUxQ19MeU16bHctUmxGdHhSWHFYS05PN3RpWHl5MHBLQ21fLVg2R0tveDRZVUk?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-09-09 12:43",
+      "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; 日経クロステック",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 43.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日経クロステック"
+      ]
+    },
+    {
+      "id": "4df334ca22a3524c",
       "category": "NTTデータ",
-      "title": "NTTデータNCBとNTTデータコーテック、福岡市にAIを活用した開発センター開設 - weeklybcn.com",
+      "title": "NTTデータNCBとNTTデータコーテック、福岡市にAIを活用した開発センター開設 - 週刊BCN＋",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4R2Z3ZXJEaWdRb3RtVnQ5OGJ5eXhKaUhKMWtFcGRwYlJuOFJhUWtOUGdIUUNnLU9xV0V6S0lKb2s5M0E3RlN5dFpwdkxtRUM5eW9COENkZ04xYXRSMzBMRHlGNmV0cUpsaEs5V1hjTnRGUklf?oc=5",
-      "source": "weeklybcn.com",
+      "source": "週刊BCN＋",
       "published": "2026-09-09 12:00",
-      "summary": "NTTデータNCBとNTTデータコーテック、福岡市にAIを活用した開発センター開設 &nbsp;&nbsp; weeklybcn.com",
+      "summary": "NTTデータNCBとNTTデータコーテック、福岡市にAIを活用した開発センター開設 &nbsp;&nbsp; 週刊BCN＋",
       "tags": [
         "NTTデータ"
       ],
@@ -172,11 +197,11 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 34.3,
+      "age_hours": 43.9,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
-        "weeklybcn.com",
+        "週刊BCN＋",
         "Infoseek"
       ]
     },
@@ -199,7 +224,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 34.8,
+      "age_hours": 44.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -229,7 +254,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 37.7,
+      "age_hours": 47.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
