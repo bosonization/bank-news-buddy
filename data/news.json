@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10 16:52 JST",
+  "generated_at": "2026-09-10 22:19 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,32 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "15a2764265876172",
+      "category": "最新AI技術",
+      "title": "LangGenius、パーソルクロステクノロジー、JTPの3社、Difyエンジニア100名の育成と伴走支援を通じて企業 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Wcm1TTUJUMDVzd2xwN2REaWg1YVJIbjNpMGRENU9BdHpBeU1YYjRWcXpBOEpqeW9pRm4tY0dQRklXODZfcm1zaURXTFkyc0VHYldkM0EwZk5pMzFVU2V6dlc1SVR1d0Ji?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-09-10 16:03",
+      "summary": "LangGenius、パーソルクロステクノロジー、JTPの3社、Difyエンジニア100名の育成と伴走支援を通じて企業 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 6.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
     {
       "id": "5dce3daabc4db51b",
       "category": "最新AI技術",
@@ -30,7 +56,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 4.3,
+      "age_hours": 9.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -38,32 +64,61 @@
       ]
     },
     {
-      "id": "e17ceac01e9e0c47",
-      "category": "その他",
-      "title": "ダークウェブ漏洩認証情報、対策急務か 金融庁も警鐘、AI脅威増大で - ccsi.jp",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE8xOFQwZ2w5aXl0bTFWOGhBZER3Q1E2S2xIdlQ3YzZDY056eS1hS2JmcGlUb09ndEV2cmc?oc=5",
-      "source": "ccsi.jp",
-      "published": "2026-09-10 10:15",
-      "summary": "ダークウェブ漏洩認証情報、対策急務か 金融庁も警鐘、AI脅威増大で &nbsp;&nbsp; ccsi.jp",
+      "id": "d0b1009f0371e8d4",
+      "category": "最新AI技術",
+      "title": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0czUyM2VvUm1NclRjZ2NkYkdrdFc5MERid2pYdE5RUFRxUGw2YmtTVzNwVWJRb290WnVhTjR0dGlMVTZEcEpGREplcG1pVnJ3NXdXbndJa080RkxEYjdNOTNzMnlPUEgxWXc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-10 11:00",
+      "summary": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 &nbsp;&nbsp; PR TIMES",
       "tags": [
-        "その他",
-        "ガバナンス"
+        "最新AI技術"
       ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
+      "signals": [],
+      "importance": 35,
       "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 6.6,
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 11.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ccsi.jp"
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "ee9f0330a661de25",
+      "category": "その他",
+      "title": "ダークウェブ漏洩認証情報、対策急務か 金融庁も警鐘、AI脅威増大で - サイバーセキュリティメディア",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE8xOFQwZ2w5aXl0bTFWOGhBZER3Q1E2S2xIdlQ3YzZDY056eS1hS2JmcGlUb09ndEV2cmc?oc=5",
+      "source": "サイバーセキュリティメディア",
+      "published": "2026-09-10 10:15",
+      "summary": "ダークウェブ漏洩認証情報、対策急務か 金融庁も警鐘、AI脅威増大で &nbsp;&nbsp; サイバーセキュリティメディア",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理",
+        "ガバナンス"
+      ],
+      "signals": [
+        "cyber",
+        "governance"
+      ],
+      "importance": 63,
+      "confidence": "中",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 12.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "サイバーセキュリティメディア"
       ]
     },
     {
@@ -89,7 +144,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 6.9,
+      "age_hours": 12.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -97,13 +152,13 @@
       ]
     },
     {
-      "id": "4df334ca22a3524c",
+      "id": "19d0d6b769e065bf",
       "category": "NTTデータ",
-      "title": "NTTデータNCBとNTTデータコーテック、福岡市にAIを活用した開発センター開設 - 週刊BCN＋",
+      "title": "NTTデータNCBとNTTデータコーテック、福岡市にAIを活用した開発センター開設 - weeklybcn.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4R2Z3ZXJEaWdRb3RtVnQ5OGJ5eXhKaUhKMWtFcGRwYlJuOFJhUWtOUGdIUUNnLU9xV0V6S0lKb2s5M0E3RlN5dFpwdkxtRUM5eW9COENkZ04xYXRSMzBMRHlGNmV0cUpsaEs5V1hjTnRGUklf?oc=5",
-      "source": "週刊BCN＋",
+      "source": "weeklybcn.com",
       "published": "2026-09-09 12:00",
-      "summary": "NTTデータNCBとNTTデータコーテック、福岡市にAIを活用した開発センター開設 &nbsp;&nbsp; 週刊BCN＋",
+      "summary": "NTTデータNCBとNTTデータコーテック、福岡市にAIを活用した開発センター開設 &nbsp;&nbsp; weeklybcn.com",
       "tags": [
         "NTTデータ"
       ],
@@ -117,11 +172,11 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 28.9,
+      "age_hours": 34.3,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
-        "週刊BCN＋",
+        "weeklybcn.com",
         "Infoseek"
       ]
     },
@@ -144,11 +199,41 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 29.4,
+      "age_hours": 34.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ITmedia"
+      ]
+    },
+    {
+      "id": "da7a2469ba7d3354",
+      "category": "最新AI技術",
+      "title": "【AIエージェント時代】日本企業とエンジニアのこれから - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTnhxS1FGSHc2OEhDNmhiTzR3TjVHTWo5QmlDTnM2Q2RPUEhJOFZnbFR4MXVuSkpMbFNlUlBsY0k5MG9KTlJaSVV0RQ?oc=5",
+      "source": "thinkit.co.jp",
+      "published": "2026-09-09 08:40",
+      "summary": "【AIエージェント時代】日本企業とエンジニアのこれから &nbsp;&nbsp; thinkit.co.jp",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 37.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "thinkit.co.jp"
       ]
     }
   ]
