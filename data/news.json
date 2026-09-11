@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11 16:48 JST",
+  "generated_at": "2026-09-11 22:14 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,67 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "df9742fe7ff3a417",
+      "category": "最新AI技術",
+      "title": "Microsoft Copilot を起点とした AI エージェント プラットフォームを全社展開。JBS が挑む「フロンティア企業」への変革とリアルショーケース - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWm10ckF1UWJQcU13UHYySUthZlU0ZFBNV2hYaDNWUjBDSmdpRmpid2FxeFpzZWE3UWZvTWJyQVNHcGJqLUNzUlZnY3k5YTVSVWxlVy16YjhaV1pkQWpWZ3BPSkJfQXBfUlBkWjJROE5UbEQyTHN1R1JPZVpnc2VZeGw3UjFHT0pmSXI2V0tjQzkwQ3EtdEhjbmFR?oc=5",
+      "source": "Microsoft",
+      "published": "2026-09-11 20:02",
+      "summary": "Microsoft Copilot を起点とした AI エージェント プラットフォームを全社展開。JBS が挑む「フロンティア企業」への変革とリアルショーケース &nbsp;&nbsp; Microsoft",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 2.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "a75c7683e13c7c25",
+      "category": "地銀",
+      "title": "コインベースとムーブ、地域銀行1000社にステーブルコイン決済基盤を提供 - CoinPartner",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IdE5GcUUya1BLbmJybG9GcmNoaDJsWFBZXzNtUkR6V0k5UjdJY2UwRkUydWtQOVlFMEd4SlF4TW5CbmQ0SzNvOWZNR2tCbXQ4bGFTUw?oc=5",
+      "source": "CoinPartner",
+      "published": "2026-09-11 17:06",
+      "summary": "コインベースとムーブ、地域銀行1000社にステーブルコイン決済基盤を提供 &nbsp;&nbsp; CoinPartner",
+      "tags": [
+        "地銀",
+        "地域金融",
+        "決済"
+      ],
+      "signals": [
+        "regional_bank",
+        "cashless"
+      ],
+      "importance": 72,
+      "confidence": "中",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 決済・キャッシュレスは、個人顧客接点と地域加盟店支援の両方につながります。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 地域店舗の決済データや顧客接点を、取引先支援やマーケティングにどう活かすかの会話にできます。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 5.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "CoinPartner"
+      ]
+    },
     {
       "id": "824bbed5dd18189d",
       "category": "最新AI技術",
@@ -30,7 +91,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 0.9,
+      "age_hours": 6.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -38,13 +99,13 @@
       ]
     },
     {
-      "id": "47b06c149264aa47",
+      "id": "7defa804a93e4764",
       "category": "地銀",
-      "title": "地域銀行1,000社がステーブルコイン対応へ──コインベースがMoovと提携 - JinaCoin",
+      "title": "地域銀行1,000社がステーブルコイン対応へ──コインベースがMoovと提携 - jinacoin.ne.jp",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xeU0xRklWTFNjbVQzYk5qMkpPVnVBenlZMHZvM3IyckFVRTdaVG9lclNLd2VTYzZjazh5NG1HaWlCNFpTZXVxZ3NyWWdzSXJId3lwdDI0OFEydw?oc=5",
-      "source": "JinaCoin",
+      "source": "jinacoin.ne.jp",
       "published": "2026-09-11 14:20",
-      "summary": "地域銀行1,000社がステーブルコイン対応へ──コインベースがMoovと提携 &nbsp;&nbsp; JinaCoin",
+      "summary": "地域銀行1,000社がステーブルコイン対応へ──コインベースがMoovと提携 &nbsp;&nbsp; jinacoin.ne.jp",
       "tags": [
         "地銀",
         "地域金融"
@@ -59,47 +120,51 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 2.5,
+      "age_hours": 7.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "JinaCoin"
+        "jinacoin.ne.jp"
       ]
     },
     {
-      "id": "f71a487ec0d51191",
+      "id": "ec8e978f48f30a0b",
       "category": "最新AI技術",
-      "title": "JAPAN AI、Microsoft - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWZmxFWk1iRzhYZlN2dG10UFM3ZVZLTGtRT3lVSXVDWmhPQ2NQSmY4V3lqTDZxMmNBbmNpUzFKMWo2ZHp4RXk5QzBscEU3T1l6MTJUQnU2TGxoYk82UmNXSnpyMzZ0VnAx?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-09-11 13:03",
-      "summary": "JAPAN AI、Microsoft &nbsp;&nbsp; ニコニコニュース",
+      "title": "JAPAN AI、Microsoft Foundryの活用を開始。日本マイクロソフトと協働し、AIエージェントのMicrosoft 365連携・Marketplace展開を目指す - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ERzdGdFpLRXpoSnNSdjdJRHRaSzBYX3VRd3NMMzZRaG1XazlZS3l5TmRXNENpNkhvV3R6cXdsenFaLUpZQkZzTWtHQnBjWUxZRlVGTld3VHROQ2hTTzdfa3dGTnhTdHdqVmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-11 13:00",
+      "summary": "JAPAN AI、Microsoft Foundryの活用を開始。日本マイクロソフトと協働し、AIエージェントのMicrosoft 365連携・Marketplace展開を目指す &nbsp;&nbsp; PR TIMES",
       "tags": [
-        "最新AI技術"
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
       ],
-      "signals": [],
-      "importance": 35,
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
       "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 3.8,
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 9.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ニコニコニュース"
+        "PR TIMES"
       ]
     },
     {
-      "id": "ca8f5f899772c848",
+      "id": "f2f7de419f2a7b0b",
       "category": "最新AI技術",
-      "title": "データ活用で全社的な成果を得ている日本企業はたった8％ - AIに任せる前に決めておく「意味設計」とは - CodeZine",
+      "title": "データ活用で全社的な成果を得ている日本企業はたった8％ - AIに任せる前に決めておく「意味設計」とは (1/3)|DeveloperZine - codezine.jp",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84ZkJyMFFHeTh4SmFRWURKU2ZqWG9QbFFYSy0xdFlFQkxWRzdtNUNVc2N3MlhWWVB5TmozZUFWY3ZXbmVXbkhQMGlTUjVTS0VZcnc?oc=5",
-      "source": "CodeZine",
+      "source": "codezine.jp",
       "published": "2026-09-11 11:00",
-      "summary": "データ活用で全社的な成果を得ている日本企業はたった8％ - AIに任せる前に決めておく「意味設計」とは &nbsp;&nbsp; CodeZine",
+      "summary": "データ活用で全社的な成果を得ている日本企業はたった8％ - AIに任せる前に決めておく「意味設計」とは (1/3)|DeveloperZine &nbsp;&nbsp; codezine.jp",
       "tags": [
         "最新AI技術"
       ],
@@ -111,11 +176,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 5.8,
+      "age_hours": 11.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "CodeZine"
+        "codezine.jp"
       ]
     },
     {
@@ -142,37 +207,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 6.3,
+      "age_hours": 11.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "디지털투데이"
-      ]
-    },
-    {
-      "id": "d0b1009f0371e8d4",
-      "category": "最新AI技術",
-      "title": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0czUyM2VvUm1NclRjZ2NkYkdrdFc5MERid2pYdE5RUFRxUGw2YmtTVzNwVWJRb290WnVhTjR0dGlMVTZEcEpGREplcG1pVnJ3NXdXbndJa080RkxEYjdNOTNzMnlPUEgxWXc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-10 11:00",
-      "summary": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 29.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
       ]
     },
     {
@@ -200,7 +239,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 30.6,
+      "age_hours": 36.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -230,11 +269,37 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 30.8,
+      "age_hours": 36.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "e0e1263e1fdbebef",
+      "category": "最新AI技術",
+      "title": "Sakana AI - Sakana AI",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYUhweU9EVVpBM0t1UG8yMVJnWFpaY0lvOG9zcjVPRDVKUmNJbU9XLUowYkJMcXNvMmN1OGFXdVdhUTJEdHAzRnA1WUhnbUk?oc=5",
+      "source": "Sakana AI",
+      "published": "2026-09-10 00:00",
+      "summary": "Sakana AI &nbsp;&nbsp; Sakana AI",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 46.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Sakana AI"
       ]
     }
   ]
