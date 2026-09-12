@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12 21:37 JST",
+  "generated_at": "2026-09-13 07:45 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,29 +8,31 @@
   },
   "items": [
     {
-      "id": "5ef6535d98080325",
-      "category": "最新AI技術",
-      "title": "「AI時代、業務の再設計が必要」 それ、DXの時も言っていましたよね……本当にできる？ 日本IBMの答えは - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVpYcmZINlh6MllmcC1IVWpiTmlnTUZnU1RyTi1DNlVVTE9mUDhwRXlHRFNfOV9jNVVPcjR2N0pjUWc1TVdEVVI0YTJqTS00cHhqY0hTN1lkNHRTc1NVWlZsd0VjcUZXMzJyTWVKaUtNVzFiMF84b210YURBck5KWW5lZkNPX1NBRXNpVDFzX0kwR3FKMzFz0gGcAUFVX3lxTE81RkxsMFBOaDhCeDMyNnN2cTF5UU4ySkdFZDNTUWtOMXdUTDJObHZqQWltUS1pbmV6VmlsSThpZVcwRFRPREZtakk4VzdJa0xZdHNuN1ZLczJhcU9Rc2ozUXc5aElvYi1hR2tlaWNJVENqdTVKVGxGZ3hPV0VhV0hwQVVHOWFzWDlpQWhlbnBDbi1aV2RuM2ctWXdtMw?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-09-12 08:08",
-      "summary": "「AI時代、業務の再設計が必要」 それ、DXの時も言っていましたよね……本当にできる？ 日本IBMの答えは &nbsp;&nbsp; ｄメニューニュース",
+      "id": "bf0b65810a193094",
+      "category": "NTTデータ",
+      "title": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kSFRkMGV3SzFUSzhzdUd5RnhMdW1hR3pYakpkZjFDWi1YUDd3XzYyUkdVTjFyNHpNOGQ3U0ktYjlzNDRpa2lzXzd1RkNaMFhpTEVZN2RR?oc=5",
+      "source": "EnterpriseZine",
+      "published": "2026-09-12 23:30",
+      "summary": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 &nbsp;&nbsp; EnterpriseZine",
       "tags": [
-        "最新AI技術"
+        "NTTデータ"
       ],
-      "signals": [],
-      "importance": 35,
+      "signals": [
+        "nttdata"
+      ],
+      "importance": 65,
       "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
+      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
+      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
+      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.5,
+      "age_hours": 8.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ｄメニューニュース"
+        "EnterpriseZine"
       ]
     },
     {
@@ -56,7 +58,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 25.6,
+      "age_hours": 35.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -84,11 +86,40 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 28.4,
+      "age_hours": 38.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日経クロステック"
+      ]
+    },
+    {
+      "id": "47b06c149264aa47",
+      "category": "地銀",
+      "title": "地域銀行1,000社がステーブルコイン対応へ──コインベースがMoovと提携 - JinaCoin",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xeU0xRklWTFNjbVQzYk5qMkpPVnVBenlZMHZvM3IyckFVRTdaVG9lclNLd2VTYzZjazh5NG1HaWlCNFpTZXVxZ3NyWWdzSXJId3lwdDI0OFEydw?oc=5",
+      "source": "JinaCoin",
+      "published": "2026-09-11 14:20",
+      "summary": "地域銀行1,000社がステーブルコイン対応へ──コインベースがMoovと提携 &nbsp;&nbsp; JinaCoin",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 41.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "JinaCoin"
       ]
     },
     {
@@ -114,7 +145,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 32.6,
+      "age_hours": 42.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -140,11 +171,42 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 34.6,
+      "age_hours": 44.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "CodeZine"
+      ]
+    },
+    {
+      "id": "ab52f3ea32351a0c",
+      "category": "地銀",
+      "title": "Coinbase、Moovと提携 米地域銀行・信用組合向けにステーブルコイン決済基盤 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSUZGQm4wU3RjOWpjbm0tOWdfRUJnQlpNQWFDZWQyZjczQWNxRkJLaVdmVVJaTU5uWi1yWk16RmVodF9QRnpFbkFJREMzbV9QLVk0SFVmWlNrdEZoanh4NGFMUXUyNjgxNjdhWlFtLW9wX0ppazE1amNGVmowQ1dIXy02RmNZUXU2SWlaNHBhSlRYSUdpZW92YU1QQk5lSXdhUTNBcWJfMUhjOUsyZmJKRGloQzlDOVcySFc2LUZ0bkp5UkJXN1BhWXF3TnhVWVVXbVhwd2VkdXIzWjkwLTVkcHh3?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-11 10:29",
+      "summary": "Coinbase、Moovと提携 米地域銀行・信用組合向けにステーブルコイン決済基盤 &nbsp;&nbsp; 디지털투데이",
+      "tags": [
+        "地銀",
+        "地域金融",
+        "決済"
+      ],
+      "signals": [
+        "regional_bank",
+        "cashless"
+      ],
+      "importance": 72,
+      "confidence": "中",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 決済・キャッシュレスは、個人顧客接点と地域加盟店支援の両方につながります。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 地域店舗の決済データや顧客接点を、取引先支援やマーケティングにどう活かすかの会話にできます。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 45.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "디지털투데이"
       ]
     }
   ]
