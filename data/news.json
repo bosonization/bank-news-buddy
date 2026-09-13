@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13 07:45 JST",
+  "generated_at": "2026-09-13 17:00 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -28,11 +28,41 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 8.3,
+      "age_hours": 17.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "EnterpriseZine"
+      ]
+    },
+    {
+      "id": "da7a2469ba7d3354",
+      "category": "最新AI技術",
+      "title": "【AIエージェント時代】日本企業とエンジニアのこれから - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTnhxS1FGSHc2OEhDNmhiTzR3TjVHTWo5QmlDTnM2Q2RPUEhJOFZnbFR4MXVuSkpMbFNlUlBsY0k5MG9KTlJaSVV0RQ?oc=5",
+      "source": "thinkit.co.jp",
+      "published": "2026-09-11 22:03",
+      "summary": "【AIエージェント時代】日本企業とエンジニアのこれから &nbsp;&nbsp; thinkit.co.jp",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 43.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "thinkit.co.jp"
       ]
     },
     {
@@ -58,7 +88,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 35.7,
+      "age_hours": 45.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -86,127 +116,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 38.6,
+      "age_hours": 47.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日経クロステック"
-      ]
-    },
-    {
-      "id": "47b06c149264aa47",
-      "category": "地銀",
-      "title": "地域銀行1,000社がステーブルコイン対応へ──コインベースがMoovと提携 - JinaCoin",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xeU0xRklWTFNjbVQzYk5qMkpPVnVBenlZMHZvM3IyckFVRTdaVG9lclNLd2VTYzZjazh5NG1HaWlCNFpTZXVxZ3NyWWdzSXJId3lwdDI0OFEydw?oc=5",
-      "source": "JinaCoin",
-      "published": "2026-09-11 14:20",
-      "summary": "地域銀行1,000社がステーブルコイン対応へ──コインベースがMoovと提携 &nbsp;&nbsp; JinaCoin",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 41.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "JinaCoin"
-      ]
-    },
-    {
-      "id": "ec8e978f48f30a0b",
-      "category": "最新AI技術",
-      "title": "JAPAN AI、Microsoft Foundryの活用を開始。日本マイクロソフトと協働し、AIエージェントのMicrosoft 365連携・Marketplace展開を目指す - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ERzdGdFpLRXpoSnNSdjdJRHRaSzBYX3VRd3NMMzZRaG1XazlZS3l5TmRXNENpNkhvV3R6cXdsenFaLUpZQkZzTWtHQnBjWUxZRlVGTld3VHROQ2hTTzdfa3dGTnhTdHdqVmc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-11 13:00",
-      "summary": "JAPAN AI、Microsoft Foundryの活用を開始。日本マイクロソフトと協働し、AIエージェントのMicrosoft 365連携・Marketplace展開を目指す &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 42.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
-      ]
-    },
-    {
-      "id": "567b37163f8453da",
-      "category": "最新AI技術",
-      "title": "データ活用で全社的な成果を得ている日本企業はたった8％ - AIに任せる前に決めておく「意味設計」とは (1/3)|DeveloperZine - CodeZine",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84ZkJyMFFHeTh4SmFRWURKU2ZqWG9QbFFYSy0xdFlFQkxWRzdtNUNVc2N3MlhWWVB5TmozZUFWY3ZXbmVXbkhQMGlTUjVTS0VZcnc?oc=5",
-      "source": "CodeZine",
-      "published": "2026-09-11 11:00",
-      "summary": "データ活用で全社的な成果を得ている日本企業はたった8％ - AIに任せる前に決めておく「意味設計」とは (1/3)|DeveloperZine &nbsp;&nbsp; CodeZine",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 44.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "CodeZine"
-      ]
-    },
-    {
-      "id": "ab52f3ea32351a0c",
-      "category": "地銀",
-      "title": "Coinbase、Moovと提携 米地域銀行・信用組合向けにステーブルコイン決済基盤 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSUZGQm4wU3RjOWpjbm0tOWdfRUJnQlpNQWFDZWQyZjczQWNxRkJLaVdmVVJaTU5uWi1yWk16RmVodF9QRnpFbkFJREMzbV9QLVk0SFVmWlNrdEZoanh4NGFMUXUyNjgxNjdhWlFtLW9wX0ppazE1amNGVmowQ1dIXy02RmNZUXU2SWlaNHBhSlRYSUdpZW92YU1QQk5lSXdhUTNBcWJfMUhjOUsyZmJKRGloQzlDOVcySFc2LUZ0bkp5UkJXN1BhWXF3TnhVWVVXbVhwd2VkdXIzWjkwLTVkcHh3?oc=5",
-      "source": "디지털투데이",
-      "published": "2026-09-11 10:29",
-      "summary": "Coinbase、Moovと提携 米地域銀行・信用組合向けにステーブルコイン決済基盤 &nbsp;&nbsp; 디지털투데이",
-      "tags": [
-        "地銀",
-        "地域金融",
-        "決済"
-      ],
-      "signals": [
-        "regional_bank",
-        "cashless"
-      ],
-      "importance": 72,
-      "confidence": "中",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 決済・キャッシュレスは、個人顧客接点と地域加盟店支援の両方につながります。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 地域店舗の決済データや顧客接点を、取引先支援やマーケティングにどう活かすかの会話にできます。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 45.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "디지털투데이"
       ]
     }
   ]
