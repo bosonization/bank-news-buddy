@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14 07:46 JST",
+  "generated_at": "2026-09-14 17:33 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,97 @@
   },
   "items": [
     {
-      "id": "c84ec2e7d499df4d",
+      "id": "8787497bfe684623",
       "category": "最新AI技術",
-      "title": "本命はAIエージェントによる変革 日本企業を阻む2つの壁 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14M245RVd4WmFvWG1SemE5RW1NWTBBZnVESDVNR3JhNnViUjhUWWZ1QnpSdzRiMG00dlJSNVgyc3JYcnotd2JSelB1M3dQWFo1Tm9NczN6TEhZZm95X0JSVDdXaFU0Q0llOGhDSW5JdmFKdw?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-09-14 07:00",
-      "summary": "本命はAIエージェントによる変革 日本企業を阻む2つの壁 &nbsp;&nbsp; 日経クロステック",
+      "title": "日本AI開発センター、企業の業務改善を実現するFDE型AI伴走支援の開始 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqOUNTbmpqNGtUSzgyazQzUVg1NEREREZ5bFJSMlZNSUZqVEJBcF80dGFiakt6ZmpYRXZBUjZJb0dTM3Vya1ppOExURnZRQjdIZ1d6OEZNVXR2clFTQVdzamM2MVFfUQ?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-09-14 15:06",
+      "summary": "日本AI開発センター、企業の業務改善を実現するFDE型AI伴走支援の開始 &nbsp;&nbsp; ニュースメディアVOIX",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 2.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニュースメディアVOIX"
+      ]
+    },
+    {
+      "id": "e6b51401960e6d36",
+      "category": "最新AI技術",
+      "title": "まだ手作業でテストしてるの？ソニー銀行と富士通が実現した、生成AIに「面倒な作業を9割任せる」最強の業務効率化術 - dxmagazine.jp",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWNV9ST2RVaTc1NEllTjBtYy13aVVHTDFqNTRTak15NTM0dmxJREo4emJEUDNvekVkY2ZKaTlRY0wyVk5aR0RWaVZoZGo?oc=5",
+      "source": "dxmagazine.jp",
+      "published": "2026-09-14 13:18",
+      "summary": "まだ手作業でテストしてるの？ソニー銀行と富士通が実現した、生成AIに「面倒な作業を9割任せる」最強の業務効率化術 &nbsp;&nbsp; dxmagazine.jp",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "業務効率化"
+      ],
+      "signals": [
+        "generative_ai",
+        "operations"
+      ],
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 4.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "dxmagazine.jp"
+      ]
+    },
+    {
+      "id": "e34bbdd3132114e6",
+      "category": "最新AI技術",
+      "title": "日本AI開発センター、企業の現場に入り込みAI活用を構想から実装・定着まで担う「現場FDE支援」を開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxQmd6UmFiRnppZXdUWVdhWDlYelNoUWd1V0RuelZpeDlSLXdOZFBjRm5HbUNrdHVlTGpGajRibUM0VWVzbjIxb2Rlb3BOTjRzTmFBWnBSYm1VQlcyVE1qZGJfREZhVFRqUlE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-14 11:30",
+      "summary": "日本AI開発センター、企業の現場に入り込みAI活用を構想から実装・定着まで担う「現場FDE支援」を開始 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 6.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "cde56ee9e5c0aeca",
+      "category": "最新AI技術",
+      "title": "韓国発・オンプレ対応AIエージェントOS「Agentria」、日本初導入へ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1velVHcjdMOGtnWEdtZTJwUjBMdXdlQ3VlaUNmVFV0dzFtazZPYjNoNHpwRVNKcS1oV1A5S0hsZVJNZVRUYW9WSnZ3S2p6OTROM0xXcjZ1UDg5cmhJRHRNaW92N2ozdkxUcHc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-14 09:00",
+      "summary": "韓国発・オンプレ対応AIエージェントOS「Agentria」、日本初導入へ &nbsp;&nbsp; PR TIMES",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -30,11 +114,41 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 0.8,
+      "age_hours": 8.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "日経クロステック"
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "28abb0f4710b40a8",
+      "category": "最新AI技術",
+      "title": "本命はAIエージェントによる変革 日本企業を阻む2つの壁 - xtech.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14M245RVd4WmFvWG1SemE5RW1NWTBBZnVESDVNR3JhNnViUjhUWWZ1QnpSdzRiMG00dlJSNVgyc3JYcnotd2JSelB1M3dQWFo1Tm9NczN6TEhZZm95X0JSVDdXaFU0Q0llOGhDSW5JdmFKdw?oc=5",
+      "source": "xtech.nikkei.com",
+      "published": "2026-09-14 07:00",
+      "summary": "本命はAIエージェントによる変革 日本企業を阻む2つの壁 &nbsp;&nbsp; xtech.nikkei.com",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 10.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "xtech.nikkei.com"
       ]
     },
     {
@@ -56,7 +170,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 0.8,
+      "age_hours": 10.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -64,13 +178,13 @@
       ]
     },
     {
-      "id": "f582c64e3387464e",
+      "id": "08d0adf87ec90cae",
       "category": "メガバンク",
-      "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - 日経クロステック",
+      "title": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う - xtech.nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XN2QxaHU1TGU1TlcyNDk4a1FjWkhWd2laQ056bGUxSDdsY0NMbGJKQk5vWmhKTEowQVUxQ19MeU16bHctUmxGdHhSWHFYS05PN3RpWHl5MHBLQ21fLVg2R0tveDRZVUk?oc=5",
-      "source": "日経クロステック",
+      "source": "xtech.nikkei.com",
       "published": "2026-09-13 17:13",
-      "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; 日経クロステック",
+      "summary": "MUFGがGoogleと戦略的提携 リテール総合金融、AIでSMBCより「先行」狙う &nbsp;&nbsp; xtech.nikkei.com",
       "tags": [
         "メガバンク"
       ],
@@ -84,11 +198,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 14.6,
+      "age_hours": 24.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "日経クロステック"
+        "xtech.nikkei.com"
       ]
     },
     {
@@ -112,7 +226,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 32.3,
+      "age_hours": 42.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
