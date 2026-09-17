@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17 17:23 JST",
+  "generated_at": "2026-09-17 23:05 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,88 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "963e5c840d9ac2be",
+      "category": "NTTデータ",
+      "title": "ミンカブ・ジ・インフォノイド、NTTデータ、SBIホールディングスによる金融領域における新たなサービス創出に向けた業務提携に関するお知らせ｜Infoseekニュース - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84UGczbzJ6YVVMSWlscGpIZVZleE44dzJuOHFrVWpMRVVlWm83VVN1ZzJZam05NF92b2J1Qk4yMFJEZ3RESkpiSnBueWVQRWlSUmtBNXJVX3NRTFE5Ml9wX3hud3NRRkZQamw3cHNSYkRNdw?oc=5",
+      "source": "Infoseek",
+      "published": "2026-09-17 20:15",
+      "summary": "ミンカブ・ジ・インフォノイド、NTTデータ、SBIホールディングスによる金融領域における新たなサービス創出に向けた業務提携に関するお知らせ｜Infoseekニュース &nbsp;&nbsp; Infoseek",
+      "tags": [
+        "NTTデータ"
+      ],
+      "signals": [
+        "nttdata"
+      ],
+      "importance": 65,
+      "confidence": "低",
+      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
+      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
+      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
+      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 2.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Infoseek"
+      ]
+    },
+    {
+      "id": "bf0b65810a193094",
+      "category": "NTTデータ",
+      "title": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kSFRkMGV3SzFUSzhzdUd5RnhMdW1hR3pYakpkZjFDWi1YUDd3XzYyUkdVTjFyNHpNOGQ3U0ktYjlzNDRpa2lzXzd1RkNaMFhpTEVZN2RR?oc=5",
+      "source": "EnterpriseZine",
+      "published": "2026-09-17 19:35",
+      "summary": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 &nbsp;&nbsp; EnterpriseZine",
+      "tags": [
+        "NTTデータ"
+      ],
+      "signals": [
+        "nttdata"
+      ],
+      "importance": 65,
+      "confidence": "低",
+      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
+      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
+      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
+      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "EnterpriseZine"
+      ]
+    },
+    {
+      "id": "dc11fe7c987eacd4",
+      "category": "NTTデータ",
+      "title": "ＳＢＩ - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fVlRRUTZacy11UFdndEJwRHkweXFoR0YyMm5UMU9lQk9TMEtmQ29leEtWQndMbDVEUG9fU3BwVi03cWtUeGVkOEg0ekxxV0dXdVFGWnl1aXE4alBiRE5xUHVqQUo4QjQ0LWc?oc=5",
+      "source": "nikkei.com",
+      "published": "2026-09-17 17:00",
+      "summary": "ＳＢＩ &nbsp;&nbsp; nikkei.com",
+      "tags": [
+        "NTTデータ"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 6.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "nikkei.com"
+      ]
+    },
     {
       "id": "04f72f0f529213f7",
       "category": "地銀",
@@ -26,7 +108,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 3.9,
+      "age_hours": 9.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -54,7 +136,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 6.4,
+      "age_hours": 12.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -62,13 +144,13 @@
       ]
     },
     {
-      "id": "7ce6cebe14686b43",
+      "id": "350994b633d752e5",
       "category": "地銀",
-      "title": "NEC、FIT2026（金融国際情報技術展）にてセミナー講演を開催 - イザ！",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mZThKR2x6M1U3REFyU0ZoeGUxNGpfdG9CZVJyTjlfemxYUmtsRl96T2wyZmUzX2MzbkNlcEZvOVFkWVF3N2lmYUZ2Rk9BVlFtYThodUpzUFZWeGdFWHVBUEZTbTN0enZGV2hIRTRTWkZEZ1JxM0VMSTZB?oc=5",
-      "source": "イザ！",
+      "title": "NEC、FIT2026（金融国際情報技術展）にてセミナー講演を開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnMXgzRExFZ3ZWMFMzQXdXcXhvekM3dy11SmVETHdGWks0OE1nLUFCSGF0WjI2bDExM1RReFRVMWM4Qm9wSlI3NWZKeFExdlZNSE12dEo0d2UzT2YzUm0ySm9CNDk5UUhSd2c?oc=5",
+      "source": "PR TIMES",
       "published": "2026-09-17 11:00",
-      "summary": "NEC、FIT2026（金融国際情報技術展）にてセミナー講演を開催 &nbsp;&nbsp; イザ！",
+      "summary": "NEC、FIT2026（金融国際情報技術展）にてセミナー講演を開催 &nbsp;&nbsp; PR TIMES",
       "tags": [
         "地銀"
       ],
@@ -80,11 +162,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 6.4,
+      "age_hours": 12.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "イザ！"
+        "PR TIMES"
       ]
     },
     {
@@ -110,39 +192,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 8.4,
+      "age_hours": 14.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "PR TIMES"
-      ]
-    },
-    {
-      "id": "bf0b65810a193094",
-      "category": "NTTデータ",
-      "title": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kSFRkMGV3SzFUSzhzdUd5RnhMdW1hR3pYakpkZjFDWi1YUDd3XzYyUkdVTjFyNHpNOGQ3U0ktYjlzNDRpa2lzXzd1RkNaMFhpTEVZN2RR?oc=5",
-      "source": "EnterpriseZine",
-      "published": "2026-09-17 05:19",
-      "summary": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 &nbsp;&nbsp; EnterpriseZine",
-      "tags": [
-        "NTTデータ"
-      ],
-      "signals": [
-        "nttdata"
-      ],
-      "importance": 65,
-      "confidence": "低",
-      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
-      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
-      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
-      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 12.1,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "EnterpriseZine"
       ]
     },
     {
@@ -167,7 +221,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 12.5,
+      "age_hours": 18.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -195,7 +249,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 17.4,
+      "age_hours": 23.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -203,13 +257,13 @@
       ]
     },
     {
-      "id": "087d1a6938a1213f",
+      "id": "e2606f6b4bb283ba",
       "category": "最新AI技術",
-      "title": "JAPAN AI、「Microsoft Foundry」を活用したAI基盤構築を開始。AIエージェントの国内企業導入と社会実装を加速 - AIsmiley",
+      "title": "JAPAN AI、「Microsoft Foundry」を活用したAI基盤構築を開始。AIエージェントの国内企業導入と社会実装を加速 - aismiley.co.jp",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzT1lHNVJReDFGclJnZk1iczVVd2xIaDZQbkpWYmE4UjM4RkFwem1hcDI2T01tRGlTMWV3WlhWR1N0dFBnTGpEX1Q3Tzh2LUJZZ2xzQ09HWEVCOU9OTEJlYlhmVXJGSy1HVUp0TUVRSkhKdw?oc=5",
-      "source": "AIsmiley",
+      "source": "aismiley.co.jp",
       "published": "2026-09-16 23:34",
-      "summary": "JAPAN AI、「Microsoft Foundry」を活用したAI基盤構築を開始。AIエージェントの国内企業導入と社会実装を加速 &nbsp;&nbsp; AIsmiley",
+      "summary": "JAPAN AI、「Microsoft Foundry」を活用したAI基盤構築を開始。AIエージェントの国内企業導入と社会実装を加速 &nbsp;&nbsp; aismiley.co.jp",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -225,11 +279,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 17.8,
+      "age_hours": 23.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "AIsmiley"
+        "aismiley.co.jp"
       ]
     },
     {
@@ -256,41 +310,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 36.4,
+      "age_hours": 42.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日経クロステック"
-      ]
-    },
-    {
-      "id": "211aad75baf88dbb",
-      "category": "その他",
-      "title": "TISI、フロンティアAIを悪用したサイバー攻撃に対応するセキュリティ運用基盤「AI Security Control Plane」の取り組みを開始 - news.nicovideo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91NTVXNGwtZkJCSWJYVkIwZUV2cU1heURER0hKREVHM01vakVWN2RfZnpFVXc5LVR1dk5ubGNTRlAzMFRpYmxCOHJwWGRKMUZYV2owcA?oc=5",
-      "source": "news.nicovideo.jp",
-      "published": "2026-09-15 20:45",
-      "summary": "TISI、フロンティアAIを悪用したサイバー攻撃に対応するセキュリティ運用基盤「AI Security Control Plane」の取り組みを開始 &nbsp;&nbsp; news.nicovideo.jp",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理"
-      ],
-      "signals": [
-        "cyber"
-      ],
-      "importance": 51,
-      "confidence": "低",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 44.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "news.nicovideo.jp"
       ]
     }
   ]
