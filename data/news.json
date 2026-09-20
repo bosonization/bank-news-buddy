@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20 22:27 JST",
+  "generated_at": "2026-09-21 07:53 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -28,11 +28,41 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 7.0,
+      "age_hours": 16.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "EnterpriseZine"
+      ]
+    },
+    {
+      "id": "1cb89beecaabfe79",
+      "category": "地銀",
+      "title": "山陰合同銀行、フィールドセールス向けAIエージェント「UPWARD」の導入を決定 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ld3BrLXQ2WFVNemRORzA0MGJha25WT3VxcFl1MFlBeUdadTdEWm1hR2hhU3V1d0pWMUlodElQYzdDOHYtWW5pTHdwN2w2S2ZXLVE?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-09-19 16:00",
+      "summary": "山陰合同銀行、フィールドセールス向けAIエージェント「UPWARD」の導入を決定 &nbsp;&nbsp; 山陽新聞",
+      "tags": [
+        "地銀",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 61,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 39.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "山陽新聞"
       ]
     }
   ]
