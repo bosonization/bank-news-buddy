@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20 17:17 JST",
+  "generated_at": "2026-09-20 22:27 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -13,7 +13,7 @@
       "title": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 - EnterpriseZine",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kSFRkMGV3SzFUSzhzdUd5RnhMdW1hR3pYakpkZjFDWi1YUDd3XzYyUkdVTjFyNHpNOGQ3U0ktYjlzNDRpa2lzXzd1RkNaMFhpTEVZN2RR?oc=5",
       "source": "EnterpriseZine",
-      "published": "2026-09-20 02:59",
+      "published": "2026-09-20 15:29",
       "summary": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 &nbsp;&nbsp; EnterpriseZine",
       "tags": [
         "NTTデータ"
@@ -28,37 +28,11 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 14.3,
+      "age_hours": 7.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "EnterpriseZine"
-      ]
-    },
-    {
-      "id": "2bece4b06ed7bed5",
-      "category": "NTTデータ",
-      "title": "大手3社が金融DXの高度化に向けた業務提携を締結！SBIホールディングス株式会社などが共同発表を実施 - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Tc1JzcXVZVVFLc1dGbURvZ2JYcmozU2djckJrMDZvSTFHb3ZtQ3lnSDdNaXlxLThvUEJYUi1hTkluWC0tMFVTUzF2SHI4QQ?oc=5",
-      "source": "DXマガジン",
-      "published": "2026-09-18 20:00",
-      "summary": "大手3社が金融DXの高度化に向けた業務提携を締結！SBIホールディングス株式会社などが共同発表を実施 &nbsp;&nbsp; DXマガジン",
-      "tags": [
-        "NTTデータ"
-      ],
-      "signals": [],
-      "importance": 43,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 45.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "DXマガジン"
       ]
     }
   ]
