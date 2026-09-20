@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20 07:36 JST",
+  "generated_at": "2026-09-20 17:17 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -28,7 +28,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 4.6,
+      "age_hours": 14.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -36,13 +36,13 @@
       ]
     },
     {
-      "id": "3cc0d5c6994c83e9",
+      "id": "2bece4b06ed7bed5",
       "category": "NTTデータ",
-      "title": "大手3社が金融DXの高度化に向けた業務提携を締結！SBIホールディングス株式会社などが共同発表を実施 - dxmagazine.jp",
+      "title": "大手3社が金融DXの高度化に向けた業務提携を締結！SBIホールディングス株式会社などが共同発表を実施 - DXマガジン",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Tc1JzcXVZVVFLc1dGbURvZ2JYcmozU2djckJrMDZvSTFHb3ZtQ3lnSDdNaXlxLThvUEJYUi1hTkluWC0tMFVTUzF2SHI4QQ?oc=5",
-      "source": "dxmagazine.jp",
+      "source": "DXマガジン",
       "published": "2026-09-18 20:00",
-      "summary": "大手3社が金融DXの高度化に向けた業務提携を締結！SBIホールディングス株式会社などが共同発表を実施 &nbsp;&nbsp; dxmagazine.jp",
+      "summary": "大手3社が金融DXの高度化に向けた業務提携を締結！SBIホールディングス株式会社などが共同発表を実施 &nbsp;&nbsp; DXマガジン",
       "tags": [
         "NTTデータ"
       ],
@@ -54,245 +54,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 35.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "dxmagazine.jp"
-      ]
-    },
-    {
-      "id": "6102e6d19be3d4bb",
-      "category": "メガバンク",
-      "title": "AI・オンチェーン金融サミット、平将明氏やメガバンク幹部が登壇 - CoinPost",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE95TW5DMlVrOWphYmVhQkhFNVNoQTlmWTZQc0pKMmJ1Z2h4aUtPaHNIcUlHanpfV0VXdXA5dzRKOUp2U2M?oc=5",
-      "source": "CoinPost",
-      "published": "2026-09-18 17:00",
-      "summary": "AI・オンチェーン金融サミット、平将明氏やメガバンク幹部が登壇 &nbsp;&nbsp; CoinPost",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 38.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "CoinPost"
-      ]
-    },
-    {
-      "id": "093b8a01d2ef59ec",
-      "category": "最新AI技術",
-      "title": "セイコーソリューションズとTempestAI、金融業務変革に向けた協業を発表 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUNTByR1FsYkFWa3ByekhiWVJyWHN2TllpRjdwdDV1RHNVcFdWUEd4c1piNjNXYTNrNnhDX3hJTEo4cVhwbjV3LWRFUU1uUndfUHg4Rks2SzhkMFlSOVk4OTl4ZDJDcXZvWmg4?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-09-18 16:19",
-      "summary": "セイコーソリューションズとTempestAI、金融業務変革に向けた協業を発表 &nbsp;&nbsp; ニュースメディアVOIX",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 39.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニュースメディアVOIX"
-      ]
-    },
-    {
-      "id": "ed0c5086483ac681",
-      "category": "地銀",
-      "title": "コインベース、米地銀・信用組合に暗号資産サービス提供へ（NADA NEWS） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TZ1hCWVF2RlNQUUJfV0hFV29uODRGLVBYV0ZWWnpZbDExTVlEd1VGMjE4bXp4ckM3VGVHQlo3eEQtdzNLNVhvaERXY0Y1RWZUY1VYempoWmZJdWdqQ1hrZ0V1el9CblBMakFkZ3NGcDlQallpcTdQY25MSk1pWjg?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-18 15:50",
-      "summary": "コインベース、米地銀・信用組合に暗号資産サービス提供へ（NADA NEWS） &nbsp;&nbsp; Yahoo!ニュース",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 39.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "25b83a765c690122",
-      "category": "最新AI技術",
-      "title": "埼玉縣信用金庫、AIエージェントプラットフォーム「neoAI Chat」を全職員へ本格導入 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zeWZYZkZMRF9raWZPRm1FTGlxTGJZamdicGxldUN5WjZsYklhWGVZc0J1VXh2b2w2WXFfczAzaUFERWhoeWc0NXF6a1hGb1FfQ2ZkdGFIRGI5V2NybjdfWkprT1BTbWZqU1pEOGg5TXFKNmN6NktmRjVCYw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-09-18 15:15",
-      "summary": "埼玉縣信用金庫、AIエージェントプラットフォーム「neoAI Chat」を全職員へ本格導入 &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用",
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "generative_ai",
-        "regional_bank"
-      ],
-      "importance": 85,
-      "confidence": "中",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 40.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
-      ]
-    },
-    {
-      "id": "dc96809dbc688e98",
-      "category": "最新AI技術",
-      "title": "KDDI、「Gemini Enterprise」でAIエージェント開発を支援--閉域網や企業データ活用 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmMnNkWHktTU13V3ozX3dOSzlFZnNSSGJJY0NXS25VRXJ4QktVUUQ3c04ya2RNUlk3N2NfcUpfSWlvMkxBX1pYQUFEN1VJUWRkY3g4TzNzTTZ3VFVzbXVHU1hocW5Pbl9Hc0c2aXRMWHI0LVJxUFRFWVpEcFR1QVk?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-18 11:05",
-      "summary": "KDDI、「Gemini Enterprise」でAIエージェント開発を支援--閉域網や企業データ活用 &nbsp;&nbsp; Yahoo!ニュース",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 44.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "45524868cee28c2c",
-      "category": "NTTデータ",
-      "title": "ミンカブ、NTTデータ、SBI 提携しAIと金融データで新サービス創出へ - projectdesign.jp",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2t3U2lhMGdWRWx1czI4cUJ3LXo4Y3o5bXFydExUU2pJdEU1cl94WG9iOTRUdnJ4c3dSd1VGcnBWQjIxbkNobGhQcFZSUzduRFhOMlJUMTRjZ2ZtYUdsUzlvcWNkM3pSaWg4M0lhMkJpdlZUQ05KaVRYNzV3TWpwVWtXR1lydw?oc=5",
-      "source": "projectdesign.jp",
-      "published": "2026-09-18 10:18",
-      "summary": "ミンカブ、NTTデータ、SBI 提携しAIと金融データで新サービス創出へ &nbsp;&nbsp; projectdesign.jp",
-      "tags": [
-        "NTTデータ"
-      ],
-      "signals": [
-        "nttdata"
-      ],
-      "importance": 65,
-      "confidence": "低",
-      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
-      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
-      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
-      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
       "age_hours": 45.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "projectdesign.jp"
-      ]
-    },
-    {
-      "id": "461b2acea1fc8831",
-      "category": "最新AI技術",
-      "title": "日本生成AI市場、2035年に5,388億8,794万米ドルへ｜企業の業務効率化・AI活用拡大で市場成長が加速 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MSU84a09mYVdWRjluQ0VKM0NOUlRNbXVnQlBTZWZZS2NyUnBGRm1vVzA5SHN0NEthNEZkenB6R3RQWFNwQTg4?oc=5",
-      "source": "Newscast.jp",
-      "published": "2026-09-18 09:30",
-      "summary": "日本生成AI市場、2035年に5,388億8,794万米ドルへ｜企業の業務効率化・AI活用拡大で市場成長が加速 &nbsp;&nbsp; Newscast.jp",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用",
-        "業務効率化"
-      ],
-      "signals": [
-        "generative_ai",
-        "operations"
-      ],
-      "importance": 67,
-      "confidence": "中",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 46.1,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Newscast.jp"
-      ]
-    },
-    {
-      "id": "a5279bb915f3c453",
-      "category": "NTTデータ",
-      "title": "ミンカブ・ジ・インフォノイド、NTTデータ、SBIホールディングスによる金融領域における新たなサービス創出に向けた業務 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZlFUMW5yUU43Skt1TUJFbzFxcXh2MW5qUmZlTUxYQWM4YmZLOGpXeEZXZWV2M3RxYkliMjhsaXBjQkJwbHZvcktIMG02ZzlRLTZndw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-09-18 08:00",
-      "summary": "ミンカブ・ジ・インフォノイド、NTTデータ、SBIホールディングスによる金融領域における新たなサービス創出に向けた業務 &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "NTTデータ"
-      ],
-      "signals": [
-        "nttdata"
-      ],
-      "importance": 65,
-      "confidence": "低",
-      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
-      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
-      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
-      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 47.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
+        "DXマガジン"
       ]
     }
   ]
