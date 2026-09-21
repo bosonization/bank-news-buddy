@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 17:35 JST",
+  "generated_at": "2026-09-22 00:39 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "9e31d024cd786e3e",
+      "id": "bf0b65810a193094",
       "category": "NTTデータ",
-      "title": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 - enterprisezine.jp",
+      "title": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 - EnterpriseZine",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kSFRkMGV3SzFUSzhzdUd5RnhMdW1hR3pYakpkZjFDWi1YUDd3XzYyUkdVTjFyNHpNOGQ3U0ktYjlzNDRpa2lzXzd1RkNaMFhpTEVZN2RR?oc=5",
-      "source": "enterprisezine.jp",
+      "source": "EnterpriseZine",
       "published": "2026-09-21 08:35",
-      "summary": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 &nbsp;&nbsp; enterprisezine.jp",
+      "summary": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 &nbsp;&nbsp; EnterpriseZine",
       "tags": [
         "NTTデータ"
       ],
@@ -28,11 +28,11 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 9.0,
+      "age_hours": 16.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "enterprisezine.jp"
+        "EnterpriseZine"
       ]
     }
   ]
