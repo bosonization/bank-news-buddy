@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22 17:15 JST",
+  "generated_at": "2026-09-22 22:53 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,32 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "c3d2a650ec041390",
+      "category": "地銀",
+      "title": "【フォト】フィジカルAI育成に乗り出す官民 - mk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sSHc5b1RmUzBFWG4xWlBJcDVYYzF4Yzd3eW1JRFI1c2hPM2IwV24wUmN0Q01oaGNOX3QzQm1yMHRfWEJhTFhPMVk3WTUtRkVxQVE?oc=5",
+      "source": "mk.co.kr",
+      "published": "2026-09-22 17:46",
+      "summary": "【フォト】フィジカルAI育成に乗り出す官民 &nbsp;&nbsp; mk.co.kr",
+      "tags": [
+        "地銀"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 5.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "mk.co.kr"
+      ]
+    },
     {
       "id": "bf0b65810a193094",
       "category": "NTTデータ",
@@ -28,7 +54,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 32.7,
+      "age_hours": 38.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
