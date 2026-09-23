@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23 08:25 JST",
+  "generated_at": "2026-09-23 17:17 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,7 +26,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 14.7,
+      "age_hours": 23.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -34,31 +34,33 @@
       ]
     },
     {
-      "id": "bf0b65810a193094",
-      "category": "NTTデータ",
-      "title": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kSFRkMGV3SzFUSzhzdUd5RnhMdW1hR3pYakpkZjFDWi1YUDd3XzYyUkdVTjFyNHpNOGQ3U0ktYjlzNDRpa2lzXzd1RkNaMFhpTEVZN2RR?oc=5",
-      "source": "EnterpriseZine",
-      "published": "2026-09-21 08:35",
-      "summary": "NTTデータNCBとNTTデータ コーテック、福岡市に金融システム向けの開発拠点「F2-LAB」新設 &nbsp;&nbsp; EnterpriseZine",
+      "id": "bdccc54b227127d3",
+      "category": "地銀",
+      "title": "日本の銀行業界のクラウドセキュリティ市場2026年版 - pando.life",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpRlV3VmJBNWJvOThhaTV2TURKSkVaQUZCRElZVHc2eHl2UGh1MDZhNzZQOUxPX0t3bFBjUG9TNkpzYUJNRkg2SVdn?oc=5",
+      "source": "pando.life",
+      "published": "2026-09-22 03:02",
+      "summary": "日本の銀行業界のクラウドセキュリティ市場2026年版 &nbsp;&nbsp; pando.life",
       "tags": [
-        "NTTデータ"
+        "地銀",
+        "サイバー",
+        "リスク管理"
       ],
       "signals": [
-        "nttdata"
+        "cyber"
       ],
-      "importance": 65,
+      "importance": 59,
       "confidence": "低",
-      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
-      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
-      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
-      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 47.8,
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 38.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "EnterpriseZine"
+        "pando.life"
       ]
     }
   ]
