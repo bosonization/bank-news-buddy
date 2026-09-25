@@ -1,10 +1,103 @@
 {
-  "generated_at": "2026-09-25 23:25 JST",
+  "generated_at": "2026-09-26 08:44 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": []
+  "items": [
+    {
+      "id": "5c7159dc339b0cbf",
+      "category": "最新AI技術",
+      "title": "AIを導入したのになぜ、企業は変われないのか？ 東大発AIベンチャーの経営者兼トップエンジニアが、組織の成果を最大化するAI活用法をまとめた書籍『AIエージェント組織実装の最適解』が本日発売！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOcDBLREk5RWpDX0pLemdWLTdfWlFTOTNuVlRRZ1FVa0tQMGZBMllvV1J5ODgxcTRDQVQyTTJGSE4tQkFXamZPeENGN0tybE1rbDJCX1c0N1UySmdmNHEwdG85MzNualYxNUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-25 11:00",
+      "summary": "AIを導入したのになぜ、企業は変われないのか？ 東大発AIベンチャーの経営者兼トップエンジニアが、組織の成果を最大化するAI活用法をまとめた書籍『AIエージェント組織実装の最適解』が本日発売！ &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 21.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "fe8786b6d13269df",
+      "category": "最新AI技術",
+      "title": "日本企業の約8割が「生成AIやAIエージェントを業務に利用」、一方でセキュリティへの投資が遅れる傾向 - @DIME アットダイム",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9oQ0V1aTNINTVoaVBXNVNSSFJ2NDVyRkVuMFRqaml4VjNNd0laRkI0dE16YndWVFZfTGpiektiS3RNYUtL?oc=5",
+      "source": "@DIME アットダイム",
+      "published": "2026-09-24 13:05",
+      "summary": "日本企業の約8割が「生成AIやAIエージェントを業務に利用」、一方でセキュリティへの投資が遅れる傾向 &nbsp;&nbsp; @DIME アットダイム",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "generative_ai",
+        "cyber"
+      ],
+      "importance": 69,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 43.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "@DIME アットダイム"
+      ]
+    },
+    {
+      "id": "5ee088531e6b354a",
+      "category": "地銀",
+      "title": "スパイラル、日本最大の金融ITフェア「FIT2026」に出展～当社顧客の地方銀行様と共同登壇する事例セミナーにて「SPIRAL」によるローン業務DX事例を紹介～ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiTWpLYUkxSjE0YkxYVXd5UWstUEZoYWw2V1Vvd1pSRUF5U2pRbUFUbWZsUnhNS2t5R2FlYi1PbHduTDhlVXcweW9KX2NIdThxM2w0akhyakJEMDhidW1FS0Nuck5HWW1vS1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-24 11:15",
+      "summary": "スパイラル、日本最大の金融ITフェア「FIT2026」に出展～当社顧客の地方銀行様と共同登壇する事例セミナーにて「SPIRAL」によるローン業務DX事例を紹介～ &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 45.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    }
+  ]
 }
