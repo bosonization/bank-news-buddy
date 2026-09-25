@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25 08:42 JST",
+  "generated_at": "2026-09-25 17:32 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,43 @@
   },
   "items": [
     {
-      "id": "5ddcf35037b74a6d",
+      "id": "5c7159dc339b0cbf",
       "category": "最新AI技術",
-      "title": "エイクエント、日本代表に石崎健一郎が就任 AIオーケストレーションで事業を伸ばす「AI人材」の紹介・派遣を本格始動 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qYVdabDNnUERWS0JWaFJ2RkFFbFJ3cDdpTE55bmh4eFdkTW5FLUdOU1ppblNydnMzc0F2N0dnZ3M1dWNjcDJHTkRtWVJCME94MnkweTlqQUdpVVpveERyM3k1Y3dnUk96dlhGb21MMFJ5dllJTF9yTjl1UQ?oc=5",
+      "title": "AIを導入したのになぜ、企業は変われないのか？ 東大発AIベンチャーの経営者兼トップエンジニアが、組織の成果を最大化するAI活用法をまとめた書籍『AIエージェント組織実装の最適解』が本日発売！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOcDBLREk5RWpDX0pLemdWLTdfWlFTOTNuVlRRZ1FVa0tQMGZBMllvV1J5ODgxcTRDQVQyTTJGSE4tQkFXamZPeENGN0tybE1rbDJCX1c0N1UySmdmNHEwdG85MzNualYxNUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-25 11:00",
+      "summary": "AIを導入したのになぜ、企業は変われないのか？ 東大発AIベンチャーの経営者兼トップエンジニアが、組織の成果を最大化するAI活用法をまとめた書籍『AIエージェント組織実装の最適解』が本日発売！ &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 6.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "fd6084124d676784",
+      "category": "最新AI技術",
+      "title": "【AI博覧会2026 Fukuoka】株式会社Co-Labo - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIeDdOMmFVdzFJaXJyb3ZTUzdrSko0UUFpek1DNWNnSmlvTy1QZlU1RTh5aTBsSlFoMHZEWTZpNWszdU56Z3B2UE9GaWZGNHpScHl2NHNkX3VVZDJUZjdTVWtjRWZOWTFoUkN4bWlqbHlJWkpfX3duV3Mwbw?oc=5",
       "source": "ニコニコニュース",
-      "published": "2026-09-25 00:45",
-      "summary": "エイクエント、日本代表に石崎健一郎が就任 AIオーケストレーションで事業を伸ばす「AI人材」の紹介・派遣を本格始動 &nbsp;&nbsp; ニコニコニュース",
+      "published": "2026-09-25 09:51",
+      "summary": "【AI博覧会2026 Fukuoka】株式会社Co-Labo &nbsp;&nbsp; ニコニコニュース",
       "tags": [
         "最新AI技術"
       ],
@@ -26,7 +56,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 8.0,
+      "age_hours": 7.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -59,7 +89,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 19.6,
+      "age_hours": 28.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -88,7 +118,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 21.5,
+      "age_hours": 30.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
