@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 17:56 JST",
+  "generated_at": "2026-09-27 23:33 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,41 @@
   },
   "items": [
     {
-      "id": "9e18ccf9666f780c",
+      "id": "fcbb1b3253426d41",
+      "category": "メガバンク",
+      "title": "メガバンクもAIでCMを作る時代。クリエイティブの価値はどう変わるのか - newspicks.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwUXdsZVJITmZZRXhwZkU2MnNkMDYteDJCNnYtaHlQNVV1aTVtRl9fenVkeGVjSnZrRVBSWmJ2UklxNkN5V1gxQUJjNER6eGNSVEVyeVR3?oc=5",
+      "source": "newspicks.com",
+      "published": "2026-09-26 18:38",
+      "summary": "メガバンクもAIでCMを作る時代。クリエイティブの価値はどう変わるのか &nbsp;&nbsp; newspicks.com",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 28.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "newspicks.com"
+      ]
+    },
+    {
+      "id": "9d51685c2e654c6c",
       "category": "地銀",
-      "title": "法人向けバンキングアプリの地域金融機関への提供について - news.nicovideo.jp",
+      "title": "法人向けバンキングアプリの地域金融機関への提供について - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85UkhpcVRJeUQwSDFNc0lRVGRwTjVkYUwyekpBM0NFVnRxWS00eXJCZExwcWJOcW96R0dRQ3FCYk9waHVtcGcwNTBWdlNuM1pob25zZQ?oc=5",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "published": "2026-09-26 10:15",
-      "summary": "法人向けバンキングアプリの地域金融機関への提供について &nbsp;&nbsp; news.nicovideo.jp",
+      "summary": "法人向けバンキングアプリの地域金融機関への提供について &nbsp;&nbsp; ニコニコニュース",
       "tags": [
         "地銀",
         "地域金融"
@@ -29,11 +57,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 31.7,
+      "age_hours": 37.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "news.nicovideo.jp"
+        "ニコニコニュース"
       ]
     },
     {
@@ -58,7 +86,7 @@
       "question": "営業店の中で、行員の時間を一番奪っている事務は何だと感じますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 32.4,
+      "age_hours": 38.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
