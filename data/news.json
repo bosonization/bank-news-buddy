@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 08:19 JST",
+  "generated_at": "2026-09-27 17:56 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "490f1ed2fb238ce8",
+      "id": "9e18ccf9666f780c",
       "category": "地銀",
-      "title": "法人向けバンキングアプリの地域金融機関への提供について - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04dFhKdFJrWmFlQzJiVGxXQVJoT1p3TlJjTEExUHJJTGJaMHMzYW9hYmNzb2lMbEhfSWdDY0lDcm1xRFZQU3k1ZExoRHkxWE43a1EzcDVkc3VyOXBuZHMzdTYzYjRHTlpQ?oc=5",
-      "source": "ニコニコニュース",
+      "title": "法人向けバンキングアプリの地域金融機関への提供について - news.nicovideo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85UkhpcVRJeUQwSDFNc0lRVGRwTjVkYUwyekpBM0NFVnRxWS00eXJCZExwcWJOcW96R0dRQ3FCYk9waHVtcGcwNTBWdlNuM1pob25zZQ?oc=5",
+      "source": "news.nicovideo.jp",
       "published": "2026-09-26 10:15",
-      "summary": "法人向けバンキングアプリの地域金融機関への提供について &nbsp;&nbsp; ニコニコニュース",
+      "summary": "法人向けバンキングアプリの地域金融機関への提供について &nbsp;&nbsp; news.nicovideo.jp",
       "tags": [
         "地銀",
         "地域金融"
@@ -29,11 +29,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 22.1,
+      "age_hours": 31.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ニコニコニュース"
+        "news.nicovideo.jp"
       ]
     },
     {
@@ -58,69 +58,11 @@
       "question": "営業店の中で、行員の時間を一番奪っている事務は何だと感じますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 22.8,
+      "age_hours": 32.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "Newscast.jp"
-      ]
-    },
-    {
-      "id": "e75b17661129f7a4",
-      "category": "メガバンク",
-      "title": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ2xpZlZQU0lOOVdzeVl2VHFEdVBwZnV5TUw5ak1SQjdFenEwbVF6eEZReENCQmVoQzNyRng4U1pYclR0Uld1RXQ1VQ?oc=5",
-      "source": "thinkit.co.jp",
-      "published": "2026-09-25 16:41",
-      "summary": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 &nbsp;&nbsp; thinkit.co.jp",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 39.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "thinkit.co.jp"
-      ]
-    },
-    {
-      "id": "5c7159dc339b0cbf",
-      "category": "最新AI技術",
-      "title": "AIを導入したのになぜ、企業は変われないのか？ 東大発AIベンチャーの経営者兼トップエンジニアが、組織の成果を最大化するAI活用法をまとめた書籍『AIエージェント組織実装の最適解』が本日発売！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOcDBLREk5RWpDX0pLemdWLTdfWlFTOTNuVlRRZ1FVa0tQMGZBMllvV1J5ODgxcTRDQVQyTTJGSE4tQkFXamZPeENGN0tybE1rbDJCX1c0N1UySmdmNHEwdG85MzNualYxNUE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-25 11:00",
-      "summary": "AIを導入したのになぜ、企業は変われないのか？ 東大発AIベンチャーの経営者兼トップエンジニアが、組織の成果を最大化するAI活用法をまとめた書籍『AIエージェント組織実装の最適解』が本日発売！ &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 45.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
       ]
     }
   ]
