@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28 08:32 JST",
+  "generated_at": "2026-09-28 18:22 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,156 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "2d71cce0e4bb1195",
+      "category": "最新AI技術",
+      "title": "AlpacaTechと日本生命が共同開発したAIエージェント「VotePilot」が議決権行使業務を革新する - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZS0VfMnA3Um1VX2Q1cklla0x4LWZDN0ZNcGh1N21UWGFPQndVV1ptVmJ5anBDbFZpYXc5V2xmMEFfLU9xRUhKb3lpMFJldVg2UWw5cFRheERscE5JNkM5bFNENEYwSWs?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-09-28 15:36",
+      "summary": "AlpacaTechと日本生命が共同開発したAIエージェント「VotePilot」が議決権行使業務を革新する &nbsp;&nbsp; ニュースメディアVOIX",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 2.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニュースメディアVOIX"
+      ]
+    },
+    {
+      "id": "4ab77d33a465fd96",
+      "category": "最新AI技術",
+      "title": "AlpacaTech、日本生命とSnowflakeを活用した議決権行使業務支援AIエージェント「VotePilot」を共同開発 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UOHFwNW9YemdwMWl1VVpabG1QdnZ0R01FaWpmUVhPY2NHS3pneHpnV2xwcTRWeE1rTzA0cWtsNFE0ZFFCU3ZXa0VUSlljTFEyWWxZTmVrbmgxbHlWazZXMVV1dHJlUGpOR2c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-28 14:00",
+      "summary": "AlpacaTech、日本生命とSnowflakeを活用した議決権行使業務支援AIエージェント「VotePilot」を共同開発 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 4.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "58fa4ea6536b8ace",
+      "category": "最新AI技術",
+      "title": "生成AI活用は進んだか？4つの指標で自社の現在地を診断 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2TzFxMm9fcTdGTTc0STRTenZYbHZhdjZ3Z0RVZWxaV3JDbzZQUUxva3IzdnY3OEtIWlNCSXMtUUI1aVFwdk9pRmtfMm14SHYtV1BpUnF1REhBeThZ?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-09-28 12:48",
+      "summary": "生成AI活用は進んだか？4つの指標で自社の現在地を診断 &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 5.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "2c2566dcfd63ba05",
+      "category": "最新AI技術",
+      "title": "AIエージェントのシステム侵入事例に学ぶ安全対策 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTN2tpVXF3SExXeDJ0X0JpWC1WOVh0VVBtdGtWZXpQbzRtVzRFeGtXNzRXSE9XdzNkSUIxZ2h5b3d1alFLYTlTZngtcHRmRmdaLXNN?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-09-28 07:00",
+      "summary": "AIエージェントのシステム侵入事例に学ぶ安全対策 &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 11.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "4ce5ba304806bd15",
+      "category": "その他",
+      "title": "顧客を守るために｢銀行システム｣を止める日が来る…官民会議の座長が語る､直面しているサイバー脅威と新たな防衛策 - 東洋経済オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RWndRaXVhbVVhVFJrcmFwTm9lRHF2dm5NR1RpZFQ4ZnpXSG9UT1pFLWhFOTdNUUpwMDBfRVZyanFSWUVEaDZEcmRZLUN2cmFvTDlEUmFkWjQ1Nlk?oc=5",
+      "source": "東洋経済オンライン",
+      "published": "2026-09-28 06:00",
+      "summary": "顧客を守るために｢銀行システム｣を止める日が来る…官民会議の座長が語る､直面しているサイバー脅威と新たな防衛策 &nbsp;&nbsp; 東洋経済オンライン",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "cyber"
+      ],
+      "importance": 51,
+      "confidence": "低",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 12.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "東洋経済オンライン"
+      ]
+    },
     {
       "id": "fcbb1b3253426d41",
       "category": "メガバンク",
@@ -28,69 +178,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 37.9,
+      "age_hours": 47.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "newspicks.com"
-      ]
-    },
-    {
-      "id": "9d51685c2e654c6c",
-      "category": "地銀",
-      "title": "法人向けバンキングアプリの地域金融機関への提供について - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85UkhpcVRJeUQwSDFNc0lRVGRwTjVkYUwyekpBM0NFVnRxWS00eXJCZExwcWJOcW96R0dRQ3FCYk9waHVtcGcwNTBWdlNuM1pob25zZQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-09-26 10:15",
-      "summary": "法人向けバンキングアプリの地域金融機関への提供について &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 46.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
-      ]
-    },
-    {
-      "id": "917160605145c13a",
-      "category": "最新AI技術",
-      "title": "フィンテックにおけるAI市場、2035年に815億5,000万米ドルへ拡大｜CAGR 17%、金融業務の自動化・不正検知・パーソナライゼーションが成長を牽引 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VRE4wSVdQTVBEWW1ld3NMQTk4RGtrUVZJclNQWVVrd1lMeVdpYmZDdHN5S25qN1laYmFPNjZyVmNoV1hCbnFXZ3dURzNhZUU?oc=5",
-      "source": "Newscast.jp",
-      "published": "2026-09-26 09:30",
-      "summary": "フィンテックにおけるAI市場、2035年に815億5,000万米ドルへ拡大｜CAGR 17%、金融業務の自動化・不正検知・パーソナライゼーションが成長を牽引 &nbsp;&nbsp; Newscast.jp",
-      "tags": [
-        "最新AI技術",
-        "業務効率化"
-      ],
-      "signals": [
-        "operations"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
-      "talk": "『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
-      "question": "営業店の中で、行員の時間を一番奪っている事務は何だと感じますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 47.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Newscast.jp"
       ]
     }
   ]
