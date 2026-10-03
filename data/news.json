@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03 23:08 JST",
+  "generated_at": "2026-10-04 08:28 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,38 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "abdf99da8558541b",
+      "category": "最新AI技術",
+      "title": "まだ手作業でテストしてるの？ソニー銀行と富士通が実現した、生成AIに「面倒な作業を9割任せる」最強の業務効率化術 - DXマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iekdfQ2xJZE1BTW1aNzhlM296QlJtUzRablV2X0owYlNKUXFZTFJQMzJHUWkzWU9YNmplal9waHlNcXVxT1J1NFRONkVlLTJmeWlRVG5QNnlaVmQ0?oc=5",
+      "source": "DXマガジン",
+      "published": "2026-10-04 00:28",
+      "summary": "まだ手作業でテストしてるの？ソニー銀行と富士通が実現した、生成AIに「面倒な作業を9割任せる」最強の業務効率化術 &nbsp;&nbsp; DXマガジン",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "業務効率化"
+      ],
+      "signals": [
+        "generative_ai",
+        "operations"
+      ],
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 8.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "DXマガジン"
+      ]
+    },
     {
       "id": "96cdee52a776d4cb",
       "category": "最新AI技術",
@@ -26,71 +58,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 17.6,
+      "age_hours": 27.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ニコニコニュース"
-      ]
-    },
-    {
-      "id": "15c288634c325aad",
-      "category": "最新AI技術",
-      "title": "日本企業のAI活用の現状は？ 【 答える人 】日本アイ・ビー・エム 竹田千恵・理事（『財界BEST AI AWARD 2026』審査員） - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xVnAxYjNWSDByVnI2RXZqc05zSktQWm1ZYXdiZFljek1VOHBmWDBSNV9OdDdXMVFRekgtcWZULUhZNHBWXzRRblV3VURhNVA0YzNKRGNRRjJmMDFPRkVISk9R0gFiQVVfeXFMTXFWcDFiM1ZIMHJWcjZFdmpzTnNKS1BabVlhd2JkWWN6TVU4cGZYMFI1X050N1cxUVF6SC1xZlQtSFk0cFZfNFFuVXdVRGE1UDRjM0pEY1FGMmYwMU9GRUhKT1E?oc=5",
-      "source": "Infoseek",
-      "published": "2026-10-02 07:00",
-      "summary": "日本企業のAI活用の現状は？ 【 答える人 】日本アイ・ビー・エム 竹田千恵・理事（『財界BEST AI AWARD 2026』審査員） &nbsp;&nbsp; Infoseek",
-      "tags": [
-        "最新AI技術",
-        "融資",
-        "法人営業"
-      ],
-      "signals": [
-        "lending"
-      ],
-      "importance": 48,
-      "confidence": "低",
-      "why_matters": "融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
-      "talk": "AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
-      "question": "法人営業で、面談前の企業理解や提案準備にもっと時間を使えると効果が出そうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 40.1,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Infoseek"
-      ]
-    },
-    {
-      "id": "bf47432b6024a8fe",
-      "category": "最新AI技術",
-      "title": "Vol.16 本格化する企業の生成AI導入 - nikkinonline.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95TzVoRDRCRjg2am9WYl9sVVVocDJGelU5bnpqRHR3eXdtbTZmTkp2Z2hzZWJEcmRHV1FmZEttMklTem9BZUNGM1FJYjFhN0NNd0ZmNldSdmFnYnlKZ3h1SlVpUl96U1QwM0E?oc=5",
-      "source": "nikkinonline.com",
-      "published": "2026-10-02 05:34",
-      "summary": "Vol.16 本格化する企業の生成AI導入 &nbsp;&nbsp; nikkinonline.com",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 41.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "nikkinonline.com"
       ]
     }
   ]
