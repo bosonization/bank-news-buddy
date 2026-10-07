@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07 09:18 JST",
+  "generated_at": "2026-10-07 18:50 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,45 @@
   },
   "items": [
     {
-      "id": "6e734e70c7d3abfb",
+      "id": "e19191660518613b",
       "category": "最新AI技術",
-      "title": "エクサウィザーズグループ、1,371社、15.5万ユーザーの利用実態調査で企業内で進むAI活用の「二極化」が明らかに - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxVUlvYl80WFBlMnpfQVg2cUJfa0R4SEZuaTFkcmMzLU1Eb3pSNWxxeGhmeFpZekloNFVZRnRMalpMTGlEU3pRYkVVSzE1aHRzWDZQVkVjZTN2Z19XTHg2cUZNY0ZGdENLQWpQcENjVDlnbVpJTXBoM0NRSQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-06 22:21",
-      "summary": "エクサウィザーズグループ、1,371社、15.5万ユーザーの利用実態調査で企業内で進むAI活用の「二極化」が明らかに &nbsp;&nbsp; ニコニコニュース",
+      "title": "NTTドコモビジネス、AIエージェント時代に向け「Trusted Data Fabric」構想 - 日本IBMとAIガバナンスで協業 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tek4xVHpDR0RnZm5SemdZWHUtLXY4dVg0V1pxSEN2eDN1czAwUDl0U0Jja2F0UVY5RUhhaXMtcHAxTWR1Q0ZqZmk2Wk9yZjhXLUdLb0QyTWtXU3BqVWRPMWwzcnlSNy13STkyYkNBUEFmUlV4RVkw0gF8QVVfeXFMTm16d2l6R3EzeXlIelpXXzM0aFMtWHQxQ29KU3ctWTZoV3dyZm52ZGxhdWtGaTNYN0o5U3ZJSVVWUkdkODRsNlVaZmZnQXhjRk9RUzVMemhzZ0ZaWTRlNUhBZkRpNEdpNDhyMjE0WmVycS01WlMzQk1QNHZ6MQ?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-10-07 17:40",
+      "summary": "NTTドコモビジネス、AIエージェント時代に向け「Trusted Data Fabric」構想 - 日本IBMとAIガバナンスで協業 &nbsp;&nbsp; ｄメニューニュース",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "ガバナンス"
+      ],
+      "signals": [
+        "generative_ai",
+        "governance"
+      ],
+      "importance": 65,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 1.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ｄメニューニュース"
+      ]
+    },
+    {
+      "id": "59f7cbbad93f852f",
+      "category": "最新AI技術",
+      "title": "ドコモビジネスと日本IBM、自律AIの安全策で協業 金融・医療向けに26年度中商用化 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sV0w5Wm5DOUV5MjdwNVF4clJGU1UzaTRmalRON1UwcXRieHBkS1ROM0l4cXg1RzB6Vzg1MDV5RmN3NGllYzB4UFNkOVRMWkFOLUpOeHZWcjdCYUpKUk56QU45QzZ3Q1o1ZG1qSkx1Nnk5UC1W?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-10-07 17:05",
+      "summary": "ドコモビジネスと日本IBM、自律AIの安全策で協業 金融・医療向けに26年度中商用化 &nbsp;&nbsp; BigGo ファイナンス",
       "tags": [
         "最新AI技術"
       ],
@@ -26,11 +58,246 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 11.0,
+      "age_hours": 1.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "BigGo ファイナンス"
+      ]
+    },
+    {
+      "id": "e0c98ce656e35cd5",
+      "category": "最新AI技術",
+      "title": "タナベコンサルティング×JAPAN AI「AI経営実装コンサルティング」提供開始 - STRAIGHT PRESS",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zMVBUWHVxMWdzWjFwS19lUUdWbUpIT2VjQ1o3c1M1Um9vaFdsTDRVWUlMWkgyWUJQbjgwQll6aWZpdk5aUG1WdXlsWU1ZemphZG1qbDU0eTFvalVGZGNRTjdfNG1rRTF0U3dHS2xXQmNHajFJ?oc=5",
+      "source": "STRAIGHT PRESS",
+      "published": "2026-10-07 17:02",
+      "summary": "タナベコンサルティング×JAPAN AI「AI経営実装コンサルティング」提供開始 &nbsp;&nbsp; STRAIGHT PRESS",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 1.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "STRAIGHT PRESS"
+      ]
+    },
+    {
+      "id": "68e93a91cadc88e5",
+      "category": "最新AI技術",
+      "title": "NTTドコモビジネスと日本IBMがAIガバナンスで協業 「安心して任せられるAIエージェント」実現へ - ビジネスネットワーク",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BS005OExmR0lSYUEtaHR5bjNiVFcyQjFXalozcDNJc01UZVVibDlESVpxalJZYVprM3JkaXJBMGRMd3BMbWU5Rnp1SW5mY29WOC1Z?oc=5",
+      "source": "ビジネスネットワーク",
+      "published": "2026-10-07 15:56",
+      "summary": "NTTドコモビジネスと日本IBMがAIガバナンスで協業 「安心して任せられるAIエージェント」実現へ &nbsp;&nbsp; ビジネスネットワーク",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "ガバナンス"
+      ],
+      "signals": [
+        "generative_ai",
+        "governance"
+      ],
+      "importance": 65,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 2.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ビジネスネットワーク"
+      ]
+    },
+    {
+      "id": "20ab356806742a41",
+      "category": "メガバンク",
+      "title": "【申込受付開始｜参加無料】三井住友銀行・常陽銀行が登壇！金融機関のDX・生成AI活用を徹底解説「金融機関におけるDX実 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBS2VjMW9nOEh2UVloNTQxcUhodFpqMHBKQ3FPUF9SV0MwVHd5TThuckNpa1dwUmo0SmdDRXNsWV9QaV9veGtXVFI5dkt2V1RvOGIwTHI3Vy1zb0dlT1RBNTE4T3pUc19TNkV5RUJyVnZtZmoyTklsRUVPVQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-10-07 15:45",
+      "summary": "【申込受付開始｜参加無料】三井住友銀行・常陽銀行が登壇！金融機関のDX・生成AI活用を徹底解説「金融機関におけるDX実 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "メガバンク",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai",
+        "megabank"
+      ],
+      "importance": 67,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 3.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "fe7959374dc126b0",
+      "category": "地銀",
+      "title": "UPWARD、「Field Sales 360 地方銀行向け金融特化パッケージ 」を提供開始：saleszine - MarkeZine（マーケジン）",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyeXZVR09hay0wTVJwRkdMc19Ud2N5LWxZd0t0cnZ3bFF4OTRKOVNOc0RReHFINzRLbFZaNUY2WXBnbHRNcDBkRjl1MWNCQk0?oc=5",
+      "source": "MarkeZine（マーケジン）",
+      "published": "2026-10-07 15:04",
+      "summary": "UPWARD、「Field Sales 360 地方銀行向け金融特化パッケージ 」を提供開始：saleszine &nbsp;&nbsp; MarkeZine（マーケジン）",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "MarkeZine（マーケジン）"
+      ]
+    },
+    {
+      "id": "6df81db1acccf23c",
+      "category": "最新AI技術",
+      "title": "日本基幹産業労働組合連合会、法人向けAIエージェント「ENSOU AI」を導入 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAydVpBa2UteEJIVHMyY2tDRHlqeU9rS01OTF9KanhQYU4yOFlQaWFjMGN5TVhwanFjWTZzcmpBUXV4bmg5SWhPLWoyTTdYdC1TV24ta3dicjZGcFZBVEdpSlc1R3Y4TDNtV0E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-10-07 14:03",
+      "summary": "日本基幹産業労働組合連合会、法人向けAIエージェント「ENSOU AI」を導入 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 4.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "af48aa72d7e52f88",
+      "category": "最新AI技術",
+      "title": "NTTドコモビジネスと日本IBM、AIエージェントの管理・監査に向けAIガバナンス領域で協業 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03MnR6c3pDSzRseW1abkNoWEdYMjI2azFQZ2VBX0Z6SGlCUkVpQmZyVV9BV3cwUzl1RkJ6dUYxeG82YUhzaC1QTWtOYk1Bdw?oc=5",
+      "source": "CodeZine",
+      "published": "2026-10-07 12:30",
+      "summary": "NTTドコモビジネスと日本IBM、AIエージェントの管理・監査に向けAIガバナンス領域で協業 &nbsp;&nbsp; CodeZine",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用",
+        "ガバナンス"
+      ],
+      "signals": [
+        "generative_ai",
+        "governance"
+      ],
+      "importance": 65,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 6.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "CodeZine"
+      ]
+    },
+    {
+      "id": "05024084a1f0484f",
+      "category": "最新AI技術",
+      "title": "NTTドコモビジネスと日本IBM、AIガバナンス領域で協業を開始 - IBM Japan Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZThhUWxYZ3dCY2V1SXd3THVseVJpa2xqNmlZcTA3Q2U5NjNJRkFSTGxGYXR5amJWdURhRnI4MkNidjgzRDJVUDlqTGI0QUhjb1VGNVM0Z2hNWXNtTFdaa20yZi1RRDF0X0ZrcmkzMWdCSG0wT3dEN0drVUxPalpJbzdSbXBkNDRBWTBSZXBlb3ROQkpXYjN3OTF3TWphSXpHLUJwSWZ0VzdRZDNwNkdJ?oc=5",
+      "source": "IBM Japan Newsroom",
+      "published": "2026-10-07 11:04",
+      "summary": "NTTドコモビジネスと日本IBM、AIガバナンス領域で協業を開始 &nbsp;&nbsp; IBM Japan Newsroom",
+      "tags": [
+        "最新AI技術",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 7.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "IBM Japan Newsroom"
+      ]
+    },
+    {
+      "id": "afafffe60f0df304",
+      "category": "最新AI技術",
+      "title": "EYストラテジー・アンド・コンサルティング、AI企業変革支援サービス「EY.ai Value Blueprints」を提供開始 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3UnVYbHpkV0ljbzI1dmFOODd0Ni0zZHhNSUlGUm9wZkluSll3RzRBSFM1eDFvaERhMDJnd2xlY1d2UFd4cWFnUFc4WQ?oc=5",
+      "source": "47NEWS",
+      "published": "2026-10-07 11:00",
+      "summary": "EYストラテジー・アンド・コンサルティング、AI企業変革支援サービス「EY.ai Value Blueprints」を提供開始 &nbsp;&nbsp; 47NEWS",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 7.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "47NEWS"
       ]
     },
     {
@@ -58,42 +325,12 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 11.5,
+      "age_hours": 21.0,
       "is_recent": true,
-      "duplicate_count": 3,
+      "duplicate_count": 2,
       "related_sources": [
         "読売新聞",
-        "Yahoo!ニュース",
         "ｄメニューニュース"
-      ]
-    },
-    {
-      "id": "44f7c0c3758c033b",
-      "category": "地銀",
-      "title": "日々の渉外活動を事業性評価の起点に。UPWARD「地方銀行向け金融特化パッケージ」提供開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91ZjJCc0Y1TDhPNXNyNm1TQTNOOE9SYWRHamZYVS0yYUxjdE9uM3hDZ1BoOE1MLVUyX3B1S3ZqVjRGc0c4dnVRQkJxcjNfU0RuMVdOczhtSkFLUERjSVVFN3NSV1cyRkh5TXAyVVRrdkdRLXlBTUhtWEI4WQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-06 18:30",
-      "summary": "日々の渉外活動を事業性評価の起点に。UPWARD「地方銀行向け金融特化パッケージ」提供開始 &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 14.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
       ]
     },
     {
@@ -121,7 +358,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 16.1,
+      "age_hours": 25.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -153,7 +390,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 17.5,
+      "age_hours": 27.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -185,7 +422,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 18.1,
+      "age_hours": 27.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -193,13 +430,13 @@
       ]
     },
     {
-      "id": "9edcf1048d9bb8c5",
+      "id": "6563bb3596b575a8",
       "category": "メガバンク",
-      "title": "みずほ証券、国内金融業界初の直接液冷サーバ導入 - AI基盤強化も視野 - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IemgtYy0yc05PbUVEUVNLblNSMXozSzhJLUxQRGlkdER6VXpkazlNN3VyaERSVzJUUVE0cG1LSk5Vc1ZvMFRXa21nSWF5NktXM1hnWkQ1cVl1N1hSanpSSTBOZzNJMnQ3b0oydWdYRTI2VXdTTWVB0gF8QVVfeXFMT2oyYndkNEI3TnZIWTVGay1WNnlvNnhFNkRrS3VJZzczXzZvOE1xQm91NXlRQmRPTExJRjNtejJkM3gxRXdabnRWUjE3R1J0T0xPNm1mS0NKak5TRmlodlF5dm9EMFpfc0dyRGQzMmlWSTZldEpWeDV5bkhsMQ?oc=5",
-      "source": "ｄメニューニュース",
+      "title": "みずほ証券、国内金融業界初の直接液冷サーバ導入 - AI基盤強化も視野 - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ta1ZZdkRfY3dISmppT2hueF9RRVI4ZUxfVDdpRHJUQ3VaNzRxeUFpVmx4WVlwSUZsS0RRQlRPTXhpTHd4NHZzNlo3Q1ZmQjRyTlYxNEMyLXBSSXVsbktwbG5XcVkxdU05?oc=5",
+      "source": "マイナビニュース",
       "published": "2026-10-06 13:00",
-      "summary": "みずほ証券、国内金融業界初の直接液冷サーバ導入 - AI基盤強化も視野 &nbsp;&nbsp; ｄメニューニュース",
+      "summary": "みずほ証券、国内金融業界初の直接液冷サーバ導入 - AI基盤強化も視野 &nbsp;&nbsp; マイナビニュース",
       "tags": [
         "メガバンク"
       ],
@@ -213,21 +450,21 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.3,
+      "age_hours": 29.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ｄメニューニュース"
+        "マイナビニュース"
       ]
     },
     {
-      "id": "45566ae660df1df8",
+      "id": "557a9576d0ca3e06",
       "category": "地銀",
-      "title": "UPWARDが提供する地方銀行向け金融特化パッケージで渉外活動を革新する - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsaVBzSXdueFJTeWpnZHdaeFNTOTdKREotb2hvb2x2SzBaeWt2N0ExRy1pY3o2V256V3huWV9USk5UUjNJQTVMZUdBOURtVjlFMy1LTUR6dWFnVDlVSWZFSnNBMVZvS0VsdU5ZVHFjdnk?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-10-06 12:50",
-      "summary": "UPWARDが提供する地方銀行向け金融特化パッケージで渉外活動を革新する &nbsp;&nbsp; ニュースメディアVOIX",
+      "title": "地域金融機関のネットワークを活かした農山漁村の課題解決の実現 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zYWNYRkJyZzI1cWpuWVNwRTNQeUZKOGhXYVJXM2w5LUtxVnBPdm1EbDdQNlZJdWhqaU5TYTdraHFXY0gwRUltY1IwRnFfMkNTVlE?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-10-06 07:04",
+      "summary": "地域金融機関のネットワークを活かした農山漁村の課題解決の実現 &nbsp;&nbsp; 山陽新聞",
       "tags": [
         "地銀",
         "地域金融"
@@ -242,11 +479,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.5,
+      "age_hours": 35.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ニュースメディアVOIX"
+        "山陽新聞"
       ]
     },
     {
@@ -272,7 +509,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 26.6,
+      "age_hours": 36.2,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
@@ -299,70 +536,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 28.2,
+      "age_hours": 37.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ニッキンONLINE"
-      ]
-    },
-    {
-      "id": "4a3f9484de4fc652",
-      "category": "地銀",
-      "title": "地域金融機関のネットワークを活かした農山漁村の課題解決の実現 - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MM1pNc3hBYUhNVHRUbk8zcTFBYkQ3ZEI1WFpJX0s3WHRueElEZVZsSlVNY2MtQjJUX1JHejdmNE5SUmd6a2xUeDctNHdZV3hBWjVRYXhZNHRmQThMUEhhdm9tUFBOSlZYSjRNenZUUEc?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-10-06 04:00",
-      "summary": "地域金融機関のネットワークを活かした農山漁村の課題解決の実現 &nbsp;&nbsp; 山陽新聞",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 29.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "山陽新聞"
-      ]
-    },
-    {
-      "id": "527d6ddf3022cf6b",
-      "category": "最新AI技術",
-      "title": "日立ソリューションズ西日本、生成AIで金融機関の業務規程確認を効率化する新サービス - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fbzRvQnYzaTFpQW9uM2toQmJzeF83dHBISjl4OHFWNi01MGZyWVc0RXloU045dEo0N1NRNHZuanJrYTJhZjVLRnZta3FFbDZ5RmRTX0paYUt4X3pxdFFMQ0RCajhlNDQ?oc=5",
-      "source": "クラウド Watch",
-      "published": "2026-10-05 15:23",
-      "summary": "日立ソリューションズ西日本、生成AIで金融機関の業務規程確認を効率化する新サービス &nbsp;&nbsp; クラウド Watch",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 41.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "クラウド Watch"
       ]
     }
   ]
