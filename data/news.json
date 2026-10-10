@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 18:25 JST",
+  "generated_at": "2026-10-11 00:02 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,39 @@
   },
   "items": [
     {
-      "id": "92e840edce26dac7",
+      "id": "39d17d312724d8db",
+      "category": "地銀",
+      "title": "北国銀、受付発券システム開発 データで店舗運営高度化 - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZWd1TU9fZkk4aEJycF9raE93d3lueFR1dTNfVFhRTTVxS3l0MTR4MUFMU2NEcVNNVTBLRWdtRk9ka2xXMFBYRF9YM1kyWmdmNDZVZ3FB?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-10-09 13:30",
+      "summary": "北国銀、受付発券システム開発 データで店舗運営高度化 &nbsp;&nbsp; ニッキンONLINE",
+      "tags": [
+        "地銀"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 34.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニッキンONLINE"
+      ]
+    },
+    {
+      "id": "b6a5142b6e53995b",
       "category": "その他",
-      "title": "金融機関で培った診断・認証の知見で、AI時代の攻撃に備える「セキュリティ相談窓口」の開設に関するお知らせ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUmdvOTdISHV3Q3ZSc0NRWDZBM1AwUmU0ODBiWElKeVl6WmtWQ3prZll1ZkZjQWxzYndsUFhMUndQc0xXWVlVMWEzSktlRlVBc1NPSEREa3JDdVM5NEt4NGxkN2gtc0U4?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-10 05:15",
-      "summary": "金融機関で培った診断・認証の知見で、AI時代の攻撃に備える「セキュリティ相談窓口」の開設に関するお知らせ &nbsp;&nbsp; ニコニコニュース",
+      "title": "韓国でもサイバー攻撃多発 金融機関狙い、ＡＩ悪用か - 静岡新聞DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUHJNQ1VMRDNlTGV2U2hNQzJYczRnWlFzNkNnWWlzX09ocGY5M1Y5V0t0NmtsbXZPZzdBRXBUZ1huV3RFNTgyQ2dmVEhYUQ?oc=5",
+      "source": "静岡新聞DIGITAL",
+      "published": "2026-10-09 13:25",
+      "summary": "韓国でもサイバー攻撃多発 金融機関狙い、ＡＩ悪用か &nbsp;&nbsp; 静岡新聞DIGITAL",
       "tags": [
         "その他",
         "サイバー",
@@ -30,11 +56,11 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 13.2,
+      "age_hours": 34.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ニコニコニュース"
+        "静岡新聞DIGITAL"
       ]
     },
     {
@@ -62,7 +88,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 30.4,
+      "age_hours": 36.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -94,7 +120,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 30.5,
+      "age_hours": 36.1,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
@@ -125,7 +151,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 32.4,
+      "age_hours": 38.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -153,7 +179,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 37.4,
+      "age_hours": 43.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
