@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 09:03 JST",
+  "generated_at": "2026-10-11 18:40 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,122 +8,33 @@
   },
   "items": [
     {
-      "id": "39d17d312724d8db",
-      "category": "地銀",
-      "title": "北国銀、受付発券システム開発 データで店舗運営高度化 - ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZWd1TU9fZkk4aEJycF9raE93d3lueFR1dTNfVFhRTTVxS3l0MTR4MUFMU2NEcVNNVTBLRWdtRk9ka2xXMFBYRF9YM1kyWmdmNDZVZ3FB?oc=5",
-      "source": "ニッキンONLINE",
-      "published": "2026-10-09 13:30",
-      "summary": "北国銀、受付発券システム開発 データで店舗運営高度化 &nbsp;&nbsp; ニッキンONLINE",
-      "tags": [
-        "地銀"
-      ],
-      "signals": [],
-      "importance": 43,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 43.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニッキンONLINE"
-      ]
-    },
-    {
-      "id": "b6a5142b6e53995b",
-      "category": "その他",
-      "title": "韓国でもサイバー攻撃多発 金融機関狙い、ＡＩ悪用か - 静岡新聞DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUHJNQ1VMRDNlTGV2U2hNQzJYczRnWlFzNkNnWWlzX09ocGY5M1Y5V0t0NmtsbXZPZzdBRXBUZ1huV3RFNTgyQ2dmVEhYUQ?oc=5",
-      "source": "静岡新聞DIGITAL",
-      "published": "2026-10-09 13:25",
-      "summary": "韓国でもサイバー攻撃多発 金融機関狙い、ＡＩ悪用か &nbsp;&nbsp; 静岡新聞DIGITAL",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理"
-      ],
-      "signals": [
-        "cyber"
-      ],
-      "importance": 51,
-      "confidence": "低",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 43.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "静岡新聞DIGITAL"
-      ]
-    },
-    {
-      "id": "382db54d0945a2b7",
-      "category": "その他",
-      "title": "金融庁、金融機関にサイバー対策強化を要請 本人確認の厳格化も - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oT0xURjZ0OEpDZFQ3SHNiQVpWTUM1cnNTRExRZVpOY3V3YU1xdXBDR1YtOHowQWVFSmU1ZGtBMG9HRVJkX1dWVllEa1VSbXBGdWgzOXdrWnU5eDhCS0dZSlhBaWxfZHlmNWJyc0tVRVNnWTdoLXpKSFBoSWo2UQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-09 11:58",
-      "summary": "金融庁、金融機関にサイバー対策強化を要請 本人確認の厳格化も &nbsp;&nbsp; Reuters",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
-      ],
-      "signals": [
-        "cyber",
-        "governance"
-      ],
-      "importance": 63,
-      "confidence": "中",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 45.1,
-      "is_recent": true,
-      "duplicate_count": 2,
-      "related_sources": [
-        "Reuters",
-        "ｄメニューニュース"
-      ]
-    },
-    {
-      "id": "34f652dfc8b9058f",
+      "id": "8ec987ca501d89e2",
       "category": "最新AI技術",
-      "title": "Tenable日本法人トップが説く「AI時代のサイバーセキュリティで何が起きるか」 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QRWpaLXdiaDhMeDVTalhfRkJhUHc2SHBpNkNpeW5TZDdYYUl4aml6R2Q5QXcwZkM1cmhpelJJWTVlUWtvQUt1Ti1xX21aVGJfa2dj?oc=5",
-      "source": "ZDNET Japan",
-      "published": "2026-10-09 10:00",
-      "summary": "Tenable日本法人トップが説く「AI時代のサイバーセキュリティで何が起きるか」 &nbsp;&nbsp; ZDNET Japan",
+      "title": "【AIエージェント時代】日本企業とエンジニアのこれから - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTnhxS1FGSHc2OEhDNmhiTzR3TjVHTWo5QmlDTnM2Q2RPUEhJOFZnbFR4MXVuSkpMbFNlUlBsY0k5MG9KTlJaSVV0RQ?oc=5",
+      "source": "ThinkIT",
+      "published": "2026-10-10 01:18",
+      "summary": "【AIエージェント時代】日本企業とエンジニアのこれから &nbsp;&nbsp; ThinkIT",
       "tags": [
         "最新AI技術",
-        "サイバー",
-        "リスク管理"
+        "生成AI",
+        "AI活用"
       ],
       "signals": [
-        "cyber"
+        "generative_ai"
       ],
-      "importance": 51,
+      "importance": 53,
       "confidence": "低",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 47.1,
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 41.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ZDNET Japan"
+        "ThinkIT"
       ]
     }
   ]
