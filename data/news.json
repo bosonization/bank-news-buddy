@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 00:02 JST",
+  "generated_at": "2026-10-11 09:03 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,7 +26,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 34.5,
+      "age_hours": 43.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -56,43 +56,11 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 34.6,
+      "age_hours": 43.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "静岡新聞DIGITAL"
-      ]
-    },
-    {
-      "id": "e46fad25b5d02f78",
-      "category": "地銀",
-      "title": "金融庁、サイバー対策で注意喚起 全金融機関に「非対面の本人確認徹底を」 - ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtSmljRGJGVjRDUHlKVUJTb3JOSVBsV2laMHhxUVQwSkV2dnJQVmZ6a3Q3UzZYWXNXSzhRamd2SFk3S0ZuVXBuVXQ0NXBSR1FLT3Rybll3?oc=5",
-      "source": "ニッキンONLINE",
-      "published": "2026-10-09 12:03",
-      "summary": "金融庁、サイバー対策で注意喚起 全金融機関に「非対面の本人確認徹底を」 &nbsp;&nbsp; ニッキンONLINE",
-      "tags": [
-        "地銀",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
-      ],
-      "signals": [
-        "cyber",
-        "governance"
-      ],
-      "importance": 71,
-      "confidence": "中",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 36.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニッキンONLINE"
       ]
     },
     {
@@ -120,7 +88,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 36.1,
+      "age_hours": 45.1,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
@@ -151,39 +119,11 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 38.0,
+      "age_hours": 47.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ZDNET Japan"
-      ]
-    },
-    {
-      "id": "a9f43ca8b54c7d17",
-      "category": "メガバンク",
-      "title": "ペガジャパン、AIで業務手順構築 みずほ銀・三菱UFJ銀が採用 - ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0SFduRnhFRENBdkx6bGY3QTB1ckxhbXAzVGNWbUVOZnJGZDRxOEFVMXJqdTJKa1hqcFhzdVdscVdiNDdkaUVCQ09hQTZOOXNIZlBUZ3dR?oc=5",
-      "source": "ニッキンONLINE",
-      "published": "2026-10-09 05:00",
-      "summary": "ペガジャパン、AIで業務手順構築 みずほ銀・三菱UFJ銀が採用 &nbsp;&nbsp; ニッキンONLINE",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 43.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニッキンONLINE"
       ]
     }
   ]
