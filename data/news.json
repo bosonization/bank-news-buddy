@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12 00:19 JST",
+  "generated_at": "2026-10-12 09:08 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,33 +8,35 @@
   },
   "items": [
     {
-      "id": "8ec987ca501d89e2",
+      "id": "2ee5388a6d44b8ec",
       "category": "最新AI技術",
-      "title": "【AIエージェント時代】日本企業とエンジニアのこれから - ThinkIT",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTnhxS1FGSHc2OEhDNmhiTzR3TjVHTWo5QmlDTnM2Q2RPUEhJOFZnbFR4MXVuSkpMbFNlUlBsY0k5MG9KTlJaSVV0RQ?oc=5",
-      "source": "ThinkIT",
-      "published": "2026-10-10 01:18",
-      "summary": "【AIエージェント時代】日本企業とエンジニアのこれから &nbsp;&nbsp; ThinkIT",
+      "title": "NTTドコモビジネスと日本IBM、AIエージェント時代のガバナンス確立へ協業 - 電波新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqOUtRNTNWNjJrYzQ3OHpoX0lBdlZhbUVKVmtrU0Vlem56QVR0ekFhdkZTQS02akN4V1Jza2VKMWswT1hQRHNzWXVoQVhzTmMyT2c?oc=5",
+      "source": "電波新聞デジタル",
+      "published": "2026-10-11 22:06",
+      "summary": "NTTドコモビジネスと日本IBM、AIエージェント時代のガバナンス確立へ協業 &nbsp;&nbsp; 電波新聞デジタル",
       "tags": [
         "最新AI技術",
         "生成AI",
-        "AI活用"
+        "AI活用",
+        "ガバナンス"
       ],
       "signals": [
-        "generative_ai"
+        "generative_ai",
+        "governance"
       ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "importance": 65,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 47.0,
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 11.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ThinkIT"
+        "電波新聞デジタル"
       ]
     }
   ]
