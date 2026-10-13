@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13 03:35 JST",
+  "generated_at": "2026-10-13 11:21 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,35 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "e9186147476ec2bf",
+      "category": "最新AI技術",
+      "title": "NTTドコモビジネスと日本IBM、企業が安心してAIを活用するためのAIガバナンス領域で協業 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vcjA1dW5zZ1JxSkxoOUJmZjZULWN4dzVOZ0JmaEZWUGdmLUxXaXUtX0VxdVkyWi00d2taR05Td3U4Z0wwQVlTR21SVHZQUGp2SW0zSXBHWWNDcjBrQXdJTWRKT21uZnc?oc=5",
+      "source": "クラウド Watch",
+      "published": "2026-10-13 07:00",
+      "summary": "NTTドコモビジネスと日本IBM、企業が安心してAIを活用するためのAIガバナンス領域で協業 &nbsp;&nbsp; クラウド Watch",
+      "tags": [
+        "最新AI技術",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 4.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "クラウド Watch"
+      ]
+    },
     {
       "id": "2ee5388a6d44b8ec",
       "category": "最新AI技術",
@@ -32,7 +61,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 29.5,
+      "age_hours": 37.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
