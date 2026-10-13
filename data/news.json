@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13 11:21 JST",
+  "generated_at": "2026-10-13 19:06 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,36 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "e911a98d0574f7f0",
+      "category": "最新AI技術",
+      "title": "SBI、AIエージェント活用のクロスボーダー金融で協力＝韓国企業と(時事通信) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2xCQm5UODd1Q1pxRkFZX1lWeGtKTDFhczc4bnBGX1RlVEFJNUxyLTlFQnRBamE2N1JBcDdzV2V3SXZoSDBCWTBkeVJpVFBxYzRIYUJQV2huMENzTWtXc0gwajhkRldXWXRTazRDU09VR0FxaFBjaTlEalhYRm5RcmNZU2xmN28?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-13 18:35",
+      "summary": "SBI、AIエージェント活用のクロスボーダー金融で協力＝韓国企業と(時事通信) &nbsp;&nbsp; Yahoo!ファイナンス",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 0.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Yahoo!ファイナンス"
+      ]
+    },
     {
       "id": "e9186147476ec2bf",
       "category": "最新AI技術",
@@ -29,7 +59,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 4.4,
+      "age_hours": 12.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -61,7 +91,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 37.3,
+      "age_hours": 45.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
