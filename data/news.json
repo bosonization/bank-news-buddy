@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14 09:03 JST",
+  "generated_at": "2026-10-14 17:23 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,124 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "438af2d26ae80bd2",
+      "category": "最新AI技術",
+      "title": "JAPAN AI AGENTが「PRO of the DX Award 2026」でAIエージェント部門最優秀賞を受賞した理由 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53NzZQb0RZdHpaTk9pNUFzSW1SWDZJdWliSmtWbWNReE5iejlLYjYyRzhKUE01Y2FGSFI3RHZGQk4xZGFqZzN2MlNKMlZNTTZlTEx0RVR0WldUNmMtQ3M2MG45QkJnSWk1?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-10-14 17:13",
+      "summary": "JAPAN AI AGENTが「PRO of the DX Award 2026」でAIエージェント部門最優秀賞を受賞した理由 &nbsp;&nbsp; ニュースメディアVOIX",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 0.2,
+      "is_recent": true,
+      "duplicate_count": 2,
+      "related_sources": [
+        "ニュースメディアVOIX",
+        "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "b890a7689473c909",
+      "category": "最新AI技術",
+      "title": "neoAIとディサークルが共同で業務文書生成AIを強化する新たな試み - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYYnFCMmp3ai1WbnRnTzd6VGlPZUZZRU5abVdmQTQzMGVXcjFNQ2tyaGwyT0NLM1dHVTJ6VEtOY3pkR3dWc3lMNl9KY2lqbWZfXzU5Q251bktDaVNMMkxGR1l1S0JwVXh1c2lrUjJsVHI?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-10-14 13:45",
+      "summary": "neoAIとディサークルが共同で業務文書生成AIを強化する新たな試み &nbsp;&nbsp; ニュースメディアVOIX",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 3.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニュースメディアVOIX"
+      ]
+    },
+    {
+      "id": "c8dae17251705441",
+      "category": "地銀",
+      "title": "株式会社BPIO、BPO事業を担う人材を育成するAI活用型研修サービス「BPIO式 BPOTraining（ビーピーオートレーニング）」β版の提供を開始 - STRAIGHT PRESS",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UY05tMk0tMjhQTGVlem8waUoxdXdXanNQcVR1aGk0U3RIbjg4TmpiRl9XRkU5RFZJdFVSQ0NhYTl3cFdSelFkODl1MENEU3NPMDRJYWZOXzRJZThfOU1BU25TeWl6Ukp5YllZWHItUVFfcHFhU3c?oc=5",
+      "source": "STRAIGHT PRESS",
+      "published": "2026-10-14 13:04",
+      "summary": "株式会社BPIO、BPO事業を担う人材を育成するAI活用型研修サービス「BPIO式 BPOTraining（ビーピーオートレーニング）」β版の提供を開始 &nbsp;&nbsp; STRAIGHT PRESS",
+      "tags": [
+        "地銀",
+        "業務効率化"
+      ],
+      "signals": [
+        "operations"
+      ],
+      "importance": 57,
+      "confidence": "低",
+      "why_matters": "業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
+      "talk": "『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
+      "question": "営業店の中で、行員の時間を一番奪っている事務は何だと感じますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 4.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "STRAIGHT PRESS"
+      ]
+    },
+    {
+      "id": "1f08540d7b0642fd",
+      "category": "メガバンク",
+      "title": "みずほ銀行の新しい対話型AI「あおまるバンク」で金融のお悩み解決へ - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95dksxdnRWUDZ3c0Jkak5LVHJNWjhpN0d0ajh6ZG9QMEtXaWZxS1o2aGFfNHRDQk1XQjU4UV9jbG5nSVpEbHpTc3l3V2s?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-10-14 12:03",
+      "summary": "みずほ銀行の新しい対話型AI「あおまるバンク」で金融のお悩み解決へ &nbsp;&nbsp; ニュースメディアVOIX",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 5.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニュースメディアVOIX"
+      ]
+    },
     {
       "id": "e911a98d0574f7f0",
       "category": "最新AI技術",
@@ -30,7 +148,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 14.5,
+      "age_hours": 22.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -59,11 +177,39 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 26.1,
+      "age_hours": 34.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "クラウド Watch"
+      ]
+    },
+    {
+      "id": "49fe4872cd6df4ce",
+      "category": "メガバンク",
+      "title": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ2xpZlZQU0lOOVdzeVl2VHFEdVBwZnV5TUw5ak1SQjdFenEwbVF6eEZReENCQmVoQzNyRng4U1pYclR0Uld1RXQ1VQ?oc=5",
+      "source": "ThinkIT",
+      "published": "2026-10-13 01:16",
+      "summary": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 &nbsp;&nbsp; ThinkIT",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 40.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ThinkIT"
       ]
     }
   ]
