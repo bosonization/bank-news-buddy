@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 16:46 JST",
+  "generated_at": "2026-10-18 21:58 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -32,43 +32,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 34.6,
+      "age_hours": 39.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日経クロステック Active"
-      ]
-    },
-    {
-      "id": "c77e7e367fb1a60b",
-      "category": "地銀",
-      "title": "米地方銀行、企業の需要を背景に融資が堅調 - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVJKVVprU1hyOWJkUHBmLW9jNGhycy1lR1VNTV9oNF92THVMSFBBUGpCUGwtUmpfMkJNZjl6QVRBRXZLMjhFUlBmV1Fxb2xJb0wwd2NSMjBLLUtSTVA0Q1N4RWxRV1JybTBIVFhIN2hqMUZ5TWE1TjhTa3h1YXFWNHVLQlJVZDhGNVdvTWo3WUZiellfOURGb29zUFpDUQ?oc=5",
-      "source": "Mezha.net",
-      "published": "2026-10-17 03:43",
-      "summary": "米地方銀行、企業の需要を背景に融資が堅調 &nbsp;&nbsp; Mezha.net",
-      "tags": [
-        "地銀",
-        "地域金融",
-        "融資",
-        "法人営業"
-      ],
-      "signals": [
-        "regional_bank",
-        "lending"
-      ],
-      "importance": 76,
-      "confidence": "中",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 37.1,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Mezha.net"
       ]
     }
   ]
