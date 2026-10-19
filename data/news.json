@@ -1,10 +1,149 @@
 {
-  "generated_at": "2026-10-19 07:42 JST",
+  "generated_at": "2026-10-19 17:29 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": []
+  "items": [
+    {
+      "id": "4fea8dde0f288270",
+      "category": "NTTデータ",
+      "title": "NTT DATA Foresight Day 2027 - NTT Data",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tZmdUYlhmNVVBNU1xNEs4WDI4em96U1M2eDlBVVlhQ3FGeGoyMGxDRTZiMUxmY0FCWXJ6bHo4UGFCd3BFMUlYbHhOVElCTjRUbEtKVE9wUzJ6RG1X?oc=5",
+      "source": "NTT Data",
+      "published": "2026-10-19 16:19",
+      "summary": "NTT DATA Foresight Day 2027 &nbsp;&nbsp; NTT Data",
+      "tags": [
+        "NTTデータ"
+      ],
+      "signals": [
+        "nttdata"
+      ],
+      "importance": 65,
+      "confidence": "低",
+      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
+      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
+      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
+      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 1.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "NTT Data"
+      ]
+    },
+    {
+      "id": "007125c084090bea",
+      "category": "NTTデータ",
+      "title": "ソコテック、NTTデータのGHG排出量可視化プラットフォーム妥当性確認を実施～Scope3カテゴリ15の金融排出量にも対応～ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TTGpwT0pNZWZoaW5lbDl2cWI5X0VIS1FxVkxvR0I4SnJ5TFZUaE9ySVU4VTZmNE9FQ0otWU9oZGNqbDJ2STZmaTJDb3R5YnJHNlpEdm1wSUdCUE5PV0VwcHhoMjdLRDNLUDVZdVdCeGh1MmR0Yi1rY2Nkcw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-10-19 12:45",
+      "summary": "ソコテック、NTTデータのGHG排出量可視化プラットフォーム妥当性確認を実施～Scope3カテゴリ15の金融排出量にも対応～ &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "NTTデータ"
+      ],
+      "signals": [
+        "nttdata"
+      ],
+      "importance": 65,
+      "confidence": "低",
+      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
+      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
+      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
+      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 4.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "43bd869b3c3321db",
+      "category": "最新AI技術",
+      "title": "「AIエージェント博 2026 byAI博覧会」 新宿住友ビル 三角広場にて12月15日・16日に開催 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqbWFRSzZjRGNPNjhlUDc2UmdRUE01U1UybGUzWnZCQzNINU5VRkg1dXY5NlNER1k1MjNvQ3AzbVpiUnQtUWhUNXpZQ1g2eG8?oc=5",
+      "source": "Newscast.jp",
+      "published": "2026-10-19 11:00",
+      "summary": "「AIエージェント博 2026 byAI博覧会」 新宿住友ビル 三角広場にて12月15日・16日に開催 &nbsp;&nbsp; Newscast.jp",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 6.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Newscast.jp"
+      ]
+    },
+    {
+      "id": "b576ac7e3c58a30b",
+      "category": "最新AI技術",
+      "title": "日本企業の「AI業務実装の壁」を打ち破る ― RPAのパイオニアが「AI×RPA×人」の統合基盤を国内展開 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oQ3hKb0swaXpKY3J3Vk9icndfXzlfR3laVDZzaVJiQ1QxM0RhZTVuTVVhdk13N1Vvc2ZPNVlsNklVT2ZOd01ucjgyRDVIVlJrMXZZalJmVjJLdnU4VGtON3dDeTNWM1FQS0pZVVRQNWVxNXlOc1EtXzJoUQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-10-19 07:42",
+      "summary": "日本企業の「AI業務実装の壁」を打ち破る ― RPAのパイオニアが「AI×RPA×人」の統合基盤を国内展開 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 9.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "b558eb69896bd664",
+      "category": "その他",
+      "title": "韓国大手金融機関を襲った中国AIツールが世界に拡散、世界規模のパンデミック攻撃も - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LN1VQZ0xQdFZWZWVIbmZmME16b3VOeUpjeXN4N3BJb3JGbFV2aHpFSUhoaE9ZQkx0UVp0VWRNU2FvQVFpekx3YUhFd0pjSkU?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-10-19 05:46",
+      "summary": "韓国大手金融機関を襲った中国AIツールが世界に拡散、世界規模のパンデミック攻撃も &nbsp;&nbsp; ビジネス+IT",
+      "tags": [
+        "その他"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 11.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ビジネス+IT"
+      ]
+    }
+  ]
 }
