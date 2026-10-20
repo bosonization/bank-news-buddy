@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20 01:11 JST",
+  "generated_at": "2026-10-20 09:03 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,35 +30,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 3.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
-      ]
-    },
-    {
-      "id": "007125c084090bea",
-      "category": "NTTデータ",
-      "title": "ソコテック、NTTデータのGHG排出量可視化プラットフォーム妥当性確認を実施～Scope3カテゴリ15の金融排出量にも対応～ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TTGpwT0pNZWZoaW5lbDl2cWI5X0VIS1FxVkxvR0I4SnJ5TFZUaE9ySVU4VTZmNE9FQ0otWU9oZGNqbDJ2STZmaTJDb3R5YnJHNlpEdm1wSUdCUE5PV0VwcHhoMjdLRDNLUDVZdVdCeGh1MmR0Yi1rY2Nkcw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-19 12:45",
-      "summary": "ソコテック、NTTデータのGHG排出量可視化プラットフォーム妥当性確認を実施～Scope3カテゴリ15の金融排出量にも対応～ &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "NTTデータ"
-      ],
-      "signals": [
-        "nttdata"
-      ],
-      "importance": 65,
-      "confidence": "低",
-      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
-      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
-      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
-      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 12.4,
+      "age_hours": 11.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -88,7 +60,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 14.2,
+      "age_hours": 22.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -118,37 +90,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 15.2,
+      "age_hours": 23.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "Ledge.ai"
-      ]
-    },
-    {
-      "id": "b558eb69896bd664",
-      "category": "その他",
-      "title": "韓国大手金融機関を襲った中国AIツールが世界に拡散、世界規模のパンデミック攻撃も - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LN1VQZ0xQdFZWZWVIbmZmME16b3VOeUpjeXN4N3BJb3JGbFV2aHpFSUhoaE9ZQkx0UVp0VWRNU2FvQVFpekx3YUhFd0pjSkU?oc=5",
-      "source": "ビジネス+IT",
-      "published": "2026-10-19 05:46",
-      "summary": "韓国大手金融機関を襲った中国AIツールが世界に拡散、世界規模のパンデミック攻撃も &nbsp;&nbsp; ビジネス+IT",
-      "tags": [
-        "その他"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 19.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ビジネス+IT"
       ]
     },
     {
@@ -170,7 +116,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 22.4,
+      "age_hours": 30.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
