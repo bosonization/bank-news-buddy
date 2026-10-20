@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20 09:03 JST",
+  "generated_at": "2026-10-20 17:11 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "1be6e36758ca2a8b",
+      "id": "c18a5b6e4aa3a0d6",
       "category": "最新AI技術",
-      "title": "AIエージェントで開発現場はどう変わる？ OpenAI Japan、ソフトバンク、NewsPicksなどが登壇するカンファレンスを開催 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLazdiX3kyeTZaT0hwLTI5a2dKZVFmclVWWWxwSlRRbDlCdWxJZzhWRDBNa0VBRms2eTM4ZzVIMnJMYk5wRm5LemhiR095c1k2NnZZN05JeDl2UGtUY1pPc3NMc3J0ZnhldlBnc2FYX0hpbHNXd0FJaV9NYw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-19 21:30",
-      "summary": "AIエージェントで開発現場はどう変わる？ OpenAI Japan、ソフトバンク、NewsPicksなどが登壇するカンファレンスを開催 &nbsp;&nbsp; ニコニコニュース",
+      "title": "AIエージェントとファイルを共有・再利用できる「AIドライブ」を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WTEVpN1Z3UnhjRnl1dXpYQTdSRE1MemFJUEJ5Sl9VV1BUZ3BTTXpSWXN1T25EVUwwX0h2OTFVcmMwcmNLZUlTSGtiMDlfY2tKTG9YYWZVaVpGTms5ZVlDcWVhTDN6N0trLUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-10-20 17:00",
+      "summary": "AIエージェントとファイルを共有・再利用できる「AIドライブ」を提供開始 &nbsp;&nbsp; PR TIMES",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -30,21 +30,21 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 11.6,
+      "age_hours": 0.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ニコニコニュース"
+        "PR TIMES"
       ]
     },
     {
-      "id": "43bd869b3c3321db",
+      "id": "afa63d7c1975d58f",
       "category": "最新AI技術",
-      "title": "「AIエージェント博 2026 byAI博覧会」 新宿住友ビル 三角広場にて12月15日・16日に開催 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqbWFRSzZjRGNPNjhlUDc2UmdRUE01U1UybGUzWnZCQzNINU5VRkg1dXY5NlNER1k1MjNvQ3AzbVpiUnQtUWhUNXpZQ1g2eG8?oc=5",
-      "source": "Newscast.jp",
-      "published": "2026-10-19 11:00",
-      "summary": "「AIエージェント博 2026 byAI博覧会」 新宿住友ビル 三角広場にて12月15日・16日に開催 &nbsp;&nbsp; Newscast.jp",
+      "title": "中国語を使うハッカーがAIエージェントで日本企業などにハッキングして100件近い攻撃に成功していたことが判明 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXBhSDhGU0o5OXc0a1dxUmpGWDhKREJoQnFlYlhhN2V3Yjg2dHZNZGFKNTJMZXZuS1p0ejhOYmNOMTFUT0xHUkNHeXdVQ01ONW5QUzJZVG50c3JYMEJydkhHSlBNOS1Ia0FZNm5GRGV1TFBSQ2JsRC1FQmx1dDVMeQ?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-10-20 14:00",
+      "summary": "中国語を使うハッカーがAIエージェントで日本企業などにハッキングして100件近い攻撃に成功していたことが判明 &nbsp;&nbsp; GIGAZINE",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -60,11 +60,37 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 22.1,
+      "age_hours": 3.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "Newscast.jp"
+        "GIGAZINE"
+      ]
+    },
+    {
+      "id": "f8faabb5ab43587c",
+      "category": "最新AI技術",
+      "title": "日立、JPXのシステム監視にAI導入 判断精度97％で属人化解消 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1TGY1aVFKTmlXWk43LU5fOGlCeEFLTld4Sm5CRUlZQjZONFUwUEZkakZEQjVWVFM1dmJGaldGQ0NLbnV5QnZBQWNsZ1diN182b0Jn?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-10-20 11:04",
+      "summary": "日立、JPXのシステム監視にAI導入 判断精度97％で属人化解消 &nbsp;&nbsp; ニュースメディアVOIX",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 6.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニュースメディアVOIX"
       ]
     },
     {
@@ -90,7 +116,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 23.0,
+      "age_hours": 31.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -116,7 +142,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 30.2,
+      "age_hours": 38.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
