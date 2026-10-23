@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23 17:15 JST",
+  "generated_at": "2026-10-23 23:03 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,45 @@
   },
   "items": [
     {
-      "id": "0c2ac2b8cb808e01",
+      "id": "a68d52baf4631e52",
+      "category": "その他",
+      "title": "経営層主導でサイバー攻撃対策を＝最先端ＡＩ、スピードと規模加速―日銀リポート - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45NU52ejlrVFJwUHNza2NyLUZXaXJvRUZTUmVJTG5BTGx2VDRDM0p4aktVVmVTaWNqN2g2NEJVdDNkMlFDMzI1MVlfUzdqSERlSUtaTHVka29lWDJLRjFWNXhxSHM3NkdCdnlv0gFrQVVfeXFMTjk1TnZ6OWtUUnBQc3NrY3ItRldpcm9FRlNSZUlMbkFMbHZUNEMzSnhqS1VWZVNpY2o3aDY0QlV0M2QyUUMzMjUxWV9TN2pIRGVJS1pMdWRrb2VYMktGMVY1eHFIczc2R0J2eW8?oc=5",
+      "source": "Infoseek",
+      "published": "2026-10-23 19:03",
+      "summary": "経営層主導でサイバー攻撃対策を＝最先端ＡＩ、スピードと規模加速―日銀リポート &nbsp;&nbsp; Infoseek",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理",
+        "ガバナンス"
+      ],
+      "signals": [
+        "cyber",
+        "governance"
+      ],
+      "importance": 63,
+      "confidence": "中",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 4.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Infoseek"
+      ]
+    },
+    {
+      "id": "348fce409c2dd39a",
       "category": "最新AI技術",
-      "title": "MetaがパーソナルAIエージェント「Muse」を日本で提供開始、メールや予約などを自律的に実行 - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rYXNLelBic2lxMHlCZjFhcEMtT2ZkMHBITkd5Y183X2RKRXQ0djNkUnRrRjh5aUxCMzBXbXllTmU5bU1rc0dhZ3oySE5HVm9JTDF5bTNRRWE0YkFCLVNfR3ZKdnFra0Zh?oc=5",
-      "source": "マイナビニュース",
-      "published": "2026-10-23 10:00",
-      "summary": "MetaがパーソナルAIエージェント「Muse」を日本で提供開始、メールや予約などを自律的に実行 &nbsp;&nbsp; マイナビニュース",
+      "title": "メタ、パーソナルAIエージェント「Muse」を日本で提供 北米以外で初、国内3社と連携へ - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CaXFXQ0RMOGxlSWJES3NFSmRrWC1DQzZCOGtzZmt0OEZvZFFqQ0FUeHpsaWpBYXJMMkxiZi1RUDk5c3o5aG5WQzlvajhfT05jMTRJ?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-10-23 16:20",
+      "summary": "メタ、パーソナルAIエージェント「Muse」を日本で提供 北米以外で初、国内3社と連携へ &nbsp;&nbsp; ビジネス+IT",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -30,11 +62,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 7.3,
+      "age_hours": 6.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "マイナビニュース"
+        "ビジネス+IT"
       ]
     },
     {
@@ -60,7 +92,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 8.8,
+      "age_hours": 14.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -90,7 +122,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 18.2,
+      "age_hours": 24.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -118,7 +150,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 24.7,
+      "age_hours": 30.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -150,7 +182,7 @@
       "question": "営業店の中で、行員の時間を一番奪っている事務は何だと感じますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 28.1,
+      "age_hours": 33.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -180,7 +212,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 28.5,
+      "age_hours": 34.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -212,7 +244,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 28.6,
+      "age_hours": 34.4,
       "is_recent": true,
       "duplicate_count": 2,
       "related_sources": [
@@ -243,7 +275,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 35.3,
+      "age_hours": 41.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -271,41 +303,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 39.3,
+      "age_hours": 45.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日本経済新聞"
-      ]
-    },
-    {
-      "id": "2ac702cf3d722c34",
-      "category": "その他",
-      "title": "不正アクセス“金融機関が狙われる段階に変わってきた可能性” | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、金融 - NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wc0tCZUkzMXlZSUUxcVdYZ253UEpzckgyX2RHajRCVXh2ZFFLWkZ4NjJKdG5XMGhOZlF6LU90clppaWx4VmNhYkgxYzVZZE9TX1F6aC1ZTHlmMWVMN2Yw?oc=5",
-      "source": "NHKニュース",
-      "published": "2026-10-21 18:04",
-      "summary": "不正アクセス“金融機関が狙われる段階に変わってきた可能性” | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、金融 &nbsp;&nbsp; NHKニュース",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理"
-      ],
-      "signals": [
-        "cyber"
-      ],
-      "importance": 51,
-      "confidence": "低",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 47.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "NHKニュース"
       ]
     }
   ]
