@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 22:06 JST",
+  "generated_at": "2026-10-25 07:49 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,7 +30,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 7.1,
+      "age_hours": 16.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -60,7 +60,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 16.4,
+      "age_hours": 26.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -90,7 +90,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 29.8,
+      "age_hours": 39.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -98,13 +98,13 @@
       ]
     },
     {
-      "id": "709b52e28bcae135",
+      "id": "901e205f4574945a",
       "category": "最新AI技術",
-      "title": "現場・開発向けエージェントで業務スピードを「5～10倍」に ― Snowflakeの統合基盤で変革する日本企業の挑戦（アスキー） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lenhvUXhLTXhJdy1mOFo2aWtLNWpmQ2JfeDVxU0ZtWWI1b2JOeW1pdzNoQm5KX1AxZmFfd0NYcDRSMWNfQ3NvelpEZm0wVy1kSjhOTmVINzlOdDh5SEh5MWxMZXNWdGszVldkMXFCTHNJX0N4LXl4NlBlZllqQlk?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-23 08:30",
-      "summary": "現場・開発向けエージェントで業務スピードを「5～10倍」に ― Snowflakeの統合基盤で変革する日本企業の挑戦（アスキー） &nbsp;&nbsp; Yahoo!ニュース",
+      "title": "政府職員18万人がAIエージェント活用へ--古川デジタル大臣は会見で何を語ったか - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96eHFpWXRpUnBLaGQ2R1pUVjhDbVp4YlhBeWlVN05ycXdHNjVqQTRMbnlsNEFSeG15eUxocnFhamc5SVJ5blJMNHFXWGxNa1Fta1E4?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-10-23 13:00",
+      "summary": "政府職員18万人がAIエージェント活用へ--古川デジタル大臣は会見で何を語ったか &nbsp;&nbsp; ZDNET Japan",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -120,41 +120,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 37.6,
+      "age_hours": 42.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "33aeffbdfbff6faf",
-      "category": "その他",
-      "title": "金融機関で初の被害 岩井コスモ証券へのサイバー攻撃で不正売買成立 AI悪用の可能性も - 東京報道新聞",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10RUdFQ0FSMktoS011T29mZ0lmaU5KS01qQ2FodjFuZVcyYXl2MVNnemhDWkhfeEM2bEhRdVNyMjZ5YUplUDluX0pkTlV6b3FkY2lZ?oc=5",
-      "source": "東京報道新聞",
-      "published": "2026-10-22 23:06",
-      "summary": "金融機関で初の被害 岩井コスモ証券へのサイバー攻撃で不正売買成立 AI悪用の可能性も &nbsp;&nbsp; 東京報道新聞",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理"
-      ],
-      "signals": [
-        "cyber"
-      ],
-      "importance": 51,
-      "confidence": "低",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 47.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "東京報道新聞"
+        "ZDNET Japan"
       ]
     }
   ]
