@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26 07:59 JST",
+  "generated_at": "2026-10-26 17:31 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,132 @@
   },
   "items": [
     {
-      "id": "d33bccdb9e3dbd8b",
+      "id": "00fdf6633e996506",
+      "category": "地銀",
+      "title": "【銀行業界初※】第二地方銀行協会、生成AIを活用した「AI営業ロールプレイング大会」を開催 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZR25LOTZEUk5ZX3hORU5rMEtQalFBUm1TNkhqMVJVdTdhXzltMnlTT0FpRjVrVzhMQ1Y2UjV6ZnhrSFA0c0RQZkFXcVlJb0xyM21PaFJxQTFSeWhnb3QzOWZ4Z1NyOFZJVjFfc3g1M212NEhGZlE?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-10-26 15:00",
+      "summary": "【銀行業界初※】第二地方銀行協会、生成AIを活用した「AI営業ロールプレイング大会」を開催 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "地銀",
+        "生成AI",
+        "AI活用",
+        "地域金融"
+      ],
+      "signals": [
+        "generative_ai",
+        "regional_bank"
+      ],
+      "importance": 93,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 2.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "e018a2946577accd",
+      "category": "地銀",
+      "title": "第二地方銀行協会SARBLAB主催「AI営業ロールプレイング大会」に当社のAIロールプレイ「Role Coach AI」が採用 ―第二地方銀行24行600名超が参加― - RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxZG1lTTMwVXIwSjlkYmtwNGIzLWhrbDBxRUZuLTRPZW95WF9NUUprTjQwT3lFUnRyUGFwVTNuS3N3S0dHOExjaWswTnpKakpZSDJ5ODNBUzRIYnlZaE1SMEtTWVJldnFHbzlvTWE5LVo1TmYwQS1pbg?oc=5",
+      "source": "RBB TODAY",
+      "published": "2026-10-26 13:46",
+      "summary": "第二地方銀行協会SARBLAB主催「AI営業ロールプレイング大会」に当社のAIロールプレイ「Role Coach AI」が採用 ―第二地方銀行24行600名超が参加― &nbsp;&nbsp; RBB TODAY",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "RBB TODAY"
+      ]
+    },
+    {
+      "id": "55a3b6f07a399b81",
+      "category": "地銀",
+      "title": "第二地方銀行協会が初開催する生成AI活用の営業ロールプレイング大会の意義と展望 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RNDVlMkJoYUxCVEFrQm9UcDlsV3ZaQnAxMDJvMk1BcXRLU3VpclpheDl3Vmt6eS1sSTVwUWlULTVVV08xTnpWUjRMUHE?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-10-26 13:14",
+      "summary": "第二地方銀行協会が初開催する生成AI活用の営業ロールプレイング大会の意義と展望 &nbsp;&nbsp; ニュースメディアVOIX",
+      "tags": [
+        "地銀",
+        "生成AI",
+        "AI活用",
+        "地域金融"
+      ],
+      "signals": [
+        "generative_ai",
+        "regional_bank"
+      ],
+      "importance": 93,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 4.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニュースメディアVOIX"
+      ]
+    },
+    {
+      "id": "495ca953f81c4b98",
       "category": "最新AI技術",
-      "title": "AIエージェントで開発成果5倍と米IT企業が報告、障害修復も自動化へ - Forbes JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sQjhWRGdQaXJJd1U1RlpDd2JXMEtVcGphWmhvZ0lzY3dyeG13aW1WbFYxUEt0ZFdZUXBzVlVlYk4yMG1COUZLWThJeDRkT2doNTZLdFRlVXN0Zw?oc=5",
-      "source": "Forbes JAPAN",
+      "title": "日本HP、「NVIDIA GB300」搭載のAIワークステーションを発売 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xcjlrR2xESm0tSE01ODVsOG55QWN3Yl9lZk1FSzdUTFdCZ3pQLUFzVlVBZ3g2LUpJSElVUmE1eENlUDAxYzl2OTBWdFIxVHhjMkQ0?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-10-26 12:08",
+      "summary": "日本HP、「NVIDIA GB300」搭載のAIワークステーションを発売 &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 5.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "dbcf68d96ccb1f34",
+      "category": "最新AI技術",
+      "title": "AIエージェントで開発成果5倍と米IT企業が報告、障害修復も自動化へ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcGJlUVdlRkhtR0NRclZ6NGdWWFFpSmFRSWJNS0tQQk16QWxFUlR2cTZMaTdZUkRobjNGaGR1R2dZRk82Wk9aLUhIV1NzWXVSUG96QkxsQXA5bTlpajZMclVNX3pmd0lnWFI5OU1NMnFHdVMtRTE1dHdzd25pR3c?oc=5",
+      "source": "Yahoo!ニュース",
       "published": "2026-10-25 15:30",
-      "summary": "AIエージェントで開発成果5倍と米IT企業が報告、障害修復も自動化へ &nbsp;&nbsp; Forbes JAPAN",
+      "summary": "AIエージェントで開発成果5倍と米IT企業が報告、障害修復も自動化へ &nbsp;&nbsp; Yahoo!ニュース",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -32,11 +151,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 16.5,
+      "age_hours": 26.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "Forbes JAPAN"
+        "Yahoo!ニュース"
       ]
     },
     {
@@ -60,41 +179,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 30.2,
+      "age_hours": 39.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ThinkIT"
-      ]
-    },
-    {
-      "id": "b43a486c3c3721da",
-      "category": "最新AI技術",
-      "title": "生成AI利用率58％の裏にある格差 日本企業の学習支援と環境整備 - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KLTJWZFNBTWFwWGNsUlVlanNMbVBQZE1xVUhIdFFxOXBjRFp0c2xpYURQS29MZ2pLbWZvQjV0WXVqdXoxdnpaVUlpRVk1QzdOLWJrajFJQ0h4MWw0RzBhUmpfY1p5dnNsQnBBMkVEVmt2VG9N?oc=5",
-      "source": "TBS NEWS DIG",
-      "published": "2026-10-24 15:00",
-      "summary": "生成AI利用率58％の裏にある格差 日本企業の学習支援と環境整備 &nbsp;&nbsp; TBS NEWS DIG",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 41.0,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "TBS NEWS DIG"
       ]
     }
   ]
