@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26 17:31 JST",
+  "generated_at": "2026-10-27 00:50 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,34 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "882bcd6704f64805",
+      "category": "メガバンク",
+      "title": "［動画］みずほ証券コラボ┃10月26日【日米株、AI投資懸念と金融政策の攻防～今週は日米の金融会合と企業決算発表～】みずほウィークリーVIEW 中島三養子 - トウシル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KVkRzQ0gxd2pUQW5SNExjQTI5YWl6d2dJTkV6d2VNXzlrSTU1TGpSbzRRb29EbnNnVnRQN19mM1ByWnB6Z0M0YjgzUWtnZ3hjYk1SYWRSNk8tUQ?oc=5",
+      "source": "トウシル",
+      "published": "2026-10-26 17:03",
+      "summary": "［動画］みずほ証券コラボ┃10月26日【日米株、AI投資懸念と金融政策の攻防～今週は日米の金融会合と企業決算発表～】みずほウィークリーVIEW 中島三養子 &nbsp;&nbsp; トウシル",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 7.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "トウシル"
+      ]
+    },
     {
       "id": "00fdf6633e996506",
       "category": "地銀",
@@ -32,40 +60,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 2.5,
+      "age_hours": 9.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ニコニコニュース"
-      ]
-    },
-    {
-      "id": "e018a2946577accd",
-      "category": "地銀",
-      "title": "第二地方銀行協会SARBLAB主催「AI営業ロールプレイング大会」に当社のAIロールプレイ「Role Coach AI」が採用 ―第二地方銀行24行600名超が参加― - RBB TODAY",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxZG1lTTMwVXIwSjlkYmtwNGIzLWhrbDBxRUZuLTRPZW95WF9NUUprTjQwT3lFUnRyUGFwVTNuS3N3S0dHOExjaWswTnpKakpZSDJ5ODNBUzRIYnlZaE1SMEtTWVJldnFHbzlvTWE5LVo1TmYwQS1pbg?oc=5",
-      "source": "RBB TODAY",
-      "published": "2026-10-26 13:46",
-      "summary": "第二地方銀行協会SARBLAB主催「AI営業ロールプレイング大会」に当社のAIロールプレイ「Role Coach AI」が採用 ―第二地方銀行24行600名超が参加― &nbsp;&nbsp; RBB TODAY",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 3.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "RBB TODAY"
       ]
     },
     {
@@ -93,7 +92,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 4.3,
+      "age_hours": 11.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -101,61 +100,32 @@
       ]
     },
     {
-      "id": "495ca953f81c4b98",
-      "category": "最新AI技術",
-      "title": "日本HP、「NVIDIA GB300」搭載のAIワークステーションを発売 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xcjlrR2xESm0tSE01ODVsOG55QWN3Yl9lZk1FSzdUTFdCZ3pQLUFzVlVBZ3g2LUpJSElVUmE1eENlUDAxYzl2OTBWdFIxVHhjMkQ0?oc=5",
-      "source": "ZDNET Japan",
-      "published": "2026-10-26 12:08",
-      "summary": "日本HP、「NVIDIA GB300」搭載のAIワークステーションを発売 &nbsp;&nbsp; ZDNET Japan",
+      "id": "0623f1ec2293d7f6",
+      "category": "地銀",
+      "title": "第二地方銀行協会SARBLAB主催「AI営業ロールプレイング大会」に当社のAIロールプレイ「Role Coach AI」が採用 ―第二地方銀行24行600名超が参加― - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aeWFtQzdTc3hTV1V6N0dNeVlrQzlvLUVYSFEyR3llcVpsR19wWlRlNzJwakJsWTdUWTczUHRCdEZmR0FTVUtPSXVlU2lOdjJaZDhBNXRFUW9RTFU3eV85em9aX19yV3BzVVE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-10-26 13:00",
+      "summary": "第二地方銀行協会SARBLAB主催「AI営業ロールプレイング大会」に当社のAIロールプレイ「Role Coach AI」が採用 ―第二地方銀行24行600名超が参加― &nbsp;&nbsp; PR TIMES",
       "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 5.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ZDNET Japan"
-      ]
-    },
-    {
-      "id": "dbcf68d96ccb1f34",
-      "category": "最新AI技術",
-      "title": "AIエージェントで開発成果5倍と米IT企業が報告、障害修復も自動化へ - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcGJlUVdlRkhtR0NRclZ6NGdWWFFpSmFRSWJNS0tQQk16QWxFUlR2cTZMaTdZUkRobjNGaGR1R2dZRk82Wk9aLUhIV1NzWXVSUG96QkxsQXA5bTlpajZMclVNX3pmd0lnWFI5OU1NMnFHdVMtRTE1dHdzd25pR3c?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-25 15:30",
-      "summary": "AIエージェントで開発成果5倍と米IT企業が報告、障害修復も自動化へ &nbsp;&nbsp; Yahoo!ニュース",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用",
-        "業務効率化"
+        "地銀",
+        "地域金融"
       ],
       "signals": [
-        "generative_ai",
-        "operations"
+        "regional_bank"
       ],
-      "importance": 67,
-      "confidence": "中",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 業務効率化は、営業店の人手不足や本部集中業務の負荷軽減に直結します。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 『何を自動化するか』より先に、行員の時間をどの顧客接点に戻すかを話すと営業向けになります。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 26.0,
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 11.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "Yahoo!ニュース"
+        "PR TIMES"
       ]
     },
     {
@@ -179,7 +149,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 39.7,
+      "age_hours": 47.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
