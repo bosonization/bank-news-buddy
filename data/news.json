@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31 18:17 JST",
+  "generated_at": "2026-11-01 00:01 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,7 +26,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 4.9,
+      "age_hours": 10.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -52,7 +52,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 13.1,
+      "age_hours": 18.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -83,7 +83,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 23.3,
+      "age_hours": 29.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -113,7 +113,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 31.8,
+      "age_hours": 37.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -142,96 +142,11 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 37.0,
+      "age_hours": 42.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ニッキンONLINE"
-      ]
-    },
-    {
-      "id": "27aaff6053a3f4b6",
-      "category": "地銀",
-      "title": "地域銀22行とRDB、粉飾見抜くモデル構築 事例もとに精度高める - ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXLXVEb0k0cXlKVExtWnlYaVNXc0RPOVRXaWJKeDJxXzJqZUI5Nkl1eUozdWRLYncyUWlSaGFEYUJCajhoYzRicEdvOEZuc0o0SEVySUpn?oc=5",
-      "source": "ニッキンONLINE",
-      "published": "2026-10-30 04:50",
-      "summary": "地域銀22行とRDB、粉飾見抜くモデル構築 事例もとに精度高める &nbsp;&nbsp; ニッキンONLINE",
-      "tags": [
-        "地銀"
-      ],
-      "signals": [],
-      "importance": 43,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 37.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニッキンONLINE"
-      ]
-    },
-    {
-      "id": "6c8e6e2c94690466",
-      "category": "その他",
-      "title": "韓国金融機関への大規模サイバー攻撃、北朝鮮IPから440万件超のアクセス検知 - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ibDktTmRnOVVLdkRWOFVQcUFOVW5qNkZRWHJrb3hQbTR4Wmg0WkVlX3FCUVBCUl85UWpGYjY1cGIzR3BrQVFiRnFob21DeDg?oc=5",
-      "source": "ビジネス+IT",
-      "published": "2026-10-29 20:00",
-      "summary": "韓国金融機関への大規模サイバー攻撃、北朝鮮IPから440万件超のアクセス検知 &nbsp;&nbsp; ビジネス+IT",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理"
-      ],
-      "signals": [
-        "cyber"
-      ],
-      "importance": 51,
-      "confidence": "低",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 46.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ビジネス+IT"
-      ]
-    },
-    {
-      "id": "df8daac8da733875",
-      "category": "最新AI技術",
-      "title": "自律化するAIのリスクをどう防ぐ？「Trusted Data Fabric」が実装する次世代ガバナンス─NTTドコモビジネス - IT Leaders",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aSmtudWw5Q2xtZ2JOSUVUTUtkc3BsalM5dzZRb0lUWFZTNUY0Qkd3aC1tekF1Z1NOTjlGR01TVmtzSEU3RkNZLUdvc3ZTTWVwSFJR?oc=5",
-      "source": "IT Leaders",
-      "published": "2026-10-29 19:06",
-      "summary": "自律化するAIのリスクをどう防ぐ？「Trusted Data Fabric」が実装する次世代ガバナンス─NTTドコモビジネス &nbsp;&nbsp; IT Leaders",
-      "tags": [
-        "最新AI技術",
-        "ガバナンス"
-      ],
-      "signals": [
-        "governance"
-      ],
-      "importance": 47,
-      "confidence": "低",
-      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 47.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "IT Leaders"
       ]
     }
   ]
