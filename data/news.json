@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31 09:18 JST",
+  "generated_at": "2026-10-31 18:17 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,58 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "51c68931f70d2261",
+      "category": "最新AI技術",
+      "title": "【12/9 東広島開催】広島の経営者様向け「Claude Codeセミナー」を東広島商工会議所後援にて開催へ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52UHhyVjh6dDlRbktlY2pwT1FqMG55VE04VFB6a2xEbTNkSERQdGlRR2tPS2ZMS2pIckF5S200ME15SmFXTG16OFYzWG1aZV9mdGVqUkFLZU9SenBHWXhtRktjaHJxRmFBRE5YU0dJbWJLZ24xQzNuUE83WQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-10-31 13:21",
+      "summary": "【12/9 東広島開催】広島の経営者様向け「Claude Codeセミナー」を東広島商工会議所後援にて開催へ &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 4.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "0d6e272df347dd90",
+      "category": "地銀",
+      "title": "肥後銀行ら金融DXの最前線を担うリーダーが登壇！自立型AI時代のIT戦略とシステム刷新を考える「金融IT EXPO 2026」12月8日開催 | 本日より参加申込受付開始 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41Z1FfN3ZpVHkyY3NubGJxOV94dVVra3JodGVXRFJYTDJYSjFLWkU0OW5hZENfZld6eTNEV0pkRmJEX1QxOXdhamk0OW1QenFrajNHdlQ5VTVpdW1LeDFnUEpSSUhoUXdMal9SYThCOHlMZw?oc=5",
+      "source": "Infoseek",
+      "published": "2026-10-31 05:10",
+      "summary": "肥後銀行ら金融DXの最前線を担うリーダーが登壇！自立型AI時代のIT戦略とシステム刷新を考える「金融IT EXPO 2026」12月8日開催 | 本日より参加申込受付開始 &nbsp;&nbsp; Infoseek",
+      "tags": [
+        "地銀"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 13.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Infoseek"
+      ]
+    },
     {
       "id": "4fa9df6c61747fe3",
       "category": "地銀",
@@ -31,100 +83,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 14.3,
+      "age_hours": 23.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ニッキンONLINE"
-      ]
-    },
-    {
-      "id": "01c163bc32647814",
-      "category": "地銀",
-      "title": "肥後銀行ら金融DXの最前線を担うリーダーが登壇！自立型AI時代のIT戦略とシステム刷新を考える「金融IT EXPO - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrdTJVLWNzTldmYTg1ZUFldzFjRkNXSGF6LWo2TExvQi1NUWhXeTMxcmlPTDVyMkdDV1NHLTdKS0taOGJIRnhsUGlVNEdxZlRKMWpHdHZLRHl2bWFCX1BtQXVFN1RkcGY3VnF3WWhDZjRDQ2Q1b0xmVU02VQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-30 18:30",
-      "summary": "肥後銀行ら金融DXの最前線を担うリーダーが登壇！自立型AI時代のIT戦略とシステム刷新を考える「金融IT EXPO &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "地銀"
-      ],
-      "signals": [],
-      "importance": 43,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 14.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
-      ]
-    },
-    {
-      "id": "2b7ba62fd6595028",
-      "category": "その他",
-      "title": "NTT西日本、サイバーセキュリティ研修会 愛知・静岡県内11信金集まる - ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vUnRBR3JGdEoxc1djYVh3WUQ5RmxsdmMwMElSMTdLV29fMGdZTFFLdGN6RHFkbmJhYURZdktwWGJxX0xNQWN0NGZhNjhGWG56ZTRxVzJR?oc=5",
-      "source": "ニッキンONLINE",
-      "published": "2026-10-30 17:34",
-      "summary": "NTT西日本、サイバーセキュリティ研修会 愛知・静岡県内11信金集まる &nbsp;&nbsp; ニッキンONLINE",
-      "tags": [
-        "その他",
-        "地銀",
-        "地域金融",
-        "サイバー",
-        "リスク管理"
-      ],
-      "signals": [
-        "regional_bank",
-        "cyber"
-      ],
-      "importance": 71,
-      "confidence": "中",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 15.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニッキンONLINE"
-      ]
-    },
-    {
-      "id": "667163518fa7479e",
-      "category": "最新AI技術",
-      "title": "生成AI・AIエージェントプラットフォームを提供するAllganize、「AI World 2026 秋 東京」に出展。幕張メッセにて11月4日〜11月6日開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CZVdnMV96d0I3TmI3NV9La0ZOZWtmTkFXVW1CZFFaR2s5eThsMXQ2aTZmUFRwaGhGUU5tZjhGZkFlaS0wWmZIX2RjOHB0SVBic0F1Zjg1cmM1ZkhoQ0JjbTVTcGc5YzRfbVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-30 16:30",
-      "summary": "生成AI・AIエージェントプラットフォームを提供するAllganize、「AI World 2026 秋 東京」に出展。幕張メッセにて11月4日〜11月6日開催 &nbsp;&nbsp; PR TIMES",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 16.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "PR TIMES"
       ]
     },
     {
@@ -150,41 +113,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 22.8,
+      "age_hours": 31.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "Business Insider Japan"
-      ]
-    },
-    {
-      "id": "9d29440cb6073d64",
-      "category": "最新AI技術",
-      "title": "Meta、2026年第３四半期決算：AIエージェント「Muse」の買い物利用は25％超、日本でも提供開始 - コマースピック",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhYUllcTJUZGNTQUNFZmxBRmxZemtBa3paQXM3U2tLT3FoS2hGUHV4MERQUEhwaHR1MUgxTi1oRGNqRDdkRTBsaEtqVFF0OTZ4YzNpUUxqUQ?oc=5",
-      "source": "コマースピック",
-      "published": "2026-10-30 08:00",
-      "summary": "Meta、2026年第３四半期決算：AIエージェント「Muse」の買い物利用は25％超、日本でも提供開始 &nbsp;&nbsp; コマースピック",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 25.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "コマースピック"
       ]
     },
     {
@@ -209,11 +142,67 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 28.1,
+      "age_hours": 37.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ニッキンONLINE"
+      ]
+    },
+    {
+      "id": "27aaff6053a3f4b6",
+      "category": "地銀",
+      "title": "地域銀22行とRDB、粉飾見抜くモデル構築 事例もとに精度高める - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXLXVEb0k0cXlKVExtWnlYaVNXc0RPOVRXaWJKeDJxXzJqZUI5Nkl1eUozdWRLYncyUWlSaGFEYUJCajhoYzRicEdvOEZuc0o0SEVySUpn?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-10-30 04:50",
+      "summary": "地域銀22行とRDB、粉飾見抜くモデル構築 事例もとに精度高める &nbsp;&nbsp; ニッキンONLINE",
+      "tags": [
+        "地銀"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 37.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニッキンONLINE"
+      ]
+    },
+    {
+      "id": "6c8e6e2c94690466",
+      "category": "その他",
+      "title": "韓国金融機関への大規模サイバー攻撃、北朝鮮IPから440万件超のアクセス検知 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ibDktTmRnOVVLdkRWOFVQcUFOVW5qNkZRWHJrb3hQbTR4Wmg0WkVlX3FCUVBCUl85UWpGYjY1cGIzR3BrQVFiRnFob21DeDg?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-10-29 20:00",
+      "summary": "韓国金融機関への大規模サイバー攻撃、北朝鮮IPから440万件超のアクセス検知 &nbsp;&nbsp; ビジネス+IT",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "cyber"
+      ],
+      "importance": 51,
+      "confidence": "低",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 46.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ビジネス+IT"
       ]
     },
     {
@@ -238,7 +227,7 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 38.2,
+      "age_hours": 47.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
