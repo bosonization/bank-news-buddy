@@ -1,94 +1,10 @@
 {
-  "generated_at": "2026-11-01 08:53 JST",
+  "generated_at": "2026-11-01 19:05 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": [
-    {
-      "id": "51c68931f70d2261",
-      "category": "最新AI技術",
-      "title": "【12/9 東広島開催】広島の経営者様向け「Claude Codeセミナー」を東広島商工会議所後援にて開催へ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52UHhyVjh6dDlRbktlY2pwT1FqMG55VE04VFB6a2xEbTNkSERQdGlRR2tPS2ZMS2pIckF5S200ME15SmFXTG16OFYzWG1aZV9mdGVqUkFLZU9SenBHWXhtRktjaHJxRmFBRE5YU0dJbWJLZ24xQzNuUE83WQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-31 13:21",
-      "summary": "【12/9 東広島開催】広島の経営者様向け「Claude Codeセミナー」を東広島商工会議所後援にて開催へ &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 19.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
-      ]
-    },
-    {
-      "id": "0d6e272df347dd90",
-      "category": "地銀",
-      "title": "肥後銀行ら金融DXの最前線を担うリーダーが登壇！自立型AI時代のIT戦略とシステム刷新を考える「金融IT EXPO 2026」12月8日開催 | 本日より参加申込受付開始 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41Z1FfN3ZpVHkyY3NubGJxOV94dVVra3JodGVXRFJYTDJYSjFLWkU0OW5hZENfZld6eTNEV0pkRmJEX1QxOXdhamk0OW1QenFrajNHdlQ5VTVpdW1LeDFnUEpSSUhoUXdMal9SYThCOHlMZw?oc=5",
-      "source": "Infoseek",
-      "published": "2026-10-31 05:10",
-      "summary": "肥後銀行ら金融DXの最前線を担うリーダーが登壇！自立型AI時代のIT戦略とシステム刷新を考える「金融IT EXPO 2026」12月8日開催 | 本日より参加申込受付開始 &nbsp;&nbsp; Infoseek",
-      "tags": [
-        "地銀"
-      ],
-      "signals": [],
-      "importance": 43,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 27.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "Infoseek"
-      ]
-    },
-    {
-      "id": "4fa9df6c61747fe3",
-      "category": "地銀",
-      "title": "第二地銀協、「地域金融の未来」議論 金融庁や静岡銀も登壇 - ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2endIN3VuSWVNbzZnZUtzR0o0bENzQTlTdzNMWWlad3kzVjFWdTdTeUpWWmlidzBENTYwcU4yVmxLRTBlbU1GNW4tNFFmWFpnWWhOa3Jn?oc=5",
-      "source": "ニッキンONLINE",
-      "published": "2026-10-30 18:58",
-      "summary": "第二地銀協、「地域金融の未来」議論 金融庁や静岡銀も登壇 &nbsp;&nbsp; ニッキンONLINE",
-      "tags": [
-        "地銀",
-        "地域金融",
-        "ガバナンス"
-      ],
-      "signals": [
-        "regional_bank",
-        "governance"
-      ],
-      "importance": 75,
-      "confidence": "中",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 37.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニッキンONLINE"
-      ]
-    }
-  ]
+  "items": []
 }
