@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02 19:33 JST",
+  "generated_at": "2026-11-03 04:11 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "fb7f445eaf30737b",
+      "id": "069f361eefcbb6a9",
       "category": "最新AI技術",
-      "title": "Liquitousとエイト日本技術開発、生成AIを活用した 「地域公共交通計画AIエージェント」を共同開発 - ヨコハマ経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83YTAwNTVIUFhId1QzbzRadGxGZnFoUm9MS1NOTk5SYTc3NDZtc0xQb2JQZ3pSUnJyeDg5OHhLLTRaclU1RWo0S3NyYXliRGt2?oc=5",
-      "source": "ヨコハマ経済新聞",
-      "published": "2026-11-02 18:36",
-      "summary": "Liquitousとエイト日本技術開発、生成AIを活用した 「地域公共交通計画AIエージェント」を共同開発 &nbsp;&nbsp; ヨコハマ経済新聞",
+      "title": "Liquitousとエイト日本技術開発、生成AIを活用した 「地域公共交通計画AIエージェント」を共同開発 - 川崎経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EaEduaWtWcFpiV2FrQUtidHJEaXRjaTR5bUpPQUUxQ3dTNkFsLTh1VlpWS1h3VDkyRlcwLUpaMVpiUklPRFVmM2hZU2JTRXFjRFNZMmJB?oc=5",
+      "source": "川崎経済新聞",
+      "published": "2026-11-02 18:35",
+      "summary": "Liquitousとエイト日本技術開発、生成AIを活用した 「地域公共交通計画AIエージェント」を共同開発 &nbsp;&nbsp; 川崎経済新聞",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -30,11 +30,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 1.0,
+      "age_hours": 9.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ヨコハマ経済新聞"
+        "川崎経済新聞"
       ]
     },
     {
@@ -60,7 +60,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 3.2,
+      "age_hours": 11.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -90,7 +90,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 3.6,
+      "age_hours": 12.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -120,7 +120,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 12.1,
+      "age_hours": 20.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -128,34 +128,31 @@
       ]
     },
     {
-      "id": "63b4170ae869d4ca",
+      "id": "49fe4872cd6df4ce",
       "category": "メガバンク",
-      "title": "3メガバンクCIOが明かす勘定系システムの未来 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2U4RlZEWXZOVFZMbTkxM0NhcHBoa0J4eG5xNzJJOFcyc05EYmI4WXlMMWpuMmZqemM4STJ0ZVhmSzlkbTRxaTZodUJBVWlRYmEtams1VFl4NVZqQkFIcUlqbVVpVEhzRGNPZGpEZElsRnp1RWZiT2R2T18tUi0yN09DSHNxOTE3Z3d2YzFWTC1VWEJKc1pCZUd0elJYSklXaXR4T3VJV2dwaU5jMmkwOXNvQXZwUjc4TEUwU1had0lmVzB5WGcwUDA2MA?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-11-01 18:58",
-      "summary": "3メガバンクCIOが明かす勘定系システムの未来 &nbsp;&nbsp; 日経クロステック",
+      "title": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ2xpZlZQU0lOOVdzeVl2VHFEdVBwZnV5TUw5ak1SQjdFenEwbVF6eEZReENCQmVoQzNyRng4U1pYclR0Uld1RXQ1VQ?oc=5",
+      "source": "ThinkIT",
+      "published": "2026-11-01 09:48",
+      "summary": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 &nbsp;&nbsp; ThinkIT",
       "tags": [
-        "メガバンク",
-        "勘定系",
-        "システム更改"
+        "メガバンク"
       ],
       "signals": [
-        "megabank",
-        "core_banking"
+        "megabank"
       ],
-      "importance": 65,
-      "confidence": "中",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 勘定系・基幹系の話題は、安定運用、柔軟性、コスト、将来の拡張性をセットで話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 基幹系は『変える/変えない』ではなく、周辺業務から柔軟性を高める選択肢として話せます。",
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "共同センター、勘定系周辺、クラウド/モダナイゼーションの論点としてNTTデータの金融基盤知見に接続できます。",
-      "risk_note": "基幹系は可用性、移行リスク、ベンダーロックイン、長期コストの確認が必要です。",
-      "age_hours": 24.6,
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 42.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "日経クロステック"
+        "ThinkIT"
       ]
     }
   ]
