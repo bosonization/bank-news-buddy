@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02 00:44 JST",
+  "generated_at": "2026-11-02 09:08 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,29 +8,94 @@
   },
   "items": [
     {
-      "id": "0d6e272df347dd90",
-      "category": "地銀",
-      "title": "肥後銀行ら金融DXの最前線を担うリーダーが登壇！自立型AI時代のIT戦略とシステム刷新を考える「金融IT EXPO 2026」12月8日開催 | 本日より参加申込受付開始 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41Z1FfN3ZpVHkyY3NubGJxOV94dVVra3JodGVXRFJYTDJYSjFLWkU0OW5hZENfZld6eTNEV0pkRmJEX1QxOXdhamk0OW1QenFrajNHdlQ5VTVpdW1LeDFnUEpSSUhoUXdMal9SYThCOHlMZw?oc=5",
-      "source": "Infoseek",
-      "published": "2026-10-31 05:10",
-      "summary": "肥後銀行ら金融DXの最前線を担うリーダーが登壇！自立型AI時代のIT戦略とシステム刷新を考える「金融IT EXPO 2026」12月8日開催 | 本日より参加申込受付開始 &nbsp;&nbsp; Infoseek",
+      "id": "3d3b72d9d6cfa374",
+      "category": "最新AI技術",
+      "title": "AI悪用とインサイダーの脅威にどう挑む？--マイクロソフトが示すAIエージェントの安全活用 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KSjZkRk9FTU1ILXVsdVVBRTJneHAzN0RlN3dwczNXSTBNRXI2aldwcU9wdWFPQWVyZ1lJaHlXTG5QTGZuSVBIcmdNaldpYW5MdUZz?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-11-02 07:30",
+      "summary": "AI悪用とインサイダーの脅威にどう挑む？--マイクロソフトが示すAIエージェントの安全活用 &nbsp;&nbsp; ZDNET Japan",
       "tags": [
-        "地銀"
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
       ],
-      "signals": [],
-      "importance": 43,
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
       "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 43.6,
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 1.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "Infoseek"
+        "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "63b4170ae869d4ca",
+      "category": "メガバンク",
+      "title": "3メガバンクCIOが明かす勘定系システムの未来 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2U4RlZEWXZOVFZMbTkxM0NhcHBoa0J4eG5xNzJJOFcyc05EYmI4WXlMMWpuMmZqemM4STJ0ZVhmSzlkbTRxaTZodUJBVWlRYmEtams1VFl4NVZqQkFIcUlqbVVpVEhzRGNPZGpEZElsRnp1RWZiT2R2T18tUi0yN09DSHNxOTE3Z3d2YzFWTC1VWEJKc1pCZUd0elJYSklXaXR4T3VJV2dwaU5jMmkwOXNvQXZwUjc4TEUwU1had0lmVzB5WGcwUDA2MA?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-11-01 18:58",
+      "summary": "3メガバンクCIOが明かす勘定系システムの未来 &nbsp;&nbsp; 日経クロステック",
+      "tags": [
+        "メガバンク",
+        "勘定系",
+        "システム更改"
+      ],
+      "signals": [
+        "megabank",
+        "core_banking"
+      ],
+      "importance": 65,
+      "confidence": "中",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 勘定系・基幹系の話題は、安定運用、柔軟性、コスト、将来の拡張性をセットで話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 基幹系は『変える/変えない』ではなく、周辺業務から柔軟性を高める選択肢として話せます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "共同センター、勘定系周辺、クラウド/モダナイゼーションの論点としてNTTデータの金融基盤知見に接続できます。",
+      "risk_note": "基幹系は可用性、移行リスク、ベンダーロックイン、長期コストの確認が必要です。",
+      "age_hours": 14.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "日経クロステック"
+      ]
+    },
+    {
+      "id": "4b9dc7aa3b195711",
+      "category": "その他",
+      "title": "サイバー対策強化官民会議作業部会・寺井座長、システム停止「顧客の理解欠かせず」【ニッキンONLINE】 - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EUVQ0Qmx5bTJiQkZ2MGFLbEVNQ1pDNTQtYzY5aFAwUVYza2t6NGpwdTJjNEtUVUdsT29tOFYtRVQ0bHMyNEVXLWxXR2wzejJjYlctY2o2bkptTHVWZ3JUUA?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-11-01 11:50",
+      "summary": "サイバー対策強化官民会議作業部会・寺井座長、システム停止「顧客の理解欠かせず」【ニッキンONLINE】 &nbsp;&nbsp; ニッキンONLINE",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "cyber"
+      ],
+      "importance": 51,
+      "confidence": "低",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 21.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニッキンONLINE"
       ]
     }
   ]
