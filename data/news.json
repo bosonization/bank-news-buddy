@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02 09:08 JST",
+  "generated_at": "2026-11-02 19:33 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,96 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "fb7f445eaf30737b",
+      "category": "最新AI技術",
+      "title": "Liquitousとエイト日本技術開発、生成AIを活用した 「地域公共交通計画AIエージェント」を共同開発 - ヨコハマ経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83YTAwNTVIUFhId1QzbzRadGxGZnFoUm9MS1NOTk5SYTc3NDZtc0xQb2JQZ3pSUnJyeDg5OHhLLTRaclU1RWo0S3NyYXliRGt2?oc=5",
+      "source": "ヨコハマ経済新聞",
+      "published": "2026-11-02 18:36",
+      "summary": "Liquitousとエイト日本技術開発、生成AIを活用した 「地域公共交通計画AIエージェント」を共同開発 &nbsp;&nbsp; ヨコハマ経済新聞",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 1.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ヨコハマ経済新聞"
+      ]
+    },
+    {
+      "id": "d09693b769c707be",
+      "category": "メガバンク",
+      "title": "（お知らせ）金融庁、三井住友銀行が登壇「FIT AIサミット2026秋」申し込み受け付け中！ - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oSjktWm1vLXNBcTJrTU9DcDZDdGJXci0wRnBTaU5mSkR4RG5VWXVIYmVWVUxqenBCenUxS0dOdXhieGxyWTJEUlkwSV82dmZtZi0ySExB?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-11-02 16:21",
+      "summary": "（お知らせ）金融庁、三井住友銀行が登壇「FIT AIサミット2026秋」申し込み受け付け中！ &nbsp;&nbsp; ニッキンONLINE",
+      "tags": [
+        "メガバンク",
+        "ガバナンス"
+      ],
+      "signals": [
+        "megabank",
+        "governance"
+      ],
+      "importance": 61,
+      "confidence": "中",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 3.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニッキンONLINE"
+      ]
+    },
+    {
+      "id": "db3bc7dfce919a84",
+      "category": "最新AI技術",
+      "title": "OBC、人材活用をサポートする「奉行AIエージェント 人材活用クラウド」を発売 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PVmhyWXdVdlBuVG1JNktWVmowUkxUU0JfTnN2R3NnaUplRUk0bUczM1FFbzcwbHY4TVdmNkowakxRcVhDc2RaLXdmR3dzYnFfOVBsX0NnVFdXZ29hRFpBWEZGVdIBaEFVX3lxTFA1ZjV2WllKRWZZT2FRSHRSb21sYmFyNWFCZ3dBeHA5ZWRwUkc5U3E5WjBQc1Brd0tuTS1acWo4X0VwZ1FwZERQcmI5bTRXYUpVQ3JSSmdOZFBWUjNUX2lpakx3aFlEbnA0?oc=5",
+      "source": "Infoseek",
+      "published": "2026-11-02 15:59",
+      "summary": "OBC、人材活用をサポートする「奉行AIエージェント 人材活用クラウド」を発売 &nbsp;&nbsp; Infoseek",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 3.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Infoseek"
+      ]
+    },
     {
       "id": "3d3b72d9d6cfa374",
       "category": "最新AI技術",
@@ -30,7 +120,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 1.6,
+      "age_hours": 12.1,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -61,41 +151,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "共同センター、勘定系周辺、クラウド/モダナイゼーションの論点としてNTTデータの金融基盤知見に接続できます。",
       "risk_note": "基幹系は可用性、移行リスク、ベンダーロックイン、長期コストの確認が必要です。",
-      "age_hours": 14.2,
+      "age_hours": 24.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "日経クロステック"
-      ]
-    },
-    {
-      "id": "4b9dc7aa3b195711",
-      "category": "その他",
-      "title": "サイバー対策強化官民会議作業部会・寺井座長、システム停止「顧客の理解欠かせず」【ニッキンONLINE】 - ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EUVQ0Qmx5bTJiQkZ2MGFLbEVNQ1pDNTQtYzY5aFAwUVYza2t6NGpwdTJjNEtUVUdsT29tOFYtRVQ0bHMyNEVXLWxXR2wzejJjYlctY2o2bkptTHVWZ3JUUA?oc=5",
-      "source": "ニッキンONLINE",
-      "published": "2026-11-01 11:50",
-      "summary": "サイバー対策強化官民会議作業部会・寺井座長、システム停止「顧客の理解欠かせず」【ニッキンONLINE】 &nbsp;&nbsp; ニッキンONLINE",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理"
-      ],
-      "signals": [
-        "cyber"
-      ],
-      "importance": 51,
-      "confidence": "低",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 21.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニッキンONLINE"
       ]
     }
   ]
