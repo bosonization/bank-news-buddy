@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 10:14 JST",
+  "generated_at": "2026-11-05 19:21 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,123 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "26cb480147e49428",
+      "category": "NTTデータ",
+      "title": "ITベンダー6社、AI・セキュリティー需要堅調 野村総研、過去最高益 26年4～9月期決算 - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tTk40N1VKaFBMRFdhSFFoVVRRS2xjSERHanhzQjY4TFByaS00Z19ZN3lNVjBsRG56eGozdTl1Y083QXJ0Z05rLVdfVkZDdWxVelp0dHB3?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-11-05 18:07",
+      "summary": "ITベンダー6社、AI・セキュリティー需要堅調 野村総研、過去最高益 26年4～9月期決算 &nbsp;&nbsp; ニッキンONLINE",
+      "tags": [
+        "NTTデータ",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "cyber"
+      ],
+      "importance": 59,
+      "confidence": "低",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 1.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニッキンONLINE"
+      ]
+    },
+    {
+      "id": "bbb7e26c34252a25",
+      "category": "地銀",
+      "title": "【AIがウソの金利を教える？】公式ページを見てるのに数字がズレる！地銀95行の調査で見えたヤバい実態 - DXマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kMTBLMktvT1UyRmpROXdCSkdETEJTTTVNMnVfb1Mxa2VqRHdOQ0dkVnl2VkNRZlBDaDVVY3o0ejZyZ05Mc2xJZU9ocUQ?oc=5",
+      "source": "DXマガジン",
+      "published": "2026-11-05 12:11",
+      "summary": "【AIがウソの金利を教える？】公式ページを見てるのに数字がズレる！地銀95行の調査で見えたヤバい実態 &nbsp;&nbsp; DXマガジン",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 7.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "DXマガジン"
+      ]
+    },
+    {
+      "id": "6dfd8cfa29fa323e",
+      "category": "地銀",
+      "title": "ＴＩＳ、地域金融機関の若年層・域外顧客の獲得をクレカで支援 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzTVpZY2hEN1VKSWlvR2FUV1NGVVR5QUxmYWU0X0VhU3lBLUNTYmtqYmowZ3N2MUVfS0tWa2RRV1FJOWxZV3BMXzNyS2FfUHFManNr?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-11-05 11:11",
+      "summary": "ＴＩＳ、地域金融機関の若年層・域外顧客の獲得をクレカで支援 &nbsp;&nbsp; ニュースメディアVOIX",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 8.2,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニュースメディアVOIX"
+      ]
+    },
+    {
+      "id": "473a811de2c0a59b",
+      "category": "地銀",
+      "title": "ナッジとTISI、「クレカ as a Service （略称：CCaaS）」を活用したカード事業における協業を開始し、地域金融機関向けに専用メニューを提供 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NWXQxaWhJcHYwdU40WklpSVVVakg1MHRuVlZWSkZVbWJRdTBXX3VkUnZUTDFCVzNBUFo3YU5VNE9ZN2dlMUg2cU5QNFZ6UDF4bWltQTZPMTljMnlCeUozOS1mdkx3d3NQdEE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-05 11:00",
+      "summary": "ナッジとTISI、「クレカ as a Service （略称：CCaaS）」を活用したカード事業における協業を開始し、地域金融機関向けに専用メニューを提供 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 8.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
     {
       "id": "baa21024004a6ac8",
       "category": "最新AI技術",
@@ -32,11 +149,44 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 0.2,
+      "age_hours": 9.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "1bdd7ed1015b066e",
+      "category": "地銀",
+      "title": "山形新聞社が山形銀行・荘内銀行・きらやか銀行と連携協定、生成AIで県内中小企業の人手不足解消を後押し - Glocal Mission Times",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iSUpNbHhIQVZfVDRjUE1DWnIteU1lSktsSnZnTWZwazBNR0RrbTRUR2RaWWVKQW93M0I0NUJ2YTJDTzJ4ZHhXVXpDOHVWbmIyNHNOVm14aw?oc=5",
+      "source": "Glocal Mission Times",
+      "published": "2026-11-05 09:37",
+      "summary": "山形新聞社が山形銀行・荘内銀行・きらやか銀行と連携協定、生成AIで県内中小企業の人手不足解消を後押し &nbsp;&nbsp; Glocal Mission Times",
+      "tags": [
+        "地銀",
+        "生成AI",
+        "AI活用",
+        "融資",
+        "法人営業"
+      ],
+      "signals": [
+        "generative_ai",
+        "lending"
+      ],
+      "importance": 74,
+      "confidence": "中",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 9.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Glocal Mission Times"
       ]
     },
     {
@@ -62,7 +212,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 0.7,
+      "age_hours": 9.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -70,45 +220,13 @@
       ]
     },
     {
-      "id": "b6085567b0afa1e2",
-      "category": "その他",
-      "title": "金融庁、「セルフ評価」で底上げ 金融機関のサイバー対策 - ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lallNa0xVZ2tVelNtWlBGVWJOWFF3SWhOVzQxOVVyTnZISlhGSHN1TWtGZUVoSjRwSlN2UEJIamZYekNJUEN6b3BsVTNjdnprNjd6NDdR?oc=5",
-      "source": "ニッキンONLINE",
-      "published": "2026-11-05 04:50",
-      "summary": "金融庁、「セルフ評価」で底上げ 金融機関のサイバー対策 &nbsp;&nbsp; ニッキンONLINE",
-      "tags": [
-        "その他",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
-      ],
-      "signals": [
-        "cyber",
-        "governance"
-      ],
-      "importance": 63,
-      "confidence": "中",
-      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 5.4,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニッキンONLINE"
-      ]
-    },
-    {
-      "id": "bb55a7d2e77f2204",
+      "id": "479602fd8b990c90",
       "category": "最新AI技術",
-      "title": "JAPAN AIの新たなWebCMを公開開始！ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMQVpqM1lWSVJwdHloVjYxb2gwZmlfejNCOHZWVnF3UGlYZTA3WkVaQmRuT3BwWk56VTlZYnl0QUxkaEgwUk5RTVlzanZuWUIxaXZvLS1zUGhPbTB3RVJialpqN0dYMXIxSnhHcGF3cENoUmp3OXZjMjItWQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-05 01:15",
-      "summary": "JAPAN AIの新たなWebCMを公開開始！ &nbsp;&nbsp; ニコニコニュース",
+      "title": "【AD】AIと人間が拓く「新たな企業」のあり方 - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kbWFEOUVkeWhIU0g2aFdfZXV1NV9BRlBJMlRJVXNTNmtFdWNMT2JicjFMYTBqVTlRdERmZTdkcXVfTU1oNm1oTnF0d0c2cHhBeEdpc1pFby1EM0xjdWg1X1QzeTIwemM?oc=5",
+      "source": "日経ビジネス電子版",
+      "published": "2026-11-05 05:00",
+      "summary": "【AD】AIと人間が拓く「新たな企業」のあり方 &nbsp;&nbsp; 日経ビジネス電子版",
       "tags": [
         "最新AI技術"
       ],
@@ -120,51 +238,53 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 9.0,
+      "age_hours": 14.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "ニコニコニュース"
+        "日経ビジネス電子版"
       ]
     },
     {
-      "id": "640c71371fc9b12a",
+      "id": "b6085567b0afa1e2",
       "category": "地銀",
-      "title": "山形新聞社が山形銀行・荘内銀行・きらやか銀行の県内3行と「生成AIの利用推進と地域課題の解決に関する連携協定」を締結 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KSmNKQWRWTWZKUkZlRUNEQ19DdF9YX192RHZkRGhja3dQQlF0a196R0tLVjVYSE9lb2Y5a0tUQm1rd3BRdklVc1VjTDRtWlJNOVdSS3pvU1NoQldYMW5fRzJqZ1FhaUhjSVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-04 18:13",
-      "summary": "山形新聞社が山形銀行・荘内銀行・きらやか銀行の県内3行と「生成AIの利用推進と地域課題の解決に関する連携協定」を締結 &nbsp;&nbsp; PR TIMES",
+      "title": "金融庁、「セルフ評価」で底上げ 金融機関のサイバー対策 - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lallNa0xVZ2tVelNtWlBGVWJOWFF3SWhOVzQxOVVyTnZISlhGSHN1TWtGZUVoSjRwSlN2UEJIamZYekNJUEN6b3BsVTNjdnprNjd6NDdR?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-11-05 04:50",
+      "summary": "金融庁、「セルフ評価」で底上げ 金融機関のサイバー対策 &nbsp;&nbsp; ニッキンONLINE",
       "tags": [
         "地銀",
-        "生成AI",
-        "AI活用"
+        "サイバー",
+        "リスク管理",
+        "ガバナンス"
       ],
       "signals": [
-        "generative_ai"
+        "cyber",
+        "governance"
       ],
-      "importance": 61,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 16.0,
+      "importance": 71,
+      "confidence": "中",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 14.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "PR TIMES"
+        "ニッキンONLINE"
       ]
     },
     {
-      "id": "d94761d8e6eacd1f",
+      "id": "c165a87df9a69358",
       "category": "地銀",
-      "title": "住宅ローン金利を生成AIに聞くと5回に1回は公式と異なる数字、7割は実態より不利な回答に 全95地銀を調査 - au Webポータル",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0Q1NvQlljOXBPM1JtQjRQd1Z4aGNQUkN4Y1BiOXVtdU9OMUJXYVdONWdjMExJRFZTUG9ObzRqZHFTWmdTeFNjMlpfZllpampoTkZ6eW9vanROLXRMOEtZMEpZYmdMTzNCTXZvN1dn?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-11-04 16:20",
-      "summary": "住宅ローン金利を生成AIに聞くと5回に1回は公式と異なる数字、7割は実態より不利な回答に 全95地銀を調査 &nbsp;&nbsp; au Webポータル",
+      "title": "住宅ローン金利を生成AIに聞くと5回に1回は公式と異なる数字、7割は実態より不利な回答に 全95地銀を調査 - テクノエッジ TechnoEdge",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PN2c2c2hZQ1kxaHI4bjBabnBzUndPX295dU82SnhNRDE0WE9hOWFuRV9iSWFaaEk4WXl6M2M2U3VrMS05Mk02ZW5QZDF6SlRuTDVJZHhPOHMxR2JucVJ4XzFreUtVdEk?oc=5",
+      "source": "テクノエッジ TechnoEdge",
+      "published": "2026-11-04 16:19",
+      "summary": "住宅ローン金利を生成AIに聞くと5回に1回は公式と異なる数字、7割は実態より不利な回答に 全95地銀を調査 &nbsp;&nbsp; テクノエッジ TechnoEdge",
       "tags": [
         "地銀",
         "生成AI",
@@ -182,11 +302,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 17.9,
+      "age_hours": 27.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "au Webポータル"
+        "テクノエッジ TechnoEdge"
       ]
     },
     {
@@ -208,11 +328,37 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 19.2,
+      "age_hours": 28.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "PR TIMES"
+      ]
+    },
+    {
+      "id": "f8fbbda9987700ac",
+      "category": "最新AI技術",
+      "title": "JAPAN AIの新たなWebCMを公開開始！ - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sWkZPRTZxMENvRENIakN0OU41MldHZmlOLXpEbjBoNHJfRFFRWmxKYkhCOXBJNTFnV003cjl0T2dYVFFKdUZyeTVNQ3MwV1U?oc=5",
+      "source": "Newscast.jp",
+      "published": "2026-11-04 13:00",
+      "summary": "JAPAN AIの新たなWebCMを公開開始！ &nbsp;&nbsp; Newscast.jp",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 30.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Newscast.jp"
       ]
     },
     {
@@ -240,7 +386,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 23.1,
+      "age_hours": 32.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -272,7 +418,7 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
-      "age_hours": 32.2,
+      "age_hours": 41.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
