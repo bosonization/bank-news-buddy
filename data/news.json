@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 09:08 JST",
+  "generated_at": "2026-11-08 18:52 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,7 +30,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 17.5,
+      "age_hours": 27.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -60,7 +60,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 22.0,
+      "age_hours": 31.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -92,46 +92,11 @@
       "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 37.0,
+      "age_hours": 46.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "CRYPTO TIMES"
-      ]
-    },
-    {
-      "id": "f9e91c5d2cde779e",
-      "category": "その他",
-      "title": "金融庁、サイバー対策を緊急点検 信金・信組など400機関が対象に - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CQ1Jmd2hPZnRqU3F6b3owRWxfQm1aWUM3czJ3azhlRlhGb1NaUVo3WjJxZ0VuWnQycGtKR3NNTlZtd3B1UXViZ29NMUtQcFhhVnpLbEppMXczMmdDVVo3U0trOWU5NW1pR1h5dA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-06 17:25",
-      "summary": "金融庁、サイバー対策を緊急点検 信金・信組など400機関が対象に &nbsp;&nbsp; 日本経済新聞",
-      "tags": [
-        "その他",
-        "地銀",
-        "地域金融",
-        "サイバー",
-        "リスク管理",
-        "ガバナンス"
-      ],
-      "signals": [
-        "regional_bank",
-        "cyber",
-        "governance"
-      ],
-      "importance": 83,
-      "confidence": "中",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 39.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "日本経済新聞"
       ]
     }
   ]
