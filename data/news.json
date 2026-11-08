@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 18:52 JST",
+  "generated_at": "2026-11-09 00:47 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,7 +30,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 27.3,
+      "age_hours": 33.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -60,43 +60,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 31.7,
+      "age_hours": 37.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "Forbes JAPAN"
-      ]
-    },
-    {
-      "id": "f284afcf660d27c2",
-      "category": "その他",
-      "title": "金融庁、信金など400機関を緊急点検｜銀行の情報流出相次ぐ - CRYPTO TIMES",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2N4bHYzNl9VTzk4a0lMZkFXYU90VVcwWjViajNuV3dVVmRGY2NvRXhPNnowZjdWVnRYMFgxckZyQURZNVBVQ2x6R1VPX18yUUZheTRwWFNzU3V5VTJYU0cwVk52ay1tUEVtYVlmNUhQSk5VOGtHMGItdllvWHduMHJaSUVCZE9vak1hYVZfc3hHaC1hUUEwdVRsTDlVT0VZa3pkMmxYOW94NDhs?oc=5",
-      "source": "CRYPTO TIMES",
-      "published": "2026-11-06 20:06",
-      "summary": "金融庁、信金など400機関を緊急点検｜銀行の情報流出相次ぐ &nbsp;&nbsp; CRYPTO TIMES",
-      "tags": [
-        "その他",
-        "地銀",
-        "地域金融",
-        "ガバナンス"
-      ],
-      "signals": [
-        "regional_bank",
-        "governance"
-      ],
-      "importance": 67,
-      "confidence": "中",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 46.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "CRYPTO TIMES"
       ]
     }
   ]
