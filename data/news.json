@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09 09:25 JST",
+  "generated_at": "2026-11-09 19:55 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,33 +8,145 @@
   },
   "items": [
     {
-      "id": "9e8c36b9d3d2a72a",
-      "category": "最新AI技術",
-      "title": "企業のAIエージェント活用に、技術戦略だけでは足りない理由 - Forbes JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uTkdMQzZFVm05cmNvUFFwMi1OU1owaDRaSnNFQ2NleHpmYjRCV1hQaVpJYmFNVk5mU24xQ2lUYjZTR2xuUmlXaGswcVJRSm5JdTFjTDN2T0hzZw?oc=5",
+      "id": "7ea1e8581299f153",
+      "category": "地銀",
+      "title": "融資承認最大22％増の事例も、米国の地域金融機関がAIで業務改革 - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fUWF6ZFVnd0RUeXY3VEF3UXdvVjlfWmVLNVRWSTFVblBxeU5Vc0hYeF95M2dNT2ZHa3F4c3VMMWNsMmpkVXVTZml5bS1ENGxNYU9tcTU3SWdjQQ?oc=5",
       "source": "Forbes JAPAN",
-      "published": "2026-11-07 11:08",
-      "summary": "企業のAIエージェント活用に、技術戦略だけでは足りない理由 &nbsp;&nbsp; Forbes JAPAN",
+      "published": "2026-11-09 15:30",
+      "summary": "融資承認最大22％増の事例も、米国の地域金融機関がAIで業務改革 &nbsp;&nbsp; Forbes JAPAN",
       "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
+        "地銀",
+        "地域金融",
+        "融資",
+        "法人営業"
       ],
       "signals": [
-        "generative_ai"
+        "regional_bank",
+        "lending"
       ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 46.3,
+      "importance": 76,
+      "confidence": "中",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 4.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "Forbes JAPAN"
+      ]
+    },
+    {
+      "id": "c69dc6848cab5c16",
+      "category": "最新AI技術",
+      "title": "Dify日本法人 代表取締役社長に渡辺 元が就任 | 株式会社LangGeniusのプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4WUpmVGZqZGVNeHFGMUZJai1mcklaOVZNN1V5SGtpM0piV2E0WC0xLUFIbjk4eE9LRHo3dzZOY0R6SmVLcmJ0N2p2X1YwYVBXOVRUX1M2NTZLNmVaRTdnbzJKR2J2d2ZPd0E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-09 15:00",
+      "summary": "Dify日本法人 代表取締役社長に渡辺 元が就任 | 株式会社LangGeniusのプレスリリース &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 4.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "3440ddf594ce38fa",
+      "category": "その他",
+      "title": "AIによるサイバー攻撃の発展で銀行・証券の「信用」を破壊-不正送金・不正売買の先にある金融システムの危機 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGhWSlp0d25Jb0xLeGxZeURjXzM4ZTM1M2R0WDVWYjJtdXZ3YkR5c3NuWjRqelJKeFpWdDh6SlVlWWl0SjdRQk9WdFlCU0ZLM201ajlXYWEyMEVpZnFVak52Mks5YldRWDhWeEhVM29kMUdWM0lYMGdKWGdqTmJWSHJ4Q29QX1V0c3k2dmc4d3NBN0k?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published": "2026-11-09 11:55",
+      "summary": "AIによるサイバー攻撃の発展で銀行・証券の「信用」を破壊-不正送金・不正売買の先にある金融システムの危機 &nbsp;&nbsp; 合同会社ロケットボーイズ",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理",
+        "決済"
+      ],
+      "signals": [
+        "cyber",
+        "cashless"
+      ],
+      "importance": 60,
+      "confidence": "中",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 決済・キャッシュレスは、個人顧客接点と地域加盟店支援の両方につながります。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 地域店舗の決済データや顧客接点を、取引先支援やマーケティングにどう活かすかの会話にできます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 8.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "合同会社ロケットボーイズ"
+      ]
+    },
+    {
+      "id": "1608f56a593d76e9",
+      "category": "最新AI技術",
+      "title": "Box、新検索エンジン「Box Context Retrieval」を発表--NVIDIAとの協業で企業AIを高度化 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xdTdhem10VXcyQ0tqTWV4aTZmb2Z0YjRwR3RVNXdoRkIwR0I3RkF1Wi1SS2RrYzVYdTh4UldOd2dLV0pnN2FaTHlxOWxRcmstQVRV?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-11-09 06:00",
+      "summary": "Box、新検索エンジン「Box Context Retrieval」を発表--NVIDIAとの協業で企業AIを高度化 &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 13.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "6669a4255514e15a",
+      "category": "最新AI技術",
+      "title": "【驚異】「SaaS全滅」時代に、唯一伸びまくる企業があった - NewsPicks",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjZzZkUWloOTJrMTdjMnBZT1VtUmlQYlZfdzY5TnMwa1U2MlREVE9fbGNJMXBSZXhrRTJZY21lX2F1YWdxVmRuUE5KamVsa00zUkFkd2VGVDJkd1FGekM2bA?oc=5",
+      "source": "NewsPicks",
+      "published": "2026-11-09 05:30",
+      "summary": "【驚異】「SaaS全滅」時代に、唯一伸びまくる企業があった &nbsp;&nbsp; NewsPicks",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 14.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "NewsPicks"
       ]
     }
   ]
