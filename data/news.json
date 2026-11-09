@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09 00:47 JST",
+  "generated_at": "2026-11-09 09:25 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,36 +7,6 @@
     "search": "button-based IME-safe search"
   },
   "items": [
-    {
-      "id": "9bee1f54a185b363",
-      "category": "最新AI技術",
-      "title": "「RPA」の次にUiPathが見据えるもの。AIエージェントと人間が協働する未来のワークプレイスとは - CoRRiENTE",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvTTRZNGkyYnpKT1hyMWEzOFEtRVM0WkRFaTlPTmVLUVhSTV91M2JJN0VMdFlPU2ljWjdWdV9CXy05U0FjbXE3Y1ZFX2t0NTJBWEhDNWROdWprVjYxSDJDeUk4SdIBaEFVX3lxTE1HNUNjalRoUkZ3ejFHVXJBdzF1Q1g0T0R5OEFKcDY1TzhsejZZaEpDRi1Bb1BRUkNwVkpmalc2SU1kT1VTSVczVFVnUG9CNDNDMTMyc25IdjZaOFJabnFIdDRYZjNib3ha?oc=5",
-      "source": "CoRRiENTE",
-      "published": "2026-11-07 15:36",
-      "summary": "「RPA」の次にUiPathが見据えるもの。AIエージェントと人間が協働する未来のワークプレイスとは &nbsp;&nbsp; CoRRiENTE",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 33.2,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "CoRRiENTE"
-      ]
-    },
     {
       "id": "9e8c36b9d3d2a72a",
       "category": "最新AI技術",
@@ -60,7 +30,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 37.7,
+      "age_hours": 46.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
