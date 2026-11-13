@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13 10:37 JST",
+  "generated_at": "2026-11-13 19:32 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,13 +8,13 @@
   },
   "items": [
     {
-      "id": "ce7eb116ba0f41c9",
+      "id": "f36d1b367fcb032c",
       "category": "最新AI技術",
-      "title": "「JAPAN AI」、「GPT-6 Luna」の国内推論に対応 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1YXlnZjdVbXFjQU1pdFptcGtGbVBYdmRPaTF5VlVHR3Z3eW1QMlZCS01sWWpxdmVSMWZqUlc5MWViRGduU3ZvWjQtaUkwZTJoODhWc0kwa1B3WTU3UjQ5TDJNeElLVk0zZkE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-12 18:00",
-      "summary": "「JAPAN AI」、「GPT-6 Luna」の国内推論に対応 &nbsp;&nbsp; PR TIMES",
+      "title": "企業のAI活用を阻む「2つの壁」とは？ デル日本法人社長が指摘 - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhWU5LYm82WU1peXNjdkZiaTdfa0d2ZlFVTlNVM2xkN3JydWFrRl9wc2ROSlV4OGNxNFc4Tll5YVlMSThYdTEzalhpM2ZaTDdqQTVyR3NOUnRFeVhYdmpSMTJIZlo0UlJz?oc=5",
+      "source": "マイナビニュース",
+      "published": "2026-11-13 18:38",
+      "summary": "企業のAI活用を阻む「2つの壁」とは？ デル日本法人社長が指摘 &nbsp;&nbsp; マイナビニュース",
       "tags": [
         "最新AI技術"
       ],
@@ -26,11 +26,153 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 16.6,
+      "age_hours": 0.9,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "マイナビニュース"
+      ]
+    },
+    {
+      "id": "db3bbd81425931dd",
+      "category": "最新AI技術",
+      "title": "株式会社Digeon、日本ソフトウエア株式会社とAI分野における業務提携契約を締結 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1cV84Wk5mbDV3ZHNEeTlrODA4c1RYdmtscGNublBiMVB5QTg3VHhKemhnWFg0dVA5eVVxQlRVYnVuVC1BLWpGcmhycl9aWTNfR050aTVNc05jaHFPamRmTlZlR2VkTnUwWXc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-13 17:40",
+      "summary": "株式会社Digeon、日本ソフトウエア株式会社とAI分野における業務提携契約を締結 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 1.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "PR TIMES"
+      ]
+    },
+    {
+      "id": "bc912e70664d1682",
+      "category": "地銀",
+      "title": "シンプレクスのCEO 金子 英樹とエグゼクティブプリンシパル 三浦 和夫が、地域金融機関向け研修「一橋大学地域金融プログラム（HRFP）」に登壇 - 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DUF9uXzU1UTVoTUt0OE1qaUVXTEU5dWlmeEkzbHVwMzlMRlJXRnd4aXBiTW01eXY2OEp6Y3l1NWFXWWhaOUNPTVFkTWdDTE0tQUg1ZFRMY0lDUQ?oc=5",
+      "source": "北海道新聞デジタル",
+      "published": "2026-11-13 16:47",
+      "summary": "シンプレクスのCEO 金子 英樹とエグゼクティブプリンシパル 三浦 和夫が、地域金融機関向け研修「一橋大学地域金融プログラム（HRFP）」に登壇 &nbsp;&nbsp; 北海道新聞デジタル",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 2.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "北海道新聞デジタル"
+      ]
+    },
+    {
+      "id": "9e3acdfe13dfd58a",
+      "category": "地銀",
+      "title": "コクー、全国の地域金融機関とスタートアップが集結する『BANK SUMMIT 2026』のピッチコンテスト「BANK SUMMIT PITCH」において最優秀賞を受賞 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hcXVmZG9Fd2d3SUdwZXpVTWFYTUZZdEMtakttdHM5NUdYLVJmSVhWQnB2bGZ6allnamNMUjFRY0NyZnpYVU9mWHJUU2lYNWQ0NEd1S0Q5bjJySWZ3Q0lvWC0xd054LXB4aWc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-13 16:00",
+      "summary": "コクー、全国の地域金融機関とスタートアップが集結する『BANK SUMMIT 2026』のピッチコンテスト「BANK SUMMIT PITCH」において最優秀賞を受賞 &nbsp;&nbsp; PR TIMES",
+      "tags": [
+        "地銀",
+        "地域金融"
+      ],
+      "signals": [
+        "regional_bank"
+      ],
+      "importance": 63,
+      "confidence": "低",
+      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
+      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
+      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 3.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "PR TIMES"
+      ]
+    },
+    {
+      "id": "8c1a7b72f107b86f",
+      "category": "最新AI技術",
+      "title": "日本のAI導入企業は半数超に--「労働力不足の切り札」と期待される次世代テクノロジーとは - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mX2w0ODlIU3VFblhwYUd5NmdRaTRoZHdhdTRkWWhUeU1yUTU3SGZQWVpMaEdCNlRkN3dxb0pGWUFpN2Y4bGp4ZktDTGhpQVRyQ2Vz?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-11-13 12:55",
+      "summary": "日本のAI導入企業は半数超に--「労働力不足の切り札」と期待される次世代テクノロジーとは &nbsp;&nbsp; ZDNET Japan",
+      "tags": [
+        "最新AI技術"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 6.6,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "ad4abd205162d8ed",
+      "category": "メガバンク",
+      "title": "三菱UFJ、三井住友、みずほ AI活用で課題を克服！ 3メガバンクが再注力する「中小企業向け融資」 - 財界オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoOUVzV2s2ZkxKc0x5QUJGNUhlX05Fd0NmbGVaOG8zYWt5U2VLc2RvMWxPc0RDek9sLUdaODNiSm1YTVUxVXlBZlZLM1NEaXlhSDJ4Xw?oc=5",
+      "source": "財界オンライン",
+      "published": "2026-11-13 11:33",
+      "summary": "三菱UFJ、三井住友、みずほ AI活用で課題を克服！ 3メガバンクが再注力する「中小企業向け融資」 &nbsp;&nbsp; 財界オンライン",
+      "tags": [
+        "メガバンク",
+        "融資",
+        "法人営業"
+      ],
+      "signals": [
+        "megabank",
+        "lending"
+      ],
+      "importance": 62,
+      "confidence": "中",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。 融資・法人営業・取引先支援は、地銀の収益力と地域貢献の両面で会話しやすいテーマです。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。 AIやデータ活用を、融資審査そのものではなく、企業理解・面談準備・提案精度向上から話すと入りやすいです。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 8.0,
+      "is_recent": true,
+      "duplicate_count": 2,
+      "related_sources": [
+        "財界オンライン",
+        "Infoseek"
       ]
     },
     {
@@ -58,7 +200,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 17.5,
+      "age_hours": 26.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -88,7 +230,7 @@
       "question": "法人営業で、面談前の企業理解や提案準備にもっと時間を使えると効果が出そうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 17.6,
+      "age_hours": 26.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -114,7 +256,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 23.6,
+      "age_hours": 32.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -144,39 +286,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 24.5,
+      "age_hours": 33.4,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ICT教育ニュース"
-      ]
-    },
-    {
-      "id": "0525ff2c783635a2",
-      "category": "NTTデータ",
-      "title": "経営の質を高めるデータ活用の実践へ－－京都フィナンシャルグループが歩む変革への道のり - NTT Data",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TMDNHaDVDbzY1T0o2VlpoS0htVFZNMmdHY2xNbG5velBSaFJZQU5ERFQ5eG1rWFlxdmNLMWhwZDhjR2JKTUpyR3JBbXI0Q0R0MzN3RE1tNW1mNHAzclNaSlo3dlE4VkR5akdaRnhR?oc=5",
-      "source": "NTT Data",
-      "published": "2026-11-12 02:00",
-      "summary": "経営の質を高めるデータ活用の実践へ－－京都フィナンシャルグループが歩む変革への道のり &nbsp;&nbsp; NTT Data",
-      "tags": [
-        "NTTデータ"
-      ],
-      "signals": [
-        "nttdata"
-      ],
-      "importance": 65,
-      "confidence": "低",
-      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
-      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
-      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
-      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 32.6,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "NTT Data"
       ]
     },
     {
@@ -200,7 +314,7 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 33.6,
+      "age_hours": 42.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -226,7 +340,7 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 34.6,
+      "age_hours": 43.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
