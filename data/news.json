@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16 09:37 JST",
+  "generated_at": "2026-11-16 19:39 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,96 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "0618a8ee7b7aee59",
+      "category": "最新AI技術",
+      "title": "日本のエージェント型 AI 開発を加速 — NVIDIA Agentic AI Day Japan 2026 で企業の活用事例と最新技術を紹介 - NVIDIA | Japan Blog",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBidzJJZGRCeVZJdkxFdjRXY045VjFRUVU1WDRYdklPS1hUS210VGlNMDdNVlpyZG11WEpuNVc4ZHFkNHZkS0dZX1J4aWtnd3pNdnlHVHB3N2FPZ1VibGNwUHRKTXcza0c4OU1VRlVFYm4wSzl4SGk3Ujd0OA?oc=5",
+      "source": "NVIDIA | Japan Blog",
+      "published": "2026-11-16 15:57",
+      "summary": "日本のエージェント型 AI 開発を加速 — NVIDIA Agentic AI Day Japan 2026 で企業の活用事例と最新技術を紹介 &nbsp;&nbsp; NVIDIA | Japan Blog",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 3.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "NVIDIA | Japan Blog"
+      ]
+    },
+    {
+      "id": "1345bbd388fc3d5a",
+      "category": "最新AI技術",
+      "title": "x3d(クロスサード)代表・武石幸之助がJMCA「社長のための実践AIエージェント講座（中級編）」に登壇／2027年2 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByeDVWczZzQ25iaERTOE5oNHg3bWg3MktreHRNbVdaaU1BRnVwd3RWMlQxZUpVaUdQVnQwV1h1cC0zalhPMHdLLWY4ZnRfQUZHN2tCUlRiRzdXQUw0eVJMQjZBN05LejNRRnduQ21RWTBrNWdHb0FBUXBlSQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-16 14:21",
+      "summary": "x3d(クロスサード)代表・武石幸之助がJMCA「社長のための実践AIエージェント講座（中級編）」に登壇／2027年2 &nbsp;&nbsp; ニコニコニュース",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 5.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "6fabe4bad5a392ee",
+      "category": "最新AI技術",
+      "title": "「AIエージェント博 2026 byAI博覧会」カンファレンス第3弾スピーカーを発表！ - valuepress",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51MEZXS211dEVOLTlJYjFIa1FTUks0V1ViUWMwLWpYc2I1bm9QaXBBODNkWktwLVVFUkZ1RllJWU93UVV0bl9XV1VvUzk3ZUhCbXBuVnhSYUdxems?oc=5",
+      "source": "valuepress",
+      "published": "2026-11-16 13:00",
+      "summary": "「AIエージェント博 2026 byAI博覧会」カンファレンス第3弾スピーカーを発表！ &nbsp;&nbsp; valuepress",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 6.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "valuepress"
+      ]
+    },
     {
       "id": "3aa263fcd779520c",
       "category": "その他",
@@ -32,7 +122,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 4.1,
+      "age_hours": 14.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
