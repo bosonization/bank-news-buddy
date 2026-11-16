@@ -1,10 +1,43 @@
 {
-  "generated_at": "2026-11-16 01:03 JST",
+  "generated_at": "2026-11-16 09:37 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
     "dedupe": "similar-title topic clustering",
     "search": "button-based IME-safe search"
   },
-  "items": []
+  "items": [
+    {
+      "id": "3aa263fcd779520c",
+      "category": "その他",
+      "title": "AIは｢システムの裏口｣を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは\"課題の95%\"を完遂 - 東洋経済オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9waXJxVlFrUkhSRlctaDFXN1VJZUVrRWxkaDZoUGQ5QmdUd2Z4ZFE1MHp1cXdjeFB0aDBtNDE0YWhkX2otNFRrMXZhN1hnbjM3X2VKaDFIcWo0aE0?oc=5",
+      "source": "東洋経済オンライン",
+      "published": "2026-11-16 05:30",
+      "summary": "AIは｢システムの裏口｣を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは\"課題の95%\"を完遂 &nbsp;&nbsp; 東洋経済オンライン",
+      "tags": [
+        "その他",
+        "サイバー",
+        "リスク管理",
+        "ガバナンス"
+      ],
+      "signals": [
+        "cyber",
+        "governance"
+      ],
+      "importance": 63,
+      "confidence": "中",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。 金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。 便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 4.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "東洋経済オンライン"
+      ]
+    }
+  ]
 }
