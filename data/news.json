@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17 04:15 JST",
+  "generated_at": "2026-11-17 12:20 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -30,7 +30,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 5.6,
+      "age_hours": 13.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -60,41 +60,11 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 11.5,
+      "age_hours": 19.6,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "NVIDIA | Japan Blog"
-      ]
-    },
-    {
-      "id": "1345bbd388fc3d5a",
-      "category": "最新AI技術",
-      "title": "x3d(クロスサード)代表・武石幸之助がJMCA「社長のための実践AIエージェント講座（中級編）」に登壇／2027年2 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByeDVWczZzQ25iaERTOE5oNHg3bWg3MktreHRNbVdaaU1BRnVwd3RWMlQxZUpVaUdQVnQwV1h1cC0zalhPMHdLLWY4ZnRfQUZHN2tCUlRiRzdXQUw0eVJMQjZBN05LejNRRnduQ21RWTBrNWdHb0FBUXBlSQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-16 14:21",
-      "summary": "x3d(クロスサード)代表・武石幸之助がJMCA「社長のための実践AIエージェント講座（中級編）」に登壇／2027年2 &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 13.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
       ]
     },
     {
@@ -120,7 +90,7 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 15.3,
+      "age_hours": 23.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -128,13 +98,13 @@
       ]
     },
     {
-      "id": "3aa263fcd779520c",
+      "id": "6d7b5e118f8aa287",
       "category": "その他",
-      "title": "AIは｢システムの裏口｣を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは\"課題の95%\"を完遂 - 東洋経済オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9waXJxVlFrUkhSRlctaDFXN1VJZUVrRWxkaDZoUGQ5QmdUd2Z4ZFE1MHp1cXdjeFB0aDBtNDE0YWhkX2otNFRrMXZhN1hnbjM3X2VKaDFIcWo0aE0?oc=5",
-      "source": "東洋経済オンライン",
+      "title": "AIは「システムの裏口」を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは“課題の95％”を完遂 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xd0pDcWhNVmhWMldKbmhhRHpYSzczeTNDZnB5MWRZN09qX1pld3N5RE5nQUR2dEpHTVBoeFJXRjZFYUVQUGxMckZrb19YdHU3UXhSUU5MUWxNS2o2Z1QyQ2V2MS1EdzBSVVNCbjVZdzVKUG5rc1lMdlhITm9YX2M?oc=5",
+      "source": "Yahoo!ニュース",
       "published": "2026-11-16 05:30",
-      "summary": "AIは｢システムの裏口｣を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは\"課題の95%\"を完遂 &nbsp;&nbsp; 東洋経済オンライン",
+      "summary": "AIは「システムの裏口」を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは“課題の95％”を完遂 &nbsp;&nbsp; Yahoo!ニュース",
       "tags": [
         "その他",
         "サイバー",
@@ -152,11 +122,11 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 22.8,
+      "age_hours": 30.8,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "東洋経済オンライン"
+        "Yahoo!ニュース"
       ]
     }
   ]
