@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20 19:55 JST",
+  "generated_at": "2026-11-21 02:31 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,39 +8,13 @@
   },
   "items": [
     {
-      "id": "26182405eb6a8d4a",
+      "id": "0cbe1e293332dd85",
       "category": "最新AI技術",
-      "title": "野村総合研究所、日本企業を対象にIT活用実態調査（2026年）」を実施 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBQ3ZlLUtwanpubjBiLU1ZWXp2NEhoLW1YZ1luMEFSZDVUUlplZjVKbjBrV2dpZlRaTHdjR1Z5X0tvRHpRd0JseURQQnpKMVd5S215djRsOENGbWhNeEt5U3ctd2FPT18z?oc=5",
+      "title": "香港上場・多牛科技の共同CEOが語るAIエージェント実装の順序――サポートコスト88%削減から、企業向け展開まで - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTWFRYUhudTd2cjYyalVtVVNvbjlhN2RQQ3lZaWJPdlFrZFJWSnp0TDhRRG13NDZaLTVqZmFxaDV3UnlDUklMelFLdVA4eFZFeVAtZW80TmhVOHNNUE51dHExdXRNNUJm?oc=5",
       "source": "ニコニコニュース",
-      "published": "2026-11-20 12:09",
-      "summary": "野村総合研究所、日本企業を対象にIT活用実態調査（2026年）」を実施 &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "最新AI技術"
-      ],
-      "signals": [],
-      "importance": 35,
-      "confidence": "低",
-      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
-      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
-      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 7.8,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
-      ]
-    },
-    {
-      "id": "048b769cd6609eea",
-      "category": "最新AI技術",
-      "title": "データ分析AIエージェント「Srush AI」、【ASPIC - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZVWhZb19sMEF2THpqdWhLYk1zUHBNRW5KZTh6U0dBU2JFUV9WanRaODVZeUlWVFV6bGN3QVliaUZVQ2p1UEN3RGRMd2JOWTVIZ2htOGNsLXdSX01ZTlQxV2VIY3dxRk1u?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-20 06:18",
-      "summary": "データ分析AIエージェント「Srush AI」、【ASPIC &nbsp;&nbsp; ニコニコニュース",
+      "published": "2026-11-20 20:15",
+      "summary": "香港上場・多牛科技の共同CEOが語るAIエージェント実装の順序――サポートコスト88%削減から、企業向け展開まで &nbsp;&nbsp; ニコニコニュース",
       "tags": [
         "最新AI技術",
         "生成AI",
@@ -56,11 +30,39 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 13.6,
+      "age_hours": 6.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ニコニコニュース"
+      ]
+    },
+    {
+      "id": "7ab380924061884d",
+      "category": "NTTデータ",
+      "title": "NTTデータ、AIで高度化する脅威に備えるクラウド統合管理「A-gate View」 - 株式会社インプレス",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JMDBNQnJPZVdmLVV0UkJNOHpsV2ZlME5yS2Q3LS1ZT1hkdkZRTFNMUFdnQ0N6cm9OQmk1SHphV0JOMlcyNktoSjU5NEk4RnE0eWt6TGt4dHB0d0JONlpuWkg1cw?oc=5",
+      "source": "株式会社インプレス",
+      "published": "2026-11-20 16:23",
+      "summary": "NTTデータ、AIで高度化する脅威に備えるクラウド統合管理「A-gate View」 &nbsp;&nbsp; 株式会社インプレス",
+      "tags": [
+        "NTTデータ"
+      ],
+      "signals": [
+        "nttdata"
+      ],
+      "importance": 65,
+      "confidence": "低",
+      "why_matters": "NTTデータ関連の話題は、金融システムの安定運用と新技術活用の両立に接続しやすいです。",
+      "talk": "新技術単体ではなく、既存システム・共同センター・運用保守とどうつなぐかを話すと刺さりやすいです。",
+      "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
+      "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 10.1,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "株式会社インプレス"
       ]
     },
     {
@@ -84,7 +86,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 30.9,
+      "age_hours": 37.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -114,11 +116,41 @@
       "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
       "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
       "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 33.9,
+      "age_hours": 40.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "ZDNET Japan"
+      ]
+    },
+    {
+      "id": "d700b4e653c1f388",
+      "category": "最新AI技術",
+      "title": "アイルランドAccenture日本法人、AIによる業務変革を解説 エージェントを各局面で活用 - 週刊BCN＋",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iOGNmdU50ZjA4MzlIVmdBeS1RUVloU1NqLVdpbmJvNmR1cnptR05od2kwdXQybjQ4cG1RN3VlVUVEeUctUUFYYko2YUFOX2VabDZTX1hLUEY1VUJZSVhqXzRKVjVBUDk1bjVtVzZDZHBEQThE?oc=5",
+      "source": "週刊BCN＋",
+      "published": "2026-11-19 09:00",
+      "summary": "アイルランドAccenture日本法人、AIによる業務変革を解説 エージェントを各局面で活用 &nbsp;&nbsp; 週刊BCN＋",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 41.5,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "週刊BCN＋"
       ]
     }
   ]
