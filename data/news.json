@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21 10:55 JST",
+  "generated_at": "2026-11-21 19:39 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,36 +7,6 @@
     "search": "button-based IME-safe search"
   },
   "items": [
-    {
-      "id": "0cbe1e293332dd85",
-      "category": "最新AI技術",
-      "title": "香港上場・多牛科技の共同CEOが語るAIエージェント実装の順序――サポートコスト88%削減から、企業向け展開まで - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTWFRYUhudTd2cjYyalVtVVNvbjlhN2RQQ3lZaWJPdlFrZFJWSnp0TDhRRG13NDZaLTVqZmFxaDV3UnlDUklMelFLdVA4eFZFeVAtZW80TmhVOHNNUE51dHExdXRNNUJm?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-20 20:15",
-      "summary": "香港上場・多牛科技の共同CEOが語るAIエージェント実装の順序――サポートコスト88%削減から、企業向け展開まで &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 14.7,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
-      ]
-    },
     {
       "id": "7ab380924061884d",
       "category": "NTTデータ",
@@ -58,39 +28,11 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 18.5,
+      "age_hours": 27.3,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "株式会社インプレス"
-      ]
-    },
-    {
-      "id": "cadf8b71a25793d5",
-      "category": "メガバンク",
-      "title": "「共に育つAI」で金融の未来を創る─MUFG・松尾研究所・Third Intelligenceが包括提携 - IT Leaders",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KZ1kwNE9uTDhpR0lHWV9hVUlseUVINGhUeGtRS2JnaGtNcDBzdFQtbGpBaDYtS2VLUE1QTVg0OG5EdVVjdllSNThORUVFMngybTNN?oc=5",
-      "source": "IT Leaders",
-      "published": "2026-11-19 13:01",
-      "summary": "「共に育つAI」で金融の未来を創る─MUFG・松尾研究所・Third Intelligenceが包括提携 &nbsp;&nbsp; IT Leaders",
-      "tags": [
-        "メガバンク"
-      ],
-      "signals": [
-        "megabank"
-      ],
-      "importance": 49,
-      "confidence": "低",
-      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
-      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
-      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 45.9,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "IT Leaders"
       ]
     }
   ]
