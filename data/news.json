@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21 19:39 JST",
+  "generated_at": "2026-11-22 01:36 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -28,11 +28,37 @@
       "question": "新しいAI活用を検討する際、既存システムとの接続や運用面で一番気になる点はどこですか？",
       "nttdata_angle": "NTTデータ自身の取り組みとして、金融領域での実装力・運用力・AI活用支援の文脈に直接つなげられます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 27.3,
+      "age_hours": 33.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "株式会社インプレス"
+      ]
+    },
+    {
+      "id": "75a3278aab58499a",
+      "category": "地銀",
+      "title": "ソラーズコンサルティング、保険DXの最前線討議 - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OU0IySldNQ0xwYVNZdFJ1djhYUGRXUkNra1lrdHd4ekxNbzExdVFnOUQwLWNDNWFFWGhQanpvcTZiYXNNVkZkUGFpaW9mRHdSNXRTWUxn?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-11-20 11:51",
+      "summary": "ソラーズコンサルティング、保険DXの最前線討議 &nbsp;&nbsp; ニッキンONLINE",
+      "tags": [
+        "地銀"
+      ],
+      "signals": [],
+      "importance": 43,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 37.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ニッキンONLINE"
       ]
     }
   ]
