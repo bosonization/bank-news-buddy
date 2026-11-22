@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22 19:43 JST",
+  "generated_at": "2026-11-23 01:53 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -28,41 +28,11 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 4.4,
+      "age_hours": 10.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "グッドウェイ"
-      ]
-    },
-    {
-      "id": "0cbe1e293332dd85",
-      "category": "最新AI技術",
-      "title": "香港上場・多牛科技の共同CEOが語るAIエージェント実装の順序――サポートコスト88%削減から、企業向け展開まで - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTWFRYUhudTd2cjYyalVtVVNvbjlhN2RQQ3lZaWJPdlFrZFJWSnp0TDhRRG13NDZaLTVqZmFxaDV3UnlDUklMelFLdVA4eFZFeVAtZW80TmhVOHNNUE51dHExdXRNNUJm?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-20 20:15",
-      "summary": "香港上場・多牛科技の共同CEOが語るAIエージェント実装の順序――サポートコスト88%削減から、企業向け展開まで &nbsp;&nbsp; ニコニコニュース",
-      "tags": [
-        "最新AI技術",
-        "生成AI",
-        "AI活用"
-      ],
-      "signals": [
-        "generative_ai"
-      ],
-      "importance": 53,
-      "confidence": "低",
-      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
-      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
-      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
-      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
-      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
-      "age_hours": 47.5,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニコニコニュース"
       ]
     }
   ]
