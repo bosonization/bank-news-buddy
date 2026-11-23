@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23 20:49 JST",
+  "generated_at": "2026-11-24 05:52 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -26,40 +26,11 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 11.8,
+      "age_hours": 20.9,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
         "マイナビニュース"
-      ]
-    },
-    {
-      "id": "770d1203c1fbe254",
-      "category": "地銀",
-      "title": "【ヒトの輪】地銀再編は信用力に何をもたらすか - ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVTRRNmcxSG1YRXotZEY0OGFjYTNYNmZJeGJ0YmJUZTNPOFREQXNjVGRVNU5DemZ3ZnpfeHpkY1lsc0FEaUFoVFppYzdmOENpV2RYVGtvUE1mc1RuQlpjbFE3bVJlM05IYnc?oc=5",
-      "source": "ニッキンONLINE",
-      "published": "2026-11-23 05:30",
-      "summary": "【ヒトの輪】地銀再編は信用力に何をもたらすか &nbsp;&nbsp; ニッキンONLINE",
-      "tags": [
-        "地銀",
-        "地域金融"
-      ],
-      "signals": [
-        "regional_bank"
-      ],
-      "importance": 63,
-      "confidence": "低",
-      "why_matters": "地域金融機関ならではの営業店事務、取引先支援、少人数運営の効率化に接続しやすい話題です。",
-      "talk": "地銀の文脈では、コスト削減だけでなく『地域企業への支援力をどう上げるか』に置き換えると会話が広がります。",
-      "question": "御行では、地域企業支援・営業店事務・本部業務のどこが一番ボトルネックになっていますか？",
-      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
-      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 15.3,
-      "is_recent": true,
-      "duplicate_count": 1,
-      "related_sources": [
-        "ニッキンONLINE"
       ]
     },
     {
@@ -83,7 +54,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 29.5,
+      "age_hours": 38.5,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
