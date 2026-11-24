@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 22:17 JST",
+  "generated_at": "2026-11-25 04:55 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -7,6 +7,36 @@
     "search": "button-based IME-safe search"
   },
   "items": [
+    {
+      "id": "637badaa07747fd0",
+      "category": "最新AI技術",
+      "title": "DeNAとCognition、国内スタートアップにAI開発エージェント「Devin」最大約1,000万円相当を支援 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VbXEzdjJTSVZWc0VaWWk5QlRRTENHRmF0U01FQ2xmdXFYc3dzdkwxTnd1aHJHeGpseUgyeGU0dGdWSXJOdEQ2MDNLemVvdV9tTDJWdEt6R21oUWlDR2g2d0ZYWjh1SXNld2RsLU5lQTZOSUZu?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-24 19:55",
+      "summary": "DeNAとCognition、国内スタートアップにAI開発エージェント「Devin」最大約1,000万円相当を支援 &nbsp;&nbsp; BigGo ファイナンス",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 9.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "BigGo ファイナンス"
+      ]
+    },
     {
       "id": "189bf996a5ce2e2b",
       "category": "その他",
@@ -32,7 +62,7 @@
       "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。 規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 4.6,
+      "age_hours": 11.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
@@ -40,13 +70,13 @@
       ]
     },
     {
-      "id": "468714b7a5c0573f",
+      "id": "0a1b01719eef9bce",
       "category": "最新AI技術",
-      "title": "ソフトバンクとOpenAIの合弁会社がAIガバナンス「C認証」を取得 企業のAI活用に求められる4つの基準とは - au Webポータル",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jYWJnckM1Vll5alRXeFBNLWJVaUtWUXoxT1VsZGZHQjZlOGhlU3MtYVd2UEkyeUpHekpnQmNzUW5qZjI0cTRBbzFvUHd5RTlFYmJkUGh3TW56bTlvZ1hQV29Rd0htRUFUdEdUQmN3?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-11-24 13:48",
-      "summary": "ソフトバンクとOpenAIの合弁会社がAIガバナンス「C認証」を取得 企業のAI活用に求められる4つの基準とは &nbsp;&nbsp; au Webポータル",
+      "title": "ソフトバンクとOpenAIの合弁会社がAIガバナンス「C認証」を取得 企業のAI活用に求められる4つの基準とは - ロボスタ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kYzVTbDFyb1NITDU0MmtHVE8yVEhULURPZXBlTDFTWkYwTUw0bWdxYXpMZDBTajZpakhlbm0wYmZWN0J6RFpJM0ctTGlGSzBfdkRkYlhYU1g4Z3F3ZGhXQzlRbGY?oc=5",
+      "source": "ロボスタ",
+      "published": "2026-11-24 13:45",
+      "summary": "ソフトバンクとOpenAIの合弁会社がAIガバナンス「C認証」を取得 企業のAI活用に求められる4つの基準とは &nbsp;&nbsp; ロボスタ",
       "tags": [
         "最新AI技術",
         "ガバナンス"
@@ -61,11 +91,95 @@
       "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
-      "age_hours": 8.5,
+      "age_hours": 15.2,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "au Webポータル"
+        "ロボスタ"
+      ]
+    },
+    {
+      "id": "55694a90776ac6e1",
+      "category": "その他",
+      "title": "【国債デジタル化の焦点】財務省がトークン化を検討、２５０兆円超のレポ市場はどう変わる - https://kabu-ir.com/",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UazFDelV2b1hSenZnSlh3UF81c1gySldWNmZYUHozbXR2UllaNVZmUFNoTHpOQkJDSU5hbFp3ZDJfRDBQb0ZFOHhfMFk4UC1YME53aw?oc=5",
+      "source": "https://kabu-ir.com/",
+      "published": "2026-11-24 13:08",
+      "summary": "【国債デジタル化の焦点】財務省がトークン化を検討、２５０兆円超のレポ市場はどう変わる &nbsp;&nbsp; https://kabu-ir.com/",
+      "tags": [
+        "その他"
+      ],
+      "signals": [],
+      "importance": 35,
+      "confidence": "低",
+      "why_matters": "地銀のお客様と、業務効率化・リスク管理・地域金融DXのどれかに接続して会話化できます。",
+      "talk": "記事の結論だけでなく、『御行ならどの業務に置き換えられるか』に変換すると会話が広がります。",
+      "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 15.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "https://kabu-ir.com/"
+      ]
+    },
+    {
+      "id": "8ec987ca501d89e2",
+      "category": "最新AI技術",
+      "title": "【AIエージェント時代】日本企業とエンジニアのこれから - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTnhxS1FGSHc2OEhDNmhiTzR3TjVHTWo5QmlDTnM2Q2RPUEhJOFZnbFR4MXVuSkpMbFNlUlBsY0k5MG9KTlJaSVV0RQ?oc=5",
+      "source": "ThinkIT",
+      "published": "2026-11-24 00:05",
+      "summary": "【AIエージェント時代】日本企業とエンジニアのこれから &nbsp;&nbsp; ThinkIT",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 28.8,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ThinkIT"
+      ]
+    },
+    {
+      "id": "49fe4872cd6df4ce",
+      "category": "メガバンク",
+      "title": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ2xpZlZQU0lOOVdzeVl2VHFEdVBwZnV5TUw5ak1SQjdFenEwbVF6eEZReENCQmVoQzNyRng4U1pYclR0Uld1RXQ1VQ?oc=5",
+      "source": "ThinkIT",
+      "published": "2026-11-23 22:11",
+      "summary": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 &nbsp;&nbsp; ThinkIT",
+      "tags": [
+        "メガバンク"
+      ],
+      "signals": [
+        "megabank"
+      ],
+      "importance": 49,
+      "confidence": "低",
+      "why_matters": "メガバンクの先行事例は、地銀で真似しやすい領域と難しい領域を分けて話せます。",
+      "talk": "『大手行だからできる』で終わらせず、地銀なら小さく始めるならどこか、という切り口が使えます。",
+      "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
+      "age_hours": 30.7,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "ThinkIT"
       ]
     }
   ]
