@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 05:52 JST",
+  "generated_at": "2026-11-24 14:05 JST",
   "version": "v3-ops-ready-search-dedupe-freshness",
   "policy": {
     "recent_days": 2,
@@ -8,15 +8,44 @@
   },
   "items": [
     {
-      "id": "bfabe41732672d3e",
+      "id": "468714b7a5c0573f",
       "category": "最新AI技術",
-      "title": "AIを「分析」から「実行」へ - Progressが描くDomo買収後の戦略 - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sMllVR0o1UXQ2ZmpLSlU2VUtsUjgwS1NrWGUyelk0Q2dRekptTmN0bjhTTlp3UWRkLTZPcmtMUWFXbXE3TG5ITEZ2clFfMXBGYURtY2U0cWV0dXREVVBqZEVkWFBGbzJX?oc=5",
-      "source": "マイナビニュース",
-      "published": "2026-11-23 09:00",
-      "summary": "AIを「分析」から「実行」へ - Progressが描くDomo買収後の戦略 &nbsp;&nbsp; マイナビニュース",
+      "title": "ソフトバンクとOpenAIの合弁会社がAIガバナンス「C認証」を取得 企業のAI活用に求められる4つの基準とは - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jYWJnckM1Vll5alRXeFBNLWJVaUtWUXoxT1VsZGZHQjZlOGhlU3MtYVd2UEkyeUpHekpnQmNzUW5qZjI0cTRBbzFvUHd5RTlFYmJkUGh3TW56bTlvZ1hQV29Rd0htRUFUdEdUQmN3?oc=5",
+      "source": "au Webポータル",
+      "published": "2026-11-24 13:48",
+      "summary": "ソフトバンクとOpenAIの合弁会社がAIガバナンス「C認証」を取得 企業のAI活用に求められる4つの基準とは &nbsp;&nbsp; au Webポータル",
       "tags": [
-        "最新AI技術"
+        "最新AI技術",
+        "ガバナンス"
+      ],
+      "signals": [
+        "governance"
+      ],
+      "importance": 47,
+      "confidence": "低",
+      "why_matters": "金融庁・日銀・ガバナンスの話題は、AIやDXの前提条件として役員層にも話しやすいテーマです。",
+      "talk": "便利さだけではなく、利用ルール・監査・説明責任まで含めて話すと信頼感が出ます。",
+      "question": "AIやデータ活用を進めるうえで、現場利用ルールと監査対応のどちらが先に課題になりそうですか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "規制・監督の話は、断定せずに元資料確認を前提にするのが安全です。",
+      "age_hours": 0.3,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "au Webポータル"
+      ]
+    },
+    {
+      "id": "55694a90776ac6e1",
+      "category": "その他",
+      "title": "【国債デジタル化の焦点】財務省がトークン化を検討、２５０兆円超のレポ市場はどう変わる - https://kabu-ir.com/",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UazFDelV2b1hSenZnSlh3UF81c1gySldWNmZYUHozbXR2UllaNVZmUFNoTHpOQkJDSU5hbFp3ZDJfRDBQb0ZFOHhfMFk4UC1YME53aw?oc=5",
+      "source": "https://kabu-ir.com/",
+      "published": "2026-11-24 13:08",
+      "summary": "【国債デジタル化の焦点】財務省がトークン化を検討、２５０兆円超のレポ市場はどう変わる &nbsp;&nbsp; https://kabu-ir.com/",
+      "tags": [
+        "その他"
       ],
       "signals": [],
       "importance": 35,
@@ -26,11 +55,71 @@
       "question": "御行では、このテーマを検討する場合、営業店・本部・システム部門のどこが最初の論点になりそうですか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 20.9,
+      "age_hours": 1.0,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
-        "マイナビニュース"
+        "https://kabu-ir.com/"
+      ]
+    },
+    {
+      "id": "36880e3b046eae34",
+      "category": "地銀",
+      "title": "【Visa】金融機関向け新サービス「VTIP」提供開始 - サイバー脅威の早期検知と不正リスクの低減を支援 - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XWTV0UmhDUjVSQjBodThqY0V5dF9HdmVRWkx1WkN0OVBVM2NaU0lhdkZWN01QeGpMWUkzYk9UZFllVjFZcUl0d0loS2d6OVdvQzZtUXctNEdHVkhweWZVVVNka3FsbTdQSHpDNnZB?oc=5",
+      "source": "au Webポータル",
+      "published": "2026-11-24 09:43",
+      "summary": "【Visa】金融機関向け新サービス「VTIP」提供開始 - サイバー脅威の早期検知と不正リスクの低減を支援 &nbsp;&nbsp; au Webポータル",
+      "tags": [
+        "地銀",
+        "サイバー",
+        "リスク管理"
+      ],
+      "signals": [
+        "cyber"
+      ],
+      "importance": 59,
+      "confidence": "低",
+      "why_matters": "サイバーは地銀自身のリスクだけでなく、地域企業からの相談テーマにもなりやすいです。",
+      "talk": "不正送金やフィッシング対策を、取引先支援・顧客保護・行員教育の話に広げられます。",
+      "question": "最近、取引先企業からセキュリティや不正送金に関する相談は増えていますか？",
+      "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
+      "risk_note": "不安を煽らず、体制整備・訓練・顧客周知の論点として話すのが安全です。",
+      "age_hours": 4.4,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "au Webポータル"
+      ]
+    },
+    {
+      "id": "43007925424abf3c",
+      "category": "最新AI技術",
+      "title": "マーケティングの質を「根本から変える」生成AI活用術 - Web担",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yaXRpN2FRYW1icGUzRGItMUJCZUgzZ1BsaTlvUzlfeWhBbEp3YTlRQXhuLUdQdEpoZkpOSmhpWUlmNExxUTRsVHoydkFKN3Y3TFJQNGlxaHVvS0U?oc=5",
+      "source": "Web担",
+      "published": "2026-11-23 13:05",
+      "summary": "マーケティングの質を「根本から変える」生成AI活用術 &nbsp;&nbsp; Web担",
+      "tags": [
+        "最新AI技術",
+        "生成AI",
+        "AI活用"
+      ],
+      "signals": [
+        "generative_ai"
+      ],
+      "importance": 53,
+      "confidence": "低",
+      "why_matters": "生成AIは、行内文書検索・稟議ドラフト・本部照会・営業資料作成など、地銀の人手不足対策に直結しやすいテーマです。",
+      "talk": "生成AIを『全社導入』ではなく、まず低リスクな行内業務から試す話にすると現実感が出ます。",
+      "question": "生成AIを試すなら、営業店事務・本部照会・法人営業支援のどこが最初に効果が出そうですか？",
+      "nttdata_angle": "生成AIを金融機関で安全に使うためのガバナンス、業務設計、システム連携の支援文脈に接続できます。",
+      "risk_note": "個人情報、機密情報、回答根拠、ログ管理、利用ルールの整備が論点です。",
+      "age_hours": 25.0,
+      "is_recent": true,
+      "duplicate_count": 1,
+      "related_sources": [
+        "Web担"
       ]
     },
     {
@@ -54,7 +143,7 @@
       "question": "メガバンクの取り組みを見て、御行でまず横展開しやすい業務はどこだと思われますか？",
       "nttdata_angle": "NTTデータ文脈では、既存システムの安定運用を守りながら、AI・データ活用・業務効率化を段階導入する話に接続できます。",
       "risk_note": "事実確認は元記事を確認し、導入可否ではなく論点整理として話すのが安全です。",
-      "age_hours": 38.5,
+      "age_hours": 46.7,
       "is_recent": true,
       "duplicate_count": 1,
       "related_sources": [
